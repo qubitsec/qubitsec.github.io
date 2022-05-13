@@ -31,12 +31,11 @@ entries:
 
       subfolders:
       - title: SIEM
-        url: /mydoc_introduction.html
         output: web
         subfolderitems:
 
         - title: PLURA V5 Agent Windows Srv
-          url: /mydoc_introduction.html
+          url: /mydoc_P_Agent_Win_Srv.html
           output: web
 
 
