@@ -9,7 +9,7 @@ permalink: /index.html
 
 <style>
 body {
-  background-image: url('/Images/bak.png');
+  background-image: /Images/bak.png;
   background-repeat: no-repeat;
   height: 100px;
   background-position: center;
