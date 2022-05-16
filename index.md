@@ -8,14 +8,10 @@ permalink: /index.html
 
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  background-image: url("/Images/bak.png");
-  background-repeat: no-repeat;
-  height: 100px;
-  background-position: center;
-  background-size: cover;
-  position: relative;
+  margin: 0;
 }
 
 .hero-image {
@@ -53,18 +49,15 @@ body {
      <h1 style="font-size:30px">하나는 이미 해킹 당했다고 아는 기업이고,</h1>
       <h1 style="font-size:29px">다른 하나는 해킹 당한 줄도 모르는 기업이다."</h1>
       <h1 style="font-size:12px">- James Corney, FBI Former Director -</h1>
-
- 
 <!--     
     <a href="https://www.plura.io/" class="button">GET PLURA V5 NOW!</a> -->
-    
-
+  
     <button onclick="document.location='https://www.plura.io/'" class="button">GET PLURA V5 NOW! ></button>
   </div>
 </div>
 
 </body>
-
+</html>
 <span style="color:white">Welcome to PLURA V5 BLOG!</span>
 
 <!-- 
