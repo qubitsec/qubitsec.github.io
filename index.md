@@ -9,12 +9,12 @@ permalink: /index.html
 
 <style>
 body {
-  background-image: /Images/bak.png;
+  background-image: url("/Images/bak.png");
   background-repeat: no-repeat;
   height: 100px;
   background-position: center;
   background-size: cover;
-  position: relative
+  position: relative;
 }
 
 .hero-text {
