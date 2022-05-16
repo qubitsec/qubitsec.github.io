@@ -18,6 +18,15 @@ body {
   position: relative;
 }
 
+.hero-image {
+  background-image: url("/Images/bak.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
 .hero-text {
   text-align: center;
   position: absolute;
