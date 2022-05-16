@@ -7,7 +7,7 @@ permalink: /index.html
 ---
 
 <html>
-</head>
+<head>
 <style>
 body {
   background-image: url("/Images/bak.png");
