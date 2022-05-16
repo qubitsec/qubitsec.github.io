@@ -6,7 +6,8 @@ sidebar: mydoc_sidebar
 permalink: /index.html
 ---
 
-
+<html>
+</head>
 <style>
 body {
   background-image: url("/Images/bak.png");
@@ -34,7 +35,7 @@ body {
 }
 
 </style>
-
+</head>
 <body>
 
 <div class="hero-image">
@@ -52,6 +53,8 @@ body {
     <button onclick="document.location='https://www.plura.io/'" class="button">GET PLURA V5 NOW! ></button>
   </div>
 </div>
+
+</body>
 
 <span style="color:white">Welcome to PLURA V5 BLOG!</span>
 
