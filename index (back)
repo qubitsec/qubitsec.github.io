@@ -1,61 +1,13 @@
----
-title: " "
+<!-- ---
+title: "PLURA V5"
 keywords: sample homepage
-# tags: [getting_started]
+tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: /index.html
+summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
 
-<style>
-body {
-  background-image: url('/Images/bak.png');
-  background-repeat: no-repeat;
-  height: 100px;
-  background-position: center;
-  background-size: cover;
-  position: relative
-}
-
-.hero-text {
-  text-align: center;
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-.button {
-  background-color:#3E74C7;
-  border-color:#3E74C7;
-  color:white;
-  font-size:15px; padding:15px 15px
-}
-
-</style>
-
-<body>
-
-<div class="hero-image">
-  <div class="hero-text">
-    <h1 style="font-size:30px">"세상에는 두 종류의 기업이 있다.</h1> 
-     <h1 style="font-size:30px">하나는 이미 해킹 당했다고 아는 기업이고,</h1>
-      <h1 style="font-size:29px">다른 하나는 해킹 당한 줄도 모르는 기업이다."</h1>
-      <h1 style="font-size:12px">- James Corney, FBI Former Director -</h1>
-
- 
-<!--     
-    <a href="https://www.plura.io/" class="button">GET PLURA V5 NOW!</a> -->
-    
-
-    <button onclick="document.location='https://www.plura.io/'" class="button">GET PLURA V5 NOW! ></button>
-  </div>
-</div>
-
-<span style="color:white">Welcome to PLURA V5 BLOG!</span>
-
-<!-- 
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
 
