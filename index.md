@@ -17,7 +17,7 @@ asdfasdfasdf
 
 
   body {
-    background: url("C:\Users\plura\Desktop\qubitsec.github.io\images\bak.png");
+    background: url("/images/bak.png");
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -47,7 +47,7 @@ asdfasdfasdf
 </head>
 <body>
 
-<div class="hero-image">
+<div class="background">
   <div class="hero-text">
     <h1 style="font-size:30px">"세상에는 두 종류의 기업이 있다.</h1> 
      <h1 style="font-size:30px">하나는 이미 해킹 당했다고 아는 기업이고,</h1>
