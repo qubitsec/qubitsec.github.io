@@ -15,7 +15,7 @@ permalink: /index.html
 
 
   body {
-  background-image: url("/Images/bak.png");
+  background: url("/Images/bak.png");
   background-color: #cccccc;
   background-repeat: no-repeat;
   height: 1000px;
