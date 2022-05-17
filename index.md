@@ -15,14 +15,15 @@ permalink: /index.html
 
 
   body {
-  background: url("/Images/bak.png");
+  background:url('/Images/bak.png') no-repeat;
+  /* background: url("/Images/bak.png");
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
   width: 0px;
   height: 0px;
-  position: relative;
+  position: relative; */
 }
 
 .hero-text {
