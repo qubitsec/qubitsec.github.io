@@ -7,15 +7,19 @@ permalink: /index.html
 ---
 
 <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
+  <style>
 
-body {
-  margin: 0;
+
+
+  body {
   background-image: url("/Images/bak.png");
+  background-color: #cccccc;
   background-repeat: no-repeat;
-  height: 100px;
-  background-position: center;
+  height: 10px;
+  background-position: top;
   background-size: cover;
   position: relative;
 }
@@ -26,7 +30,7 @@ body {
   top: 100%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: white;
 }
 
 .button {
@@ -37,10 +41,10 @@ body {
 }
 
 </style>
-
+</head>
 <body>
 
-<div class="body">
+<div class="hero-image">
   <div class="hero-text">
     <h1 style="font-size:30px">"세상에는 두 종류의 기업이 있다.</h1> 
      <h1 style="font-size:30px">하나는 이미 해킹 당했다고 아는 기업이고,</h1>
@@ -57,7 +61,7 @@ body {
 </div>
 
 </body>
-
+</html>
 <span style="color:white">Welcome to PLURA V5 BLOG!</span>
 
 <!-- 
