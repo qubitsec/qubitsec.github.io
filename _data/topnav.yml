@@ -12,15 +12,15 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: LANG
       folderitems:
-        - title: Jekyll Talk
+        - title: KOR
           external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
+        - title: ENG
           external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
+        - title: JP
           external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
+        - title: CHA
           external_url: http://idratherbewriting.com/category-jekyll/
     - title: Products
       folderitems:

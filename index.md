@@ -7,7 +7,9 @@ permalink: /index.html
 ---
 
 
-asdfasdfasdf
+
+
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,11 +55,6 @@ asdfasdfasdf
      <h1 style="font-size:30px">하나는 이미 해킹 당했다고 아는 기업이고,</h1>
       <h1 style="font-size:29px">다른 하나는 해킹 당한 줄도 모르는 기업이다."</h1>
       <h1 style="font-size:12px">- James Corney, FBI Former Director -</h1>
-
- 
-<!--     
-    <a href="https://www.plura.io/" class="button">GET PLURA V5 NOW!</a> -->
-    
 
     <button onclick="document.location='https://www.plura.io/'" class="button">GET PLURA V5 NOW! ></button>
   </div>
@@ -473,6 +470,6 @@ If you want to use an automated system for managing links, see [Automated Links]
 
 ## Other instructions
 
-The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
+The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar. 
 
 {% include links.html %} -->

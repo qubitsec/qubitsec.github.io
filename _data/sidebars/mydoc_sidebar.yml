@@ -26,7 +26,7 @@ entries:
     folderitems:
 
     - title: Forensic
-      url: /test/mydoc_Forensic.html
+      url: pages\mydoc\test\mydoc_Forensic.html
       output: web
 
       subfolders:

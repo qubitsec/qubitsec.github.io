@@ -1,7 +1,7 @@
 ---
 title: PLURA V5 Log-F Agent Srv 
 sidebar: mydoc_sidebar
-permalink: /test/mydoc_Forensic.html
+permalink: /pages/mydoc/test/mydoc_Forensic.html
 folder: mydoc
 ---
 
