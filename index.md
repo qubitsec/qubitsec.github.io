@@ -20,8 +20,8 @@ permalink: /index.html
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
-  width: 1000px;
-  height: 1000px;
+  width: 0px;
+  height: 0px;
   position: relative;
 }
 
