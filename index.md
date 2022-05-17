@@ -18,9 +18,10 @@ permalink: /index.html
   background: url("/Images/bak.png");
   background-color: #cccccc;
   background-repeat: no-repeat;
-  height: 1000px;
-  background-position: top;
+  background-position: bottom;
   background-size: cover;
+  width: 1000px;
+  height: 1000px;
   position: relative;
 }
 
