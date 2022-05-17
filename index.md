@@ -15,15 +15,14 @@ permalink: /index.html
 
 
   body {
-  background-image:url('/images/bak.png') no-repeat;
-  /* background: url("/Images/bak.png");
-  background-color: #cccccc;
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: cover;
-  width: 0px;
-  height: 0px;
-  position: relative; */
+    background: url("C:\Users\plura\Desktop\qubitsec.github.io\images\bak.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    width: 0px;
+    height: 0px;
+    position: relative;
 }
 
 .hero-text {
