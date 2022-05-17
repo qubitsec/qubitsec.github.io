@@ -20,9 +20,9 @@ asdfasdfasdf
     background: url("/images/bak.png");
     background-color: #cccccc;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
     background-size: cover;
-    width: 0px;
+    /* width: 0px; */
     height: 0px;
     position: relative;
 }
