@@ -1,7 +1,7 @@
 ---
 title: PLURA V5 Log-F Agent Srv 
 sidebar: mydoc_sidebar
-permalink: mydoc_Forensic.html
+permalink: 에이전트_리눅스-copy.html
 folder: mydoc
 ---
 
