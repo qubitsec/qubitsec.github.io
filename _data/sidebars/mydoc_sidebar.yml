@@ -38,6 +38,10 @@ entries:
           url: /mydoc_P_Agent_Win_Srv.html
           output: web
 
+        - title: TT
+          url: mydoc_P_Agent_Win_Srv copy.html
+          output: web
+
 
 
 
