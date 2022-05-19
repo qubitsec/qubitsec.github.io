@@ -1,7 +1,7 @@
 ---
 title: PLURA V5 Log-F Agent Srv 
 sidebar: mydoc_sidebar
-permalink: mydoc_Forensic.html
+permalink: Forensic.html
 folder: mydoc
 ---
 
@@ -35,11 +35,11 @@ __1. 설치를 시작합니다.__
 
 Administrator 계정으로 설치해야 합니다.
 
-![image](/images/install_1.png){:class="align-center"}
+![image](/Images/install_1.png){:class="align-center"}
 
 설치 경로를 선택할 수 있습니다.
 
-![image](/images/install_2.png){:class="align-center"}
+![image](/images/Install_2.png){:class="align-center"}
 
 __2. 로그인 하기__
 

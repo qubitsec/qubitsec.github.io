@@ -6,7 +6,6 @@ entries:
   version:
   folders:
 
-
   - title:
     output: pdf
     type: frontmatter
@@ -20,13 +19,12 @@ entries:
       output: pdf
       type: frontmatter
 
-
   - title: Install Guide
     output: web
     folderitems:
 
     - title: Forensic
-      url: /mydoc_Forensic.html
+      url: /Forensic.html
       output: web
 
       subfolders:
