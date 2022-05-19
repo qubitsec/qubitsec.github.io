@@ -15,13 +15,13 @@ topnav_dropdowns:
     - title: LANG
       folderitems:
         - title: KOR
-          external_url: https://talk.jekyllrb.com
+          external_url: https://qubitsec.github.io/ko/index.html
         - title: ENG
-          external_url: http://jekyllrb.com/docs/home/
+          external_url: https://qubitsec.github.io/en/iex.html
         - title: JP
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
+          external_url: https://qubitsec.github.io/index.html
         - title: CHA
-          external_url: http://idratherbewriting.com/category-jekyll/
+          external_url: https://qubitsec.github.io/index.html
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
