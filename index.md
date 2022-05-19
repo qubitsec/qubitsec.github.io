@@ -24,7 +24,6 @@ permalink: /index.html
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    /* width: 0px; */
     height: 0px;
     position: relative;
 }
