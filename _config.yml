@@ -2,7 +2,7 @@ title: Nested Jekyll Menus
 description: Demo of how to auto-generate Jekyll menus dynamically based on project structure
 
 url: "https://michaelcurrin.github.io"
-# baseurl: "/nested-jekyll-menus"
+# baseurl: "/nested-jekyll-menus" -> 주석 취소 X
 
 exclude:
   - docs/
