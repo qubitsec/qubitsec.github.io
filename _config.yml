@@ -10,7 +10,7 @@ github_username: MichaelCurrin
 ### Build settings ###
 
 url: https://michaelcurrin.github.io
-# baseurl: /fractal
+baseurl: /fractal
 
 # Required on GH Pages to enable plugins.
 plugins:
