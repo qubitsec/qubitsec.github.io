@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/cli-demo.html</loc>
+<loc>http://localhost:4000/fractal/cli-demo.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/flexbox.html</loc>
+<loc>http://localhost:4000/fractal/flexbox.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/demo/</loc>
+<loc>http://localhost:4000/fractal/demo/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/fractal/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/demo/python/</loc>
+<loc>http://localhost:4000/fractal/demo/python/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/logos.html</loc>
+<loc>http://localhost:4000/fractal/logos.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/demo/python/pypi.html</loc>
+<loc>http://localhost:4000/fractal/demo/python/pypi.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/table-demo.html</loc>
+<loc>http://localhost:4000/fractal/table-demo.html</loc>
 </url>
 </urlset>
