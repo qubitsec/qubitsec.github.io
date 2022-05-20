@@ -1,60 +1,23 @@
+{%- comment -%} Based on Minima {%- endcomment -%}
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <header>
-        <strong>PLRUA v5</strong>
-        <nav>
-            <ul>
-                <li><a href="/index.md">Home</a></li>
-                <li><a href="install.html">Install Guide</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <title>{{ page.title }} - {{ site.title }}</title>
-
-    <style>
-        body {
-            margin: 30px;
-            font-family: Verdana, Geneva, sans-serif;
-        }
-
-        h1 > a {
-            color: black;
-            text-decoration: none;
-        }
-
-        footer {
-            position: absolute;
-            bottom: 0;
-        }
-    </style>
-</head>
+{%- include head.html -%}
 
 <body>
-    <p>{{ site.title | upcase }}</p>
+    {%- include header.html -%}
 
-    <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {% include github-edit.html %}
+            {% include github-add.html %}
 
-    {% include breadcrumbs.html %}
+            {{ content }}
+        </div>
+    </main>
 
-    <hr>
-
-
-
-    {{ content }}
-
-    <footer>
-
-        {{ 'Github repo: [MichaelCurrin/nested-jekyll-menus ![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/nested-jekyll-menus?style=social)](https://github.com/MichaelCurrin/nested-jekyll-menus)' | markdownify }}
-
-    </footer>
-
+    {%- include footer.html -%}
+    {% include github-corner.html %}
 </body>
 
 </html>

@@ -1,0 +1,78 @@
+/**
+ * Shift menu on mobile to allow for GitHub corner.
+ */
+@media screen and (max-width: 900px) {
+  .site-nav {
+    position: absolute;
+    right: 90px;
+  }
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+/* Details and summary blocks. Copied from GH Pages without Jekyll. The cursor pointer is the most useful here. */
+[hidden][hidden] {
+  display: none !important;
+}
+details summary {
+  cursor: pointer;
+}
+details:not([open]) > *:not(summary) {
+  display: none !important;
+}
+summary {
+  display: list-item;
+}
+
+/*
+  Not too big otherwise the size of the blocks distort, unless text is also made bigger.
+*/
+.logo-small {
+  width: 20px;
+  height: 20px;
+
+  display: inline-block;
+}
+
+.logo-medium {
+  width: 30px;
+  height: 30px;
+
+  display: inline-block;
+}
+
+// For section menu and also any other use of a flexbox grid of buttons.
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 1em;
+
+  & div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+
+    box-shadow: 1px 2px 4px gray;
+  }
+}
+
+.page-list {
+  font-size: 18px;
+
+  & i {
+    font-size: 14px;
+    // Based on blockquote.
+    color: #828282;
+  }
+}
+
+#github-edit {
+  float: right;
+}
+#github-add {
+  float: right;
+
+  padding-right: 10px;
+}

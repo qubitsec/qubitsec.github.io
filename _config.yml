@@ -1,21 +1,59 @@
-title: Nested Jekyll Menus
-description: Demo of how to auto-generate Jekyll menus dynamically based on project structure
+### Site metadata ###
 
-url: "https://michaelcurrin.github.io"
-# baseurl: "/nested-jekyll-menus" -> 주석 취소 X
+title: Fractal
+description: A Jekyll theme based on Minima, with support for coding icons and an infinite number of nested directory levels
 
-exclude:
-  - docs/
-  - LICENSE
-  - README.md
-  - Makefile
+author: Michael Currin
+email:
+github_username: MichaelCurrin
+
+### Build settings ###
+
+url: https://michaelcurrin.github.io
+baseurl: /fractal
+
+# Required on GH Pages to enable plugins.
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Some values below borrowed from minima theme.
+
+show_excerpts: false
+
+fractal:
+  date_format: "%b %-d, %Y"
+
+titles_from_headings:
+  strip_title: true
+
+header_pages:
+  - index.md
+  - demo/index.md
+  - logos.md
+  - flexbox.md
+  - table-demo.md
+  - cli-demo.md
 
 defaults:
   - scope:
-      path: "**/index.md"
-    values:
-      layout: "listing"
-  - scope:
       path: ""
     values:
-      layout: "page"
+      layout: page
+
+exclude:
+  - bin/
+  - docs/
+  - hooks/
+  - simple-icons/
+  - vendor/
+  - Gemfile
+  - LICENSE
+  - Makefile
+  - fractal.gemspec
+  - "*.gem"
+  - README.md
+
+# This is only needed in the theme itself so that it builds with Jekyll 3 (see
+# head.html), but without actually using the Remote Theme plugin.
+remote_theme: ""
