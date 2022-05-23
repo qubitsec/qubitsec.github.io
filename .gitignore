@@ -1,11 +1,7 @@
-.sass-cache/
-
-.bundle/
-vendor/
-
 _site/
-
-*.gem
-Gemfile.lock
-
-simple-icons/
+.sass-cache/
+.jekyll-metadata
+.idea
+_algolia_api_key
+outputs/
+s3_website.yml

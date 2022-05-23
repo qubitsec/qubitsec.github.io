@@ -1,59 +1,105 @@
-### Site metadata ###
+language: english
 
-title: Fractal
-description: A Jekyll theme based on Minima, with support for coding icons and an infinite number of nested directory levels
+# Link to home
+url: /
 
-author: Michael Currin
-email:
-github_username: MichaelCurrin
+# link to github repo
+#github_editme_path: https://github.com/tomjohnson1492/documentation-theme-jekyll-next-version/blob/gh-pages/
 
-### Build settings ###
+image_path: docs/images/
+port: 4000
+highlighter: rouge
 
-url: https://michaelcurrin.github.io
-baseurl: /fractal
+highlighting_css: monokai
+# options: "monokai" (black), "syntax" (white)
+navbar_style: lighttheme-bluegray
+# navbar_logo: docs/images/samplelogo.png
 
-# Required on GH Pages to enable plugins.
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+image_path: /docs/images/
 
-# Some values below borrowed from minima theme.
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
 
-show_excerpts: false
-
-fractal:
-  date_format: "%b %-d, %Y"
-
-titles_from_headings:
-  strip_title: true
-
-header_pages:
-  - index.md
-  - demo/index.md
-  - logos.md
-  - flexbox.md
-  - table-demo.md
-  - cli-demo.md
+collections:
+  docs:
+    output: true
+  tags:
+    output: true
 
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
+      type: pages
     values:
-      layout: page
+      layout: default
+      topnav: topnav
+      tag_group: taglist
+  -
+    scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+      topnav: topnav
+      tag_group: taglist
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: default
+      topnav: topnav
+      sidebar: taglist
+      toc: false
+      github_button: false
+      search: false
+
+algolia:
+    application_id: 'HXUBJERYYB'
+    index_name:     'documentation-theme-jekyll'
+    record_css_selector: 'p,ul'
+    settings:
+    attributesToIndex:
+      - title
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+      - unordered(text)
+      - unordered(tags)
+      - summary
 
 exclude:
-  - bin/
-  - docs/
-  - hooks/
-  - simple-icons/
-  - vendor/
   - Gemfile
-  - LICENSE
-  - Makefile
-  - fractal.gemspec
-  - "*.gem"
-  - README.md
+  - Gemfile.lock
+  - index_de.md
+  - index_ja.md
 
-# This is only needed in the theme itself so that it builds with Jekyll 3 (see
-# head.html), but without actually using the Remote Theme plugin.
-remote_theme: ""
+gems:
+  - algoliasearch-jekyll
+
+########## UI text ###############
+
+
+uistring:
+    title: Jekyll Documentation theme # Displays as site title on top nav bar and on site metadata
+    description: Documentation theme for Jekyll websites  # Displays as site description meta
+    search_placeholder_global: Global Search ...
+    search_placeholder_product: Product Search ...
+    minitoc_title: Table of Contents
+    tags_title: Tags
+    github_edit_button_text: Edit me
+    search_results_page_title: Search results
+    search_no_results_found: No results found.
+    tag_terms:
+      product: Product
+      page: Page
+      excerpt: Excerpt
+      tag_page_intro: The following pages are tagged with

@@ -1,23 +1,190 @@
-{%- comment -%} Based on Minima {%- endcomment -%}
+---
+---
 <!DOCTYPE html>
-<html lang="en">
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{page.title}} | {{site.uistring.title}}</title>
+    <base target="_self">
+    <meta name="description" content="{% if page.content %}{{ page.content | truncatewords: 30 | strip_html }} {% else %}{{site.uistring.description}}{% endif %}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" value="notranslate">
+    <link rel="icon"  type="image/x-icon" href="favicon.ico">
 
-{%- include head.html -%}
 
-<body>
-    {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-            {% include github-edit.html %}
-            {% include github-add.html %}
+    <!--stylesheets / link tags loaded here-->
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/sidebar.css" />
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/{{site.highlighting_css}}.css" />
+    <link rel="stylesheet" href="assets/css/{{site.navbar_style}}.css" />
+    <link rel="stylesheet" href="assets/css/customstyles.css" />
 
-            {{ content }}
-        </div>
-    </main>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/navgoco.jquery.min.js"></script>
 
-    {%- include footer.html -%}
-    {% include github-corner.html %}
+</head>
+<body data-spy="scroll" data-target="nav#toc" data-offset="20">
+<div class="page-container">
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container topnavlinks">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle topnav</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <button type="button" class="navbar-toggle toggle-sidebar-button"  data-toggle="offcanvas" data-target=".sidebar-nav">
+                    <span class="sr-only">Toggle sidebar</span>
+                    <span class="sidebarToggle fa fa-columns fa-2x"></span>
+                </button>
+                    {% if site.navbar_logo %}
+                    <a class="navbar-brand" href="index.html">
+                    <img class="navbar-logo" src="{{site.navbar_logo}}"/>
+                    {% else %}
+                    <a class="fa fa-home fa-lg navbar-brand" href="index.html">
+                    &nbsp;<span class="projectTitle"> {{site.uistring.title}}</span>
+                    {% endif %}
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left">
+                    <!-- entries without drop-downs appear here -->
+                    {% assign topnav = site.data[page.topnav] %}
+                    {% for entry in topnav.navbar_singleitems %}
+                    {% for item in entry.items %}
+                    {% if item.url contains "http://" or item.url contains "https://" %}
+                    <li><a href="{{item.url}}" class="noCrossRef">{{item.title}}</a></li>
+                    {% elsif page.url contains item.url %}
+                    <li class="active"><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+                    {% else %}
+                    <li><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% endfor %}
+                    <!-- entries with drop-downs appear here -->
+
+                    {% for entry in topnav.navbar_dropdowns %}
+                    {% for folder in entry.folders %}
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ folder.title }}<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            {% for folderitem in folder.folderitems %}
+                            {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
+                            <li><a href="{{folderitem.url}}" class="noCrossRef">{{folderitem.title}}</a></li>
+                            {% elsif page.url contains folderitem.url %}
+                            <li class="dropdownActive"><a href="{{folderitem.url |  remove: "/"}}">{{folderitem.title}}</a></li>
+                            {% else %}
+                            <li><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% endfor %}
+                    {% endfor %}
+</ul>
+<ul class="nav navbar-nav navbar-right">
+
+                    <li>
+                        <!--start search-->
+                        <div id="search-demo-container">
+                 <form action="search.html" method="get">
+                <input type="text" id="search-input" placeholder="{{site.uistring.search_placeholder_global}}" name="query">
+                </form>
+                </div>
+                        <!--end search-->
+                    </li>
+                </ul>
+            </div>
+            </div>
+            <!-- /.container -->
+    </nav>
+    <div class="container">
+        <div class="row row-offcanvas row-offcanvas-left">
+
+            <!-- sidebar -->
+            <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+                <!--<ul class="nav">-->
+                    <!--<li class="active"><a href="#">Home</a></li>-->
+                    <!--<li><a href="#">Link 1</a></li>-->
+                    <!--<li><a href="#">Link 2</a></li>-->
+                    <!--<li><a href="#">Link 3</a></li>-->
+                <!--</ul>-->
+                {% include sidebar.html %}
+            </div>
+
+            <!-- main area -->
+            <div class="col-xs-12 col-sm-7">
+                {% if page.type == "search" %}
+                <h1>{{page.product}} {{site.uistring.search_results_page_title}}</h2>
+                  {% else %}
+                <h1>{{page.title}}</h1>
+                 {% endif %}
+                 <div class="toc-main-column">
+                 {% include toc2.html %}
+               </div>
+                {{content}}
+                <div class="toc-main-column">
+                {% include tags.html %}
+              </div>
+                {% unless page.github_button == false %} {% include github_button.html %}{% endunless %}
+
+
+            </div><!-- /.col-xs-12 main -->
+
+            <div class="col-xs-12 col-sm-2 right-lane">
+              {% include toc.html %}
+              {% include tags.html %}
+        </div><!--/.row-->
+    </div><!--/.container-->
+</div><!--/.page-container-->
+
+
+
+<!--scripts loaded here-->
+
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/toc.js"></script>
+<script src="assets/js/anchor.min.js"></script>
+<script>
+    $( document ).ready(function() {
+        $("#docnavsidebar").navgoco({
+            caretHtml: '',
+            accordion: true,
+            openClass: 'open', // open
+            save: false, // leave false or nav highlighting doesn't work right
+            cookie: {
+                name: 'navgoco',
+                expires: false,
+                path: '/'
+            },
+            slide: {
+                duration: 300,
+                easing: 'swing'
+            }
+        });
+
+    });
+
+</script>
+<script src="assets/js/customscripts.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $('[data-toggle=offcanvas]').click(function() {
+            $('.row-offcanvas').toggleClass('active');
+        });
+    });
+</script>
+
 </body>
-
+{% if site.google_analytics %}
+{% include google_analytics.html %}
+{% endif %}
 </html>

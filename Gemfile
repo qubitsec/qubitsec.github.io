@@ -1,8 +1,7 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-gemspec
+group :jekyll_plugins do
+  gem 'algoliasearch-jekyll', '~> 0.8.0'
+end
 
-gem "jekyll", "~> 3.9"
-gem "kramdown-parser-gfm", "~> 1.1.0"
-gem "webrick", "~> 1.7"
+gem 'github-pages'
