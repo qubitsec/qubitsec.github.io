@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+permalink: /index.html
 ---
 
 > {{ site.description }}
