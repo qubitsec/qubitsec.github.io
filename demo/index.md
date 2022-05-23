@@ -1,3 +1,3 @@
 ---
-title: Install Guide
+title: Demo group
 ---

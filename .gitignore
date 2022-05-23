@@ -1,8 +1,8 @@
+.sass-cache/
 
 .bundle/
 vendor/
 
-.sass-cache/
 _site/
 
 *.gem

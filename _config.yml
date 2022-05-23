@@ -1,6 +1,6 @@
 ### Site metadata ###
 
-title: PLURA
+title: Fractal
 description: A Jekyll theme based on Minima, with support for coding icons and an infinite number of nested directory levels
 
 author: Michael Currin
@@ -10,7 +10,7 @@ github_username: MichaelCurrin
 ### Build settings ###
 
 url: https://michaelcurrin.github.io
-# baseurl: /fractal
+baseurl: /fractal
 
 # Required on GH Pages to enable plugins.
 plugins:

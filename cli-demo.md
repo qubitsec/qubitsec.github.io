@@ -1,5 +1,5 @@
 ---
-title: Video
+title: CLI demo
 
 cli:
   usage: |

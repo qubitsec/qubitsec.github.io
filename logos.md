@@ -1,5 +1,5 @@
 ---
-title: Manual
+title: Logos
 ---
 
 
