@@ -1,7 +1,9 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'algoliasearch-jekyll', '~> 0.8.0'
-end
+# to publish on github page
+gem 'github-pages', group: :jekyll_plugins
 
-gem 'github-pages'
+# to publich without github page
+#gem "jekyll"
+
+gem "webrick", "~> 1.7"
