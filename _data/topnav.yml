@@ -2,8 +2,8 @@
 ## if you want to list an external url, use url instead of url. the theme will apply a different link base.
 navbar_singleitems:
 - items:
-    - title: Github Repo
-      url: https://github.com/tomjohnson1492/documentation-theme-jekyll-next-version
+    - title: Home
+      url: https://qubitsec.github.io/index.html
 
 #Topnav dropdowns
 navbar_dropdowns:

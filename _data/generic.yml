@@ -32,8 +32,19 @@ folders:
   - title: Common
     url: /sublevel1.html
 
-  - title: SIEM
-    url: /sublevel2.html
+    subfolders:
+    - title: SIEM
+      subfolderitems:
+
+      - title: 대시보드
+        url: /sublevel2.html
+
+        subsubfolders:
+        - title: 시스템
+          subsubfolderitems:
+
+            - title: 시스템 관리
+              url: /sublevel3.html
 
   - title: Forensic
     url: /sublevel3.html
