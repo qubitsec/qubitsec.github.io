@@ -82,7 +82,7 @@ exclude:
   - index_de.md
   - index_ja.md
 
-gems:
+plugins:
   - algoliasearch-jekyll
 
 ########## UI text ###############

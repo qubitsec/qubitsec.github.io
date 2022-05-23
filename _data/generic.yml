@@ -1,48 +1,106 @@
-sidebarTitle: Generic sidebar
+sidebarTitle: Menu
 owner: tomjohnson1492
 
 ## Keep this commented out content because it shows the YAML model for the sidebar.
 
 folders:
-- title: Theme documentation
+- title: install Guide
   folderitems:
-  - title: Home
-    url: /index.html
 
-  - title: Sample 1 really long title that will wrap
-    url: /sample1.html
-
-  - title: Sample 2 really long title that will wrap even longer
-    url: /sample2.html
-
-  - title: Sample 3
-    url: /sample3.html
+  - title: Frensic
+    url: /Forensic.html
 
     subfolders:
-    - title: Second level deep
+    - title: SIEM
       subfolderitems:
 
-      - title: Sublevel 1
-        url: /sublevel1.html
+      - title: PLURA V5 Agent Windows Srv
+        url: /P_Agent_Win_Srv.html
+      
+  - title: 
+    url: 
 
-      - title: Sublevel 2
-        url: /sublevel2.html
+  # - title: Sample 2 really long title that will wrap even longer
+  #   url: /sample2.html
 
-      - title: Sublevel 3
-        url: /sublevel3.html
+  # - title: Sample 3
+  #   url: /sample3.html
 
-        subsubfolders:
-        - title: Third level deep
-          subsubfolderitems:
+- title: Manual
+  folderitems:
 
-          - title: Sub-sublevel 1
-            url: /subsublevel1.html
+  - title: Common
+    url: /sublevel1.html
 
-          - title: Sub-sublevel 2
-            url: /subsublevel2.html
+  - title: SIEM
+    url: /sublevel2.html
 
-          - title: Sub-sublevel 3
-            url: /subsublevel3.html
+  - title: Forensic
+    url: /sublevel3.html
+
+  - title: WAF
+    url: /sublevel3.html
+
+- title: Qubit Insight
+  folderitems:
+
+  - title: Additional Manual
+    url: /sublevel1.html
+
+  - title: Public Cloud Service Provider
+    url: /sublevel2.html
+
+  - title: Card News
+    url: /sublevel3.html
+
+  - title: Column
+    url: /sublevel3.html
+
+  - title: Case Study
+    url: /sublevel2.html
+
+  - title: Newsletter
+    url: /sublevel3.html
+
+  - title: Tech
+    url: /sublevel3.html
+
+- title: Video
+  folderitems:
+
+  - title: 회사소개
+    url: /sublevel1.html
+
+  - title: 제품소개
+    url: /sublevel2.html
+
+  - title: 기능소개
+    url: /sublevel3.html
+
+  - title: 에이전트 설치
+    url: /sublevel3.html
+
+  - title: 해킹탐지 시연
+    url: /sublevel2.html
+
+  - title: 방송/발표
+    url: /sublevel3.html
+
+  - title: 고객 사례
+    url: /sublevel3.html
+
+    subsubfolders:
+      - title: Third level deep
+        subsubfolderitems:
+
+        - title: Sub-sublevel 1
+          url: /subsublevel1.html
+
+        - title: Sub-sublevel 2
+          url: /subsublevel2.html
+
+        - title: Sub-sublevel 3
+          url: /subsublevel3.html
 
 - title: Another folder level
   folderitems:
