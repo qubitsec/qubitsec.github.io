@@ -1,0 +1,16 @@
+sidebarTitle: Menu
+
+folders:
+- title: Menu
+  folderitems:
+
+  - title: Sysmon (Windows Sysinternals)
+    url: /Forensic.html
+
+    subfolders:
+    - title: PLURA V5 Syslog Collector Srv
+      subfolderitems:
+
+      - title: Log Collector > System
+        url: /P_Agent_Win_Srv.html
+      
