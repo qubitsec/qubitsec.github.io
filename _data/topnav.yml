@@ -9,7 +9,7 @@ navbar_singleitems:
 navbar_dropdowns:
 - folders:
 
-    - title: install guide
+    - title: Install Guide
       folderitems:
         - title: Forensic
           url: /mydoc_introduction.html

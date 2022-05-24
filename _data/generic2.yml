@@ -1,16 +1,103 @@
 sidebarTitle: Menu
 
 folders:
-- title: Menu
+- title: PLURA V5 Agent Windows Srv
   folderitems:
 
-  - title: Sysmon (Windows Sysinternals)
+  - title: PLURA V5 Agent Windows Srv
+    url: /P_Agent_Win_Srv.html
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+  folders:
+- title: PLURA V5 Agent Linux Srv
+  folderitems:
+
+  folders:
+- title: PLURA V5 Linux Web Server-Datos
+  folderitems:
+
+  folders:
+- title: Linux Syslog-Audit
+  folderitems:
+
+  folders:
+- title: PLURA V5 Syslog Collector for AIX Srv
+  folderitems:
+
+  folders:
+- title: PLURA V5 Syslog Collector for HP-UX Srv
+  folderitems:
+
+  folders:
+- title: PLURA V5 Syslog Collector for Solaris Srv
+  folderitems:
+
+  folders:
+- title: PLURA V5 Syslog Collector for FreeBSD Srv
+  folderitems:
+
+  folders:
+- title: Sysmon (Windows Sysinternals)
+  folderitems:
+
+  folders:
+- title: PLURA V5 Syslog Collector Srv
+  folderitems:
+
+  - title: Logg Collector > System
+    url: 
+
+  - title: Logg Collector > Application
+    url: 
+
+  - title: Logg Collector > Custom Application
+    url: 
+
+  - title: Logg Collector > Web
+    url: 
+
+  - title: Logg Collector > Network
+    url: 
+
+  folders:
+- title: Additional Install Agents
+  folderitems:
+
+  - title: Apache httpd error 로그 수집
+    url:
+
+  - title: MySQL(CentOS) 로그 분석
+    url:
+
+  - title: 응용프로그램 MySQL Error 로그와 Slow-Query 로그 수집
+    url:
+
+  - title: Rsyslog를 이용한 MySQL Error 로그와 Slow-Query 로그 수집
+    url:
+
+  - title: Openvpn 로그 분석
+    url:
+
+  - title: PostgreSQL(CentOS) 로그 분석
+    url:
+
+  - title: PostgreSQL(Ubuntu) 로그 분석
+    url:
+
+  - title: Redis(CentOS) 로그 분석
+    url:
+
+  - title: Redis(Ubuntu) 로그 분석
+    url:
+
+  - title: xrdp 로그 분석
+    url:
+
+  - title: Rsyslog를 이용한 응용프로그램 로그 수집
     url: /Forensic.html
-
-    subfolders:
-    - title: PLURA V5 Syslog Collector Srv
-      subfolderitems:
-
-      - title: Log Collector > System
-        url: /P_Agent_Win_Srv.html
-      
