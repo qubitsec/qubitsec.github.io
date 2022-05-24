@@ -89,7 +89,7 @@ plugins:
 
 
 uistring:
-    title: Jekyll Documentation theme # Displays as site title on top nav bar and on site metadata
+    title: PLURA v5 # Displays as site title on top nav bar and on site metadata
     description: Documentation theme for Jekyll websites  # Displays as site description meta
     search_placeholder_global: Global Search ...
     search_placeholder_product: Product Search ...
