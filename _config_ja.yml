@@ -1,0 +1,90 @@
+language: japanese
+
+# Link to home
+url: /
+
+# link to github repo
+# github_editme_path: https://github.com/tomjohnson1492/documentation-theme-jekyll-next-version/blob/gh-pages/
+github_edit_button_text: 編集
+image_path: docs_ja/images/
+
+
+top_navbar_color: inverse
+#blue --> use "inverse"
+#black --> use "default"
+
+highlighting_css: monokai
+# options: "monokai" (black), "syntax" (white)
+
+image_path: /docs_ja/images/
+navbar_style: darktheme
+# navbar_logo: docs_ja/images/samplelogo.png
+
+port: 4001
+highlighter: rouge
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+collections:
+  docs_ja:
+    output: true
+  tags_ja:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      tag_group: taglist
+  -
+    scope:
+      path: ""
+      type: docs_ja
+    values:
+      layout: default
+      topnav: topnav_ja
+      tag_group: taglist_ja
+  -
+    scope:
+      path: ""
+      type: tags_ja
+    values:
+      layout: default
+      topnav: topnav_ja
+      sidebar: taglist_ja
+      toc: false
+      github_button: false
+      search: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - index_en.md
+  - index_de.md
+
+
+########## UI text ###############
+
+uistring:
+    title: Jekyllドキュメンテーションテーマ # Displays as site title on top nav bar and on site metadata
+    description: ジキルウェブサイトのドキュメントテーマ # Displays as site description meta
+    search_placeholder: サーチ ...
+    search_placeholder_global: グローバル検索 ...
+    search_placeholder_product: 製品検索 ...
+    github_edit_button_text: 私を編集する
+    minitoc_title: 目次
+    tags_title: 日ごとに
+    search_results_page_title: の検索結果
+    tag_terms:
+      product: 製品
+      page: ページ
+      excerpt: 抜粋
+      tag_page_intro: 以下のページにはタグが付けられています

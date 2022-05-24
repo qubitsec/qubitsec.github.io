@@ -1,8 +1,7 @@
-*.gem
-.bundle
-.ruby-version
-.jekyll-cache
-.sass-cache
-_site
-Gemfile.lock
-node_modules
+_site/
+.sass-cache/
+.jekyll-metadata
+.idea
+_algolia_api_key
+outputs/
+s3_website.yml
