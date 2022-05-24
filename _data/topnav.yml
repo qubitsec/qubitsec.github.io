@@ -40,15 +40,15 @@ navbar_dropdowns:
 
         - title: Troubleshooting
           url: /tag-troubleshooting.html
-    - title: Other Resources
-      folderitems:
-        - title: Github Repo
-          url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-        - title: Jekyll Talk
-          url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          url: http://idratherbewriting.com/category-jekyll/
+    # - title: Other Resources
+    #   folderitems:
+    #     - title: Github Repo
+    #       url: https://github.com/tomjohnson1492/documentation-theme-jekyll
+    #     - title: Jekyll Talk
+    #       url: https://talk.jekyllrb.com
+    #     - title: Jekyll documentation
+    #       url: http://jekyllrb.com/docs/home/
+    #     - title: Jekyll on Stack Overflow
+    #       url: http://stackoverflow.com/questions/tagged/jekyll
+    #     - title: Jekyll on my blog
+    #       url: http://idratherbewriting.com/category-jekyll/
