@@ -9,11 +9,11 @@ navbar_singleitems:
 navbar_dropdowns:
 - folders:
 
-    - title: Products
+    - title: install guide
       folderitems:
-        - title: Theme instructions
+        - title: Forensic
           url: /mydoc_introduction.html
-        - title: Generic
+        - title: SIEM
           url: /sample1.html
     - title: Tags
       folderitems:

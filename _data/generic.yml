@@ -4,7 +4,7 @@ owner: tomjohnson1492
 ## Keep this commented out content because it shows the YAML model for the sidebar.
 
 folders:
-- title: install Guide
+- title: Install Guide
   folderitems:
 
   - title: Frensic
