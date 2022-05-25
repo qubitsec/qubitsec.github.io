@@ -15,7 +15,17 @@ navbar_dropdowns:
           url: /mydoc_introduction.html
         - title: SIEM
           url: /sample1.html
-    - title: Tags
+          
+    - title: Manual
+      folderitems:
+    
+    - title: Additianal Manual
+      folderitems:
+    
+    - title: Public Cloud Service Provider
+      folderitems:
+
+    - title: Vdieo
       folderitems:
         - title: Getting started
           url: /tag-getting-started.html
