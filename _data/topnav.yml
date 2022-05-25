@@ -11,13 +11,21 @@ navbar_dropdowns:
 
     - title: Install Guide
       folderitems:
-        - title: Forensic
-          url: /mydoc_introduction.html
         - title: SIEM
           url: /sample1.html
-          
+        - title: Forensic
+          url: /Forensic.html
+
     - title: Manual
       folderitems:
+        - title: Common
+          url: 
+        - title: SIEM
+          url: 
+        - title: Forensic
+          url: 
+        - title: WAF
+          url: 
     
     - title: Additianal Manual
       folderitems:
@@ -27,25 +35,25 @@ navbar_dropdowns:
 
     - title: Vdieo
       folderitems:
-        - title: Getting started
+        - title: 회사소개
           url: /tag-getting-started.html
 
-        - title: Content types
+        - title: 제품소개
           url: /tag-content-types.html
 
-        - title: Navigation
+        - title: 기능소개
           url: /tag-navigation.html
 
-        - title: Formatting
+        - title: 에이전트 설치
           url: /tag-formatting.html
 
-        - title: Publishing
+        - title: 해킹탐지 시연
           url: /tag-publishing.html
 
-        - title: Single-sourcing
+        - title: 방송/발표
           url: /tag-single-sourcing.html
 
-        - title: Collaboration
+        - title: 고객 사례
           url: /tag-collaboration.html
 
         - title: Troubleshooting
