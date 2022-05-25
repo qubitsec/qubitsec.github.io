@@ -1,6 +1,6 @@
 ---
 title: test1
-permalink: sample1.html
+permalink: Ins_main.html
 sidebar: generic2
 topnav: topnav
 ---

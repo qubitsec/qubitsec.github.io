@@ -1,11 +1,23 @@
 sidebarTitle: Menu
 
 folders:
-- title: PLURA V5 Agent Windows Srv
+- title: 보안탐지
   folderitems:
 
-  - title: PLURA V5 Agent Windows Srv
-    url: /P_Agent_Win_Srv.html
+  - title: MITRE ATT&CK 프레임워크
+    url:
+
+  - title: 상관분석
+    url:
+
+  - title: 데이터 유출
+    url:
+
+  - title: 계정탈취
+    url:
+  
+  - title: 홈페이지 위변조
+    url:
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -15,55 +27,67 @@ folders:
     #     url: /P_Agent_Win_Srv.html
 
   folders:
-- title: PLURA V5 Agent Linux Srv
+- title: 필터탐지
+  folderitems:
+
+  - title: 필터탐지 (시스템)
+    url:
+
+  - title: 필터탐지 (응용프로그램>원본)
+    url:
+
+  - title: 필터탐지 (응용프로그램>사용자정의)
+    url:
+
+  - title: 필터탐지 (웹)
+    url:
+  
+  - title: 필터탐지 (네트워크)
+    url:
+
+  folders:
+- title: ML탐지
   folderitems:
 
   folders:
-- title: PLURA V5 Linux Web Server-Datos
+- title: 전체로그
   folderitems:
 
   folders:
-- title: Linux Syslog-Audit
+- title: 필터
   folderitems:
 
   folders:
-- title: PLURA V5 Syslog Collector for AIX Srv
+- title: 추출로그
   folderitems:
 
   folders:
-- title: PLURA V5 Syslog Collector for HP-UX Srv
+- title: 보고서
   folderitems:
 
   folders:
-- title: PLURA V5 Syslog Collector for Solaris Srv
+- title: 통계
   folderitems:
 
   folders:
-- title: PLURA V5 Syslog Collector for FreeBSD Srv
+- title: 검색기능
   folderitems:
 
   folders:
-- title: Sysmon (Windows Sysinternals)
+- title: 관리
   folderitems:
 
   folders:
-- title: PLURA V5 Syslog Collector Srv
-  folderitems:
+- title: 개인알림
+  folderitems: 
 
-  - title: Logg Collector > System
-    url: 
+  folders:
+- title: 기타기능
+  folderitems: 
 
-  - title: Logg Collector > Application
-    url: 
-
-  - title: Logg Collector > Custom Application
-    url: 
-
-  - title: Logg Collector > Web
-    url: 
-
-  - title: Logg Collector > Network
-    url: 
+  folders:
+- title: TOOL(디코딩/인코딩)
+  folderitems: 
 
   folders:
 - title: Additional Install Agents

@@ -12,14 +12,14 @@ navbar_dropdowns:
     - title: Install Guide
       folderitems:
         - title: SIEM
-          url: /sample1.html
+          url: /Ins_main.html
         - title: Forensic
           url: /Forensic.html
 
     - title: Manual
       folderitems:
         - title: Common
-          url: 
+          url: Manual_main.html
         - title: SIEM
           url: 
         - title: Forensic
