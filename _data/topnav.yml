@@ -23,7 +23,7 @@ navbar_dropdowns:
         - title: SIEM
           url: Manual_SIEM.html
         - title: Forensic
-          url: 
+          url: Manual_For.html
         - title: WAF
           url: 
     
