@@ -48,10 +48,10 @@ navbar_dropdowns:
           url: /tag-content-types.html
 
         - title: 기능소개
-          url: /tag-navigation.html
+          url: 
 
         - title: 에이전트 설치
-          url: /tag-formatting.html
+          url: video_a_ins.html
 
         - title: 해킹탐지 시연
           url: /tag-publishing.html
