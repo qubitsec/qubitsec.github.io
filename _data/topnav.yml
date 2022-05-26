@@ -5,6 +5,8 @@ navbar_singleitems:
     - title: Home
       url: https://qubitsec.github.io/index.html
 
+
+
 #Topnav dropdowns
 navbar_dropdowns:
 - folders:
@@ -26,13 +28,17 @@ navbar_dropdowns:
           url: Manual_For.html
         - title: WAF
           url: Manual_WAF.html
-    
+
     - title: Additianal Manual
       folderitems:
+        - title: Additianal Manual
+          url:
     
     - title: Public Cloud Service Provider
       folderitems:
-
+        - title: Public Cloud Service Provider
+          url:
+    
     - title: Vdieo
       folderitems:
         - title: 회사소개
