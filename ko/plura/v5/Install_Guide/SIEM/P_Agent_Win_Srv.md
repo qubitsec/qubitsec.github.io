@@ -1,9 +1,9 @@
 ---
 title: PLURA V5 Agent Windows Srv
 permalink: P_Agent_Win_Srv.html
-sidebar: generic2
+sidebar: Install_G_S
 tags: [getting-started, formatting]
-product: Generic2
+product: Install_G_S
 ---
 
 

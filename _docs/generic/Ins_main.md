@@ -1,7 +1,7 @@
 ---
 title: test1
 permalink: Ins_main.html
-sidebar: generic2
+sidebar: Install_G_S
 topnav: topnav
 ---
 

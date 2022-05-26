@@ -32,7 +32,7 @@ navbar_dropdowns:
     - title: Additianal Manual
       folderitems:
         - title: Additianal Manual
-          url:
+          url: Additianal_M.html
     
     - title: Public Cloud Service Provider
       folderitems:
