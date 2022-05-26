@@ -25,7 +25,7 @@ navbar_dropdowns:
         - title: Forensic
           url: Manual_For.html
         - title: WAF
-          url: 
+          url: Manual_WAF.html
     
     - title: Additianal Manual
       folderitems:

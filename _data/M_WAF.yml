@@ -1,0 +1,49 @@
+sidebarTitle: Menu
+
+folders:
+- title: 필터탐지
+  folderitems:
+
+  folders:
+- title: 전체로그
+  folderitems:
+
+  folders:
+- title: 방어
+  folderitems:
+
+  - title: 차단IP주소
+    url:
+
+  - title: 로그
+    url:
+
+  - title: 설정
+    url:
+  
+  - title: 즉시차단
+    url:
+
+  folders:
+- title: 관리 > 웹방화벽
+  folderitems:
+
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+  folders:
+- title: 필터
+  folderitems:
+ 
+
+  folders:
+- title: 보고서
+  folderitems:
+
+
+  
