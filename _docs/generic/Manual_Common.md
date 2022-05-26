@@ -1,6 +1,6 @@
 ---
 title: test2
-permalink: Manual_main.html
+permalink: Manual_Common.html
 sidebar: generic3
 topnav: topnav
 ---

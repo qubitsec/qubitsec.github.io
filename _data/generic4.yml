@@ -1,0 +1,68 @@
+sidebarTitle: Menu
+
+folders:
+- title: 대시보드
+  folderitems:
+
+  - title: 상관분석
+    url:
+
+  - title: 데이터 유출
+    url:
+
+  - title: 계정탈취
+    url:
+  
+  - title: 홈페이지 위변조
+    url:
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+  folders:
+- title: 시스템
+  folderitems:
+
+  - title: 시스템 관리
+    url:
+
+  - title: 그룹관리
+    url:
+
+  - title: 리소스모니터링
+    url:
+
+  - title: 웹로그 사용 설정 방법
+    url:
+  
+
+  folders:
+- title: 방어
+  folderitems:
+
+  - title: 차단IP주소
+    url:
+
+  - title: 로그
+    url:
+
+  - title: 설정
+    url:
+
+  - title: 즉시차단
+    url:
+
+  folders:
+- title: 컴플라이언스
+  folderitems:
+
+  folders:
+- title: API 제공(On-premise 전용)
+  folderitems:
+
+
+  

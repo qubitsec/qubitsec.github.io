@@ -19,9 +19,9 @@ navbar_dropdowns:
     - title: Manual
       folderitems:
         - title: Common
-          url: Manual_main.html
+          url: Manual_Common.html
         - title: SIEM
-          url: 
+          url: Manual_SIEM.html
         - title: Forensic
           url: 
         - title: WAF
