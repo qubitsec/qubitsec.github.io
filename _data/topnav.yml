@@ -37,7 +37,7 @@ navbar_dropdowns:
     - title: Public Cloud Service Provider
       folderitems:
         - title: Public Cloud Service Provider
-          url:
+          url: PC_SP.html
     
     - title: Vdieo
       folderitems:
@@ -64,6 +64,8 @@ navbar_dropdowns:
 
         - title: Troubleshooting
           url: /tag-troubleshooting.html
+
+
     # - title: Other Resources
     #   folderitems:
     #     - title: Github Repo
