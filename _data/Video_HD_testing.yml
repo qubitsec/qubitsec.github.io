@@ -1,0 +1,29 @@
+sidebarTitle: Menu
+
+folders:
+- title: SIEM
+  folderitems:
+
+  - title: Log4Shell
+    url:
+
+  - title: XSS
+    url:
+
+  - title: WebShell
+    url:
+
+  - title: APT29 (MITRE ATT&CK)
+    url:
+
+  - title: 데이터 유출 탐지 (SQL 인젝션)
+    url:
+
+  - title: XSL Script Processing [T1220]
+    url:
+
+  - title: Wannacry Ransomware
+    url:
+
+  - title: Credential Stuffing
+    url:

@@ -42,28 +42,25 @@ navbar_dropdowns:
     - title: Vdieo
       folderitems:
         - title: 회사소개
-          url: /tag-getting-started.html
+          url: 
 
         - title: 제품소개
-          url: /tag-content-types.html
+          url: 
 
         - title: 기능소개
-          url: 
+          url: video_f_introduc.html
 
         - title: 에이전트 설치
           url: video_a_ins.html
 
         - title: 해킹탐지 시연
-          url: /tag-publishing.html
+          url: video_hd_t.html
 
         - title: 방송/발표
-          url: /tag-single-sourcing.html
+          url: video_bc.html
 
         - title: 고객 사례
-          url: /tag-collaboration.html
-
-        - title: Troubleshooting
-          url: /tag-troubleshooting.html
+          url: video_c.html
 
 
     # - title: Other Resources
