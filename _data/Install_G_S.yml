@@ -5,7 +5,7 @@ folders:
   folderitems:
 
   - title: PLURA V5 Agent Windows Srv
-    url: /P_Agent_Win_Srv.html
+    url: /p_agent_win_srv.html
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -100,4 +100,4 @@ folders:
     url:
 
   - title: Rsyslog를 이용한 응용프로그램 로그 수집
-    url: /Forensic.html
+    url: /forensic.html

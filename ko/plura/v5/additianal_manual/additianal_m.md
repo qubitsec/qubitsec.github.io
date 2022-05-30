@@ -1,6 +1,6 @@
 ---
 title: test4
-permalink: Additianal_M.html
+permalink: additianal_m.html
 sidebar: Add_M
 topnav: topnav
 ---

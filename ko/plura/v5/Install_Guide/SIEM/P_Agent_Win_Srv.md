@@ -1,6 +1,6 @@
 ---
 title: PLURA V5 Agent Windows Srv
-permalink: P_Agent_Win_Srv.html
+permalink: p_agent_win_srv.html
 sidebar: Install_G_S
 tags: [getting-started, formatting]
 product: Install_G_S

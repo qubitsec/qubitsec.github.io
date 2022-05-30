@@ -1,7 +1,7 @@
 ---
 title: test2
-permalink: Manual_SIEM.html
-sidebar: generic4
+permalink: manual_siem.html
+sidebar: M_SIEM
 topnav: topnav
 ---
 

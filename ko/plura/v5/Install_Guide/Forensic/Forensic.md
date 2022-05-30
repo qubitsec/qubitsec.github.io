@@ -1,6 +1,6 @@
 ---
 title: PLURA V5 Log-F Agent Srv 
-permalink: Forensic.html
+permalink: forensic.html
 sidebar: Install_G_S
 tags: [getting-started, formatting]
 product: Install_G_S

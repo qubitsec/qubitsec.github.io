@@ -1,7 +1,7 @@
 ---
 title: test2
-permalink: Manual_Common.html
-sidebar: generic3
+permalink: manual_common.html
+sidebar: M_C
 topnav: topnav
 ---
 

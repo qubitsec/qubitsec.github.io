@@ -1,6 +1,6 @@
 ---
 title: test2
-permalink: Manual_WAF.html
+permalink: manual_waf.html
 sidebar: M_WAF
 topnav: topnav
 ---

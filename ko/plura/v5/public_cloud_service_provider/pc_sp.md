@@ -1,6 +1,6 @@
 ---
 title: test4
-permalink: PC_SP.html
+permalink: pc_sp.html
 sidebar: PCSP
 topnav: topnav
 ---

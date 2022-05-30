@@ -1,6 +1,6 @@
 ---
 title: test2
-permalink: Manual_For.html
+permalink: manual_for.html
 sidebar: M_for
 topnav: topnav
 ---
