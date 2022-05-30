@@ -16,28 +16,28 @@ navbar_dropdowns:
         - title: SIEM
           url: /Ins_main.html
         - title: Forensic
-          url: /Forensic.html
+          url: /forensic.html
 
     - title: Manual
       folderitems:
         - title: Common
-          url: Manual_Common.html
+          url: manual_common.html
         - title: SIEM
-          url: Manual_SIEM.html
+          url: manual_siem.html
         - title: Forensic
-          url: Manual_For.html
+          url: manual_for.html
         - title: WAF
-          url: Manual_WAF.html
+          url: manual_waf.html
 
     - title: Additianal Manual
       folderitems:
         - title: Additianal Manual
-          url: Additianal_M.html
+          url: additianal_m.html
     
     - title: Public Cloud Service Provider
       folderitems:
         - title: Public Cloud Service Provider
-          url: PC_SP.html
+          url: pc_sp.html
     
     - title: Vdieo
       folderitems:
