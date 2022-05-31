@@ -5,31 +5,31 @@ folders:
   folderitems:
 
   - title: 대시보드/메뉴 활용하기 DEMO
-    url:
+    url: /61.html
 
   - title: 사용자정의 필터등록 DEMO
-    url:
+    url: /62.html
 
   - title: 관리 DEMO
-    url:
+    url: /63.html
 
   - title: 재전송 공격 DEMO
-    url:
+    url: /64.html
 
   - title: MITRE ATT&CK DEMO
-    url:
+    url: /65.html
 
   - title: 보안 DEMO
-    url:
+    url: /66.html
 
   - title: 계정탈취 필터등록 DEMO
-    url:
+    url: /67.html
 
   - title: 계정탈취 메뉴활용 DEMO
-    url:
+    url: /68.html
 
   - title: 그룹알림(Syslog) 설정하기 DEMO
-    url:
+    url: /69.html
 
   - title: 그룹알림(웹훅) 설정하기 DEMO
     url:
@@ -48,4 +48,4 @@ folders:
   folderitems:
 
   - title: Forensic
-    url:
+    url: /70.html

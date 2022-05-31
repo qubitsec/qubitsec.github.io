@@ -5,16 +5,16 @@ folders:
   folderitems:
 
   - title: Log4Shell
-    url:
+    url: /75.html
 
   - title: XSS
-    url:
+    url: /76.html
 
   - title: WebShell
-    url:
+    url: /77.html
 
   - title: APT29 (MITRE ATT&CK)
-    url:
+    url: 
 
   - title: 데이터 유출 탐지 (SQL 인젝션)
     url:
