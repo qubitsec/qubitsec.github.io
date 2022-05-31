@@ -18,40 +18,64 @@ folders:
 - title: PLURA V5 Agent Linux Srv
   folderitems:
 
+  - title: PLURA V5 Agent Linux Srv
+    url: /1.html
+
   folders:
 - title: PLURA V5 Linux Web Server-Datos
   folderitems:
+
+  - title: PLURA V5 Linux Web Server-Datos
+    url: /2.html
 
   folders:
 - title: Linux Syslog-Audit
   folderitems:
 
+  - title: Linux Syslog-Audit
+    url: /3.html 
+
   folders:
 - title: PLURA V5 Syslog Collector for AIX Srv
   folderitems:
+
+  - title: PLURA V5 Syslog Collector for AIX Srv
+    url: /4.html
 
   folders:
 - title: PLURA V5 Syslog Collector for HP-UX Srv
   folderitems:
 
+  - title: PLURA V5 Syslog Collector for HP-UX Srv
+    url: /5.html
+
   folders:
 - title: PLURA V5 Syslog Collector for Solaris Srv
   folderitems:
+
+  - title: PLURA V5 Syslog Collector for Solaris Srv
+    url: /6.html
 
   folders:
 - title: PLURA V5 Syslog Collector for FreeBSD Srv
   folderitems:
 
+  - title: PLURA V5 Syslog Collector for FreeBSD Srv
+    url: /7.html
+
   folders:
 - title: Sysmon (Windows Sysinternals)
   folderitems:
+
+  - title: Sysmon (Windows Sysinternals)
+    url: /8.html
 
   folders:
 - title: PLURA V5 Syslog Collector Srv
   folderitems:
 
   - title: Logg Collector > System
-    url: 
+    url: /9.html
 
   - title: Logg Collector > Application
     url: 
@@ -70,7 +94,7 @@ folders:
   folderitems:
 
   - title: Apache httpd error 로그 수집
-    url:
+    url: /10.html
 
   - title: MySQL(CentOS) 로그 분석
     url:

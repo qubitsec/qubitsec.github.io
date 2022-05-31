@@ -4,6 +4,10 @@ folders:
 - title: 필터탐지
   folderitems:
 
+  - title: 필터탐지
+    url: /31.html
+
+
   folders:
 - title: 전체로그
   folderitems:
@@ -13,16 +17,16 @@ folders:
   folderitems:
 
   - title: 차단IP주소
-    url:
+    url: /32.html
 
   - title: 로그
-    url:
+    url: /33.html
 
   - title: 설정
-    url:
+    url: /34.html
   
   - title: 즉시차단
-    url:
+    url: /35.html
 
   folders:
 - title: 관리 > 웹방화벽
@@ -38,7 +42,10 @@ folders:
 
   folders:
 - title: 필터
-  folderitems:
+  folderitems: 
+
+  - title: 필터
+    url: /36.html
  
 
   folders:

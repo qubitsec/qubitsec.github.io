@@ -5,16 +5,16 @@ folders:
   folderitems:
 
   - title: 상관분석
-    url:
+    url: /21.html
 
   - title: 데이터 유출
-    url:
+    url: /22.html
 
   - title: 계정탈취
-    url:
+    url: /23.html
   
   - title: 홈페이지 위변조
-    url:
+    url: /24.html
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -28,16 +28,16 @@ folders:
   folderitems:
 
   - title: 시스템 관리
-    url:
+    url: /25.html
 
   - title: 그룹관리
-    url:
+    url: /26.html
 
   - title: 리소스모니터링
-    url:
+    url: /27.html
 
   - title: 웹로그 사용 설정 방법
-    url:
+    url: /28.html
   
 
   folders:
@@ -45,16 +45,16 @@ folders:
   folderitems:
 
   - title: 차단IP주소
-    url:
+    url: /29.html
 
   - title: 로그
-    url:
+    url: /30.html
 
   - title: 설정
-    url:
+    url: /21.html
 
   - title: 즉시차단
-    url:
+    url: /22.html
 
   folders:
 - title: 컴플라이언스
