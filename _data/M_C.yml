@@ -5,32 +5,32 @@ folders:
   folderitems:
 
   - title: 상관분석
-    url: 
+    url: /correlation_analysis.html
 
   - title: 데이터 유출
-    url: 
+    url: /data_outflow.html
 
   - title: 계정탈취
-    url: 
+    url: /acc_takeover.html
   
   - title: 홈페이지 위변조
-    url: 
+    url: /h_forgery.html
 
     subfolders:
     - title: MITRE ATT&CK 프레임워크
       subfolderitems: 
 
       - title: 매트릭스
-        url: 
+        url: /matrix.html
       
       - title: 리스트
-        url: 
+        url: /list.html
 
       - title: 해킹그룹
-        url: 
+        url: /hack_g.html
 
       - title: 소프트웨어
-        url: 
+        url: /sw.html
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -44,55 +44,58 @@ folders:
   folderitems:
 
   - title: 필터탐지 (시스템)
-    url: 
+    url: /f_system.html
 
   - title: 필터탐지 (응용프로그램>원본)
-    url: 
+    url: /f_app_source.html
 
   - title: 필터탐지 (응용프로그램>사용자정의)
-    url: 
+    url: /f_app_custom.html
 
   - title: 필터탐지 (웹)
-    url: 
+    url: /f_web.html
   
   - title: 필터탐지 (네트워크)
-    url: 
+    url: /f_network.html
 
   folders:
 - title: ML탐지
   folderitems:
+
+  - title: ML탐지
+    url: /ml.html
 
   folders:
 - title: 전체로그
   folderitems:
 
   - title: 전체로그 (시스템)
-    url: 
+    url: /full_log_system.html
 
   - title: 전체로그 (응용프로그램>원본)
-    url: 
+    url: /full_log_app_source.html
 
   - title: 전체로그 (응용프로그램>사용자 정의)
-    url: 
+    url: /full_log_app_custom.html
 
   - title: 전체로그 (웹)
-    url: 
+    url: /full_log_web.html
 
   - title: 전체로그 (네트워크)
-    url: 
+    url: /full_log_network.html
 
   folders:
 - title: 필터
   folderitems:
 
   - title: Syslog 필터등록
-    url: 
+    url: /f_regi_syslog.html
 
   - title: Windows 필터등록
-    url: 
+    url: /f_regi_window.html
 
   - title: Audit 필터등록
-    url: 
+    url: /f_regi_audit.html
 
 
     subfolders:
@@ -100,18 +103,19 @@ folders:
       subfolderitems: 
 
       - title: 상관분석
-        url: 
+        url: /s_f_cor_analysis.html
 
       - title: 데이터 유출
-        url: 
+        url: /s_f_data_outflow.html
 
       - title: 계정탈취
-        url: 
+        url: /s_f_acc_takeover.html
 
       - title: 홈페이지 위변조
+        url: /s_f_h_forgery.html
 
   - title: 추천필터
-    url: 
+    url: /recom_fil.html
 
     subfolders:
     - title: 등록필터
