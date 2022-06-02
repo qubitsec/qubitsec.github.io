@@ -17,16 +17,16 @@ folders:
   folderitems:
 
   - title: 차단IP주소
-    url: /32.html
+    url: 
 
   - title: 로그
-    url: /33.html
+    url: 
 
   - title: 설정
-    url: /34.html
+    url: 
   
   - title: 즉시차단
-    url: /35.html
+    url: 
 
   folders:
 - title: 관리 > 웹방화벽
@@ -45,7 +45,7 @@ folders:
   folderitems: 
 
   - title: 필터
-    url: /36.html
+    url: 
  
 
   folders:

@@ -122,19 +122,19 @@ folders:
       subfolderitems: 
 
       - title: 시스템
-        url: 
+        url: /regi_f_system.html
 
       - title: 응용프로그램>원본
-        url: 
+        url: /regi_f_app_source.html
 
       - title: 응용프로그램>사용자정의
-        url: 
+        url: /regi_f_app_custom.html
 
       - title: 웹
-        url: 
+        url: /regi_f_web.html
 
       - title: 네트워크
-        url: 
+        url: /regi_f_network.html
 
 
   folders:

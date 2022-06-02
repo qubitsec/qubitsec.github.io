@@ -5,79 +5,79 @@ folders:
   folderitems:
   
   - title: ModPlura 웹 모듈 수동 설치 Apache
-    url: /50.html
+    url: 
 
   - title: ModPlura 웹 모듈 수동 설치 Nginx
-    url: /51.html
+    url: 
 
   - title: 클라우드 SECaaS 온라인 PoC 진행 방법 소개
-    url: /52.html
+    url: 
 
   - title: 응용프로그램 로그 업로드 설정하기
-    url: /53.html
+    url: 
 
   - title: 에이전트 설치로 적용된 감사정책 복원 방법
-    url: /54.html
+    url: 
 
   - title: Powershell 스크립트 블록 로깅 켜기
-    url: /55.html
+    url: 
 
   - title: (Log Collector) Web access 로그 syslog 전송하기
-    url: /56.html
+    url: 
 
   - title: (PLURA V5 Forensic) 운영체제 로그 업로드 수집 경로 및 사용 방법
-    url: /57.html
+    url: 
 
   - title: Apache Tomcat access 로그 PLURA V5 로깅 지원
-    url: /58.html
+    url: 
 
   - title: 응용프로그램 로그 syslog 전송하기 (예제 톰캣 catalina.out)
-    url: /59.html
+    url: 
 
   - title: 프록시 시스템 squid 를 위한 PLURA V5 로깅 지원
-    url: /60.html
+    url: 
 
   - title: Public IP주소 확인하는 방법
-    url: /50.html
+    url: 
 
   - title: AWS RHEL 8 에서 Proxy 환경으로 PLURA V5 사용 시 설정
-    url: /51.html
+    url: 
 
   - title: 재전송공격을 이용한 모의해킹 테스트
-    url: /52.html
+    url: 
 
   - title: PLURA V5 유저별 브라우저 저장 기능
-    url: /53.html
+    url: 
 
   - title: Apache 서버에서 HTTP 압축 비활성화
-    url: /54.html
+    url: 
   
   - title: 데이터유출 탐지 예외 사항과 해결책
-    url: /55.html
+    url: 
 
   - title: 윈도우 레지스트리 & 파일 위변조 탐지
-    url: /56.html
+    url: 
 
   - title: (AIX) Audit 을 이용한 해킹 탐지
-    url: /57.html
+    url: 
 
   - title: (필터) 공개키 로그인 성공_사용자 등록 방법
-    url: /58.html
+    url: 
 
   - title: (AIX) 파일 감사(Audit Log) 설정으로 PLURA V5에서 필터탐지 확인하기
-    url: /59.html
+    url: 
 
   - title: Webhook 설정으로 Telegram에서 PLURA V5 알림 받아보기
-    url: /60.html
+    url: 
 
   - title: Wail2ban 에 의한 윈도우 방화벽 등록 탐지 방법
-    url: /50.html
+    url: 
 
   - title: On-premise 에서 PLURA V5 에이전트 설치하기 curl
-    url: /51.html
+    url: 
 
   - title: On-premise 에서 PLURA V5 에이전트 설치하기 wget
-    url: /52.html
+    url: 
 
   - title: 백신 소프트웨어 종료 탐지 방법
-    url: /53.html
+    url: 

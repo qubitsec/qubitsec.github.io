@@ -1,5 +1,5 @@
 ---
-title: main
+title:
 permalink: index.html
 # sidebar: generic
 topnav: topnav

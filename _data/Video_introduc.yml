@@ -5,13 +5,13 @@ folders:
   folderitems:
 
   - title: Windows Event & IIS Log
-    url: /78.html
+    url: 
 
   - title: Windows Sysmon Log (sysinternals)
-    url: /79.html
+    url: 
 
   - title: Linux Syslog
-    url: /80.html
+    url: 
 
   - title: Linux Syslog-Audit
     url:
@@ -39,4 +39,4 @@ folders:
   folderitems:
 
   - title: Forensic
-    url: /81.html
+    url: 

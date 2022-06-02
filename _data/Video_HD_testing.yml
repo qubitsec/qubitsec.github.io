@@ -5,13 +5,13 @@ folders:
   folderitems:
 
   - title: Log4Shell
-    url: /75.html
+    url: 
 
   - title: XSS
-    url: /76.html
+    url: 
 
   - title: WebShell
-    url: /77.html
+    url: 
 
   - title: APT29 (MITRE ATT&CK)
     url: 

@@ -5,16 +5,16 @@ folders:
   folderitems:
 
   - title: PLURA V5 Auto Scaling 설정 가이드
-    url: /41.html
+    url: 
 
   - title: AWS에서 타임존 설정하는 방법
-    url: /42.html
+    url: 
 
   - title: AWS 인스턴스에 Route 53 DNS 할당
-    url: /43.html
+    url: 
   
   - title: PLURA V5의 Amazon EC2 Auto Scaling 환경 지원
-    url: /44.html
+    url: 
 
   - title: PLURA V5 WAF의 AWS CloudFront 환경 지원
-    url: /45.html
+    url: 
