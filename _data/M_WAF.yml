@@ -5,32 +5,38 @@ folders:
   folderitems:
 
   - title: 필터탐지
-    url: /31.html
+    url: /filter_detection_waf.html
 
 
   folders:
 - title: 전체로그
   folderitems:
 
+  - title: 전체로그
+    url: /all_log_waf.html
+
   folders:
 - title: 방어
-  folderitems:
+  folderitems: 
 
   - title: 차단IP주소
-    url: 
+    url: /defense_block_ip_waf.html
 
   - title: 로그
-    url: 
+    url: /defense_log_waf.html
 
   - title: 설정
-    url: 
+    url: /defense_setting_waf.html
   
   - title: 즉시차단
-    url: 
+    url: /defense_block_immediately_waf.html
 
   folders:
 - title: 관리 > 웹방화벽
   folderitems:
+
+  - title: 관리 > 웹방화벽
+    url: /web_firewall_waf.html
 
 
     # subfolders:
@@ -45,12 +51,14 @@ folders:
   folderitems: 
 
   - title: 필터
-    url: 
+    url: /filter_waf.html
  
-
   folders:
 - title: 보고서
   folderitems:
+
+  - title: 보고서
+    url: /report_waf.html
 
 
   

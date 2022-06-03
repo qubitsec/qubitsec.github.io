@@ -4,9 +4,15 @@ folders:
 - title: 대시보드
   folderitems:
 
+  - title: 대시보드
+    url: /dash_for.html
+
   folders:
 - title: 시스템 관리
   folderitems:
+
+  - title: 시스템 관리
+    url: /system_manage_for.html
 
 
   
