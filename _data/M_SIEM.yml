@@ -4,17 +4,8 @@ folders:
 - title: 대시보드
   folderitems:
 
-  - title: 상관분석
-    url: 
-
-  - title: 데이터 유출
-    url: 
-
-  - title: 계정탈취
-    url: 
-  
-  - title: 홈페이지 위변조
-    url: 
+  - title: 대시보드
+    url: /dash_board.html
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -28,41 +19,47 @@ folders:
   folderitems:
 
   - title: 시스템 관리
-    url: 
+    url: /system_sys_manage.html
 
   - title: 그룹관리
-    url: 
+    url: /system_g_manage.html
 
   - title: 리소스모니터링
-    url: 
+    url: /system_resource_m.html
 
   - title: 웹로그 사용 설정 방법
-    url: 
+    url: /system_weblog.html
   
 
   folders:
 - title: 방어
-  folderitems:
+  folderitems: 
 
   - title: 차단IP주소
-    url: 
+    url: /defense_ip.html
 
   - title: 로그
-    url: 
+    url: /defense_log.html
 
   - title: 설정
-    url: 
+    url: /defense_setting.html
 
   - title: 즉시차단
-    url: 
+    url: /defense_block_immediately.html
 
   folders:
 - title: 컴플라이언스
   folderitems:
 
+  - title: 컴플라이언스
+    url: /compliance.html
+
   folders:
 - title: API 제공(On-premise 전용)
   folderitems:
+
+  - title: API 제공(On-premise 전용)
+    url: /api_provision.html
 
 
   
