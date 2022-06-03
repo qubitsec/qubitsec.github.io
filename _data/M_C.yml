@@ -142,147 +142,159 @@ folders:
   folderitems:
 
   - title: IP주소
-    url: 
+    url: /extraction_ip.html
 
   - title: Login
-    url: 
+    url: /extraction_login.html
 
   - title: URL
-    url: 
+    url: /extraction_url.html
 
   folders:
 - title: 보고서
   folderitems:
 
   - title: 메인
-    url: 
+    url: /report_main.html
 
   - title: 마이터어택 분석
-    url: 
+    url: /report_m_analy.html
 
   - title: 상관분석
-    url: 
+    url: /report_c_analy.html
 
   - title: 데이터유출 분석
-    url: 
+    url: report_d_breach_analy.html
 
   - title: 계정탈취 분석
-    url: 
+    url: /report_a_takeover.analy.html
 
   - title: 시스템 분석
-    url: 
+    url: /report_sys_analy.html
 
   - title: 응용프로그램 분석
-    url: 
+    url: /report_app_analy.html
 
   - title: 웹 분석
-    url: 
+    url: /report_web_analy.html
 
   - title: 네트워크 분석
-    url: 
+    url: /report_network_analy.html
 
   folders:
 - title: 통계
   folderitems:
 
   - title: IP주소
-    url: 
+    url: /statistics_ip.html
 
   - title: Login
-    url: 
+    url: /statistics_login.html
 
   - title: 업로드용량
-    url: 
+    url: /statistics_up_volume.html
 
   - title: 워드클라우드
-    url: 
+    url: /statistics_w_cloud.html
 
   - title: 히트맵
-    url: 
+    url: /statistics_h_map.html
 
   - title: 박스플롯
-    url: 
+    url: /statistics_box_p.html
 
   folders:
 - title: 검색기능
   folderitems:
+
+  - title: 검색기능
+    url: /search_fun.html
 
   folders:
 - title: 관리
   folderitems:
 
   - title: 서비스
-    url: 
+    url: /manage_service.html
 
   - title: 멤버
-    url: 
+    url: /manage_member.html
 
   - title: 보안
-    url: 
+    url: /manage_security.html
 
   - title: 목록
-    url: 
+    url: /manage_list.html
 
   - title: 연동
-    url:
+    url: /manage_peristalsis.html
 
   - title: 사용
-    url:
+    url: /manage_use.html
 
   - title: 시스템
-    url: 
+    url: /manage_system.html
 
   - title: 그룹알림
-    url: 
+    url: /manage_group.html
 
   - title: 사용로그
-    url: 
+    url: /manage_usage_log.html
 
   folders:
 - title: 개인알림
   folderitems: 
+  
+  - title: 개인알림
+    folderitems: /personal.html
 
   folders:
 - title: 기타기능
   folderitems: 
 
+  - title: 기타기능
+    folderitems: /etc.html
+
   folders:
 - title: TOOL(디코딩/인코딩)
   folderitems: 
+
+  - title: TOOL(디코딩/인코딩)
+    url: /tool_d_i_coding.html
 
   folders:
 - title: Additional Install Agents
   folderitems:
 
   - title: Apache httpd error 로그 수집
-    url: 
+    url: /apache_httpd_error_log.html
 
   - title: MySQL(CentOS) 로그 분석
-    url: 
+    url: /mysql_centos_log.html
 
   - title: 응용프로그램 MySQL Error 로그와 Slow-Query 로그 수집
-    url: 
+    url: /app_mysql_error_log_slow_query.html
 
   - title: Rsyslog를 이용한 MySQL Error 로그와 Slow-Query 로그 수집
-    url: 
+    url: /rsys_mysql_err_log_slow_query.html
 
   - title: Openvpn 로그 분석
-    url: 
+    url: /openvpn_log_analy.html
 
   - title: PostgreSQL(CentOS) 로그 분석
-    url: 
+    url: /postgresql(c)_log.html
 
   - title: PostgreSQL(Ubuntu) 로그 분석
-    url: 
+    url: /postgresql(u)_log.html
 
   - title: Redis(CentOS) 로그 분석
-    url: 
+    url: /redis(c)_log_analy.html
 
   - title: Redis(Ubuntu) 로그 분석
-    url: 
+    url: /redis(u)_log_analy.html
 
   - title: xrdp 로그 분석
-    url: 
+    url: /xrdp_log_analy.html
 
   - title: Rsyslog를 이용한 응용프로그램 로그 수집
-    url: /forensic.html
+    url: /rsys_app_log.html
