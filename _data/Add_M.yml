@@ -11,7 +11,7 @@ folders:
     url: /mp_install_nginx.html
 
   - title: 클라우드 SECaaS 온라인 PoC 진행 방법 소개
-    url: /cl_secaas_poc
+    url: /cl_secaas_poc.html
 
   - title: 응용프로그램 로그 업로드 설정하기
     url: /set_app_log_up.html

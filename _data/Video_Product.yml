@@ -1,0 +1,8 @@
+sidebarTitle: Menu
+
+folders:
+- title: 제품소개
+  folderitems:
+
+  - title: 제품소개
+    url: /product.html

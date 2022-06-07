@@ -42,10 +42,10 @@ navbar_dropdowns:
     - title: Vdieo
       folderitems:
         - title: 회사소개
-          url: 
+          url: video_company.html
 
         - title: 제품소개
-          url: 
+          url: video_product.html
 
         - title: 기능소개
           url: video_f_introduc.html
