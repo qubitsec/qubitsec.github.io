@@ -4,48 +4,39 @@ folders:
 - title: SIEM
   folderitems:
 
-  - title: 대시보드/메뉴 활용하기 DEMO
-    url: 
+  - title: Windows Event & IIS Log
+    url: /win_event_iis_log.html
 
-  - title: 사용자정의 필터등록 DEMO
-    url: 
+  - title: Windows Sysmon Log (sysinternals)
+    url: /win_sysmon_log.html
 
-  - title: 관리 DEMO
-    url: 
+  - title: Linux Syslog
+    url: /lin_sys.html
 
-  - title: 재전송 공격 DEMO
-    url: 
+  - title: Linux Syslog-Audit
+    url: /lin_sys_audit.html
 
-  - title: MITRE ATT&CK DEMO
-    url: 
+  - title: Linux Apache | Nginx
+    url: /lin_apache_nginx.html
 
-  - title: 보안 DEMO
-    url:
+  - title: Linux Web Server - Datos
+    url: /lin_web_server.html
 
-  - title: 계정탈취 필터등록 DEMO
-    url: 
+  - title: Log Collector - System
+    url: /log_col_system.html
 
-  - title: 계정탈취 메뉴활용 DEMO
-    url: 
+  - title: Log Collector - Application
+    url: /log_col_app.html
 
-  - title: 그룹알림(Syslog) 설정하기 DEMO
-    url: 
+  - title: Log Collector - Web
+    url: /log_col_web.html
 
-  - title: 그룹알림(웹훅) 설정하기 DEMO
-    url:
-
-  - title: 개인알림 설정하기 DEMO
-    url:
-
-  - title: 웹방화벽 차단 설정 DEMO
-    url:
-
-  - title: 업로드설정 DEMO
-    url:
+  - title: Log Collector - Network
+    url: /log_col_network.html
 
   folders:
 - title: Forensic
   folderitems:
 
   - title: Forensic
-    url: 
+    url: /agent_forensic.html
