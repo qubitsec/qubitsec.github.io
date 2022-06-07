@@ -1,0 +1,51 @@
+sidebarTitle: Menu
+
+folders:
+- title: SIEM
+  folderitems:
+
+  - title: 대시보드/메뉴 활용하기 DEMO
+    url: /dash_menu.html
+
+  - title: 사용자정의 필터등록 DEMO
+    url: /filter_registration.html
+
+  - title: 관리 DEMO
+    url: /management.html
+
+  - title: 재전송 공격 DEMO
+    url: /re_send_attack.html
+
+  - title: MITRE ATT&CK DEMO
+    url: /mitre_attack_demo.html
+
+  - title: 보안 DEMO
+    url: /security.html
+
+  - title: 계정탈취 필터등록 DEMO
+    url: /account_takeover_fil_reg.html
+
+  - title: 계정탈취 메뉴활용 DEMO
+    url: /account_takeover_menu.html
+
+  - title: 그룹알림(Syslog) 설정하기 DEMO
+    url: /setting_up_syslog.html
+
+  - title: 그룹알림(웹훅) 설정하기 DEMO
+    url: /setting_up_webhook.html
+
+  - title: 개인알림 설정하기 DEMO
+    url: /setting_up_personal.html
+
+  - title: 웹방화벽 차단 설정 DEMO
+    url: /web_firewall_blocking_set.html
+
+  - title: 업로드설정 DEMO
+    url: /upload_setting.html
+
+  folders:
+- title: Forensic
+  folderitems:
+
+  - title: Forensic
+    url: /function_forensic.html

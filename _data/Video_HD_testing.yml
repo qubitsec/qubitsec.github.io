@@ -5,25 +5,25 @@ folders:
   folderitems:
 
   - title: Log4Shell
-    url: 
+    url: /log4shell.html
 
   - title: XSS
-    url: 
+    url: /xss.html
 
   - title: WebShell
-    url: 
+    url: /webshell.html
 
   - title: APT29 (MITRE ATT&CK)
-    url: 
+    url: /apt.html
 
   - title: 데이터 유출 탐지 (SQL 인젝션)
-    url:
+    url: /data_breach_detection.html
 
   - title: XSL Script Processing [T1220]
-    url:
+    url: /xsl_script_processing.html
 
   - title: Wannacry Ransomware
-    url:
+    url: /wannacry_ransomware.html
 
   - title: Credential Stuffing
-    url:
+    url: /credential_stuffing.html

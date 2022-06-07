@@ -1,7 +1,7 @@
 ---
 title: test4
 permalink: video_f_introduc.html
-sidebar: Video_introduc
+sidebar: Video_Feature_introduc
 topnav: topnav
 ---
 
