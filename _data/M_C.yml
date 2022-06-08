@@ -246,14 +246,14 @@ folders:
   folderitems: 
   
   - title: 개인알림
-    folderitems: /personal.html
+    url: /personal.html
 
   folders:
 - title: 기타기능
   folderitems: 
 
   - title: 기타기능
-    folderitems: /etc.html
+    url: /etc.html
 
   folders:
 - title: TOOL(디코딩/인코딩)
