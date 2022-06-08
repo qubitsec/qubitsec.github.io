@@ -164,7 +164,7 @@ folders:
     url: /report_c_analy.html
 
   - title: 데이터유출 분석
-    url: report_d_breach_analy.html
+    url: /report_d_breach_analy.html
 
   - title: 계정탈취 분석
     url: /report_a_takeover.analy.html
