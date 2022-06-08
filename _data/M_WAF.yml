@@ -4,7 +4,7 @@ folders:
 - title: 필터탐지
   folderitems:
 
-  - title: 필터탐지 (웹 방화벽)
+  - title: 필터탐지 (웹방화벽)
     url: /filter_detection_waf.html
 
 
@@ -12,7 +12,7 @@ folders:
 - title: 전체로그
   folderitems:
 
-  - title: 전체로그 (웹 방화벽)
+  - title: 전체로그 (웹방화벽)
     url: /all_log_waf.html
 
   folders:
@@ -50,14 +50,14 @@ folders:
 - title: 필터
   folderitems: 
 
-  - title: 필터
+  - title: 웨방화벽 필터 등록
     url: /filter_waf.html
  
   folders:
 - title: 보고서
   folderitems:
 
-  - title: 보고서
+  - title: 웹방화벽 분석
     url: /report_waf.html
 
 
