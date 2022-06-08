@@ -14,7 +14,7 @@ folders:
     url: /lin_sys.html
 
   - title: Linux Syslog-Audit
-    url: /lin_sys_audit.html
+    url: /linu_sys_audit.html
 
   - title: Linux Apache | Nginx
     url: /lin_apache_nginx.html

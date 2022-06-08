@@ -1,6 +1,6 @@
 ---
 title: Linux Syslog-Audit
-permalink: lin_sys_audit.html
+permalink: linu_sys_audit.html
 sidebar: Video_Agent_ins
 topnav: topnav
 ---
