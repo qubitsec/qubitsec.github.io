@@ -7,10 +7,8 @@ product: Install_G_S
 ---
 
 
-![WS](/docs/images/Agent_W/Windows_S.png){:class=”align-center”}
 
 
-## PLURA V5 Agent Windows Srv
 
 
 
