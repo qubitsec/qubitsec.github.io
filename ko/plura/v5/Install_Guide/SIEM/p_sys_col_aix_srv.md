@@ -52,4 +52,4 @@ product: Install_G_S
 ### 4. www.plura.io 웹에서 시스템 등록을 합니다.
 **– 시스템 > 시스템 관리 > 취합시스템 선택 > 시스템 등록**
 
-![image](/docs/images/P_Sys_Collector_AIX_Srv/시스템등록.png){:class="align-center"}
+![image](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/시스템등록.png){:class="align-center"}
