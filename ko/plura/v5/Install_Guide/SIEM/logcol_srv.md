@@ -2,7 +2,6 @@
 title: PLURA V5 Syslog Collector Srv
 permalink: logcol_srv.html
 sidebar: Install_G_S
-tags: [getting-started, formatting]
 product: Install_G_S
 ---
 

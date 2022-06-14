@@ -1,0 +1,8 @@
+sidebarTitle: Menu
+
+folders:
+- title: (JA상)PLURA V5 Log-F Agent Srv
+  folderitems:
+
+  - title: (JA하)PLURA V5 Log-F Agent Srv
+    url: forensic_ja.html

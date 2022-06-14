@@ -1,7 +1,7 @@
 ---
 title: Jekyllのドキュメンテーションテーマの次のバージョン - 日本語
-permalink: index.html
-sidebar: generic_ja
+permalink: index_ja.html
+sidebar: Install_G_F_ja
 topnav: topnav_ja
 ---
 

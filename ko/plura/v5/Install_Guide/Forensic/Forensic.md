@@ -2,13 +2,10 @@
 title: PLURA V5 Log-F Agent Srv 
 permalink: forensic.html
 sidebar: Install_G_F
-tags: [getting-started, formatting]
 product: Install_G_F
 ---
 
 
-![image](/docs/images/Forensic/Log_F.png){:class="align-center"}
-     
      
 + PLURA V5 Forensic은 타 시스템의 로그를 업로드하여 데이터를 수집, 로그 분석을 할 수 있는 서비스입니다.
 + 에이전트에서 로그를 업로드하면 수천개의 이상행위를 탐지할 수 있는 정책을 제공하여 종래의 로그 분석 업무 방식 대비 95%이상의 업무 부하를 줄일 수 있습니다.
@@ -31,17 +28,17 @@ product: Install_G_F
 ## ▣ Install Step
 
 먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인(라이센스 : 포렌식) 후 우측상단 <font color='dodgerblue'> Install Agents </font>  를 클릭하여 다운로드합니다.
-![image](/docs/images/Forensic/install_step.png){:class="align-center"}
+![image](/docs/images/Ins_G/Forensic/install_step.png){:class="align-center"}
 
 __1. 설치를 시작합니다.__ 
 
 Administrator 계정으로 설치해야 합니다.
 
-![image](/docs/Images/Forensic/install_1.png){:class="align-center"}
+![image](/docs/Images/Ins_G/Forensic/install_1.png){:class="align-center"}
 
 설치 경로를 선택할 수 있습니다.
 
-![image](/docs/images/Forensic/Install_2.png){:class="align-center"}
+![image](/docs/images/Ins_G/Forensic/Install_2.png){:class="align-center"}
 
 __2. 로그인 하기__
 
@@ -49,11 +46,11 @@ __2. 로그인 하기__
 
 (2) 웹페이지에서 확인한 라이센스를 입력합니다.
 
-![image](/docs/images/Forensic/install_3.png){:class="align-center"}
+![image](/docs/images/Ins_G/Forensic/install_3.png){:class="align-center"}
 
 __3. 서비스 시작__
 
 로그인 되면 PLURA V5 Log-F 서비스가 시작됩니다.
 * 로그 업로드 지원 시스템 : Windows, Linux, Android
 
-![image](/docs/images/Forensic/install_4.png){:class="align-center"}
+![image](/docs/images/Ins_G/Forensic/install_4.png){: width="700" height="450"}
