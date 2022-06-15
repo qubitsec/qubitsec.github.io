@@ -28,13 +28,13 @@ product: Install_G_F
 ## ▣ Install Step
 
 먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인(라이센스 : 포렌식) 후 우측상단 <font color='dodgerblue'> Install Agents </font>  를 클릭하여 다운로드합니다.
-![image](/docs/images/Ins_G/Forensic/install_step.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Forensic/install_step.png)](/docs/images/Ins_G/Forensic/install_step.png){: target="_blank"}
 
 __1. 설치를 시작합니다.__ 
 
 Administrator 계정으로 설치해야 합니다.
 
-![image](/docs/Images/Ins_G/Forensic/install_1.png){:class="align-center"}
+![image](/docs/Images/Ins_G/Forensic/install_1.png)
 
 설치 경로를 선택할 수 있습니다.
 
