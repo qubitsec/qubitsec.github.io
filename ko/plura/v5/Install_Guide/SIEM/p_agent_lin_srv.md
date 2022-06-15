@@ -36,15 +36,15 @@ __◆ PLURA V5 Linux Syslog 설치 영상__
 
 __◆ PLURA V5 Agent Linux Srv 설치 영상__
 
-– Linux Syslog 설치 영상 : [http://blog.plura.io/?p=11344](http://blog.plura.io/?p=11344)
+– Linux Syslog 설치 영상 : [http://blog.plura.io/?p=11344](http://blog.plura.io/?p=11344){:target="_blank"}
 
-– Linux Syslog-Audit 설치 영상 : [http://blog.plura.io/?p=13228](http://blog.plura.io/?p=13228)
+– Linux Syslog-Audit 설치 영상 : [http://blog.plura.io/?p=13228](http://blog.plura.io/?p=13228){:target="_blank"}
 
-– Linux Apache / Nginx 설치 영상 : [http://blog.plura.io/?p=11347](http://blog.plura.io/?p=11347)
+– Linux Apache / Nginx 설치 영상 : [http://blog.plura.io/?p=11347](http://blog.plura.io/?p=11347){:target="_blank"}
 
-– Linux Web Server – Datos 설치 영상 : [http://blog.plura.io/?p=11351](http://blog.plura.io/?p=11351)
+– Linux Web Server – Datos 설치 영상 : [http://blog.plura.io/?p=11351](http://blog.plura.io/?p=11351){:target="_blank"}
 
-- TEST <a href="http://blog.plura.io/?p=11347" target="_blank" rel="noopener noreferrer">http://blog.plura.io/?p=11347</a>
+
 
 
 ## 4. 추가 설정이 필요하면 아래와 같이 파일을 추가합니다.

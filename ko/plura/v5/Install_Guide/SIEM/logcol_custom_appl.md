@@ -14,7 +14,7 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
      1. 응용프로그램 원본 로그업로드를 위해서는 관리 > 목록 > 응용프로그램 태그를 등록해주어야 합니다.
      2. 수집할 경로를 파악하고 있어야 합니다.
 
-응용프로그램 로그 업로드 설정하기[1] : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653)
+응용프로그램 로그 업로드 설정하기[1] : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){:target="_blank"}
 
 ### 응용프로그램 로그는 “LogStash”를 이용하여 컬럼을 분리할 수 있습니다.
 
@@ -25,7 +25,7 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 ### ◆ Logstash 설정 방법
 
 ① Install Logstash
-[https://github.com/QubitSecurity/Logstash](https://github.com/QubitSecurity/Logstash)
+[https://github.com/QubitSecurity/Logstash](https://github.com/QubitSecurity/Logstash){:target="_blank"}
 
 ② Conf 파일 다운로드
 #cd /etc/logstash/conf.d/
@@ -35,13 +35,13 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 
 ③ Postfix 로그 경로 수정
 # vi /etc/logstash/conf.d/70-postfix-plura.conf
-[https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf)
+[https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf){:target="_blank"}
 
 ![image](/docs/images/Ins_G/LogCol_Customapp/2.png){: width="700" height="120"}
 
 #mkdir /etc/logstash/patterns.d
 #cd /etc/logstash/patterns.d
-#wget [“https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix”](https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix)
+#wget [“https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix”](https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix){:target="_blank"}
 
 ### ◆ PLURA-Agent를 이용하여 업로드 설정하기
 
@@ -51,7 +51,7 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 – 원격지 서버(자식) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstash 설치
 – 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
 
-[Install Guide > SIEM > Log Collector > Application[3] : [http://blog.plura.io/?p=17615](http://blog.plura.io/?p=17615)
+[Install Guide > SIEM > Log Collector > Application[3] : [http://blog.plura.io/?p=17615](http://blog.plura.io/?p=17615){:target="_blank"}
 
 Logstash가 설정된 원격지(자식) 서버를 등록합니다.
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
@@ -86,10 +86,10 @@ Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 �
 ![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="700" height="400"}
 
 ### ◆ 참고 사이트
-– [1] 응용프로그램 로그 업로드 설정하기 : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653)
+– [1] 응용프로그램 로그 업로드 설정하기 : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){:target="_blank"}
 
-– [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/)
+– [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
 
-– [3] Install Guide > SIEM > Log Collector > Application : [http://blog.plura.io/?p=17615](http://blog.plura.io/?p=17615)
+– [3] Install Guide > SIEM > Log Collector > Application : [http://blog.plura.io/?p=17615](http://blog.plura.io/?p=17615){:target="_blank"}
 
-– [4] Manual > Common > 관리 > 사용 : [http://blog.plura.io/?p=14046](http://blog.plura.io/?p=14046)
+– [4] Manual > Common > 관리 > 사용 : [http://blog.plura.io/?p=14046](http://blog.plura.io/?p=14046){:target="_blank"}

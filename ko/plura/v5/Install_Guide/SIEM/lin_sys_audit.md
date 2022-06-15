@@ -41,6 +41,6 @@ product: Install_G_S
 
 **▣ 참고 사이트**
 
-– Audit 로그 중앙집중관리 [http://blog.plura.io/?p=5737](http://blog.plura.io/?p=5737)
+– Audit 로그 중앙집중관리 [http://blog.plura.io/?p=5737](http://blog.plura.io/?p=5737){:target="_blank"}
 
-– 오딧(Audit) 로그는 왜 필요한가요? [http://blog.plura.io/?page_id=7353](http://blog.plura.io/?page_id=7353)
+– 오딧(Audit) 로그는 왜 필요한가요? [http://blog.plura.io/?page_id=7353](http://blog.plura.io/?page_id=7353){:target="_blank"}

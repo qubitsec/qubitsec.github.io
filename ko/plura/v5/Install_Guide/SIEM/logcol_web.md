@@ -73,3 +73,5 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 ![image](/docs/images/Ins_G/LogCol_web/7.png){: width="700" height="300"}
 
 **7. 전체로그 > 웹 메뉴에서 수집된 로그를 확인할 수 있습니다.**
+
+![image](/docs/images/Ins_G/LogCol_web/8.png){: width="700" height="350"}

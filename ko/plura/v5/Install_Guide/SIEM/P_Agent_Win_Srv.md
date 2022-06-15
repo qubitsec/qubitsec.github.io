@@ -30,7 +30,7 @@ Windows Server 2012 부터 기본 설치되어 있습니다.
 
 ## Step 2
 
-먼저 해당 시스템에서 <font color=’색상’> www.plura.io </font> 로그인 후 우측상단 <font color=’dodgerblue’> Install Agents </font> 를 클릭하여 다운로드합니다.
+먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인 후 우측상단 <font color='dodgerblue'> Install Agents </font> 를 클릭하여 다운로드합니다.
 
 
 
@@ -78,7 +78,7 @@ Step 2 까지는 ‘시스템 로그’ 수집에 대한 내용이며, Step 3은
 ‘시스템 로그’만을 필요로 하신다면 이번 스텝은 진행하실 필요가 없습니다.
 웹 로그 취합을 진행하시려면 아래 내용대로 따라해 주세요.
 
-(1) <font color=’색상’> www.plura.io </font> 에 접속하여 해당 시스템의 웹 로그 수집 기능을 활성화 시킵니다.
+(1) <font color='dodgerblue'> www.plura.io </font> 에 접속하여 해당 시스템의 웹 로그 수집 기능을 활성화 시킵니다.
 
 * 시스템 > 시스템 관리에 들어갑니다.
 
@@ -99,9 +99,9 @@ Step 2 까지는 ‘시스템 로그’ 수집에 대한 내용이며, Step 3은
 
 ![image](/docs/images/Ins_G/Agent_W/Agent_W_9.png){:class="align-center"}
 
-수동 다운로드 링크 : [Visual Studio 2012 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe)
+수동 다운로드 링크 : [Visual Studio 2012 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe){:target="_blank"}
 
-수동 다운로드 링크 : [Visual Studio 2013 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe)
+수동 다운로드 링크 : [Visual Studio 2013 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe){:target="_blank"}
 
 
 

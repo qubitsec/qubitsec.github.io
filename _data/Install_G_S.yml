@@ -75,9 +75,6 @@ folders:
 - title: PLURA V5 Syslog Collector Srv
   folderitems:
 
-  - title: PLURA V5 Syslog Collector Srv
-    url: logcol_srv.html
-
   - title: Log Collector > System
     url: /logcol_system.html
 
