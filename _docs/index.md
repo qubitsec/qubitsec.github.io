@@ -5,7 +5,6 @@ permalink: index.html
 topnav: topnav
 ---
 
-ddddddd
 
 <style>
 body {
