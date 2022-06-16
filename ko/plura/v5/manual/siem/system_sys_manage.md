@@ -13,11 +13,11 @@ topnav: topnav
 – 시스템 Summary에서는 등록된 시스템, 동작중인 시스템, 정상적으로 동작 중인 에이전트, 윈도우/리눅스 등 OS별 시스템 수 현황을 제공합니다.
 – 각각의 Summary 숫자를 클릭하는 경우, 해당 정보로 필터된 정보가 노출됩니다.
 
-[![image](/docs/images/Manual/siem/dash/1.png)](/docs/images/Manual/siem/dash/1.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/1.png)](/docs/images/Manual/siem/system/1.png){: target="_blank"}
 
 – Syslog Collector에서 노출되는 정보의 의미는 아래와 같습니다.
 
-[![image](/docs/images/Manual/siem/dash/2.png)](/docs/images/Manual/siem/dash/2.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/2.png)](/docs/images/Manual/siem/system/2.png){: target="_blank"}
 
      P : Parent(부모), C : Child(자식)
 
@@ -33,7 +33,7 @@ PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참�
 – 업데이트(빌드) 버전 마우스 오버 시, 해당 HotFix 정보를 확인할 수 있습니다.
 ※ 업데이트 정보가 없는 경우, HotFix 정보는 노출되지 않습니다.
 
-[![image](/docs/images/Manual/siem/dash/3.png)](/docs/images/Manual/siem/dash/3.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/3.png)](/docs/images/Manual/siem/system/3.png){: target="_blank"}
 
 [FAQ] 다중 인터페이스인 경우, IP주소는 어떤 것을 가져오나요?
 
@@ -41,19 +41,19 @@ PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참�
 – 해당 시스템의 웹로그 수집, 전체로그 저장, 리소스 수집 설정을 할 수 있습니다.
 – 변경사항을 수정하려면 해당 시스템을 클릭한 후 ON/OFF 상태를 변경하고 수정 버튼을 클릭합니다.
 
-[![image](/docs/images/Manual/siem/dash/4.png)](/docs/images/Manual/siem/dash/4.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/4.png)](/docs/images/Manual/siem/system/4.png){: target="_blank"}
 
 #### ◆ 명령어 히스토리
 – 여러 필터 설정에 따라 수집된 명령어 히스토리를 볼 수 있습니다.
 
-[![image](/docs/images/Manual/siem/dash/5.png)](/docs/images/Manual/siem/dash/5.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/5.png)](/docs/images/Manual/siem/system/5.png){: target="_blank"}
 
  
 
 #### ◆ 그룹등록
 – 그룹을 추가하려면 ‘그룹등록’을 클릭한 후 그룹명을 입력한 후 추가 버튼을 눌러 추가하고 싶은 시스템을 선택합니다.
 
-[![image](/docs/images/Manual/siem/dash/6.png)](/docs/images/Manual/siem/dash/6.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/6.png)](/docs/images/Manual/siem/system/6.png){: target="_blank"}
 
 – 등록완료 팝업창이 나타나면 확인 버튼을 누르면 그룹 등록이 완료됩니다.
 
@@ -63,4 +63,4 @@ PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참�
 – 필요 시 시스템 삭제도 가능합니다. 시스템 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’버튼을 클릭하면 해당 시스템이 삭제됩니다.
 – PLURA V5 서버와 통신이 정상일 때 삭제하면 해당 시스템에 설치된 에이전트도 삭제됩니다.
 
-[![image](/docs/images/Manual/siem/dash/7.png)](/docs/images/Manual/siem/dash/7.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/7.png)](/docs/images/Manual/siem/system/7.png){: target="_blank"}
