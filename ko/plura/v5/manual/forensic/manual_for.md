@@ -1,8 +1,7 @@
 ---
-title: test2
+title: Manual / Forensic
 permalink: manual_for.html
 sidebar: M_for
 topnav: topnav
 ---
 
-test3 입니다.

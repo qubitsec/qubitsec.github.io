@@ -14,9 +14,9 @@ navbar_dropdowns:
     - title: Install Guide
       folderitems:
         - title: SIEM
-          url: /Ins_main.html
+          url: /Ins_siem.html
         - title: Forensic
-          url: /forensic.html
+          url: /Ins_for.html
 
     - title: Manual
       folderitems:
@@ -29,10 +29,10 @@ navbar_dropdowns:
         - title: WAF
           url: manual_waf.html
 
-    - title: Additianal Manual
+    - title: Additional Manual
       folderitems:
-        - title: Additianal Manual
-          url: additianal_m.html
+        - title: Additional Manual
+          url: additional_m.html
     
     - title: Public Cloud Service Provider
       folderitems:

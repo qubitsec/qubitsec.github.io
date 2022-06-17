@@ -1,8 +1,7 @@
 ---
-title: test2
+title: Manual / SIEM
 permalink: manual_siem.html
 sidebar: M_SIEM
 topnav: topnav
 ---
 
-test2 입니다.

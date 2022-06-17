@@ -1,8 +1,7 @@
 ---
-title: test2
+title: Manual / WAF
 permalink: manual_waf.html
 sidebar: M_WAF
 topnav: topnav
 ---
 
-test2 입니다.
