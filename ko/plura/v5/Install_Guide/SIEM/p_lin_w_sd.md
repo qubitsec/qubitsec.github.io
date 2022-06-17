@@ -76,4 +76,4 @@ Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
 
 설정 > 웹로그 수집 경로에 위에서 지정한 __/var/log/plura/weblog2.log__ 경로 추가
 
-![image](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png)](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png){:target="_blank"}

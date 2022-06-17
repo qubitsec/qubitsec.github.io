@@ -11,7 +11,7 @@ product: Install_G_S
 
 ##### 1. 수집되는 로그 확인하기
 
-![image](/docs/images/Ins_G/rsyslog/1.png){: width="400" height="100"}
+[![image](/docs/images/Ins_G/rsyslog/1.png)](/docs/images/Ins_G/rsyslog/1.png){:target="_blank"}
 
 ##### 2. conf 설정하기(rsyslog 사용)
 ※ 80-application.conf → conf 파일 생성하기
@@ -53,7 +53,7 @@ product: Install_G_S
 
      전체로그 > 시스템 > 주요개체 컬럼에서 application 확인
 
-![image](/docs/images/Ins_G/rsyslog/2.png){: width="500" height="250"}
+[![image](/docs/images/Ins_G/rsyslog/2.png)](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
 
 ##### 6. PLURA V5 실시간 탐지 필터 등록하기
 
@@ -63,7 +63,7 @@ product: Install_G_S
 
      3) 필터등록 하단 > 정보입력 >  msg >  2020010100037 등록
 
-![image](/docs/images/Ins_G/rsyslog/3.png){: width="550" height="400"}
+[![image](/docs/images/Ins_G/rsyslog/3.png)](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
 - 내부 블로그
 

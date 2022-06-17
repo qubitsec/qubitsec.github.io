@@ -62,7 +62,7 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
      3) 권한 확인
      # ls -aZ /var/log/mysql*
 
-![image](/docs/images/Ins_G/rsys_mysql/1.png){: width="550" height="60"}
+[![image](/docs/images/Ins_G/rsys_mysql/1.png)](/docs/images/Ins_G/rsys_mysql/1.png){:target="_blank"}
 
      4) mysql restart
      # systemctl restart mysqld
@@ -70,13 +70,13 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
      5) 활성화 확인
      mysql> show variables like ‘slow_query_%’;
 
-![image](/docs/images/Ins_G/rsys_mysql/2.png){: width="300" height="200"}
+[![image](/docs/images/Ins_G/rsys_mysql/2.png)](/docs/images/Ins_G/rsys_mysql/2.png){:target="_blank"}
 
 #### 3. 로그 확인
 
      Error 또는 Slow Query 발생 후 시스템 로그에서 MySQL 관련 로그를 확인
 
-![image](/docs/images/Ins_G/rsys_mysql/3.png){: width="700" height="500"}
+[![image](/docs/images/Ins_G/rsys_mysql/3.png)](/docs/images/Ins_G/rsys_mysql/3.png){:target="_blank"}
 
 외부 참고 사이트
 

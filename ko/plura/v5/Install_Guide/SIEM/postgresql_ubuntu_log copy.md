@@ -28,6 +28,6 @@ product: Install_G_S
 
 #### 3. PLURA V5에서 확인
 
-![image](/docs/images/Ins_G/Postgresql_u/1.png){: width="700" height="300"}
+[![image](/docs/images/Ins_G/Postgresql_u/1.png)](/docs/images/Ins_G/Postgresql_u/1.png){:target="_blank"}
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.[(Syslog 필터등록 바로가기)](http://blog.plura.io/?p=7059){:target="_blank"}

@@ -31,13 +31,13 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 #cd /etc/logstash/conf.d/
 #wget “https://raw.githubusercontent.com/QubitSecurity/Logstash/main/conf.d/70-postfix-plura.conf”
 
-![image](/docs/images/Ins_G/LogCol_Customapp/1.png){: width="700" height="120"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/1.png)](/docs/images/Ins_G/LogCol_Customapp/1.png){:target="_blank"}
 
 ③ Postfix 로그 경로 수정
 # vi /etc/logstash/conf.d/70-postfix-plura.conf
 [https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf){:target="_blank"}
 
-![image](/docs/images/Ins_G/LogCol_Customapp/2.png){: width="700" height="120"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/2.png)](/docs/images/Ins_G/LogCol_Customapp/2.png){:target="_blank"}
 
 #mkdir /etc/logstash/patterns.d
 #cd /etc/logstash/patterns.d
@@ -56,34 +56,34 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 Logstash가 설정된 원격지(자식) 서버를 등록합니다.
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
 
-![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="750" height="450"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/3.png)](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"}
 
   ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 응용프로그램 사용자정의 로그 수집 경로에 “/var/log/plura/app-logstash-postfix.log”를 입력합니다.
 
-![image](/docs/images/Ins_G/LogCol_Customapp/4.png){: width="650" height="450"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"}
 
  ③ 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
  RUN Logstash(foreground)
  #/usr/share/logstash/bin/logstash -f /etc/logstash/conf.d/70-postfix-plura.conf    
 
-![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="700" height="120"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/5.png)](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"}
 
 ### ◆ PLURA V5 웹에서 확인하기
 
 – 경로 : 전체로그 > 응용프로그램 > 사용자정의 > postfix
 ※ 관리 > 사용 > 응용프로그램 > 사용자정의 설정이 ON 상태인 경우에만 메뉴가 노출됩니다.[4]
 
-![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="700" height="300"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/6.png)](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"}
 
 – “수정” 버튼을 클릭한 후, postfix 항목에 체크를 하면 사용자정의 응용프로그램에서 postfix로그를 확인할 수 있습니다.
 
 
-![image](/docs/images/Ins_G/LogCol_Customapp/7.png){: width="700" height="400"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/7.png)](/docs/images/Ins_G/LogCol_Customapp/7.png){:target="_blank"}
 
 Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 확인할 수 있습니다.
 
-![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="700" height="400"}
+[![image](/docs/images/Ins_G/LogCol_Customapp/8.png)](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"}
 
 ### ◆ 참고 사이트
 – [1] 응용프로그램 로그 업로드 설정하기 : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){:target="_blank"}

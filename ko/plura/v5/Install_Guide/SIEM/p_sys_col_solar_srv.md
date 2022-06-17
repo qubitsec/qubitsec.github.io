@@ -28,4 +28,4 @@ product: Install_G_S
 ### 3. www.plura.io 웹에서 시스템 등록을 합니다.
 **– 시스템 > 시스템 관리 > 취합 시스템 선택 > 시스템 등록**
 
-![image](/docs/images/Ins_G/Solaris/Solaris_Srv.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Solaris/Solaris_Srv.png)](/docs/images/Ins_G/Solaris/Solaris_Srv.png){:target="_blank"}

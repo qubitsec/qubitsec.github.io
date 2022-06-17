@@ -23,14 +23,14 @@ PLURA V5 Agent 설치 완료 후, 아래의 내용을 참고하여 Sysmon 을 �
 
 압축을 푼 후 Sysmon 폴더에서 **[Shift + 우클릭]** 을 하여 ‘여기서 명령 창 열기’ 로 cmd 창을 엽니다.
 
-![image](/docs/images/Ins_G/Sysmon/sysmon_1.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_1.png)](/docs/images/Ins_G/Sysmon/sysmon_1.png){:target="_blank"}
 
 **” Sysmon.exe –i [options] ” 명령어를 통해 Sysmon을 설치할 수 있습니다.**
 **” Sysmon.exe -h ” 명령어를 통해 [options] 의 목록을 볼 수 있습니다.**
 
 **[options]**
 
-![image](/docs/images/Ins_G/Sysmon/sysmon_2.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_2.png)](/docs/images/Ins_G/Sysmon/sysmon_2.png){:target="_blank"}
 
 설치할 때 **-accepteula** 옵션을 사용하면 소프트에어 사용자 동의인 **EULA(End User License Agreement)** 를 자동 수락된 상태에서 설치가 가능합니다.
 
@@ -58,7 +58,7 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 Agent 에서 SYSMON 설치 확인
 
-![image](/docs/images/Ins_G/Sysmon/sysmon_3.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"}
 
 ### 2. Sysmon 이벤트확인
 
@@ -66,16 +66,16 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
 
 %SystemRoot%\System32\Winevt\Logs\Microsoft-Windows-Sysmon%4Operational.evtx
 
-![image](/docs/images/Ins_G/Sysmon/sysmon_4.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_4.png)](/docs/images/Ins_G/Sysmon/sysmon_4.png){:target="_blank"}
 
 
 ### 3. Sysmon 활용
 
 이벤트뷰어에서 아래와 같이 응용 프로그램 및 서비스 로그->Microsoft->Windows->Sysmon-> Operational 을 클릭할 수 있습니다.
 
-![image](/docs/images/Ins_G/Sysmon/sysmon_5.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_5.png)](/docs/images/Ins_G/Sysmon/sysmon_5.png){:target="_blank"}
 
-![image](/docs/images/Ins_G/Sysmon/sysmon_6.png){:class="align-center"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_6.png)](/docs/images/Ins_G/Sysmon/sysmon_6.png){:target="_blank"}
 
   - Sysmon Event ID 의 의미는 다음 URL에서 확인할 수 있습니다.
 
