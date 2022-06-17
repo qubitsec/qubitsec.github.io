@@ -130,7 +130,3 @@ __※ PLURA V5 Web 시스템 관리 메뉴에서 Web Log 수집 설정 방법__
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/kKLL_sP9w9c' frameborder='0' allowfullscreen></iframe></div>
 
 
-| sample | table |
-|----|-----|
-| row 1 | row 1 |
-| row 2 | row 2|

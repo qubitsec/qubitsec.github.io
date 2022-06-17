@@ -34,7 +34,9 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 [![image](/docs/images/Ins_G/LogCol_Customapp/1.png)](/docs/images/Ins_G/LogCol_Customapp/1.png){:target="_blank"}
 
 ③ Postfix 로그 경로 수정
-# vi /etc/logstash/conf.d/70-postfix-plura.conf
+
+     # vi /etc/logstash/conf.d/70-postfix-plura.conf
+
 [https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf){:target="_blank"}
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/2.png)](/docs/images/Ins_G/LogCol_Customapp/2.png){:target="_blank"}
@@ -48,10 +50,12 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 위에서 설명한 Logstash를 이용하여 Linux : Postfix 로그를 PLURA V5에서 수집해보겠습니다.
 
 ※ 테스트 환경
+
 – 원격지 서버(자식) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstash 설치
+
 – 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
 
-[Install Guide > SIEM > Log Collector > Application[3] : [http://blog.plura.io/?p=17615](http://blog.plura.io/?p=17615){:target="_blank"}
+[Install Guide > SIEM > Log Collector > Application[3] : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
 
 Logstash가 설정된 원격지(자식) 서버를 등록합니다.
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
@@ -86,10 +90,10 @@ Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 �
 [![image](/docs/images/Ins_G/LogCol_Customapp/8.png)](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"}
 
 ### ◆ 참고 사이트
-– [1] 응용프로그램 로그 업로드 설정하기 : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){:target="_blank"}
+– [1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/set_app_log_up.html](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}
 
 – [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
 
-– [3] Install Guide > SIEM > Log Collector > Application : [http://blog.plura.io/?p=17615](http://blog.plura.io/?p=17615){:target="_blank"}
+– [3] Install Guide > SIEM > Log Collector > Application : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
 
-– [4] Manual > Common > 관리 > 사용 : [http://blog.plura.io/?p=14046](http://blog.plura.io/?p=14046){:target="_blank"}
+– [4] Manual > Common > 관리 > 사용 : [https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}

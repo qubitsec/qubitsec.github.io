@@ -64,4 +64,5 @@ topnav: topnav
 ◆ 내부 블로그
 
 – 응용프로그램 로그 수집 : [http://blog.plura.io/?p=17673](http://blog.plura.io/?p=17673){: target="_blank"}
-– 응용프로그램 로그 업로드 설정하기(영상) : [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){: target="_blank"}
+
+– 응용프로그램 로그 업로드 설정하기(영상) : [https://qubitsec.github.io/set_app_log_up.html](https://qubitsec.github.io/set_app_log_up.html){: target="_blank"}

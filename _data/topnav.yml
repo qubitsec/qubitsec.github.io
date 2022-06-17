@@ -39,7 +39,7 @@ navbar_dropdowns:
         - title: Public Cloud Service Provider
           url: pc_sp.html
     
-    - title: Vdieo
+    - title: Video
       folderitems:
         - title: 회사소개
           url: video_company.html

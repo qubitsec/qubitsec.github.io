@@ -6,6 +6,7 @@ topnav: topnav
 ---
 
 PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하여 수집할 수 있습니다.
+
 다음은 Apache error log, Tomcat catalina.out 의 로그 업로드 예시입니다.
 
      1. 응용프로그램 로그업로드를 위해서는 관리 > 목록 > 응용프로그램 태그를 등록해주어야 합니다.
