@@ -85,7 +85,7 @@ Step 2 까지는 ‘시스템 로그’ 수집에 대한 내용이며, Step 3은
 
 (2-1) 웹로그 수집에 체크 후 확인 버튼을 클릭합니다. 해제를 원하시면 언체크 합니다.
 
-[![image](/docs/images/Ins_G/Agent_W/Agent_W_7.png)](/docs/images/Ins_G/Agent_W/Agent_W_7.png){:target="_blank"}
+[![image](/docs/images/Ins_G/Agent_W/Agent_W_7.png){: width="800" }](/docs/images/Ins_G/Agent_W/Agent_W_7.png){:target="_blank"}
 
 (2-2) 또는 에이전트의 웹로그 설정 메뉴에서 웹로그 수집 체크를 합니다. 해제를 원하시면 언체크 합니다.
 
@@ -123,7 +123,7 @@ C:\Program Files (x86)\PLURA 경로에서 확인 하실 수 있습니다.
 
 **ex)PLURAService 버전 확인**
 
-[![image](/docs/images/Ins_G/Agent_W/Agent_W_11.png)](/docs/images/Ins_G/Agent_W/Agent_W_11.png){:target="_blank"}
+[![image](/docs/images/Ins_G/Agent_W/Agent_W_11.png){: width="800" }](/docs/images/Ins_G/Agent_W/Agent_W_11.png){:target="_blank"}
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_12.png)](/docs/images/Ins_G/Agent_W/Agent_W_12.png){:target="_blank"}
 

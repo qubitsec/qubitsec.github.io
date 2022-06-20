@@ -16,7 +16,7 @@ topnav: topnav
 <br />
 ## ◆ 웹방화벽 필터 등록
 
-[![image](/docs/images/Manual/waf/filter/1.png)](/docs/images/Manual/waf/filter/1.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/filter/1.png){: width="800" }](/docs/images/Manual/waf/filter/1.png){: target="_blank"}
  
 
 <br />
@@ -30,7 +30,7 @@ topnav: topnav
 <br />
 2. 등록필터 페이지(시스템/웹/웹방화벽)에서 필터등록 버튼을 클릭합니다.
 
-[![image](/docs/images/Manual/waf/filter/3.png)](/docs/images/Manual/waf/filter/3.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/filter/3.png){: width="800" }](/docs/images/Manual/waf/filter/3.png){: target="_blank"}
 
 <br />
 3. 필터 분류를 선택합니다.
@@ -59,7 +59,7 @@ topnav: topnav
 
 ※ 웹방화벽 필터 등록 예시
 
-[![image](/docs/images/Manual/waf/filter/5.png)](/docs/images/Manual/waf/filter/5.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/filter/5.png){: width="800" }](/docs/images/Manual/waf/filter/5.png){: target="_blank"}
 
  
 <br />

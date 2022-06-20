@@ -12,15 +12,15 @@ product: Install_G_S
 
 ① 시스템  > 시스템 관리 > 서버 선택 > 설정 탭 이동 > 설정 버튼을 클릭합니다.
 
-[![image](/docs/images/Ins_G/mysql_slow/1.png)](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"}
 
 ② 응용프로그램 원본로그 수집 설정을 활성화합니다.
 
-[![image](/docs/images/Ins_G/mysql_slow/2.png)](/docs/images/Ins_G/mysql_slow/2.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/2.png){: width="800" }](/docs/images/Ins_G/mysql_slow/2.png){:target="_blank"}
 
 ③ 경로 > 설정 버튼을 클릭합니다.
 
-[![image](/docs/images/Ins_G/mysql_slow/3.png)](/docs/images/Ins_G/mysql_slow/3.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/3.png){: width="800" }](/docs/images/Ins_G/mysql_slow/3.png){:target="_blank"}
 
 ④ 태그 선택 및 경로를 입력합니다.
 ※ MySQL Error 로그와 Slow-Query 로그 경로를 입력합니다.
@@ -35,13 +35,13 @@ product: Install_G_S
 
 – 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
 
-[![image](/docs/images/Ins_G/mysql_slow/6.png)](/docs/images/Ins_G/mysql_slow/6.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/6.png){: width="800" }](/docs/images/Ins_G/mysql_slow/6.png){:target="_blank"}
 
 – 등록 버튼을 클릭합니다.
-[![image](/docs/images/Ins_G/mysql_slow/7.png)](/docs/images/Ins_G/mysql_slow/7.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/7.png){: width="800" }](/docs/images/Ins_G/mysql_slow/7.png){:target="_blank"}
 
 – 등록하고자 하는 태그를 입력합니다.
-[![image](/docs/images/Ins_G/mysql_slow/8.png)](/docs/images/Ins_G/mysql_slow/8.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/8.png){: width="800" }](/docs/images/Ins_G/mysql_slow/8.png){:target="_blank"}
 
 ## 2. MySQL – SLOW QUERY 설정
 1) 설정

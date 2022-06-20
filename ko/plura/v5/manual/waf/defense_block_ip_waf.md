@@ -19,7 +19,7 @@ topnav: topnav
 ## 차단IP주소 > 웹방화벽
 - 웹방화벽 필터탐지/전체로그 페이지에서 즉시방어 버튼을 클릭하여 등록한 정보 또는 IP주소 등록 버튼을 클릭하여 직접 등록한 정보가 노출됩니다.
 
-[![image](/docs/images/Manual/waf/defense/ip/1.png)](/docs/images/Manual/waf/defense/ip/1.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/defense/ip/1.png){: width="800" }](/docs/images/Manual/waf/defense/ip/1.png){: target="_blank"}
  
 <br />
 - IP주소 등록 버튼을 클릭하면, 아래와 같은 설정 팝업이 노출됩니다.

@@ -52,7 +52,7 @@ Syslog 재시작
 
 <br />
 
-[![image](/docs/images/Ins_G/logCol_system/sys_1.png)](/docs/images/Ins_G/logCol_system/sys_1.png){:target="_blank"}
+[![image](/docs/images/Ins_G/logCol_system/sys_1.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_1.png){:target="_blank"}
 
 
 ### 3. 라이센스 등록 및 실행을 합니다.
@@ -61,14 +61,14 @@ Syslog 재시작
 
 <br />
 
-[![image](/docs/images/Ins_G/logCol_system/sys_2.png)](/docs/images/Ins_G/logCol_system/sys_2.png){:target="_blank"}
+[![image](/docs/images/Ins_G/logCol_system/sys_2.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_2.png){:target="_blank"}
 
 
 ### 4. 원격지(자식) 서버를 등록합니다.
 
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 시스템 버튼을 클릭합니다.
 
-[![image](/docs/images/Ins_G/logCol_system/sys_3.png)](/docs/images/Ins_G/logCol_system/sys_3.png){:target="_blank"}
+[![image](/docs/images/Ins_G/logCol_system/sys_3.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_3.png){:target="_blank"}
 
 <br />
   ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
@@ -78,8 +78,8 @@ Syslog 재시작
 <br />
   ③ 시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
 
-[![image](/docs/images/Ins_G/logCol_system/sys_5.png)](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"}
+[![image](/docs/images/Ins_G/logCol_system/sys_5.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"}
 
 ### 5. 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
 
-[![image](/docs/images/Ins_G/logCol_system/sys_6.png)](/docs/images/Ins_G/logCol_system/sys_6.png){:target="_blank"}
+[![image](/docs/images/Ins_G/logCol_system/sys_6.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_6.png){:target="_blank"}

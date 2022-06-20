@@ -34,7 +34,7 @@ product: Install_G_S
 
 <br />
 
-[![image](/docs/images/Ins_G/LogCol_app/app_1.png)](/docs/images/Ins_G/LogCol_app/app_1.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_1.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_1.png){: target="_blank"}
 
 
 
@@ -45,7 +45,7 @@ product: Install_G_S
 
 <br />
 
-[![image](/docs/images/Ins_G/LogCol_app/app_2.png)](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_2.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
 
 
 ### 3. 로그 취합서버(부모)에서 인바운드 TCP 5514 포트를 오픈합니다.
@@ -56,12 +56,12 @@ product: Install_G_S
 
 <br />
 
-[![image](/docs/images/Ins_G/LogCol_app/app_3.png)](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_3.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}
 
 ### 5. 원격지(자식) 서버를 등록합니다.
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.
 
-[![image](/docs/images/Ins_G/LogCol_app/app_4.png)](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_4.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}
 
   ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 
@@ -79,7 +79,7 @@ product: Install_G_S
 ※ 태그 등록 방법
 – 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
 
-[![image](/docs/images/Ins_G/LogCol_app/app_8.png)](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_8.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}
 
 <br />
   ⑤ 등록한 태그 및 수집하고자 하는 응용 프로그램 경로를 등록합니다.
@@ -91,7 +91,7 @@ product: Install_G_S
   ⑥ 로그 취합서버(부모)를 선택하여 응용프로그램 로그수집이 정상적으로 설정되었는지 확인합니다.
     – 원격지(자식) 서버를 선택하면 설정 팝업이 노출됩니다.
 
-[![image](/docs/images/Ins_G/LogCol_app/app_10.png)](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_10.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}
 
 <br />
   ⑦ 응용프로그램 설정 버튼을 OFF → ON으로 활성화시켜줍니다. 
@@ -100,4 +100,4 @@ product: Install_G_S
 
 ### 6. 전체로그 > 응용프로그램 메뉴에서 수집된 로그를 확인할 수 있습니다.
 
-[![image](/docs/images/Ins_G/LogCol_app/app_12.png)](/docs/images/Ins_G/LogCol_app/app_12.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_12.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_12.png){: target="_blank"}

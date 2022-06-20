@@ -54,16 +54,16 @@ topnav: topnav
 ## ◆ 유형 선택
 - 유형별로 로그를 선택하여 볼 수 있습니다.
 
-[![image](/docs/images/Manual/waf/all/8.png)](/docs/images/Manual/waf/all/8.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/8.png){: width="800" }](/docs/images/Manual/waf/all/8.png){: target="_blank"}
 
 <br />
 ## ◆ 로그 분석 정보
 - 로그 목록을 클릭하면 각각의 로그에 담긴 자세한 내용들을 볼 수 있습니다.
 
-[![image](/docs/images/Manual/waf/all/9.png)](/docs/images/Manual/waf/all/9.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/9.png){: width="800" }](/docs/images/Manual/waf/all/9.png){: target="_blank"}
 
 <br />
 ## ◆ 로그 원본 내용
 - ‘로그상세’ 버튼을 클릭하면 발생된 원본 내용을 확인할 수 있습니다.
 
-[![image](/docs/images/Manual/waf/all/10.png)](/docs/images/Manual/waf/all/10.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/10.png){: width="800" }](/docs/images/Manual/waf/all/10.png){: target="_blank"}

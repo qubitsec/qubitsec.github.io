@@ -54,7 +54,7 @@ product: Install_G_S
      전체로그 > 시스템 > 주요개체 컬럼에서 application 확인
 
 <br />
-[![image](/docs/images/Ins_G/rsyslog/2.png)](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
+[![image](/docs/images/Ins_G/rsyslog/2.png){: width="800" }](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
 
 ## 6. PLURA V5 실시간 탐지 필터 등록하기
 
@@ -66,7 +66,7 @@ product: Install_G_S
 
 
 <br />
-[![image](/docs/images/Ins_G/rsyslog/3.png)](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
+[![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
 - 내부 블로그
 

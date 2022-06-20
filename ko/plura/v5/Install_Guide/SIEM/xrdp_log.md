@@ -31,9 +31,9 @@ product: Install_G_S
 
 ## 4. PLURA V5에서 확인하기
 
-[![image](/docs/images/Ins_G/xrdp/1.png)](/docs/images/Ins_G/xrdp/1.png){:target="_blank"}
+[![image](/docs/images/Ins_G/xrdp/1.png){: width="800" }](/docs/images/Ins_G/xrdp/1.png){:target="_blank"}
 <br />
 
-[![image](/docs/images/Ins_G/xrdp/2.png)](/docs/images/Ins_G/xrdp/2.png){:target="_blank"}
+[![image](/docs/images/Ins_G/xrdp/2.png){: width="800" }](/docs/images/Ins_G/xrdp/2.png){:target="_blank"}
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.[(Syslog 필터등록 바로가기)](https://qubitsec.github.io/f_regi_syslog.html){:target="_blank"}

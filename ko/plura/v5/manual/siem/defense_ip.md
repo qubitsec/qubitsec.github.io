@@ -15,20 +15,23 @@ topnav: topnav
      2. 방어 > 차단IP주소 > 시스템 > IP주소 등록 버튼 클릭
      3. 방어 > 설정 > 시스템 > 방어 설정
 
-#### 차단IP주소 > 시스템
-– 시스템 필터탐지/전체로그 페이지에서 즉시방어 버튼을 클릭하여 등록한 정보 또는 IP주소 등록 버튼을 클릭하여 직접 등록한 정보가 노출됩니다.
+<br />
+## 차단IP주소 > 시스템
+- 시스템 필터탐지/전체로그 페이지에서 즉시방어 버튼을 클릭하여 등록한 정보 또는 IP주소 등록 버튼을 클릭하여 직접 등록한 정보가 노출됩니다.
  
- [![image](/docs/images/Manual/siem/blockIP/1.png)](/docs/images/Manual/siem/blockIP/1.png){: target="_blank"}
+ [![image](/docs/images/Manual/siem/blockIP/1.png){: width="800" }](/docs/images/Manual/siem/blockIP/1.png){: target="_blank"}
 
-
+<br />
 - IP주소 등록 버튼을 클릭하면, 아래와 같은 설정 팝업이 노출됩니다.
-– 시스템 :  방어 대상 시스템 선택
-– IP주소 :  차단 IP주소 입력
-– 설명 : 차단을 하는 이유 또는 목적 입력
+- 시스템 :  방어 대상 시스템 선택
+- IP주소 :  차단 IP주소 입력
+- 설명 : 차단을 하는 이유 또는 목적 입력
+<br />
 
 [![image](/docs/images/Manual/siem/blockIP/2.png)](/docs/images/Manual/siem/blockIP/2.png){: target="_blank"}
 
-
+<br />
 - 수정/삭제 버튼을 통해서 편집이 가능합니다.
+<br />
 
 [![image](/docs/images/Manual/siem/blockIP/3.png)](/docs/images/Manual/siem/blockIP/3.png){: target="_blank"}

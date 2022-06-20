@@ -12,15 +12,15 @@ topnav: topnav
 **일일 보고서**
 
 
-[![image](/docs/images/Manual/waf/report/1.png)](/docs/images/Manual/waf/report/1.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/1.png){: width="800" }](/docs/images/Manual/waf/report/1.png){: target="_blank"}
  
 <br />
 **주별 보고서**
 
-[![image](/docs/images/Manual/waf/report/2.png)](/docs/images/Manual/waf/report/2.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/2.png){: width="800" }](/docs/images/Manual/waf/report/2.png){: target="_blank"}
 
  
 <br />
 **월별 보고서**
 
-[![image](/docs/images/Manual/waf/report/3.png)](/docs/images/Manual/waf/report/3.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/3.png){: width="800" }](/docs/images/Manual/waf/report/3.png){: target="_blank"}

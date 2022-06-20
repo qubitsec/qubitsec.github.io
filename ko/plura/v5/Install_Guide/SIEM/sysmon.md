@@ -48,7 +48,7 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
      ※ PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
      경로 : C:\Program Files (x86)\PLURA
-     
+
 <br />
 
 #### ② 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후, 아래의 명령어를 입력합니다.
@@ -79,7 +79,7 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
 
 [![image](/docs/images/Ins_G/Sysmon/sysmon_5.png)](/docs/images/Ins_G/Sysmon/sysmon_5.png){:target="_blank"}
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_6.png)](/docs/images/Ins_G/Sysmon/sysmon_6.png){:target="_blank"}
+[![image](/docs/images/Ins_G/Sysmon/sysmon_6.png){: width="800" }](/docs/images/Ins_G/Sysmon/sysmon_6.png){:target="_blank"}
 
   - Sysmon Event ID 의 의미는 다음 URL에서 확인할 수 있습니다.
 

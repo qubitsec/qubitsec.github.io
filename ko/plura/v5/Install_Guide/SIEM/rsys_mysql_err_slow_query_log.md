@@ -79,7 +79,7 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
      Error 또는 Slow Query 발생 후 시스템 로그에서 MySQL 관련 로그를 확인
 
 <br />
-[![image](/docs/images/Ins_G/rsys_mysql/3.png)](/docs/images/Ins_G/rsys_mysql/3.png){:target="_blank"}
+[![image](/docs/images/Ins_G/rsys_mysql/3.png){: width="800" }](/docs/images/Ins_G/rsys_mysql/3.png){:target="_blank"}
 <br />
 외부 참고 사이트
 

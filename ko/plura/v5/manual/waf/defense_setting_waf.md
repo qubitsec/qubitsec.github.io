@@ -30,19 +30,19 @@ topnav: topnav
 <br />
 – 계정탈취 차단
 
-[![image](/docs/images/Manual/waf/defense/setting/1.png)](/docs/images/Manual/waf/defense/setting/1.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/defense/setting/1.png){: width="800" }](/docs/images/Manual/waf/defense/setting/1.png){: target="_blank"}
 
 <br />
 – 계정탈취 제한
 
-[![image](/docs/images/Manual/waf/defense/setting/2.png)](/docs/images/Manual/waf/defense/setting/2.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/defense/setting/2.png){: width="800" }](/docs/images/Manual/waf/defense/setting/2.png){: target="_blank"}
 
 <br />
 – 데이터 유출 차단
 
-[![image](/docs/images/Manual/waf/defense/setting/3.png)](/docs/images/Manual/waf/defense/setting/3.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/defense/setting/3.png){: width="800" }](/docs/images/Manual/waf/defense/setting/3.png){: target="_blank"}
 
 <br />
 – OWASP 차단
 
-[![image](/docs/images/Manual/waf/defense/setting/4.png)](/docs/images/Manual/waf/defense/setting/4.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/defense/setting/4.png){: width="800" }](/docs/images/Manual/waf/defense/setting/4.png){: target="_blank"}
