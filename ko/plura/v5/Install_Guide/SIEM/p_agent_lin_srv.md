@@ -19,7 +19,6 @@ __◆ PLURA V5 Linux Syslog 설치 영상__
 
 ## 1. PLURA V5 Agent를 설치합니다.
 
-
      - [root@localhost]# sudo -s
      - [root@localhost]# curl https://repo.plura.io/v5/agent/install.sh | bash
 

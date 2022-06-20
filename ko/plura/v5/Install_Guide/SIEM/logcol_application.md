@@ -67,10 +67,12 @@ product: Install_G_S
 
 [![image](/docs/images/Ins_G/LogCol_app/app_5.png)](/docs/images/Ins_G/LogCol_app/app_5.png){: target="_blank"}
 
+<br />
   ③ 등록 팝업에서 “경로 등록” 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_6.png)](/docs/images/Ins_G/LogCol_app/app_6.png){: target="_blank"}
 
+<br />
   ④ 태그 및 경로를 등록합니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}
@@ -79,17 +81,21 @@ product: Install_G_S
 
 [![image](/docs/images/Ins_G/LogCol_app/app_8.png)](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}
 
+<br />
   ⑤ 등록한 태그 및 수집하고자 하는 응용 프로그램 경로를 등록합니다.
     – 아래 예시에서는 Apache-errorlog를 설정하였습니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_9.png)](/docs/images/Ins_G/LogCol_app/app_9.png){: target="_blank"}
 
+<br />
   ⑥ 로그 취합서버(부모)를 선택하여 응용프로그램 로그수집이 정상적으로 설정되었는지 확인합니다.
     – 원격지(자식) 서버를 선택하면 설정 팝업이 노출됩니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_10.png)](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}
 
+<br />
   ⑦ 응용프로그램 설정 버튼을 OFF → ON으로 활성화시켜줍니다. 
+
 [![image](/docs/images/Ins_G/LogCol_app/app_11.png)](/docs/images/Ins_G/LogCol_app/app_11.png){: target="_blank"}
 
 ### 6. 전체로그 > 응용프로그램 메뉴에서 수집된 로그를 확인할 수 있습니다.

@@ -33,6 +33,8 @@ product: Install_G_S
      if $programname == ‘httpd‘ then /var/log/plura/ceelog-127.0.0.1.log;CEETemplate
      :programname, isequal, ‘httpd‘ stop
 
+<br />
+
 #### 2-1. PLURA V5 repo 에서 다운로드 받기
 
      # wget https://repo.plura.io/v5/module/rsyslog/80-httpd.conf

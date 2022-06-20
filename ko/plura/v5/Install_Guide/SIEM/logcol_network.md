@@ -42,6 +42,8 @@ Syslog 재시작
 
      # service rsyslog restart
 
+<br />
+
 #### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
      sudo -s
@@ -51,6 +53,8 @@ Syslog 재시작
 
 [![image](/docs/images/Ins_G/LogCol_Net/1.png)](/docs/images/Ins_G/LogCol_Net/1.png){:target="_blank"}
 
+<br />
+
 #### 3. 라이센스 등록 및 실행을 합니다.
 
      /etc/plura/plura.sh register 라이센스키
@@ -58,6 +62,8 @@ Syslog 재시작
 <br />
 
 [![image](/docs/images/Ins_G/LogCol_Net/2.png)](/docs/images/Ins_G/LogCol_Net/2.png){:target="_blank"}
+
+<br />
 
 #### 4. 원격지(자식) 서버를 등록합니다.
  ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 네트워크 버튼을 클릭합니다.

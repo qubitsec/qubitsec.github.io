@@ -70,10 +70,12 @@ Syslog 재시작
 
 [![image](/docs/images/Ins_G/logCol_system/sys_3.png)](/docs/images/Ins_G/logCol_system/sys_3.png){:target="_blank"}
 
+<br />
   ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 
 [![image](/docs/images/Ins_G/logCol_system/sys_4.png)](/docs/images/Ins_G/logCol_system/sys_4.png){:target="_blank"}
 
+<br />
   ③ 시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
 
 [![image](/docs/images/Ins_G/logCol_system/sys_5.png)](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"}
