@@ -1,9 +1,10 @@
 ---
-title: PLURA V5 Linux Web Server-Datos
+title: Linux Web Server-Datos
 permalink: p_lin_w_sd.html
 sidebar: Install_G_S
 product: Install_G_S
 ---
+
 
 Datos는 웹 트래픽을 모니터링하기 위한 도구입니다.
 모니터링을 위하여 네트워크 인터페이스의 포트 정보만을 사용하므로 다른 프로세스와 충돌은 발생하지 않습니다.
@@ -18,7 +19,10 @@ __▣ Linux Web Server – Datos 설치 영상__
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TqDUR002tt0' frameborder='0' allowfullscreen></iframe></div>
 
+<br />
+
 __[Datos] 멀티 포트 로깅__
+
 
 Datos는 한 개의 에이전트에서 하나의 IP:PORT 데이터만 로깅할 수 있습니다.
 여러개의 IP주소 또는 PORT 데이터를 로깅하려면, 필요할 개수만큼 Datos 에이전트를 생성해야 합니다.

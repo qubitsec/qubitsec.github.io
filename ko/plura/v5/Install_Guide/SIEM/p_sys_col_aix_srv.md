@@ -1,5 +1,5 @@
 ---
-title: PLURA V5 Syslog Collector for AIX Srv
+title: Syslog Collector for AIX Srv
 permalink: p_sys_col_aix_srv.html
 sidebar: Install_G_S
 product: Install_G_S
@@ -7,13 +7,13 @@ product: Install_G_S
 
 반드시 www.plura.io 우측 상단의 Install Agents 페이지에서 확인하여 설치하시길 바랍니다.
 
-### 1. Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합니다.
+## 1. Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합니다.
 
 페이지 상단 메뉴에서 OS별 선택
 
  - CentOS/Ubuntu : Linux > Syslog 탭
 
-### 2. AIX Srv 에서 Syslog 전송 설정을 합니다.
+## 2. AIX Srv 에서 Syslog 전송 설정을 합니다.
 
      # vi /etc/syslog.conf
      <예>
@@ -24,7 +24,7 @@ product: Install_G_S
      @@ 두개는 TCP로 통신
      PLURA V5는 기본 @UDP 통신
 
-### 3. 파일 감사 설정을 하려면 아래와 같이 설정합니다.
+## 3. 파일 감사 설정을 하려면 아래와 같이 설정합니다.
 
      # vi /etc/security/audit/config
      set binmode = off
@@ -48,7 +48,8 @@ product: Install_G_S
      # audit shutdown
      # refresh -s syslogd
 
-### 4. www.plura.io 웹에서 시스템 등록을 합니다.
+## 4. www.plura.io 웹에서 시스템 등록을 합니다.
+
 **– 시스템 > 시스템 관리 > 취합시스템 선택 > 시스템 등록**
 
 [![image](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/시스템등록.png)](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/시스템등록.png){:target="_blank"}

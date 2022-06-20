@@ -5,11 +5,11 @@ sidebar: Install_G_S
 product: Install_G_S
 ---
 
-### 1. openvpn.conf 다운로드 rsyslog 사용
+## 1. openvpn.conf 다운로드 rsyslog 사용
 
      curl https://repo.plura.io/v5/module/rsyslog/80-openvpn.conf -o /etc/rsyslog.d/80-openvpn.conf
 
-### 2. 80-openvpn.conf 수정
+## 2. 80-openvpn.conf 수정
 
      > /etc/openvpn/server/server.conf 로그 위치 확인
 
@@ -18,7 +18,7 @@ product: Install_G_S
 
      #vi /etc/rsyslog.d/80-openvpn.conf
 
-### 3. openvpn server conf 수정
+## 3. openvpn server conf 수정
 
      > logging 레벨 확인
 
@@ -26,11 +26,11 @@ product: Install_G_S
 
      #vi /etc/openvpn/server/server.conf
 
-### 4. rsyslog 데몬 재 시작
+## 4. rsyslog 데몬 재 시작
 
      service rsyslog restart
 
-### 5. PLURA V5에서 확인하기
+## 5. PLURA V5에서 확인하기
 
 [![image](/docs/images/Ins_G/openvpn/1.png)](/docs/images/Ins_G/openvpn/1.png){:target="_blank"}
 

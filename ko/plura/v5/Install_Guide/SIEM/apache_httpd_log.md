@@ -5,15 +5,15 @@ sidebar: Install_G_S
 product: Install_G_S
 ---
 
-### Apache httpd error 로그 수집
+## Apache httpd error 로그 수집
 
-#### 1. conf 설정하기(rsyslog 사용)
+### 1. conf 설정하기(rsyslog 사용)
 ※ 80-httpd.conf → conf 파일 생성하기
 
      # cd /etc/rsyslog.d/
      # vi /etc/rsyslog.d/80-httpd.conf
 
-#### 2. conf 파일 생성
+### 2. conf 파일 생성
 ※ File = “로그 경로”, Tag = “태그”, Severity = “심각도”, programname = “프로그램명”
 
      ## vi /etc/rsyslog.d/80-httpd.conf
@@ -33,17 +33,17 @@ product: Install_G_S
      if $programname == ‘httpd‘ then /var/log/plura/ceelog-127.0.0.1.log;CEETemplate
      :programname, isequal, ‘httpd‘ stop
 
-##### 2-1. PLURA V5 repo 에서 다운로드 받기
+#### 2-1. PLURA V5 repo 에서 다운로드 받기
 
      # wget https://repo.plura.io/v5/module/rsyslog/80-httpd.conf
 
      # curl https://repo.plura.io/v5/module/rsyslog/80-httpd.conf -o /etc/rsyslog.d/80-httpd.conf
 
-#### 3. rsyslog 데몬 재시작
+### 3. rsyslog 데몬 재시작
 
      # service rsyslog restart
 
-#### 4. PLURA V5 탐지 확인
+### 4. PLURA V5 탐지 확인
 [![image](/docs/images/Ins_G/apache_httpd_err/1.png)](/docs/images/Ins_G/apache_httpd_err/1.png){: target="_blank"}
 
 

@@ -11,6 +11,8 @@ product: Install_G_S
      – 다른 시스템의 syslog 를 취합
      – 취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
+<br />
+
 PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
      CentOS 7, Stream 8
@@ -22,9 +24,9 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
      제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다. 해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
-### PLURA V5 Log Collector – System 설정하기
+## PLURA V5 Log Collector – System 설정하기
 
-#### 1. 원격지(자식) 서버에 Syslog 전송 설정을 합니다.
+### 1. 원격지(자식) 서버에 Syslog 전송 설정을 합니다.
 
 __※ 자식 시스템 설정하기__
 
@@ -35,28 +37,34 @@ Syslog 전송 설정 (by root)
      <예>
      *.info @로그취합시스템IP
 
+<br />
+
 Syslog 재시작
 
      # service rsyslog restart
 
  
 
-#### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
+### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
      sudo -s
      curl https://repo.plura.io/v5/logcollector/install.sh | bash
 
+<br />
+
 [![image](/docs/images/Ins_G/logCol_system/sys_1.png)](/docs/images/Ins_G/logCol_system/sys_1.png){:target="_blank"}
 
 
-#### 3. 라이센스 등록 및 실행을 합니다.
+### 3. 라이센스 등록 및 실행을 합니다.
 
      /etc/plura/plura.sh register 라이센스키
+
+<br />
 
 [![image](/docs/images/Ins_G/logCol_system/sys_2.png)](/docs/images/Ins_G/logCol_system/sys_2.png){:target="_blank"}
 
 
-#### 4. 원격지(자식) 서버를 등록합니다.
+### 4. 원격지(자식) 서버를 등록합니다.
 
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 시스템 버튼을 클릭합니다.
 
@@ -70,6 +78,6 @@ Syslog 재시작
 
 [![image](/docs/images/Ins_G/logCol_system/sys_5.png)](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"}
 
-#### 5. 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
+### 5. 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Ins_G/logCol_system/sys_6.png)](/docs/images/Ins_G/logCol_system/sys_6.png){:target="_blank"}

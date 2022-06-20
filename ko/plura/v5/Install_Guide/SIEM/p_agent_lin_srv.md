@@ -1,5 +1,5 @@
 ---
-title: PLURA V5 AgentLinux Srv
+title: AgentLinux Srv
 permalink: p_agent_lin_srv.html
 sidebar: Install_G_S
 product: Install_G_S
@@ -33,6 +33,7 @@ __◆ PLURA V5 Linux Syslog 설치 영상__
      - [root@localhost]# /etc/plura/pluraagent -version
      - Version: x.x.x
 
+<br />
 
 __◆ PLURA V5 Agent Linux Srv 설치 영상__
 
@@ -75,7 +76,7 @@ __◆ PLURA V5 Agent Linux Srv 설치 영상__
 
 
 
-__5. CentOS 6 End of Lifetime (EOL) 대응__
+## 5. CentOS 6 End of Lifetime (EOL) 대응
 
      에이전트 설치 전에 아래 명령을 실행
 

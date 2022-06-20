@@ -5,7 +5,7 @@ sidebar: Install_G_S
 product: Install_G_S
 ---
 
-#### 1. postgresql.conf 수정
+## 1. postgresql.conf 수정
 
      > 사전 Syslog 설치 필요
      > Config 위치 확인
@@ -21,12 +21,12 @@ product: Install_G_S
      #syslog_sequence_numbers = on
      #syslog_split_messages = on
 
-#### 2. PostgreSQL 및 Syslog 재시작
+## 2. PostgreSQL 및 Syslog 재시작
 
      systemctl restart postgresql
      systemctl restart rsyslog
 
-#### 3. PLURA V5에서 확인
+## 3. PLURA V5에서 확인
 
 [![image](/docs/images/Ins_G/Postgresql_u/1.png)](/docs/images/Ins_G/Postgresql_u/1.png){:target="_blank"}
 

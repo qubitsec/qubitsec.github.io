@@ -10,6 +10,8 @@ product: Install_G_S
      – 다른 시스템의 Weblog 를 취합
      – 취합한 Weblog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
+<br />
+
 PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
      CentOS 7, Stream 8
@@ -24,12 +26,14 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
      제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다. 
      해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
-### PLURA V5 Log Collector – Web 설정하기
+## PLURA V5 Log Collector – Web 설정하기
 
 __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)__
 
      sudo -s
      curl https://repo.plura.io/v5/logcollector/install.sh | bash
+
+<br />
 
 [![image](/docs/images/Ins_G/LogCol_web/1.png)](/docs/images/Ins_G/LogCol_web/1.png){:target="_blank"}
 
@@ -37,11 +41,15 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
      /etc/plura/plura.sh register 라이센스키
 
+<br />
+
 [![image](/docs/images/Ins_G/LogCol_web/2.png)](/docs/images/Ins_G/LogCol_web/2.png){:target="_blank"}
 
 **3. 웹로그 모듈을 설치합니다.**
 
      /etc/plura/plura.sh install_datos
+
+<br />
 
 [![image](/docs/images/Ins_G/LogCol_web/3.png)](/docs/images/Ins_G/LogCol_web/3.png){:target="_blank"}
 
@@ -54,6 +62,8 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
      logfile = /var/log/plura/weblog.log
      host = 10.100.10.10
      port = 80
+
+<br />
 
 [![image](/docs/images/Ins_G/LogCol_web/4.png)](/docs/images/Ins_G/LogCol_web/4.png){:target="_blank"}
 

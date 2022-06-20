@@ -1,5 +1,5 @@
 ---
-title: PLURA V5 Log-F Agent Srv 
+title: Log-F Agent Srv 
 permalink: forensic.html
 sidebar: Install_G_F
 product: Install_G_F

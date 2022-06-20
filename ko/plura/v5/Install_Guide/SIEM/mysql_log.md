@@ -5,23 +5,23 @@ sidebar: Install_G_S
 product: Install_G_S
 ---
 
-### MySQL(CentOS) 로그 분석
+## MySQL(CentOS) 로그 분석
 
-#### 1. mysql.conf 다운로드 rsyslog 사용
+### 1. mysql.conf 다운로드 rsyslog 사용
 
      curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf
 
-#### 2. 80-mysql.conf 수정
+### 2. 80-mysql.conf 수정
 
      > mysql error 로그 위치 확인
 
      #vi /etc/rsyslog.d/80-mysql.conf
 
-#### 3. rsyslog 데몬 재 시작
+### 3. rsyslog 데몬 재 시작
 
      service rsyslog restart
 
-#### 4. PLURA V5에서 확인하기
+### 4. PLURA V5에서 확인하기
 
 [![image](/docs/images/Ins_G/Mysql(cent)log/1.png)](/docs/images/Ins_G/Mysql(cent)log/1.png){:target="_blank"}
 
