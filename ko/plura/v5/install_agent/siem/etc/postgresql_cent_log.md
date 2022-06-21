@@ -1,8 +1,8 @@
 ---
 title: PostgreSQL(CentOS) 로그
 permalink: postgresql_cent_log.html
-sidebar: Install_G_S
-product: Install_G_S
+sidebar: Install_A_S
+product: Install_A_S
 ---
 
 

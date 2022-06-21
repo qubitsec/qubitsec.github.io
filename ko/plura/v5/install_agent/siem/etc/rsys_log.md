@@ -1,8 +1,8 @@
 ---
 title: (PLC)응용프로그램 로그
 permalink: rsys_log.html
-sidebar: Install_G_S
-product: Install_G_S
+sidebar: Install_A_S
+product: Install_A_S
 ---
 
 응용프로그램 로그 中 특별한 키워드를 실시간 탐지하고 싶은 경우 어떻게 하면 될까요?

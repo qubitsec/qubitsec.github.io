@@ -1,8 +1,8 @@
 ---
 title: FreeBSD Server
 permalink: p_sys_col_freebsd_srv.html
-sidebar: Install_G_S
-product: Install_G_S
+sidebar: Install_A_S
+product: Install_A_S
 ---
 
 반드시 www.plura.io 우측 상단의 Install Agents 페이지에서 확인하여 설치하시길 바랍니다.

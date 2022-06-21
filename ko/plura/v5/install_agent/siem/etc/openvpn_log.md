@@ -1,8 +1,8 @@
 ---
 title: Openvpn 로그
 permalink: openvpn_log.html
-sidebar: Install_G_S
-product: Install_G_S
+sidebar: Install_A_S
+product: Install_A_S
 ---
 
 ## 1. openvpn.conf 다운로드 rsyslog 사용

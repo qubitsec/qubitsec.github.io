@@ -1,8 +1,8 @@
 ---
 title: xrdp 로그
 permalink: xrdp_log.html
-sidebar: Install_G_S
-product: Install_G_S
+sidebar: Install_A_S
+product: Install_A_S
 ---
 
 ## 1. xrdp.conf 다운로드 rsyslog 사용

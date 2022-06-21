@@ -1,8 +1,8 @@
 ---
 title: MySQL(CentOS) 로그
 permalink: mysql_log.html
-sidebar: Install_G_S
-product: Install_G_S
+sidebar: Install_A_S
+product: Install_A_S
 ---
 
 ## MySQL(CentOS) 로그 분석
