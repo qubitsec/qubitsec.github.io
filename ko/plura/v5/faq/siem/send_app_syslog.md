@@ -1,7 +1,7 @@
 ---
-title: 응용프로그램 로그 syslog 전송하기 (예제 톰캣 catalina.out)
+title: 톰캣 catalina.out 로그
 permalink: send_app_syslog.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 클라우드 SECaaS 온라인 PoC 진행 방법 소개
+title: 온라인 PoC 진행 방법 안내
 permalink: cl_secaas_poc.html
-sidebar: Add_M
+sidebar: faq_common_M
 topnav: topnav
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 데이터유출 탐지 예외 사항과 해결책
+title: 데이터유출
 permalink: data_exfiltration_solution.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

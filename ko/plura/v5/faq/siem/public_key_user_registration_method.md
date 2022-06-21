@@ -1,7 +1,7 @@
 ---
-title: (필터) 공개키 로그인 성공_사용자 등록 방법
+title: 공개키 로그인 성공
 permalink: public_key_user_registration_method.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

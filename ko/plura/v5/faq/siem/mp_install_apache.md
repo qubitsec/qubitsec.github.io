@@ -1,7 +1,7 @@
 ---
-title: ModPlura 웹 모듈 수동 설치 Apache
+title: Apache 수동 설치
 permalink: mp_install_apache.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

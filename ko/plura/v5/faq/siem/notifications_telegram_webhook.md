@@ -1,7 +1,7 @@
 ---
-title: Webhook 설정으로 Telegram에서 PLURA V5 알림 받아보기
+title: Webhook 설정으로 Telegram에서 받기
 permalink: notifications_telegram_webhook.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

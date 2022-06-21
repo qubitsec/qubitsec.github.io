@@ -1,7 +1,7 @@
 ---
-title: (AIX) 파일 감사(Audit Log) 설정으로 PLURA V5에서 필터탐지 확인하기
+title: Audit 설정 안내
 permalink: chk_file_audit_log_set.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

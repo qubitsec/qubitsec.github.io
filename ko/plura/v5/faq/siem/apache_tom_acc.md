@@ -1,7 +1,7 @@
 ---
-title: Apache Tomcat access 로그 PLURA V5 로깅 지원
+title: 톰캣 access 로깅 켜기
 permalink: apache_tom_acc.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

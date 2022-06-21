@@ -1,0 +1,105 @@
+sidebarTitle: Menu
+
+folders:
+- title: On-premise
+  folderitems:
+
+  - title: CURL 에이전트 설치하기
+    url: /onpremise_agent_curl.html
+
+  - title: WGET 에이전트 설치하기
+    url: /onpremise_agent_inst_wget.html
+
+  folders:
+- title: ModPlura 
+  folderitems:
+
+  - title: Apache 수동 설치
+    url: /mp_install_apache.html
+
+  - title: Nginx 수동 설치
+    url: /mp_install_nginx.html
+
+  folders:
+- title: Syslog 전송
+  folderitems:
+
+  - title: 대상 웹 access 로그
+    url: /logcol_web_acc_sys.html
+
+  - title: 톰캣 catalina.out 로그
+    url: /send_app_syslog.html
+
+  folders:
+- title: Logging 지원
+  folderitems:
+
+  - title: 감사정책 복원 방법
+    url: /agent_ins_policy.html
+
+  - title: Powershell 스크립트 블록 로깅 켜기
+    url: /powershell_block_logging.html
+
+  - title: 톰캣 access 로깅 켜기
+    url: /apache_tom_acc.html
+
+  - title: squid 로깅 켜기
+    url: /proxy_sys_squid.html
+
+  folders:
+- title: Proxy 설정
+  folderitems:
+
+  - title: AWS RHEL 8 환경
+    url: /aws_rhel_proxy.html
+
+  folders:
+- title: IBM AIX 서버 설정
+  folderitems:
+
+  - title: Audit 설정 안내
+    url: /chk_file_audit_log_set.html
+
+  - title: Audit을 이용한 해킹 탐지
+    url: /aix_hack_using_audit.html
+
+  folders:
+- title: 탐지 필터 제작
+  folderitems:
+
+  - title: 데이터유출
+    url: /data_exfiltration_solution.html
+
+  - title: 윈도우 레지스트리 & 파일 위변조 
+    url: /win_registry_file_forgery.html
+
+  - title: 공개키 로그인 성공
+    url: /public_key_user_registration_method.html
+
+  - title: Wail2ban 에 의한 윈도우 방화벽 설정 
+    url: /win_fw_registration_wail2ban.html
+
+  folders:
+- title: 알림 받기
+  folderitems:
+
+  - title: Webhook 설정으로 Telegram에서 받기
+    url: /notifications_telegram_webhook.html
+
+  folders:
+- title: 모의해킹
+  folderitems:
+
+  - title: 재전송공격 사용법 안내 
+    url: /hack_re_attack.html
+
+  folders:
+- title: ETC
+  folderitems:
+
+  - title: 백신 소프트웨어 종료 탐지 방법
+    url: /antivirus_sw.html
+
+  - title: Apache 서버에서 HTTP 압축 비활성화
+    url: /apache_http_compression.html
+

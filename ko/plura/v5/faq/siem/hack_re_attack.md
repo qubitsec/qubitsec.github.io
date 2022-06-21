@@ -1,7 +1,7 @@
 ---
-title: 재전송공격을 이용한 모의해킹 테스트
+title: 재전송공격 사용법 안내 
 permalink: hack_re_attack.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 

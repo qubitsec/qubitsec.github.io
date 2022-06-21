@@ -1,7 +1,7 @@
 ---
-title: (Log Collector) Web access 로그 syslog 전송하기
+title: 대상 웹 access 로그
 permalink: logcol_web_acc_sys.html
-sidebar: Add_M
+sidebar: faq_siem_M
 topnav: topnav
 ---
 
