@@ -6,7 +6,8 @@ topnav: topnav
 
 
 
-<h2 style="margin-top:200px; color:#fff; font-size:60px; line-height:80px;">PLURA Manual</h2>
+<p style="margin-top:200px; color:#fff; font-size:60px; line-height:80px;">PLURA Manual</p>
+
 <style>
 body {
   background-image: url('/docs/images/bak.png'); /*사용된 이미지 경로*/
