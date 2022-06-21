@@ -1,0 +1,100 @@
+sidebarTitle: SIEM
+
+folders:
+- title: Agent 
+  folderitems:
+
+  - title: Windows Server
+    url: /p_agent_win_srv.html
+
+  - title: Linux Server
+    url: /p_agent_lin_srv.html
+
+  - title: Linux Web Server-Datos
+    url: /p_lin_w_sd.html
+
+  - title: Linux Syslog-Audit
+    url: /lin_sys_audit.html
+
+  folders:
+- title: Sysmon
+  folderitems:
+
+  - title: Sysmon (Windows Sysinternals)
+    url: /sysmon.html
+
+
+  folders:
+- title: PLC
+  folderitems:
+
+  - title: System
+    url: /logcol_system.html
+
+  - title: Application
+    url: /logcol_application.html
+
+  - title: Custom
+    url: /logcol_custom_appl.html
+
+  - title: Web
+    url: /logcol_web.html
+
+  - title: Network
+    url: /logcol_network.html
+
+  folders:
+- title: PLC for Legacy
+  folderitems:
+
+  - title: AIX Server
+    url: /p_sys_col_aix_srv.html
+
+  - title: HP-UX Server
+    url: /p_sys_col_hp_ux_srv.html
+
+  - title: Solaris Server
+    url: /p_sys_col_solar_srv.html
+
+  - title: FreeBSD Server
+    url: /p_sys_col_freebsd_srv.html
+
+
+ 
+
+  folders:
+- title: ETC
+  folderitems:
+
+  - title: Apache httpd error 로그 수집
+    url: /apache_httpd_log.html
+
+  - title: MySQL(CentOS) 로그
+    url: /mysql_log.html
+
+  - title: MySQL Error 로그와 Slow-Query 로그
+    url: /mysql_err_slow_query_log.html
+
+  - title: (PLC)MySQL Error 로그와 Slow-Query 로그
+    url: /rsys_mysql_err_slow_query_log.html
+
+  - title: Openvpn 로그
+    url: /openvpn_log.html
+
+  - title: PostgreSQL(CentOS) 로그
+    url: /postgresql_cent_log.html
+
+  - title: PostgreSQL(Ubuntu) 로그
+    url: /postgresql_ubuntu_log.html
+
+  - title: Redis(CentOS) 로그
+    url: /redis_cent_log.html
+
+  - title: Redis(Ubuntu) 로그
+    url: /redis_ubuntu_log.html
+
+  - title: xrdp 로그
+    url: /xrdp_log.html
+
+  - title: (PLC)응용프로그램 로그
+    url: /rsys_log.html

@@ -11,7 +11,7 @@ navbar_singleitems:
 navbar_dropdowns:
 - folders:
 
-    - title: Install Guide
+    - title: Install Agents
       folderitems:
         - title: SIEM
           url: /Ins_siem.html
