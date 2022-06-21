@@ -455,7 +455,7 @@ img.navbar-logo {
 .navbar {
     border-bottom: 1px solid #dedede;
     font-size: 13px;
-    padding-top:10px;
+    padding:8px 0;
 }
 
 .toggle-sidebar-button {
@@ -512,3 +512,6 @@ ul#docnavsidebar li a:focus {
 .searchForm404 {
   margin: 20px 0px;
 }
+
+.footer-area {position:fixed; bottom:0; margin-left:0; margin-right:0; margin-top:20px; padding:0 20px; width:100%}
+.footer-Copyright {border-top:1px solid #bbbbbb; padding:20px 0; color:#d3d3d3; text-align:center;}
