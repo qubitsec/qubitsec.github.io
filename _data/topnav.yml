@@ -18,7 +18,7 @@ navbar_dropdowns:
         - title: Forensic
           url: /Ins_for.html
 
-    - title: Manual
+    - title: Function
       folderitems:
         - title: Common
           url: manual_common.html
