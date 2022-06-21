@@ -29,10 +29,14 @@ navbar_dropdowns:
         - title: WAF
           url: manual_waf.html
 
-    - title: Additional Manual
+    - title: FAQ
       folderitems:
-        - title: Additional Manual
-          url: additional_m.html
+        - title: Common
+          url: common_m.html
+        - title: SIEM
+          url: siem_m.html
+        - title: Forensic
+          url: forensic_m.html
     
     - title: Public Cloud Service Provider
       folderitems:
