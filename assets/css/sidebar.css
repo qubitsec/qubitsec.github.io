@@ -93,7 +93,7 @@ hr.resourceSeparator {
     margin-bottom: 1.7em;
     margin-left: 0px;
     /*margin-right: auto;*/
-    border-width: 1px;
+    border-width: 0px;
     color: black;
     max-width: 80%;
 }

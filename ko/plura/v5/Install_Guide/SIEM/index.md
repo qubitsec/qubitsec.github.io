@@ -1,11 +1,12 @@
 ---
-title:
 permalink: index.html
 # sidebar: generic
 topnav: topnav
 ---
 
 
+
+<h2 style="margin-top:200px; color:#fff; font-size:60px; line-height:80px;">PLURA Manual</h2>
 <style>
 body {
   background-image: url('/docs/images/bak.png'); /*사용된 이미지 경로*/
@@ -15,6 +16,4 @@ body {
   background-size: cover; /* 전체 컨테이너를 덮도록 배경 이미지 크기 조정*/
   background-attachment: fixed;
 }
-
-
-
+</style>
