@@ -513,5 +513,7 @@ ul#docnavsidebar li a:focus {
   margin: 20px 0px;
 }
 
-.footer-area {position:fixed; bottom:0; margin-left:0; margin-right:0; margin-top:20px; padding:0 20px; width:100%}
-.footer-Copyright {border-top:1px solid #bbbbbb; padding:20px 0; color:#d3d3d3; text-align:center;}
+.footer-area {position:fixed; bottom:0; margin-left:0; margin-right:0; margin-top:20px; padding:7px; width:100%; background-color: rgba( 0, 10, 32, 0.8 );}
+.footer-Copyright {padding:10px 0 0; color:#f8f8f8; text-align:center;}
+
+.row-offcanvas-left {padding-bottom:100px}
