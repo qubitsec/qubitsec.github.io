@@ -30,8 +30,6 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
 __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)__
 
-     sudo -s
-     curl https://repo.plura.io/v5/logcollector/install.sh | bash
 
 <br />
 
@@ -41,7 +39,6 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
 **2. 라이센스 등록 및 실행을 합니다.**
 
-     /etc/plura/plura.sh register 라이센스키
 
 <br />
 
@@ -51,7 +48,6 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
 **3. 웹로그 모듈을 설치합니다.**
 
-     /etc/plura/plura.sh install_datos
 
 <br />
 
@@ -62,12 +58,6 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 **4. 환경 설정을 합니다.**
 
      vi /etc/datos/conf/httplogger.conf
-
-     <예>
-     interface = eth0
-     logfile = /var/log/plura/weblog.log
-     host = 10.100.10.10
-     port = 80
 
 <br />
 

@@ -46,9 +46,6 @@ Syslog 재시작
 
 #### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
-     sudo -s
-     curl https://repo.plura.io/v5/logcollector/install.sh | bash
-
 <br />
 
 [![image](/docs/images/Ins_G/LogCol_Net/1.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/1.png){:target="_blank"}
@@ -56,8 +53,6 @@ Syslog 재시작
 <br />
 
 #### 3. 라이센스 등록 및 실행을 합니다.
-
-     /etc/plura/plura.sh register 라이센스키
 
 <br />
 

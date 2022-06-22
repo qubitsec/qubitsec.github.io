@@ -28,9 +28,6 @@ product: Install_A_S
 ## PLURA V5 Log Collector – Application 설정하기
 
 ### 1. 원격지(자식) 서버에 응용프로그램 전송 모듈을 설치합니다.
-     curl https://repo.plura.io/v5/agent/install.sh | bash
-     /etc/plura/plura.sh fileplura <logcollector-ip>
-     /etc/plura/plura.sh start
 
 <br />
 
@@ -40,9 +37,6 @@ product: Install_A_S
 
 ### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
-     sudo -s
-     curl https://repo.plura.io/v5/logcollector/install.sh | bash
-
 <br />
 
 [![image](/docs/images/Ins_G/LogCol_app/app_2.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
@@ -51,8 +45,6 @@ product: Install_A_S
 ### 3. 로그 취합서버(부모)에서 인바운드 TCP 5514 포트를 오픈합니다.
 
 ### 4. 로그 취합서버(부모)에서 라이센스 등록 및 실행을 합니다.
-
-     /etc/plura/plura.sh register 라이센스키
 
 <br />
 

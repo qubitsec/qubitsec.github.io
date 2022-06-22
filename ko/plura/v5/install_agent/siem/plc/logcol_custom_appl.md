@@ -83,7 +83,7 @@ Logstash가 설정된 원격지(자식) 서버를 등록합니다.
 
  ③ 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
  RUN Logstash(foreground)
- #/usr/share/logstash/bin/logstash -f /etc/logstash/conf.d/70-postfix-plura.conf    
+ <br /> 
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"}
 
