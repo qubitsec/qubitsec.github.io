@@ -38,9 +38,9 @@ navbar_dropdowns:
         - title: Forensic
           url: forensic_m.html
     
-    - title: Public Cloud Service Provider
+    - title: Public Cloud 
       folderitems:
-        - title: Public Cloud Service Provider
+        - title: Public Cloud 
           url: pc_sp.html
     
     - title: Video

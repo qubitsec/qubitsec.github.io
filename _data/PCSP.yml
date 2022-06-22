@@ -1,20 +1,20 @@
-sidebarTitle: PCSP
+sidebarTitle: Public Cloud
 
 folders:
-- title: Public Cloud Service Provider
+- title: Public Cloud
   folderitems:
 
-  - title: PLURA V5 Auto Scaling 설정 가이드
+  - title: Auto Scaling 설정
     url: /scaling_setup_guide.html
 
-  - title: AWS에서 타임존 설정하는 방법
+  - title: AWS에서 타임존 설정
     url: /timezone_aws.html
 
   - title: AWS 인스턴스에 53 DNS 할당
     url: /route_53_dns.html
   
-  - title: PLURA V5의 Amazon EC2 Auto Scaling 환경 지원
+  - title: EC2 Auto Scaling 환경 지원
     url: /amazon_ex2_scaling.html
 
-  - title: PLURA V5 WAF의 AWS CloudFront 환경 지원
+  - title: WAF의 AWS CloudFront 환경 지원
     url: /cloudfront_aws.html
