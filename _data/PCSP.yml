@@ -1,7 +1,7 @@
 sidebarTitle: Public Cloud
 
 folders:
-- title: Public Cloud
+- title: AWS
   folderitems:
 
   - title: Auto Scaling 설정
