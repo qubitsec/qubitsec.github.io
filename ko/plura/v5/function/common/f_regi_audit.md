@@ -1,13 +1,13 @@
 ---
-title: Audit 필터등록
+title: Audit
 permalink: f_regi_audit.html
 sidebar: M_C
 topnav: topnav
 ---
 
-#### ◆ audit 필터 등록
-– 버튼을 클릭하여 등록할 로그에 대한 상세 정보를 입력합니다.
-– 적용된 추천 필터의 내용을 참고하세요.
+## ◆ audit 필터 등록
+- 버튼을 클릭하여 등록할 로그에 대한 상세 정보를 입력합니다.
+- 적용된 추천 필터의 내용을 참고하세요.
 
 1. 필터분류 : 필터의 분류를 선택합니다.
 2. 그룹 : 필터에서 사용할 서버 그룹을 선택합니다.
@@ -17,25 +17,29 @@ topnav: topnav
 6. 필터위험도 : 필터의 위험도를 설정할 수 있습니다. 
 7. 필터상태: 설정한 필터로 탐지한 로그를 필터탐지 메뉴에서 노출할 것인지를 설정할 수 있습니다.
 8. 정보입력
-8-1. 요소 선택 : 나열된 데이터 이름을 선택합니다.
-8-2. 데이터 값 : 필터링을 필요로 하는 값을 입력합니다.
-8-3. 포함 / 제외 : 필터링 시 입력값을 포함/제외 하여 알림을 받습니다.
+     - 8-1. 요소 선택 : 나열된 데이터 이름을 선택합니다.
+     - 8-2. 데이터 값 : 필터링을 필요로 하는 값을 입력합니다.
+     - 8-3. 포함 / 제외 : 필터링 시 입력값을 포함/제외 하여 알림을 받습니다.
 
-[![image](/docs/images/Manual/common/filter2/audit/1.png)](/docs/images/Manual/common/filter2/audit/1.png){: target="_blank"} 
+<br />
+[![image](/docs/images/Manual/common/filter2/audit/1.png){: width="800" }](/docs/images/Manual/common/filter2/audit/1.png){: target="_blank"} 
 
  
-
-#### ◆ 필터등록 예시 
+<br />
+## ◆ 필터등록 예시 
 
 1. 이벤트로그 ‘자세히보기’ 를 클릭 후 원하는 데이터를 찾은 후 데이터값 추가에 원하는 데이터를 선택합니다.
 
-[![image](/docs/images/Manual/common/filter2/audit/2.png)](/docs/images/Manual/common/filter2/audit/2.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/filter2/audit/2.png){: width="800" }](/docs/images/Manual/common/filter2/audit/2.png){: target="_blank"} 
 
+<br />
      위의 이미지는 auditlog 에서  나오는 로그입니다.
      실제 auditlog 를 참고하여 필요한 부분을 등록할 수 있습니다.
 
+<br />
 2. 데이터 이름을 추가 한 다음 데이터 값을 입력해줍니다.
 
+<br />
 3. 데이터값을 포함 또는 제외 할 수 있습니다. 
 
-[![image](/docs/images/Manual/common/filter2/audit/3.png)](/docs/images/Manual/common/filter2/audit/3.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/filter2/audit/3.png){: width="800" }](/docs/images/Manual/common/filter2/audit/3.png){: target="_blank"} 
