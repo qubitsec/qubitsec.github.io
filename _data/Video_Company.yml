@@ -1,18 +1,22 @@
 sidebarTitle: 회사&제품소개
 
 folders:
-- title: 회사소개
+- title: 회사
   folderitems:
 
   - title: 회사
     url: /company.html
   
+  folders:
+- title: 제품
+  folderitems:
+
   - title: 제품
     url: /product.html
-  
-    subfolders:
-     - title: 방송/발표
-       subfolderitems:
+
+  folders:
+- title: 방송/발표
+  folderitems:
 
        - title: 한국경제TV'스타장외주식'출연
          url: /kor_economic_tv.html
