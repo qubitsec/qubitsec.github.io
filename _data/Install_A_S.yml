@@ -66,6 +66,13 @@ folders:
 - title: ETC
   folderitems:
 
+  - title: test
+    url: 
+
+    subgfolders:
+  - title: CentOS
+    subfolders: 
+    
   - title: Apache httpd error 로그 수집
     url: /apache_httpd_log.html
 
