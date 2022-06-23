@@ -69,39 +69,47 @@ folders:
   - title: test
     url: 
 
-    subgfolders:
-  - title: CentOS
-    subfolders: 
-    
-  - title: Apache httpd error 로그 수집
-    url: /apache_httpd_log.html
+    subfolders:
+    - title: CentOS
+      subfolderitems: 
 
-  - title: MySQL(CentOS) 로그
-    url: /mysql_log.html
+      - title: Apache httpd error 로그 수집
+        url: /apache_httpd_log.html
 
-  - title: MySQL Error 로그와 Slow-Query 로그
-    url: /mysql_err_slow_query_log.html
+      - title: MySQL 로그
+        url: /mysql_log.html
 
-  - title: (PLC)MySQL Error 로그와 Slow-Query 로그
-    url: /rsys_mysql_err_slow_query_log.html
+      - title: MySQL Error & Slow-Query 로그
+        url: /mysql_err_slow_query_log.html
 
-  - title: Openvpn 로그
-    url: /openvpn_log.html
+      - title: (Rsyslog)MySQL Error & Slow-Query 로그
+        url: /rsys_mysql_err_slow_query_log.html
 
-  - title: PostgreSQL(CentOS) 로그
-    url: /postgresql_cent_log.html
+      - title: Openvpn 로그
+        url: /openvpn_log.html
 
-  - title: PostgreSQL(Ubuntu) 로그
-    url: /postgresql_ubuntu_log.html
+      - title: PostgreSQL 로그
+        url: /postgresql_cent_log.html
+  
+      - title: Redis 로그
+        url: /redis_cent_log.html
 
-  - title: Redis(CentOS) 로그
-    url: /redis_cent_log.html
+      - title: xrdp 로그
+        url: /xrdp_log.html
 
-  - title: Redis(Ubuntu) 로그
-    url: /redis_ubuntu_log.html
+      - title: (PLC)응용프로그램 로그
+        url: /rsys_log.html
 
-  - title: xrdp 로그
-    url: /xrdp_log.html
+  - title: test2
+    url: 
 
-  - title: (PLC)응용프로그램 로그
-    url: /rsys_log.html
+    subfolders:
+    - title: Ubuntu
+      subfolderitems: 
+
+
+      - title: PostgreSQL 로그
+        url: /postgresql_ubuntu_log.html
+
+      - title: Redis 로그
+        url: /redis_ubuntu_log.html

@@ -32,10 +32,10 @@ folders:
     url: /defense_block_immediately_waf.html
 
   folders:
-- title: 관리 > 웹방화벽
+- title: 관리
   folderitems:
 
-  - title: 관리 > 웹방화벽
+  - title: 웹방화벽
     url: /web_firewall_waf.html
 
 
