@@ -45,11 +45,11 @@ navbar_dropdowns:
     
     - title: Video
       folderitems:
-        - title: 회사소개
+        - title: 회사&제품소개
           url: video_company.html
 
-        - title: 제품소개
-          url: video_product.html
+        # - title: 제품소개
+        #   url: video_product.html
 
         - title: 기능소개
           url: video_f_introduc.html
@@ -60,8 +60,8 @@ navbar_dropdowns:
         - title: 해킹탐지 시연
           url: video_hd_t.html
 
-        - title: 방송/발표
-          url: video_bc.html
+        # - title: 방송/발표
+        #   url: video_bc.html
 
         - title: 고객 사례
           url: video_c.html

@@ -1,29 +1,63 @@
-sidebarTitle: 해킹탐지 시연
+sidebarTitle: 해킹탐지 시연 
 
 folders:
-- title: SIEM
+- title: System
   folderitems:
-
-  - title: Log4Shell
-    url: /log4shell.html
-
-  - title: XSS
-    url: /xss.html
-
-  - title: WebShell
-    url: /webshell.html
-
-  - title: APT29 (MITRE ATT&CK)
-    url: /apt.html
-
-  - title: 데이터 유출 탐지 (SQL 인젝션)
-    url: /data_breach_detection.html
-
-  - title: XSL Script Processing [T1220]
-    url: /xsl_script_processing.html
 
   - title: Wannacry Ransomware
     url: /wannacry_ransomware.html
 
+  folders:
+- title: WEB
+  folderitems:
+
+  - title: WebShell
+    url: /webshell.html
+
+  - title: XSL Script Processing [T1220]
+    url: /xsl_script_processing.html
+
+  - title: XSS
+    url: /xss.html
+
+  folders:
+- title: 계정탈취
+  folderitems:
+
   - title: Credential Stuffing
     url: /credential_stuffing.html
+
+  folders:
+- title: 데이터유출
+  folderitems:
+
+  - title: 데이터 유출 탐지 (SQL 인젝션)
+    url: /data_breach_detection.html
+
+# folders:
+# - title: SIEM
+#   folderitems:
+
+#   - title: Log4Shell
+#     url: /log4shell.html
+
+#   - title: XSS
+#     url: /xss.html
+
+#   - title: WebShell
+#     url: /webshell.html
+
+#   - title: APT29 (MITRE ATT&CK)
+#     url: /apt.html
+
+#   - title: 데이터 유출 탐지 (SQL 인젝션)
+#     url: /data_breach_detection.html
+
+#   - title: XSL Script Processing [T1220]
+#     url: /xsl_script_processing.html
+
+#   - title: Wannacry Ransomware
+#     url: /wannacry_ransomware.html
+
+#   - title: Credential Stuffing
+#     url: /credential_stuffing.html
