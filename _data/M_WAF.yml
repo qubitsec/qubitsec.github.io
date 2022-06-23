@@ -50,7 +50,7 @@ folders:
 - title: 필터
   folderitems: 
 
-  - title: 웨방화벽 필터 등록
+  - title: 웹방화벽 필터 등록
     url: /filter_waf.html
  
   folders:
