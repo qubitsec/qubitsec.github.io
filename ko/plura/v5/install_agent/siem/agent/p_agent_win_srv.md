@@ -100,7 +100,7 @@ Step 2 까지는 ‘시스템 로그’ 수집에 대한 내용이며, Step 3은
 
 수동 다운로드 링크 : [Visual Studio 2012 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe){:target="_blank"}
 
-수동 다운로드 링크 : [Visual Studio 2013 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe){:target="_blank"}
+수동 다운로드 링크 : [Visual Studio 2013 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe){:target="_blank"}
 
 
 

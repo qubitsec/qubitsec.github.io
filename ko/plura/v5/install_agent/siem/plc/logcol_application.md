@@ -14,8 +14,6 @@ product: Install_A_S
 
    PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
-<br />
-
      CentOS 7, Stream 8
      RHEL 7, 8
      AWS Linux 2 AMI
