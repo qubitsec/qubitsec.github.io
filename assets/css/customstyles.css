@@ -23,9 +23,7 @@ body {
     margin-left: 260px;
 }
 /* heading font */
-h1, h2, h3, h4, h5 {
-    font-family: Tahoma;
-}
+
 
 .h2, h2 {
     font-size: 24px;
