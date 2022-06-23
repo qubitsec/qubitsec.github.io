@@ -4,6 +4,9 @@ folders:
 - title: System
   folderitems:
 
+  - title: Log4Shell
+    url: /log4shell.html
+
   - title: Wannacry Ransomware
     url: /wannacry_ransomware.html
 
