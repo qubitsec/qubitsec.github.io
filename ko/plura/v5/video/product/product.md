@@ -1,7 +1,7 @@
 ---
-title: 제품소개
+title: 제품
 permalink: product.html
-sidebar: Video_Product
+sidebar: Video_Company
 topnav: topnav
 ---
 

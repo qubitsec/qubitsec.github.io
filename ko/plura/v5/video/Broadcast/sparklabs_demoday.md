@@ -1,7 +1,7 @@
 ---
 title: SparkLabs Demoday
 permalink: sparklabs_demoday.html
-sidebar: Video_Broadcast_A
+sidebar: Video_Company
 topnav: topnav
 ---
 

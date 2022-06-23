@@ -1,5 +1,5 @@
 ---
-title: 회사소개
+title: 회사
 permalink: company.html
 sidebar: Video_Company
 topnav: topnav
