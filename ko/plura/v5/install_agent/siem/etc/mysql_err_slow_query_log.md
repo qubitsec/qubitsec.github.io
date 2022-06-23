@@ -1,5 +1,5 @@
 ---
-title: MySQL Error 로그와 Slow-Query 로그
+title: MySQL Error & Slow-Query 로그
 permalink: mysql_err_slow_query_log.html
 sidebar: Install_A_S
 product: Install_A_S

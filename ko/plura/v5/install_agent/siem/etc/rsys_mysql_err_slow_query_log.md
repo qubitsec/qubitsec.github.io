@@ -1,5 +1,5 @@
 ---
-title: (PLC)MySQL Error 로그와 Slow-Query 로그
+title: (PLC)MySQL Error & Slow-Query 로그
 permalink: rsys_mysql_err_slow_query_log.html
 sidebar: Install_A_S
 product: Install_A_S
