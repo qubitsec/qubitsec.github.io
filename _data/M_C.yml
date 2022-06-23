@@ -88,15 +88,24 @@ folders:
 - title: 필터
   folderitems:
 
-  - title: Syslog
-    url: /f_regi_syslog.html
+  - title: OS
+    url: 
 
-  - title: Windows
-    url: /f_regi_window.html
+    subfolders:
+    - title: system
+      subfolderitems:
 
-  - title: Audit
-    url: /f_regi_audit.html
+      - title: Syslog
+        url: /f_regi_syslog.html
 
+      - title: Windows
+        url: /f_regi_window.html
+
+      - title: Audit
+        url: /f_regi_audit.html
+
+  - title: Security
+    url: 
 
     subfolders:
     - title: 보안
