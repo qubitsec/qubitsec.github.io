@@ -12,17 +12,19 @@ topnav: topnav
 
 PLURA V5 Forensic에 로그 업로드를 하기 위한 운영체제(OS) 종류별 로그 수집 경로는 아래와 같습니다.
 
-#### 1. 윈도우즈
+<br />
+## 1.윈도우즈
 
      C:\Windows\System32\winevt\Logs
 
-[![image](/docs/images/Additianal/path/1.png)](/docs/images/Additianal/path/1.png){: target="_blank"}
+<br />
+[![image](/docs/images/Additianal/path/1.png){: width="800" }](/docs/images/Additianal/path/1.png){: target="_blank"}
 
-2. 리눅스 – Redhat/CentOS 계열
+## 2.리눅스 – Redhat/CentOS 계열
 
      /var/log/messages
 
-3. 리눅스 – Ubuntu 우분투 계열
+## 3.리눅스 – Ubuntu 우분투 계열
 
      /var/log/syslog
 
@@ -30,32 +32,46 @@ PLURA V5 Forensic에 로그 업로드를 하기 위한 운영체제(OS) 종류�
 
 ### ▶ PLURA V5 Forensic 에이전트에서 로그 업로드 하는 방법
 
-#### 1. PLURA V5 Forensic Agent 로그인을 합니다.
-[![image](/docs/images/Additianal/path/2.png)](/docs/images/Additianal/path/2.png){: target="_blank"}
+<br />
+## 1. PLURA V5 Forensic Agent 로그인을 합니다.
 
-#### 2. 로그 업로드를 진행할 운영체제 및 로그년도를 선택합니다.
-[![image](/docs/images/Additianal/path/3.png)](/docs/images/Additianal/path/3.png){: target="_blank"}
+[![image](/docs/images/Additianal/path/2.png){: width="800" }](/docs/images/Additianal/path/2.png){: target="_blank"}
 
-#### 3. 시스템/호스트명/닉네임을 입력한 후, “Select” 버튼을 클릭하여 로그가 있는 경로를 선택합니다.
-[![image](/docs/images/Additianal/path/4.png)](/docs/images/Additianal/path/4.png){: target="_blank"}
+<br />
+## 2. 로그 업로드를 진행할 운영체제 및 로그년도를 선택합니다.
 
-#### 4. “Start” 버튼을 클릭하여 로그업로드를 진행합니다.
-[![image](/docs/images/Additianal/path/5.png)](/docs/images/Additianal/path/5.png){: target="_blank"}
+[![image](/docs/images/Additianal/path/3.png){: width="800" }](/docs/images/Additianal/path/3.png){: target="_blank"}
 
-#### 5. 로그 업로드가 진행 중에는 “START” 버튼이 “STOP” 버튼으로 변경되며, 업로드를 중지할 수 있습니다.
-[![image](/docs/images/Additianal/path/6.png)](/docs/images/Additianal/path/6.png){: target="_blank"}
+<br />
+## 3. 시스템/호스트명/닉네임을 입력한 후, “Select” 버튼을 클릭하여 로그가 있는 경로를 선택합니다.
 
-#### 6. 로그업로드가 완료되었습니다.
+[![image](/docs/images/Additianal/path/4.png){: width="800" }](/docs/images/Additianal/path/4.png){: target="_blank"}
+
+<br />
+## 4. “Start” 버튼을 클릭하여 로그업로드를 진행합니다.
+
+[![image](/docs/images/Additianal/path/5.png){: width="800" }](/docs/images/Additianal/path/5.png){: target="_blank"}
+
+<br />
+## 5. 로그 업로드가 진행 중에는 “START” 버튼이 “STOP” 버튼으로 변경되며, 업로드를 중지할 수 있습니다.
+
+[![image](/docs/images/Additianal/path/6.png){: width="800" }](/docs/images/Additianal/path/6.png){: target="_blank"}
+
+<br />
+## 6. 로그업로드가 완료되었습니다.
+
 PLURA V5 에서 정상적으로 업로드 된 로그를 확인해주세요.
-[![image](/docs/images/Additianal/path/7.png)](/docs/images/Additianal/path/7.png){: target="_blank"}
- 
 
+[![image](/docs/images/Additianal/path/7.png){: width="800" }](/docs/images/Additianal/path/7.png){: target="_blank"}
+ 
+<br />
      제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
      제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다. 해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
+<br />
 **내부 블로그**
 
 ▶PLURA V5 Forensic 에이전트 설치 방법
 
-[PLURA Log-F Agent Srv – PLURA’S BLOG](http://blog.plura.io/?p=15224){: target="_blank"}
+[PLURA Log-F Agent Srv – PLURA’S BLOG](https://qubitsec.github.io/forensic.html){: target="_blank"}

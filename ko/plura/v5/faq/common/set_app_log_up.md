@@ -13,4 +13,5 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
      2. 수집할 경로를 파악하고 있어야 합니다.
 
+<br />
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/kqVKHBSR_-I' frameborder='0' allowfullscreen></iframe></div>
