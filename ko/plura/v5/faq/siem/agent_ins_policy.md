@@ -11,6 +11,6 @@ topnav: topnav
 
 ▶  [https://github.com/QubitSecurity/EDR](https://github.com/QubitSecurity/EDR){:target="_blank"}
 
-[![image](/docs/images/Additianal/agent/1.png)](/docs/images/Additianal/agent/1.png){: target="_blank"}
+[![image](/docs/images/Additianal/agent/1.png){: width="800" }](/docs/images/Additianal/agent/1.png){: target="_blank"}
 
 ※ 사용자 정의 홈페이지 위변조 필터의 경우, 사용자가 직접 삭제를 해주셔야 합니다.

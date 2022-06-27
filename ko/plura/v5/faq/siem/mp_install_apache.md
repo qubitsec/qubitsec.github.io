@@ -5,7 +5,7 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-#### 1. 사전 조사
+## 1. 사전 조사
 
      ps -ef|grep httpd
      ps -ef|grep apache
@@ -20,13 +20,13 @@ topnav: topnav
 
  
 
-##### 1-1) 서비스 등록 확인
+### 1-1) 서비스 등록 확인
 
      service httpd|apache2 status
 
  
 
-##### 1-2) 재설정 실험
+### 1-2) 재설정 실험
 
      service httpd|apache2 reload
      ${apache2dir}/bin/apachectl graceful
@@ -34,7 +34,7 @@ topnav: topnav
 
  
 
-##### 1-3) 설정 파일 확인
+### 1-3) 설정 파일 확인
 
 □ 표준 설치 = /etc/httpd/conf.d/
 
@@ -49,7 +49,7 @@ topnav: topnav
 
  
 
-#### 2. 표준 설치
+## 2. 표준 설치
 
      curl https://repo.plura.io/v4/module/apache/centos/plura.conf -o /etc/httpd/conf.d/plura.conf
      curl https://repo.plura.io/v4/module/apache/centos/x86_64/7/2.4/mod_plura_module.so -o
@@ -57,7 +57,7 @@ topnav: topnav
 
  
 
-#### 3. 사용자 정의 설치
+## 3. 사용자 정의 설치
 
      curl https://repo.plura.io/v4/module/apache/centos/plura.conf -o
      /usr/local/apache2/conf/extra/plura.conf
@@ -71,7 +71,7 @@ topnav: topnav
      LoadModule mod_plura_module modules/mod_plura_module.so
      mp_log /var/log/plura/weblog.log
 
-#### 4. 정보 등록
+## 4. 정보 등록
 
      echo ModPlura-Apache > /etc/modplura
      echo 5.5.3 >> /etc/modplura
@@ -83,7 +83,7 @@ topnav: topnav
 
  
 
-#### 5. 사용자 정의 설치
+## 5. 사용자 정의 설치
 
      echo /usr/local/apache2/bin/httpd >> /etc/modplura
      echo /usr/local/apache2 >> /etc/modplura
@@ -91,7 +91,7 @@ topnav: topnav
 
  
 
-#### 6. 권한 이슈
+## 6. 권한 이슈
 
 ⭐주의 !!! PLURA 웹로그 생성 디렉토리의 owner를 apache worker process 의 owner로 변경합니다.
 

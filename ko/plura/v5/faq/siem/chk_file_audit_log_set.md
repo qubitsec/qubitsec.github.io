@@ -5,24 +5,25 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-#### 1. AIX 에서 Remote Logging 설정하기
+## 1. AIX 에서 Remote Logging 설정하기
 
 PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선택
 
 - UNIX > AIX탭
  
 
-#### 2. 파일 감사 설정하기
+## 2. 파일 감사 설정하기
 
 **Audit > config 설정값 변경**
 
-– audit service 종료
+- audit service 종료
 
      # audit off
 
      # audit shutdown
 
-– config 수정
+<br />
+- config 수정
 
      # vi /etc/security/audit/config
 
@@ -68,7 +69,7 @@ PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선
 
      w = FILE_Write
 
-**> Audit Tag Name 설정 **
+**> Audit Tag Name 설정**
 
      # vi /etc/security/audit/objects
 
@@ -82,9 +83,9 @@ PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선
 
  
 
-#### 4. Syslog module 구성
+## 4. Syslog module 구성
 
-– config 수정
+- config 수정
 
      # vi /etc/syslog.conf 
 
@@ -100,23 +101,23 @@ PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선
 
      #User.debug /var/adm/syslog/syslog.log rotate size 5m files 5
 
-– restart src
+- restart src
 
-     # refresh -s syslogd
+      # refresh -s syslogd
 
-– start audit
+- start audit
 
-     # audit off
+      # audit off
 
-     # audit start
+      # audit start
 
-#### 5. PLURA V5 웹에서 Audit 필터 등록
+## 5. PLURA V5 웹에서 Audit 필터 등록
 
 PLURA V5 웹에서 Audit 필터를 등록합니다. [(바로가기)](http://blog.plura.io/?p=7235){: target="_blank"}
 
  
 
-#### 6. PLURA V5 에서 Audit 필터 탐지 활용 [(바로가기)](http://blog.plura.io/?p=10856){: target="_blank"}
+## 6. PLURA V5 에서 Audit 필터 탐지 활용 [(바로가기)](http://blog.plura.io/?p=10856){: target="_blank"}
 
  
 

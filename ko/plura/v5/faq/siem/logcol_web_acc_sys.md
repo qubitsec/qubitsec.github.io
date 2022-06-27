@@ -13,7 +13,7 @@ topnav: topnav
 
 ** * PLURA V5 Log Collector 서버 이용 장점은 클라이언트(Web Server) 에서 암호화, 압축하지 않고 syslog 로 바로 전송하므로 리소스 사용량 (CPU, Memory 등)을 최소화할 수 있습니다.**
 
-[![image](/docs/images/Additianal/logcol/1.png)](/docs/images/Additianal/logcol/1.png){: target="_blank"}
+[![image](/docs/images/Additianal/logcol/1.png){: width="800" }](/docs/images/Additianal/logcol/1.png){: target="_blank"}
 
  
 
@@ -45,31 +45,34 @@ topnav: topnav
 
  <font color='red'> 주의: PLURA V5 웹로그 수집 OFF </font>
 
-
+<br />
 **2) rsyslog restart**
 
      # service rsyslog restart
 
+<br />
 **3) 서버 접속 debug**
 
      # nc -zu PLURA_Log_Collector_Server 514
 
      Connection to PLURA_Log_Collector_Server 514 port [udp/syslog] succeeded!
 
- 
-
-#### 2. 서버 Log Collector
+ <br />
+## 2. 서버 Log Collector
 
 * 환경: CentOS 7, Rsyslog 8.2010.0
 
+<br />
 **1) [PLURA V5 Log Collector 서버 설치](http://blog.plura.io/?p=6539){: target="_blank"}**
 
+<br />
 **2) Remote 클라이언트의 syslog 전송 오픈**
 
      # firewall-cmd –add-port 514/udp
 
      # firewall-cmd –reload
 
+<br />
 **3) 77-plura.conf 수정**
 
      #vi /etc/rsyslog.d/77-plura.conf
@@ -80,6 +83,7 @@ topnav: topnav
      $ModLoad imudp
      $UDPServerRun 514
 
+<br />
 **4) 99-plura.conf 수정**
 
      #vi /etc/rsyslog.d/99-plura.conf
@@ -87,14 +91,17 @@ topnav: topnav
      $template DynaFile, “/var/log/plura/weblog-%FROMHOST-IP%.log”
      *.* -?DynaFile;CEETemplate
 
+<br />
 **5) rsyslog restart**
 
      # service rsyslog restart
 
+<br />
 **6) 경로에 파일 수신 여부 확인**
 
      # ls -al /var/log/plura/
 
+<br />
 **7) Log Collector 등록**
 
 [![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}

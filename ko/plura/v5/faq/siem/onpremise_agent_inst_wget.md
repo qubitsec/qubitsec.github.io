@@ -7,9 +7,9 @@ topnav: topnav
 
 On-premise 에서 PLURA V5 에이전트 설치하기 wget
 
-#### 1. CentOS 6
+## 1. CentOS 6
 
-##### 1) Change Base CentOS repo
+### 1) Change Base CentOS repo
 
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.org
 wget https://rpms.plura.io/module/baseurl/6/CentOS-Base.repo -O /etc/yum.repos.d/CentOS-Base.repo
@@ -17,7 +17,7 @@ wget https://rpms.plura.io/module/baseurl/6/CentOS-Base.repo -O /etc/yum.repos.d
 mv /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6 /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6.org
 wget https://rpms.plura.io/module/baseurl/6/RPM-GPG-KEY-CentOS-6 -O /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
 
-##### 2) Install epel
+### 2) Install epel
 
 mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org
 wget https://rpms.plura.io/module/baseurl/6/epel.repo -O /etc/yum.repos.d/epel.repo
@@ -31,9 +31,9 @@ yum install https://rpms.plura.io/module/baseurl/6/epel-release-latest-6.noarch.
 mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org
 wget https://rpms.plura.io/module/baseurl/6/epel.repo -O /etc/yum.repos.d/epel.repo
 
-#### 2. CentOS 7
+## 2. CentOS 7
 
-##### 1) Change Base CentOS repo
+### 1) Change Base CentOS repo
 
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.org
 wget https://rpms.plura.io/module/baseurl/7/CentOS-Base.repo -O /etc/yum.repos.d/CentOS-Base.repo
@@ -41,7 +41,7 @@ wget https://rpms.plura.io/module/baseurl/7/CentOS-Base.repo -O /etc/yum.repos.d
 mv /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7 /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7.org
 wget https://rpms.plura.io/module/baseurl/7/RPM-GPG-KEY-CentOS-7 -O /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
 
-##### 2) Install epel
+### 2) Install epel
 
 mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org
 wget https://rpms.plura.io/module/baseurl/7/epel.repo -O /etc/yum.repos.d/epel.repo

@@ -19,23 +19,28 @@ topnav: topnav
 
 - Powershell Command
 
-**– Powershell 버전 확인 :**
+<br />
+**- Powershell 버전 확인 :**
 
      $PSVersionTable.PSVersion.Major
 
-**– Windows OS 버전 확인 :**
+<br />
+**- Windows OS 버전 확인 :**
 
      Get-WmiObject Win32_OperatingSystem | Select -Property Name
 
-**– PowerShell 스크립트 블록 로깅 켜기 “사용” (관리자 권한으로 실행) :**
+<br />
+**- PowerShell 스크립트 블록 로깅 켜기 “사용” (관리자 권한으로 실행) :**
 
      reg add “HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging” /v “EnableScriptBlockLogging” /t REG_DWORD /d 1 /f
 
-**– PowerShell 스크립트 블록 로깅 켜기 “사용안함” (관리자 권한으로 실행) :**
+<br />
+**- PowerShell 스크립트 블록 로깅 켜기 “사용안함” (관리자 권한으로 실행) :**
 
      reg delete “HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell” /f
 
-**– PowerShell 스크립트 블록 로깅 켜기 “설정 적용확인” (관리자 권한으로 실행) :**
+<br />
+**- PowerShell 스크립트 블록 로깅 켜기 “설정 적용확인” (관리자 권한으로 실행) :**
 
      reg query “HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging” /v “EnableScriptBlockLogging”
 

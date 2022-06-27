@@ -9,6 +9,7 @@ topnav: topnav
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_ICFu8Rg5h0' frameborder='0' allowfullscreen></iframe></div>
 
+<br />
 **재전송공격**이란, 탐지 로그를 이용하여 실제 공격을 확인하는 기능으로 모의해킹의 일환입니다.
 
 **재전송공격**으로 모의 해킹을 하는 이유는 공격의 성공과 실패를 확인하기 위함입니다.
@@ -21,6 +22,7 @@ SQL 인젝션 공격의 성공은 매우 심각한 위험에 노출되므로 성
 
 또한, 사용자 브라우저에서 진행되므로 해당 호스트(Host), URL 에 접근할 수 있는 네트워크 환경이어야만 제대로 동작할 수 있습니다. 즉, 네트워크 환경에 영향을 받습니다.
 
+<br />
 ▣ HTTP Method 재전송 대상
 
 - GET 모든 로그
@@ -34,15 +36,15 @@ SQL 인젝션 공격의 성공은 매우 심각한 위험에 노출되므로 성
 
 아래의 이미지는 Method – GET 방식(application/x-www-form-urlencoded) 의 공격으로 재전송 공격의 조건이 성립되어 재전송공격 버튼이 노출된 것을 확인할 수 있습니다.
 
- [![image](/docs/images/Additianal/aws/1.png)](/docs/images/Additianal/aws/1.png){: target="_blank"}
+ [![image](/docs/images/Additianal/hack/1.png){: width="800" }](/docs/images/Additianal/aws/1.png){: target="_blank"}
 
-
+<br />
 편집 버튼을 클릭하여 프로토콜&포트를 변경 할 수 있습니다.(기본 설정은 https : 443)
 
 https 를 사용하지 않는 경우, http : 80 으로 수정하여 재전송공격 데이터를 전송할 수 있습니다.
 수정된 값은 저장됩니다.
 
- [![image](/docs/images/Additianal/aws/2.png)](/docs/images/Additianal/aws/2.png){: target="_blank"}
+ [![image](/docs/images/Additianal/hack/2.png)](/docs/images/Additianal/aws/2.png){: target="_blank"}
 
 
 **“curl://” 버튼** 선택 시, 자동 복사(재전송 Query가 생성)가 되어 웹 전송 방식보다 더 많은 공격 옵션을 제공합니다.

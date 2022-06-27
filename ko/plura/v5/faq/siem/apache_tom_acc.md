@@ -21,7 +21,7 @@ Tomcat server.xml 파일에 로깅 관련 설정을 수정합니다.
 
 - pattern 내의 ” 은 &quot; 수정해야 함.
 
-[![image](/docs/images/Additianal/apache/1.png)](/docs/images/Additianal/apache/1.png){: target="_blank"}
+[![image](/docs/images/Additianal/apache/1.png){: width="800" }](/docs/images/Additianal/apache/1.png){: target="_blank"}
 
 ▶ Git source, [https://github.com/QubitSecurity/ModPlura/tree/main/tomcat](https://github.com/QubitSecurity/ModPlura/tree/main/tomcat){: target="_blank"}
 

@@ -39,9 +39,9 @@ topnav: topnav
 [![image](/docs/images/Additianal/cloud/2.png){: width="800" }](/docs/images/Additianal/cloud/2.png){: target="_blank"}
 
 ### 1-4. 회원 가입 後 동료 초대
-– PoC에 함께 참여하는 동료 초대
-– 분석하는 시스템에 대한 통합 관리 제공
-– 메뉴 위치: 좌측 상단 > 관리 > 멤버 > 멤버 추가
+- PoC에 함께 참여하는 동료 초대
+- 분석하는 시스템에 대한 통합 관리 제공
+- 메뉴 위치: 좌측 상단 > 관리 > 멤버 > 멤버 추가
 
 ▶ [http://blog.plura.io/?p=14030](http://blog.plura.io/?p=14030){: target="_blank"}
 
@@ -55,8 +55,8 @@ topnav: topnav
 
 
 2) 사전 환경 확인
-– Install Agents 에서 시스템 환경에 맞는 문서를 찾기 어렵다면
-– 대상 서버들의 OS 버전, 웹서버 App, 웹서비스 포트 정보 확인
+- Install Agents 에서 시스템 환경에 맞는 문서를 찾기 어렵다면
+- 대상 서버들의 OS 버전, 웹서버 App, 웹서비스 포트 정보 확인
 > 해당 내역에 정확한 설치 페이지를 안내해 드립니다.
 
 ### 2-2. 에이전트 설치 – 원격지원
