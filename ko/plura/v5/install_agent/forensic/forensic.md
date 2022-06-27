@@ -25,13 +25,13 @@ product: Install_A_F
 
 
 
-## ▣ Install Step
+## 1 Install Step
 
 먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인(라이센스 : 포렌식) 후 우측상단 <font color='dodgerblue'> Install Agents </font>  를 클릭하여 다운로드합니다.
 
 [![image](/docs/images/Ins_G/Forensic/install_step.png){: width="800" }](/docs/images/Ins_G/Forensic/install_step.png){: target="_blank"}
 
-__1. 설치를 시작합니다.__ 
+### 1-1. 설치를 시작합니다.
 
 Administrator 계정으로 설치해야 합니다.
 
@@ -41,7 +41,7 @@ Administrator 계정으로 설치해야 합니다.
 
 [![image](/docs/images/Ins_G/Forensic/Install_2.png)](/docs/images/Ins_G/Forensic/Install_2.png){: target="_blank"}
 
-__2. 로그인 하기__
+### 1-2. 로그인 하기
 
 (1) 설치가 완료되면 로그인 창이 자동 실행 됩니다.
 
@@ -49,7 +49,7 @@ __2. 로그인 하기__
 
 [![image](/docs/images/Ins_G/Forensic/install_3.png)](/docs/images/Ins_G/Forensic/install_3.png){: target="_blank"}
 
-__3. 서비스 시작__
+### 1-3. 서비스 시작
 
 로그인 되면 PLURA V5 Log-F 서비스가 시작됩니다.
 * 로그 업로드 지원 시스템 : Windows, Linux, Android

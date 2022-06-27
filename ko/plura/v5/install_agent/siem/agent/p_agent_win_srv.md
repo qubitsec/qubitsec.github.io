@@ -127,7 +127,6 @@ C:\Program Files (x86)\PLURA 경로에서 확인 하실 수 있습니다.
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_12.png)](/docs/images/Ins_G/Agent_W/Agent_W_12.png){:target="_blank"}
 
-[![image](/docs/images/Ins_G/Agent_W/Agent_W_13.png)](/docs/images/Ins_G/Agent_W/Agent_W_13.png){:target="_blank"}
 
 <br />
 

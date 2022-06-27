@@ -8,7 +8,7 @@ product: Install_A_S
 
 ## 1. postgresql.conf 수정
 
-     > 사전 Syslog 설치 필요
+    > 사전 Syslog 설치 필요
     > Config 위치 확인
 
      [config 경로 예시] /var/lib/pgsql/9.6/data/postgresql.conf

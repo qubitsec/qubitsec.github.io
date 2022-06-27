@@ -34,7 +34,7 @@ __◆ PLURA V5 Linux Syslog 설치 영상__
 
 <br />
 
-__◆ PLURA V5 Agent Linux Srv 설치 영상__
+__PLURA V5 Agent Linux Srv 설치 영상__
 
 – Linux Syslog 설치 영상 : [https://qubitsec.github.io/lin_sys.html](https://qubitsec.github.io/lin_sys.html){:target="_blank"}
 

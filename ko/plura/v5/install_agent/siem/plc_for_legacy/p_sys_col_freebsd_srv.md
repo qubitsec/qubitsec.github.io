@@ -26,6 +26,6 @@ product: Install_A_S
      PLURA V5는 기본 @UDP 통신
 
 ## 3. www.plura.io 웹에서 시스템 등록을 합니다.
-**– 시스템 > 시스템 관리 > 취합 시스템 선택 > 시스템 등록**
+- **시스템 > 시스템 관리 > 취합 시스템 선택 > 시스템 등록**
 
  [![image](/docs/images/Ins_G/FreeBSD/freebsd.png)](/docs/images/Ins_G/FreeBSD/freebsd.png){:target="_blank"}

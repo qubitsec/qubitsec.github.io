@@ -68,6 +68,7 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 **5. 로그 취합 서버(부모)에 포트미러링을 구성합니다.**
 
 **6. 원격지(자식) 서버를 등록합니다.**
+
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 웹 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/LogCol_web/5.png){: width="800" }](/docs/images/Ins_G/LogCol_web/5.png){:target="_blank"}

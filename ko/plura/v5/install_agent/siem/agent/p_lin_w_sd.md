@@ -15,7 +15,7 @@ Datos는 웹 트래픽을 모니터링하기 위한 도구입니다.
 
 2) 컨테이너 환경으로, 호스트에 여러 웹 파드(POD)를 사용할 경우
 
-__▣ Linux Web Server – Datos 설치 영상__
+## Linux Web Server – Datos 설치 영상
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TqDUR002tt0' frameborder='0' allowfullscreen></iframe></div>
 

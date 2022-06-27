@@ -65,8 +65,9 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
 <br />
 [![image](/docs/images/Ins_G/rsys_mysql/1.png)](/docs/images/Ins_G/rsys_mysql/1.png){:target="_blank"}
 <br />
-     4) mysql restart
-     # systemctl restart mysqld
+
+      4) mysql restart
+      # systemctl restart mysqld
 
      5) 활성화 확인
      mysql> show variables like ‘slow_query_%’;

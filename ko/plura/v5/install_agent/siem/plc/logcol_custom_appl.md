@@ -26,19 +26,19 @@ Logstash는 다양한 소스로부터 데이터를 수집하고 곧바로 전환
 
 Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이션 서버 로그 등 다양한 데이터 원본에서 비정형 데이터를 쉽게 수집할 수 있습니다.[2]
 
-## ◆ Logstash 설정 방법
+## 1. Logstash 설정 방법
 
-① Install Logstash
+### ① Install Logstash
 [https://github.com/QubitSecurity/Logstash](https://github.com/QubitSecurity/Logstash){:target="_blank"}
 
-② Conf 파일 다운로드
+### ② Conf 파일 다운로드
 #cd /etc/logstash/conf.d/
 #wget “https://raw.githubusercontent.com/QubitSecurity/Logstash/main/conf.d/70-postfix-plura.conf”
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/1.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/1.png){:target="_blank"}
 
 <br />
-③ Postfix 로그 경로 수정
+### ③ Postfix 로그 경로 수정
 
      # vi /etc/logstash/conf.d/70-postfix-plura.conf
 
@@ -52,7 +52,7 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 #cd /etc/logstash/patterns.d
 #wget [“https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix”](https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix){:target="_blank"}
 
-## ◆ PLURA-Agent를 이용하여 업로드 설정하기
+## 2. PLURA-Agent를 이용하여 업로드 설정하기
 
 위에서 설명한 Logstash를 이용하여 Linux : Postfix 로그를 PLURA V5에서 수집해보겠습니다.
 
@@ -68,33 +68,33 @@ Logstash가 설정된 원격지(자식) 서버를 등록합니다.
 
 <br />
 
-  ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
+###  ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"}
 
 <br />
 
-  ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
+###  ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 응용프로그램 사용자정의 로그 수집 경로에 “/var/log/plura/app-logstash-postfix.log”를 입력합니다.
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"}
 
 <br />
 
- ③ 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
+ ### ③ 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
  RUN Logstash(foreground)
  <br /> 
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"}
 
-## ◆ PLURA V5 웹에서 확인하기
+## 3. PLURA V5 웹에서 확인하기
 
-– 경로 : 전체로그 > 응용프로그램 > 사용자정의 > postfix
+- 경로 : 전체로그 > 응용프로그램 > 사용자정의 > postfix
 ※ 관리 > 사용 > 응용프로그램 > 사용자정의 설정이 ON 상태인 경우에만 메뉴가 노출됩니다.[4]
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"}
 
-– “수정” 버튼을 클릭한 후, postfix 항목에 체크를 하면 사용자정의 응용프로그램에서 postfix로그를 확인할 수 있습니다.
+- “수정” 버튼을 클릭한 후, postfix 항목에 체크를 하면 사용자정의 응용프로그램에서 postfix로그를 확인할 수 있습니다.
 
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/7.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/7.png){:target="_blank"}
@@ -103,11 +103,11 @@ Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 �
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"}
 
-## ◆ 참고 사이트
-– [1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/set_app_log_up.html](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}
+## 4. 참고 사이트
+- [1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/set_app_log_up.html](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}
 
-– [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
+- [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
 
-– [3] Install Guide > SIEM > Log Collector > Application : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
+- [3] Install Guide > SIEM > Log Collector > Application : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
 
-– [4] Manual > Common > 관리 > 사용 : [https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}
+- [4] Manual > Common > 관리 > 사용 : [https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}

@@ -36,10 +36,11 @@ product: Install_A_S
 ## 2. 활성화 한 Audit로그는 PLURA V5 웹 페이지에서 확인하실 수 있습니다.
 
   __필터탐지 > 시스템__
+
     전체로그 > 시스템
 
-
-**▣ 참고 사이트**
+<br />
+**참고 사이트**
 
 – Audit 로그 중앙집중관리 [http://blog.plura.io/?p=5737](http://blog.plura.io/?p=5737){:target="_blank"}
 
