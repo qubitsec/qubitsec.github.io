@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-## ◆ Syslog 필터 등록
+## 1. Syslog 필터 등록
 - 버튼을 클릭하여 등록할 로그에 대한 상세 정보를 입력합니다.
 - 적용된 추천 필터의 내용을 참고하세요.
 
@@ -28,9 +28,9 @@ topnav: topnav
 [![image](/docs/images/Manual/common/filter2/syslog/1.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/1.png){: target="_blank"}  
 
 <br />
-## ◆ 필터탐지 조건 예시
+## 2. 필터탐지 조건 예시
 
-1. 아래처럼 두 개 이상의 데이터 그룹이 있을 때, 그룹끼리는 AND 조건입니다.
+**2-1.** 아래처럼 두 개 이상의 데이터 그룹이 있을 때, 그룹끼리는 AND 조건입니다.
 
 [![image](/docs/images/Manual/common/filter2/syslog/2.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/2.png){: target="_blank"}  
 <br />
@@ -38,7 +38,7 @@ topnav: topnav
 [![image](/docs/images/Manual/common/filter2/syslog/3.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/3.png){: target="_blank"}  
 
 <br />
-2. 아래처럼 한 개의 그룹에 여러개의 데이터 값이 있을 때, 그룹 내의 값끼리는 OR 조건입니다.
+**2-2.** 아래처럼 한 개의 그룹에 여러개의 데이터 값이 있을 때, 그룹 내의 값끼리는 OR 조건입니다.
 [![image](/docs/images/Manual/common/filter2/syslog/4.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/4.png){: target="_blank"}  
 
 

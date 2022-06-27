@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-## ◆ Login 통계 항목
+## 1. Login 통계 항목
 - Login 시도 시에 발생하는 로그인 성공/실패에 대한 통계 항목을 일별, 주별, 월별로 설정하여 항목별 그래프로 볼 수 있습니다.
 
      계정탈취 필터에 Path, Host, 응답사이즈(Response Size)로 등록한 시스템의 Login 시도에 대한 통계 데이터를 제공합니다.

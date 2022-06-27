@@ -21,17 +21,17 @@ topnav: topnav
 [![image](/docs/images/Manual/common/manage/use/2.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-1.관리 > 사용 > 웹 개인정보숨김 > 설정 버튼을 클릭합니다.
+### 1.관리 > 사용 > 웹 개인정보숨김 > 설정 버튼을 클릭합니다.
 
 [![image](/docs/images/Manual/common/manage/use/3.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-2.숨기고자 하는 개인정보를 추가합니다.
+### 2.숨기고자 하는 개인정보를 추가합니다.
 
 [![image](/docs/images/Manual/common/manage/use/4.png)](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-3.개인정보 숨김 설정이 정상적으로 적용된 것을 확인할 수 있습니다.
+### 3.개인정보 숨김 설정이 정상적으로 적용된 것을 확인할 수 있습니다.
 
 [![image](/docs/images/Manual/common/manage/use/5.png)](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 

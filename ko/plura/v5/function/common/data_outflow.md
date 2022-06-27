@@ -15,10 +15,10 @@ topnav: topnav
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Qp-JbyZ_G1k' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
-## ◆ 참고영상_PLURA V5 데이터 유출 시연 영상
+## 1. 참고영상_PLURA V5 데이터 유출 시연 영상
 
 <br />
-## ◆ 탐지된 로그 상세 내용
+## 2. 탐지된 로그 상세 내용
 - 탐지된 로그를 클릭하면 각각의 로그에 담긴 자세한 내용을 확인할 수 있습니다.
 
  [![image](/docs/images/Manual/common/outflow/1.png){: width="800" }](/docs/images/Manual/common/outflow/1.png){: target="_blank"}

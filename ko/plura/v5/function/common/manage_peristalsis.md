@@ -9,12 +9,12 @@ topnav: topnav
 
  [![image](/docs/images/Manual/common/manage/peristalsis/1.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/1.png){: target="_blank"}
 
-## ◆ 컴플라이언스
+## 1. 컴플라이언스
 - PCI-DSS_v3.2.1, ISMS-P, ISO27001:2013, 전자금융감독규정에 대한 적용 및 수정을 할 수 있습니다.
 ※ PLURA V5 Forensic 제품에서는 지원하지 않는 기능입니다.
 
 <br />
-## ◆ 티켓 연동 설정
+## 2. 티켓 연동 설정
 - 티켓 “수정하기” 버튼을 클릭한 후, 설정할 수 있습니다.
 
  [![image](/docs/images/Manual/common/manage/peristalsis/2.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/2.png){: target="_blank"}
@@ -25,7 +25,7 @@ topnav: topnav
  [![image](/docs/images/Manual/common/manage/peristalsis/3.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/3.png){: target="_blank"}
 
 <br />
-## ◆ 티켓 발행
+## 3. 티켓 발행
 - 티켓 발행을 원하는 로그에서 우측 하단의 티켓 버튼을 클릭하면 티켓이 발행됩니다.
 
  [![image](/docs/images/Manual/common/manage/peristalsis/4.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/4.png){: target="_blank"}
@@ -40,7 +40,7 @@ topnav: topnav
  [![image](/docs/images/Manual/common/manage/peristalsis/6.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/6.png){: target="_blank"}
 
 <br />
-## ◆ Syslog 연동 설정
+## 4. Syslog 연동 설정
 
 a. 대표/그룹별 선택 가능
 - 대표 또는 서비스 그룹별로 구분하여 Syslog 알림을 받을 수 있습니다.
