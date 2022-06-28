@@ -9,6 +9,7 @@ PLURA V5에서 수집하고 있는 시스템 전체로그를 활용하여
 사용자가 직접 원하는 시스템 필터를 만들 수 있습니다.
 
 <br />
+ 
  ## 시스템 필터 등록
 
 [![image](/docs/images/Manual/common/regi/system/1.png){: width="800" }](/docs/images/Manual/common/regi/system/1.png){: target="_blank"}
