@@ -27,6 +27,8 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 > 5.  Auto Scaling 그룹 생성
 > 6.  인스턴스 생성/종료 테스트
 
+<br />
+
 **[고정 IP주소 확보]**
 
 -   신규 인스턴스에 할당할 고정 IP주소 서브넷 확보  
@@ -60,13 +62,13 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
     > login_delay_sec=60
     
 
+<br />
+
 **[Auto Scaling 이미지 생성]**
 
 -   에이전트가 설치된 인스턴스의 이미지를 생성합니다.  
 
     [![image](/docs/images/Public_Cloud/autoscaling_setup/03.png)](/docs/images/Public_Cloud/autoscaling_setup/03.png){: target="_blank"}
-
-<br />
 
     [![image](/docs/images/Public_Cloud/autoscaling_setup/04.png)](/docs/images/Public_Cloud/autoscaling_setup/04.png){: target="_blank"}
 
@@ -98,15 +100,17 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
     [![image](/docs/images/Public_Cloud/autoscaling_setup/08.png)](/docs/images/Public_Cloud/autoscaling_setup/08.png){: target="_blank"}
 
+<br />
+
 **[Auto Scaling 그룹 생성]**
 
 -   Auto Scaling 그룹을 생성하고, 이전 단계에서 만들어 놓은 시작 템플릿을 지정합니다.  
 
     [![image](/docs/images/Public_Cloud/autoscaling_setup/09.png)](/docs/images/Public_Cloud/autoscaling_setup/09.png){: target="_blank"}
 
-<br />
-
     [![image](/docs/images/Public_Cloud/autoscaling_setup/10.png)](/docs/images/Public_Cloud/autoscaling_setup/10.png){: target="_blank"}
+
+<br />
 
 **[인스턴스 생성/종료 테스트]**
 
