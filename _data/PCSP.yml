@@ -14,7 +14,7 @@ folders:
     url: /route_53_dns.html
   
   - title: EC2 Auto Scaling 환경 지원
-    url: /amazon_ex2_scaling.html
+    url: /amazon_ec2_scaling.html
 
   - title: WAF의 CloudFront 환경 지원
     url: /cloudfront_aws.html
