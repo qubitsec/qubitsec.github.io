@@ -6,7 +6,7 @@ topnav: topnav
 ---
 
 
-**PLURA V5의 Amazon EC2 Auto Scaling 환경 지원**  
+## PLURA V5의 Amazon EC2 Auto Scaling 환경 지원
 
 [https://qubitsec.github.io/amazon_ex2_scaling.html](https://qubitsec.github.io/amazon_ex2_scaling.html){:target="_blank"}
 
@@ -29,7 +29,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 <br />
 
-**[고정 IP주소 확보]**
+## 1. 고정 IP주소 확보
 
 -   신규 인스턴스에 할당할 고정 IP주소 서브넷 확보  
 
@@ -53,7 +53,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 <br />
 
-**[에이전트 설치]**
+## 2. 에이전트 설치
 
 -   PLURA V5 에이전트 설치 후 다음 설정 파일에 내용을 추가합니다.  
     vi /etc/plura/conf/plura.conf
@@ -64,7 +64,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 <br />
 
-**[Auto Scaling 이미지 생성]**
+## 3. Auto Scaling 이미지 생성
 
 -   에이전트가 설치된 인스턴스의 이미지를 생성합니다.  
 
@@ -74,7 +74,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 <br />
 
-**[시작 템플릿 생성]**
+## 4. 시작 템플릿 생성
 
 -   Auto Scaling 그룹에서 사용할 시작 템플릿을 생성합니다.  
 
@@ -102,7 +102,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 <br />
 
-**[Auto Scaling 그룹 생성]**
+## 5. Auto Scaling 그룹 생성
 
 -   Auto Scaling 그룹을 생성하고, 이전 단계에서 만들어 놓은 시작 템플릿을 지정합니다.  
 
@@ -112,7 +112,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 <br />
 
-**[인스턴스 생성/종료 테스트]**
+## 6. 인스턴스 생성/종료 테스트
 
 -   Auto Scaling 그룹 > 세부 정보 탭 > 그룹 세부 정보 [편집] 눌러서 그룹 크기 조정  
 
