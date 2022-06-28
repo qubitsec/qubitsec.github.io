@@ -26,7 +26,7 @@ topnav: topnav
 <br />
 그 아래에는 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크 에서 탐지된 로그의 수를 보여줍니다.
 <br />
-## ◆ 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
+## 1.마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.
 
 [![image](/docs/images/Manual/siem/dash/4.png){: width="800" }](/docs/images/Manual/siem/dash/4.png){: target="_blank"}
@@ -38,7 +38,7 @@ topnav: topnav
 - 접속 IP TOP5
 - 탐지로그 서버 TOP5
 <br />
-– 최근 탐지된 로그의 ‘더보기’를 클릭하면 해당 탐지로그 페이지로 이동합니다.
+- 최근 탐지된 로그의 ‘더보기’를 클릭하면 해당 탐지로그 페이지로 이동합니다.
 
 [![image](/docs/images/Manual/siem/dash/5.png)](/docs/images/Manual/siem/dash/5.png){: target="_blank"}
 
@@ -47,14 +47,14 @@ topnav: topnav
 [![image](/docs/images/Manual/siem/dash/6.png){: width="800" }](/docs/images/Manual/siem/dash/6.png){: target="_blank"}
 
 <br />
-## ◆ 시간별 로그 발생 현황
-– 전일발생 그래프와 비교하여 탐지라인 그래프를 확인할 수 있습니다.
+## 2.시간별 로그 발생 현황
+- 전일발생 그래프와 비교하여 탐지라인 그래프를 확인할 수 있습니다.
 
 [![image](/docs/images/Manual/siem/dash/7.png){: width="800" }](/docs/images/Manual/siem/dash/7.png){: target="_blank"}
 
 <br />
-## ◆ 화면 설정
-– 대시보드 우측 톱니바퀴를 클릭하면 화면설정 페이지가 노출됩니다.
+## 3.화면 설정
+- 대시보드 우측 톱니바퀴를 클릭하면 화면설정 페이지가 노출됩니다.
 
 [![image](/docs/images/Manual/siem/dash/8.png){: width="800" }](/docs/images/Manual/siem/dash/8.png){: target="_blank"}
 
@@ -84,7 +84,7 @@ topnav: topnav
 - 메뉴 노출 설정은 전체로 설정됩니다.
 
 <br />
-## ◆ 개인 대시보드
+## 4.개인 대시보드
 – 사용자가 원하는 필터를 설정하여 모니터링할 수 있습니다.
 
 [![image](/docs/images/Manual/siem/dash/10.png){: width="800" }](/docs/images/Manual/siem/dash/10.png){: target="_blank"}
@@ -93,4 +93,4 @@ topnav: topnav
 
 [![image](/docs/images/Manual/siem/dash/11.png){: width="800" }](/docs/images/Manual/siem/dash/11.png){: target="_blank"}
 
-◆ 참고영상_PLURA V5 대시보드/메뉴 활용하기 : [http://blog.plura.io/?p=11856](http://blog.plura.io/?p=11856){: target="_blank"}
+ 참고영상_PLURA V5 대시보드/메뉴 활용하기 : [http://blog.plura.io/?p=11856](http://blog.plura.io/?p=11856){: target="_blank"}

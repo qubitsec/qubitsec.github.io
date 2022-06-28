@@ -24,30 +24,30 @@ topnav: topnav
  [![image](/docs/images/Manual/siem/log/3.png){: width="800" }](/docs/images/Manual/siem/log/3.png){: target="_blank"}
 
 <br />
-## ◆ 시간순 정렬
+## 1.시간순 정렬
 – 생성일 기준으로 최신순과 과거순으로 정렬할 수 있습니다.
 
 [![image](/docs/images/Manual/siem/log/4.png){: width="800" }](/docs/images/Manual/siem/log/4.png){: target="_blank"}
  
 <br />
-## ◆ 페이지당 로그 수
+## 2.페이지당 로그 수
 – 한 페이지당 보이는 로그의 수를 20개, 30개, 40개, 50개, 100개로 설정할 수 있습니다.
 
 [![image](/docs/images/Manual/siem/log/5.png){: width="800" }](/docs/images/Manual/siem/log/5.png){: target="_blank"}
  
 <br />
-## ◆ 날짜/시간 선택
+## 3.날짜/시간 선택
 – 지난 날짜와 시간을 선택하여 로그를 볼 수 있습니다.
 
 [![image](/docs/images/Manual/siem/log/6.png){: width="800" }](/docs/images/Manual/siem/log/6.png){: target="_blank"}
  
 <br />
-## ◆ 운영체제 선택
+## 4.운영체제 선택
 – 운영체제를 선택해서 볼 수 있습니다.
 
 [![image](/docs/images/Manual/siem/log/7.png){: width="800" }](/docs/images/Manual/siem/log/7.png){: target="_blank"}
  
 <br />
-## ◆ 시스템 선택
+## 5.시스템 선택
 – 원하는 시스템을 선택해서 볼 수 있습니다.
 [![image](/docs/images/Manual/siem/log/8.png){: width="800" }](/docs/images/Manual/siem/log/8.png){: target="_blank"}

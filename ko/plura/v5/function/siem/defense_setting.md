@@ -20,4 +20,4 @@ topnav: topnav
 – 방어상태의 ON/OFF로 해당 공격에 대한 방어를 실행 또는 해지합니다.
 <br />
 
-  [![image](/docs/images/Manual/siem/setting/1.png){: width="800" }](/docs/images/Manual/siem/setting/1.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/setting/1.png){: width="800" }](/docs/images/Manual/siem/setting/1.png){: target="_blank"}

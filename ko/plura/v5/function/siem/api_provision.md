@@ -8,14 +8,14 @@ topnav: topnav
      제공하는 API로 가공하여 원하는 정보를 얻을 수 있습니다.
      On-premise 환경에서만 이용 가능합니다.
 
-## ◆ API 인증키 설정
+## 1.API 인증키 설정
 - 그룹관리 > 연동설정 메뉴에서 설정할 수 있습니다.
 - 발급하기 버튼을 누르면 다음과 같이 API 인증키가 발급됩니다.
 
- [![image](/docs/images/Manual/siem/api/1.png)](/docs/images/Manual/siem/api/1.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/api/1.png)](/docs/images/Manual/siem/api/1.png){: target="_blank"}
  
 
-## ◆ 제공되는 정보
+## 2.제공되는 정보
 - 발급받은 인증키를 사용하여 Rest API 방식을 이용하여 조회 작업을 하실 수 있습니다.
 - 로그의 정보는 제공하지 않습니다.
 - 다음의 정보들이 제공됩니다.
