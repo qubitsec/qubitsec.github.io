@@ -57,7 +57,7 @@ Tomcat access 로그 파일에 권한 부여하기
 
 Apache Tomcat catalina.out 로깅하기
 
-[응용프로그램 로그 syslog 전송하기 – PLURA’S BLOG](http://blog.plura.io/?p=15891){: target="_blank"}
+[응용프로그램 로그 syslog 전송하기 – PLURA’S BLOG](https://qubitsec.github.io/send_app_syslog.html){: target="_blank"}
 
  
 

@@ -101,4 +101,4 @@ MIME 타입은 개별 타입과 멀티파트 타입으로 구분됩니다.
 
  3) charset=UTF-8 [https://theqoop.tistory.com/266](https://theqoop.tistory.com/266){: target="_blank"}
 
- 4) Apache 서버에서 HTTP 압축 비활성화 [http://blog.plura.io/?p=12015](http://blog.plura.io/?p=12015){: target="_blank"}
+ 4) Apache 서버에서 HTTP 압축 비활성화 [http://blog.plura.io/?p=12015](https://qubitsec.github.io/apache_http_compression.html){: target="_blank"}

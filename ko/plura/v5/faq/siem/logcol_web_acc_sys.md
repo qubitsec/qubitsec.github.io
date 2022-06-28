@@ -63,7 +63,7 @@ topnav: topnav
 * 환경: CentOS 7, Rsyslog 8.2010.0
 
 <br />
-**1) [PLURA V5 Log Collector 서버 설치](http://blog.plura.io/?p=6539){: target="_blank"}**
+**1) [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/p_agent_lin_srv.html){: target="_blank"}**
 
 <br />
 **2) Remote 클라이언트의 syslog 전송 오픈**

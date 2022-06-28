@@ -63,7 +63,7 @@ topnav: topnav
 
  
 
-### 1) [PLURA V5 Log Collector 서버 설치](http://127.0.0.1:4000/p_agent_lin_srv.html){: target="_blank"}
+### 1) [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/p_agent_lin_srv.html){: target="_blank"}
 
  
 

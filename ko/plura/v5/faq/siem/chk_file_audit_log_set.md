@@ -18,68 +18,68 @@ PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선
 
 - audit service 종료
 
-     # audit off
+      # audit off
 
-     # audit shutdown
+      # audit shutdown
 
 <br />
 - config 수정
 
-     # vi /etc/security/audit/config
+      # vi /etc/security/audit/config
 
-     // 값 변경
+      // 값 변경
 
-     set binmode = off
+      set binmode = off
 
-     streammode = on
+      streammode = on
 
-     // 입력값 추가(class section, user section)
+      // 입력값 추가(class section, user section)
 
-     class:
+      class:
 
-     system = USER_Remove,USER_Create,GROUP_Create,GROUP_Remove
+      system = USER_Remove,USER_Create,GROUP_Create,GROUP_Remove
 
-     init = User_Login
+      init = User_Login
 
-     …
+      …
 
-     users:
+      users:
 
-     root = general
+      root = general
 
-     default = general, system, init
-
- 
-
-     # /etc/security/audit/streamcmds
-
-     // 입력값 추가
-
-     /usr/sbin/auditstream | auditpr -v | /usr/bin/logger -p local7.info &
-
-     find /etc -type f | awk ‘{printf(“%s:\n\tw = FILE_Write\n\n”,$1)}’ >> /etc/security/audit/objects
-
-     /usr/sbin/auditstream | /usr/sbin/auditselect -e “event == FILE_Write” | auditpr  -hhelpPRtTc -v > /dev/console &
+      default = general, system, init
 
  
 
-     # vi /etc/security/audit/objects
+      # /etc/security/audit/streamcmds
 
-     /etc/hosts:
+      // 입력값 추가
 
-     w = FILE_Write
+      /usr/sbin/auditstream | auditpr -v | /usr/bin/logger -p local7.info &
+
+      find /etc -type f | awk ‘{printf(“%s:\n\tw = FILE_Write\n\n”,$1)}’ >> /etc/security/audit/objects
+
+      /usr/sbin/auditstream | /usr/sbin/auditselect -e “event == FILE_Write” | auditpr  -hhelpPRtTc -v > /dev/console &
+
+ 
+
+      # vi /etc/security/audit/objects
+
+      /etc/hosts:
+
+      w = FILE_Write
 
 **> Audit Tag Name 설정**
 
-     # vi /etc/security/audit/objects
+      # vi /etc/security/audit/objects
 
-     /etc/hosts:
+      /etc/hosts:
 
-     w = W_@태그네임
+      w = W_@태그네임
 
-     # vi /etc/security/audit/events
+      # vi /etc/security/audit/events
 
-     W_@태그네임 = printf “%s_qubit”
+      W_@태그네임 = printf “%s_qubit”
 
  
 
@@ -87,19 +87,19 @@ PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선
 
 - config 수정
 
-     # vi /etc/syslog.conf 
+      # vi /etc/syslog.conf 
 
-     // 입력값 추가
+      // 입력값 추가
 
-     *.info @로그취합서버 IP주소
+      *.info @로그취합서버 IP주소
 
-     *.debug @로그취합서버 IP주소
+      *.debug @로그취합서버 IP주소
 
-     …
+      …
 
-     *.debug;*.emerg;*.alert;*.crit;*.err;*.warning;*.notice;*.info;mail.none;auth.none  /var/adm/syslog/syslog.log
+      *.debug;*.emerg;*.alert;*.crit;*.err;*.warning;*.notice;*.info;mail.none;auth.none  /var/adm/syslog/syslog.log
 
-     #User.debug /var/adm/syslog/syslog.log rotate size 5m files 5
+      #User.debug /var/adm/syslog/syslog.log rotate size 5m files 5
 
 - restart src
 
