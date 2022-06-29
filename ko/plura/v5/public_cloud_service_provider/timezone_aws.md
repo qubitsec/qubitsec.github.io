@@ -13,22 +13,19 @@ AWS 에서는 Local Time 기본값으로 “GMT” 가 설정됩니다.
 
 ## 1. Localtime 을 Asia/seoul 로 시간 설정 변경하는 방법
 
-     # ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
+`# ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime`
 
 <br />
 
 ## 2. rsyslog 를 재시작 해줘야 취합로그 시간이 변경 적용됩니다.
 
-      # service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 
 **시나리오1_현재 Local time 확인**
 
-      # date
-
-<br />
-
+`# date`
 [![image](/docs/images/Public_Cloud/timezone/01.png){: width="800" }](/docs/images/Public_Cloud/timezone/01.png){: target="_blank"}  
 
 Localtime 이 Mon Jul 6 02:16:00 UTC 2020 설정되어 있습니다.
@@ -37,10 +34,7 @@ Localtime 이 Mon Jul 6 02:16:00 UTC 2020 설정되어 있습니다.
 
 **시나리오2_현재 Local time 을 Asia/seoul 로 설정 변경**
 
-      # ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
-
-<br />
-
+`# ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime`
 [![image](/docs/images/Public_Cloud/timezone/02.png){: width="800" }](/docs/images/Public_Cloud/timezone/02.png){: target="_blank"}
 
 Localtime 이 Mon Jul 6 11:16:42 KST 2020 로 변경되었습니다.
@@ -49,7 +43,7 @@ Localtime 이 Mon Jul 6 11:16:42 KST 2020 로 변경되었습니다.
 
 **시나리오3_rsyslog 재시작**
 
-      # service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 
