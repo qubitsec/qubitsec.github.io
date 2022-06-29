@@ -35,11 +35,11 @@ product: Install_A_F
 
 Administrator 계정으로 설치해야 합니다.
 
-[![image](/docs/Images/Ins_G/Forensic/install_1.png)](/docs/Images/Ins_G/Forensic/install_1.png){: target="_blank"}
+[![image](/docs/images/Ins_G/Forensic/install_1.png)](/docs/Images/Ins_G/Forensic/install_1.png){: target="_blank"}
 
 설치 경로를 선택할 수 있습니다.
 
-[![image](/docs/images/Ins_G/Forensic/Install_2.png)](/docs/images/Ins_G/Forensic/Install_2.png){: target="_blank"}
+[![image](/docs/images/Ins_G/Forensic/install_2.png)](/docs/images/Ins_G/Forensic/Install_2.png){: target="_blank"}
 
 ### 1-2. 로그인 하기
 
