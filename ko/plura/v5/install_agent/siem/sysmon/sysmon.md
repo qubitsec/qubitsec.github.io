@@ -12,12 +12,14 @@ product: Install_A_S
      Sysmon 은 기본 윈도우 이벤트 로그로는 한계가 있는 프로세스 생성, 네트워크 연결 등을 이벤트화할 수 있습니다. 사고 대응 관점에서 생성된 프로세스 목록과 네트워크 연결 로그는 사고를 재구성하는데 굉장히 도움이 됩니다. Sysmon 은 별도의 모니터링 도구없이 간단히 드라이버 설치만으로 이런 로그를 이벤트화 시켜줍니다.
      서버 관리자는 운영중인 서버에서 사용되는 드라이버와 Sysmon 드라이버의 충돌 여부를 확인해야 합니다.
 
+<br />
+
 ## 1. Sysmon 설치
 
 Sysmon 을 설치하려면 먼저 __PLURA V5 Agent__ 를 설치해야합니다.
 PLURA V5 Agent 설치 완료 후, 아래의 내용을 참고하여 Sysmon 을 설치합니다.
 
- 
+<br />
 
 ### 참고사항 I 
 
@@ -38,7 +40,7 @@ PLURA V5 Agent 설치 완료 후, 아래의 내용을 참고하여 Sysmon 을 �
 
 Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsoft.com/ko-kr/sysinternals/downloads/sysmon){:target="_blank"} 에도 잘 설명되어 있습니다.
 
- 
+<br />
 
 ### 참고사항 II
 
@@ -56,13 +58,15 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
      #설치 명령어
      sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”
 
- 
+<br />
 
 ### 참고사항 Ⅲ
 
 Agent 에서 SYSMON 설치 확인
 
 [![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"}
+
+<br />
 
 ## 2. Sysmon 이벤트확인
 
@@ -72,6 +76,7 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
 
 [![image](/docs/images/Ins_G/Sysmon/sysmon_4.png)](/docs/images/Ins_G/Sysmon/sysmon_4.png){:target="_blank"}
 
+<br />
 
 ## 3. Sysmon 활용
 
@@ -85,12 +90,12 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
 
     [https://docs.microsoft.com/ko-kr/sysinternals/downloads/sysmon](https://docs.microsoft.com/ko-kr/sysinternals/downloads/sysmon){:target="_blank"}
  
+<br />
 
 ## 4. Sysmon 로그를 PLURA V5 웹 페이지에서 확인할 수 있습니다.
 
-  - 필터탐지 > 시스템
-  - 전체로그 > 시스템
-
+- 필터탐지 > 시스템
+- 전체로그 > 시스템
 
       제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
 

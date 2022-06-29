@@ -7,9 +7,13 @@ product: Install_A_S
 
 ## MySQL(CentOS) 로그 분석
 
+<br />
+
 ### 1. mysql.conf 다운로드 rsyslog 사용
 
      curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf
+
+<br />
 
 ### 2. 80-mysql.conf 수정
 
@@ -17,9 +21,13 @@ product: Install_A_S
 
      #vi /etc/rsyslog.d/80-mysql.conf
 
+<br />
+
 ### 3. rsyslog 데몬 재 시작
 
      service rsyslog restart
+
+<br />
 
 ### 4. PLURA V5에서 확인하기
 

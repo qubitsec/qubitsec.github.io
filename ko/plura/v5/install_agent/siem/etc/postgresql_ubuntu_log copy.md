@@ -21,10 +21,14 @@ product: Install_A_S
      #syslog_sequence_numbers = on
      #syslog_split_messages = on
 
+<br />
+
 ## 2. PostgreSQL 및 Syslog 재시작
 
      systemctl restart postgresql
      systemctl restart rsyslog
+
+<br />
 
 ## 3. PLURA V5에서 확인
 

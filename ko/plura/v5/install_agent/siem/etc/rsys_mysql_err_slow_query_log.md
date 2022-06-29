@@ -7,6 +7,8 @@ product: Install_A_S
 
 MySQL Error 로그와 Slow-Query 취합을 위한 설정
 
+<br />
+
 ## 1. rsyslog conf 설정
 
      1) 설정
@@ -39,11 +41,15 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
      2) rsyslog restart
      # systemctl restart rsyslog
 
+<br />
+
 ### 1-1. PLURA V5 repo 에서 다운로드 받기
 
      # wget https://repo.plura.io/v5/module/rsyslog/80-mysql.conf
 
      # curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf
+
+<br />
 
 ## 2. MySQL – SLOW QUERY 설정
 
@@ -73,6 +79,7 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
      mysql> show variables like ‘slow_query_%’;
 <br />
 [![image](/docs/images/Ins_G/rsys_mysql/2.png)](/docs/images/Ins_G/rsys_mysql/2.png){:target="_blank"}
+
 <br />
 
 ## 3. 로그 확인

@@ -15,6 +15,8 @@ Datos는 웹 트래픽을 모니터링하기 위한 도구입니다.
 
 2) 컨테이너 환경으로, 호스트에 여러 웹 파드(POD)를 사용할 경우
 
+<br />
+
 ## Linux Web Server – Datos 설치 영상
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TqDUR002tt0' frameborder='0' allowfullscreen></iframe></div>
@@ -29,6 +31,8 @@ Datos는 한 개의 에이전트에서 하나의 IP:PORT 데이터만 로깅할 
 
 Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
 
+<br />
+
 ## 1. Datos 설정 파일 추가
 
      vi /etc/datos/conf/httplogger2.conf
@@ -39,6 +43,8 @@ Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
      host=172.16.10.52
 
      port=8080
+
+<br />
 
 ## 2. Datos 서비스 파일 추가
      vi /etc/datos/conf/datos2.service
@@ -66,15 +72,21 @@ Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
 
      WantedBy=multi-user.target
 
+<br />
+
 ## 3. Datos 서비스 추가 등록
 
      cp /etc/datos/conf/datos2.service /usr/lib/systemd/system/datos2.service
 
      systemctl enable datos2.service
 
+<br />
+
 ## 4. Datos 서비스 추가 실행
      
      service datos2 start
+
+<br />
 
 ## 5. PLURA V5 웹UI 서버관리에 파일 등록
 

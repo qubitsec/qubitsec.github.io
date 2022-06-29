@@ -9,6 +9,8 @@ product: Install_A_S
 
 ## 1. Syslog Audit 활성화(아래 1, 2번 중 선택 사용)
 
+<br />
+
 ### 1.1 Audit Log 패키지 개별 설치를 진행합니다.
 
      ▶ CentOS, Red Hat, Amazon Linux
@@ -27,21 +29,18 @@ product: Install_A_S
      # apt -y update
      # apt -y install cron logrotate rsyslog
 
+<br />
+
 ### 1.2 Syslog+Audit 로그 패키지 통합 설치를 진행합니다.
 
      ※ PLURA V5 Agent 사전 설치 필요
 
      # /etc/plura/plura.sh install_syslog
 
+<br />
+
 ## 2. 활성화 한 Audit로그는 PLURA V5 웹 페이지에서 확인하실 수 있습니다.
 
   __필터탐지 > 시스템__
 
     전체로그 > 시스템
-
-<br />
-**참고 사이트**
-
-– Audit 로그 중앙집중관리 [http://blog.plura.io/?p=5737](http://blog.plura.io/?p=5737){:target="_blank"}
-
-– 오딧(Audit) 로그는 왜 필요한가요? [http://blog.plura.io/?page_id=7353](http://blog.plura.io/?page_id=7353){:target="_blank"}

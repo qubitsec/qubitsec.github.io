@@ -15,9 +15,13 @@ product: Install_A_S
      syslog-enabled yes
      syslog-facility local7
 
+<br />
+
 ## 2. Redis 데몬 재시작
 
      service redis restart
+
+<br />
 
 ## 3. PLURA V5에서 확인
 

@@ -9,6 +9,8 @@ product: Install_A_S
 
      curl https://repo.plura.io/v5/module/rsyslog/80-openvpn.conf -o /etc/rsyslog.d/80-openvpn.conf
 
+<br />
+
 ## 2. 80-openvpn.conf 수정
 
      > /etc/openvpn/server/server.conf 로그 위치 확인
@@ -18,6 +20,8 @@ product: Install_A_S
 
      #vi /etc/rsyslog.d/80-openvpn.conf
 
+<br />
+
 ## 3. openvpn server conf 수정
 
      > logging 레벨 확인
@@ -26,9 +30,13 @@ product: Install_A_S
 
      #vi /etc/openvpn/server/server.conf
 
+<br />
+
 ## 4. rsyslog 데몬 재 시작
 
      service rsyslog restart
+
+<br />
 
 ## 5. PLURA V5에서 확인하기
 

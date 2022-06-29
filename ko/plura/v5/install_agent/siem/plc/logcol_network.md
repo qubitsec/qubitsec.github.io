@@ -25,7 +25,11 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
      제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다. 해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
+<br />
+
 ### PLURA V5 Log Collector – Network 설정하기
+
+<br />
 
 #### 1. 원격지(자식) 장비에 Syslog 전송 설정을 합니다.
 **※ 자식 시스템 설정하기**
@@ -70,6 +74,8 @@ Syslog 재시작
 ③ 시스템 > 시스템 관리 페이지에서 원격지(자식) 장비가 등록되었습니다.
 
 [![image](/docs/images/Ins_G/LogCol_Net/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/5.png){:target="_blank"}
+
+<br />
 
 #### 5. 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
 

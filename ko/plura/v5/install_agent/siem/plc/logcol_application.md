@@ -25,28 +25,32 @@ product: Install_A_S
 
 ## PLURA V5 Log Collector – Application 설정하기
 
+<br />
+
 ### 1. 원격지(자식) 서버에 응용프로그램 전송 모듈을 설치합니다.
 
-<br />
 
 [![image](/docs/images/Ins_G/LogCol_app/app_1.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_1.png){: target="_blank"}
 
-
+<br />
 
 ### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
-<br />
 
 [![image](/docs/images/Ins_G/LogCol_app/app_2.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
 
 
 ### 3. 로그 취합서버(부모)에서 인바운드 TCP 5514 포트를 오픈합니다.
 
+<br />
+
 ### 4. 로그 취합서버(부모)에서 라이센스 등록 및 실행을 합니다.
 
 <br />
 
 [![image](/docs/images/Ins_G/LogCol_app/app_3.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}
+
+<br />
 
 ### 5. 원격지(자식) 서버를 등록합니다.
   ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.
@@ -87,6 +91,8 @@ product: Install_A_S
   ⑦ 응용프로그램 설정 버튼을 OFF → ON으로 활성화시켜줍니다. 
 
 [![image](/docs/images/Ins_G/LogCol_app/app_11.png)](/docs/images/Ins_G/LogCol_app/app_11.png){: target="_blank"}
+
+<br />
 
 ### 6. 전체로그 > 응용프로그램 메뉴에서 수집된 로그를 확인할 수 있습니다.
 

@@ -23,13 +23,15 @@ product: Install_A_F
      
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/SzMPzaImDwk' frameborder='0' allowfullscreen></iframe></div>
 
-
+<br />
 
 ## 1 Install Step
 
 먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인(라이센스 : 포렌식) 후 우측상단 <font color='dodgerblue'> Install Agents </font>  를 클릭하여 다운로드합니다.
 
 [![image](/docs/images/Ins_G/Forensic/install_step.png){: width="800" }](/docs/images/Ins_G/Forensic/install_step.png){: target="_blank"}
+
+<br />
 
 ### 1-1. 설치를 시작합니다.
 
@@ -41,6 +43,8 @@ Administrator 계정으로 설치해야 합니다.
 
 [![image](/docs/images/Ins_G/Forensic/install_2.png)](/docs/images/Ins_G/Forensic/Install_2.png){: target="_blank"}
 
+<br />
+
 ### 1-2. 로그인 하기
 
 (1) 설치가 완료되면 로그인 창이 자동 실행 됩니다.
@@ -48,6 +52,8 @@ Administrator 계정으로 설치해야 합니다.
 (2) 웹페이지에서 확인한 라이센스를 입력합니다.
 
 [![image](/docs/images/Ins_G/Forensic/install_3.png)](/docs/images/Ins_G/Forensic/install_3.png){: target="_blank"}
+
+<br />
 
 ### 1-3. 서비스 시작
 

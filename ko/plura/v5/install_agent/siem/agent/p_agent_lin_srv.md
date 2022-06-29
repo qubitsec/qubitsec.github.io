@@ -15,17 +15,20 @@ __PLURA V5 Linux Syslog 설치 영상__
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TW7_NF1gF9g' frameborder='0' allowfullscreen></iframe></div>
 
-
+<br />
 
 ## 1. PLURA V5 Agent를 설치합니다.
 
      - [root@localhost]# sudo -s
      - [root@localhost]# curl https://repo.plura.io/v5/agent/install.sh | bash
 
+<br />
+
 ## 2. 라이센스 등록 및 실행 합니다.
 
      - [root@localhost]# /etc/plura/plura.sh register ****
 
+<br />
 
 ## 3. 설치 정보를 확인합니다.
 
@@ -44,8 +47,7 @@ __PLURA V5 Agent Linux Srv 설치 영상__
 
 – Linux Web Server – Datos 설치 영상 : [https://qubitsec.github.io/lin_web_server.html](https://qubitsec.github.io/lin_web_server.html){:target="_blank"}
 
-
-
+<br />
 
 ## 4. 추가 설정이 필요하면 아래와 같이 파일을 추가합니다.
 
@@ -72,8 +74,7 @@ __PLURA V5 Agent Linux Srv 설치 영상__
      # 1 > hostname 변경이 1회 감지되면 지연 중단
      # 2 > hostname 변경이 2번 감지되면 지연 중단
 
-
-
+<br />
 
 ## 5. CentOS 6 End of Lifetime (EOL) 대응
 

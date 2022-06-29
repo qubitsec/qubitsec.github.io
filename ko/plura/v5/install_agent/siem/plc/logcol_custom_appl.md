@@ -38,6 +38,7 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 [![image](/docs/images/Ins_G/LogCol_Customapp/1.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/1.png){:target="_blank"}
 
 <br />
+
 ### ③ Postfix 로그 경로 수정
 
      # vi /etc/logstash/conf.d/70-postfix-plura.conf

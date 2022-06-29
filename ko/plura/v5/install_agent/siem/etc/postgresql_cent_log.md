@@ -22,6 +22,8 @@ product: Install_A_S
      #syslog_sequence_numbers = on
      #syslog_split_messages = on
 
+<br />
+
 ## 2. PostgreSQL 및 Syslog 재시작
 
      > 버전에 따라 서비스명이 다르므로 버전 확인
@@ -33,9 +35,11 @@ product: Install_A_S
      [위의 예시로 확인된 버전에 따른 재시작 예시] service postgresql-9.6 restart
      service rsyslog restart
 
+<br />
+
 ## 3. PLURA V5에서 확인
 
-     로그 샘플 예)
+로그 샘플 예)
 
 <br />    
 [![image](/docs/images/Ins_G/Postgresql_c/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_c/1.png){:target="_blank"}

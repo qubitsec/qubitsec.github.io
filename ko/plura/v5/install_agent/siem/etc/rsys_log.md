@@ -13,10 +13,14 @@ product: Install_A_S
 
 [![image](/docs/images/Ins_G/rsyslog/1.png)](/docs/images/Ins_G/rsyslog/1.png){:target="_blank"}
 
+<br />
+
 ## 2. conf 설정하기(rsyslog 사용)
 ※ 80-application.conf → conf 파일 생성하기
 
      # vi /etc/rsyslog.d/80-application.conf
+
+<br />
 
 ## 3. conf 파일 생성 예시
 
@@ -39,15 +43,21 @@ product: Install_A_S
      if $programname == “application” then /var/log/plura/ceelog-127.0.0.1.log;CEETemplate
      :programname, isequal, “application” ~
 
+<br />
+
 ## 3-1. PLURA V5 repo 에서 다운로드 받기
 
      # wget https://repo.plura.io/v5/module/rsyslog/80-application.conf
 
      # curl https://repo.plura.io/v5/module/rsyslog/80-application.conf -o /etc/rsyslog.d/80-application.conf
 
+<br />
+
 ## 4. rsyslog 데몬 재시작
 
     # service rsyslog restart 
+
+<br />
 
 ## 5. PLURA V5 수집 로그 확인
 
