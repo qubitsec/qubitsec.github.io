@@ -54,4 +54,4 @@ Administrator 계정으로 설치해야 합니다.
 로그인 되면 PLURA V5 Log-F 서비스가 시작됩니다.
 * 로그 업로드 지원 시스템 : Windows, Linux, Android
 
-[![image](/docs/images/Ins_G/Forensic/install_4.png)](/docs/images/Ins_G/Forensic/install_4.png){: target="_blank"}
+[![image](/docs/images/Ins_G/Forensic/install_4.png){: width="800" }](/docs/images/Ins_G/Forensic/install_4.png){: target="_blank"}

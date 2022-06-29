@@ -68,11 +68,22 @@ product: Install_A_S
 <br />
 [![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
-- 내부 블로그
 
-[최신 rsyslog 설치하기](http://blog.plura.io/?p=13438){:target="_blank"}
-마크다운
 
+**[최신 rsyslog 설치하기]**
+
+      # cp /etc/yum.repos.d/rsyslog.repo /etc/yum.repos.d/rsyslog.repo.old
+
+      # curl -s http://rpms.adiscon.com/v8-stable/rsyslog.repo -o /etc/yum.repos.d/rsyslog.repo
+
+      # yum -y install rsyslog
+
+      # yum list rsyslog
+
+      # rsyslogd -version
+
+      rsyslogd 8.2012.0 (aka 2020.12) compiled with:
+      
 - 외부 참고 사이트
 
 [https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html](https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html){:target="_blank"}
