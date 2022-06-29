@@ -11,7 +11,7 @@ topnav: topnav
 <br />
 ## 1. 나의 정보 수정 기능
 
-**– 관리자 기능으로 나의 정보를 수정할 수 있습니다.(우측상단)**
+- **관리자 기능으로 나의 정보를 수정할 수 있습니다.(우측상단)**
 
 [![image](/docs/images/Manual/common/etc/1.png)](/docs/images/Manual/common/etc/1.png){: target="_blank"}
 

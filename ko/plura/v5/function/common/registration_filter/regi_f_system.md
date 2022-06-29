@@ -10,11 +10,11 @@ PLURA V5에서 수집하고 있는 시스템 전체로그를 활용하여
 
 <br />
  
- ## 시스템 필터 등록
+## 시스템 필터 등록
 
 [![image](/docs/images/Manual/common/regi/system/1.png){: width="800" }](/docs/images/Manual/common/regi/system/1.png){: target="_blank"}
 
-사용자정의 필터등록 DEMO : [http://blog.plura.io/?p=14275](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
+사용자정의 필터등록 DEMO : [(https://qubitsec.github.io/filter_registration.html](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
 
 <br />
 ▶ 필터 등록 방법

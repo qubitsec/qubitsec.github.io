@@ -81,8 +81,6 @@ topnav: topnav
 <br />
 내부 블로그
 
-[만료된 CentOS 6 환경에서 yum update 실행하기 – PLURA’S BLOG](http://blog.plura.io/?p=15881){: target="_blank"}
-
 [응용프로그램 로그 수집 – PLURA’S BLOG](https://qubitsec.github.io/rsys_log.html){: target="_blank"}
 
  

@@ -43,4 +43,4 @@ topnav: topnav
 <br />
 - **도구 버튼을 클릭하면 디코딩/인코딩 팝업 창이 노출됩니다.**
 
-[![image](/docs/images/Manual/common/tool/6.png){: width="800" }](/docs/images/Manual/common/etc/6.png){: target="_blank"}
+[![image](/docs/images/Manual/common/tool/6.png)](/docs/images/Manual/common/etc/6.png){: target="_blank"}

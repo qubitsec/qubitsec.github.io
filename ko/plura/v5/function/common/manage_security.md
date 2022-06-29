@@ -7,7 +7,7 @@ topnav: topnav
 
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NbaEKIuQqa0' frameborder='0' allowfullscreen></iframe></div>
 
-관리 > 보안 설정 매뉴얼 영상입니다. 보안 DEMO : [http://blog.plura.io/?p=12983](http://blog.plura.io/?p=12983){: target="_blank"}
+관리 > 보안 설정 매뉴얼 영상입니다. 보안 DEMO : [https://qubitsec.github.io/security.html](https://qubitsec.github.io/security.html){: target="_blank"}
 
 
 - 보안 : 인증과 세션 시간 설정, 로그인허용IP주소, 2차 인증 PIN번호를 설정할 수 있습니다.

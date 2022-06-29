@@ -66,7 +66,3 @@ https 를 사용하지 않는 경우, http : 80 으로 수정하여 재전송공
 - multipart/form-data : key/value 형태 (바이너리 포함)
 - application/octet-stream : 바이너리 파일
 - text/yaml : yml
-
-▣ 관련 내부 블로그
-
-[새창 / 새탭 뜰 때 크롭 브라우저의 개발자 도구 자동 실행 Auto-open DevTools for popus](http://blog.plura.io/?p=12255){: target="_blank"}

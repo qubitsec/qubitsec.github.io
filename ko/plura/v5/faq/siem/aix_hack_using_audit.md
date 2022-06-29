@@ -5,7 +5,7 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-## 1. 파일 감사 설정하기 [(바로가기)](http://blog.plura.io/?p=10831){: target="_blank"}
+## 1. 파일 감사 설정하기 [(바로가기)](https://qubitsec.github.io/chk_file_audit_log_set.html){: target="_blank"}
 
 ## 2. 파밍 공격 탐지
 
