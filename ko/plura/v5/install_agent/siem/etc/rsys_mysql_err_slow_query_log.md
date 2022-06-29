@@ -53,20 +53,20 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
 
 ## 2. MySQL – SLOW QUERY 설정
 
-     1) 설정
-     vi /etc/my.cnf
+1) 설정
+vi /etc/my.cnf
 
-     [mysqld]
-     slow_query_log = 1
-     slow_query_log_file = /var/log/mysql-slow.log
-     long_query_time = 3
+[mysqld]
+slow_query_log = 1
+slow_query_log_file = /var/log/mysql-slow.log
+long_query_time = 3
 
-     2) 로그 파일 생성 및 권한 설정
-     # touch /var/log/mysql-slow.log
-     # chown mysql.mysql /var/log/mysql-slow.log
+2) 로그 파일 생성 및 권한 설정
+touch /var/log/mysql-slow.log
+chown mysql.mysql /var/log/mysql-slow.log
 
-     3) 권한 확인
-     # ls -aZ /var/log/mysql*
+3) 권한 확인
+ls -aZ /var/log/mysql*
 
 <br />
 
@@ -74,11 +74,11 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
 
 <br />
 
-      4) mysql restart
-      # systemctl restart mysqld
+4) mysql restart
+systemctl restart mysqld
 
-     5) 활성화 확인
-     mysql> show variables like ‘slow_query_%’;
+5) 활성화 확인
+mysql> show variables like ‘slow_query_%’;
 
 <br />
 
