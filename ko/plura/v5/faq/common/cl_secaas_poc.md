@@ -70,4 +70,4 @@ topnav: topnav
 
  
 ## 3. PLURA V5 매뉴얼
-▶ [http://blog.plura.io/?page_id=170](http://blog.plura.io/?page_id=170){: target="_blank"}
+▶ [https://qubitsec.github.io/index.html](https://qubitsec.github.io/index.html){: target="_blank"}

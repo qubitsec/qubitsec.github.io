@@ -47,6 +47,3 @@ PLURA V5 웹 접속 時 보안 시스템 中 하나로
 [보안](https://qubitsec.github.io/manage_security.html){:target="_blank"}
 
 
-▶ Private (사설) IP주소 대역 확인하기
-
-[Private IP주소 영역](http://blog.plura.io/?p=14265){:target="_blank"}
