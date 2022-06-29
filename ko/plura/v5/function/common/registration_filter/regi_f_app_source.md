@@ -13,7 +13,7 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/regi/source/1.png){: width="800" }](/docs/images/Manual/common/regi/source/1.png){: target="_blank"}
 
-필터등록 DEMO : [http://blog.plura.io/?p=14275](http://blog.plura.io/?p=14275){: target="_blank"}
+필터등록 DEMO : [https://qubitsec.github.io/filter_registration.html](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
 
 ▶ 필터 등록 방법
 
@@ -52,4 +52,4 @@ topnav: topnav
 
 ※ 응용프로그램 원본 필터 등록 예시
 
-[![image](/docs/images/Manual/common/regi/source/6.png)](/docs/images/Manual/common/regi/source/6.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/source/6.png){: width="800" }](/docs/images/Manual/common/regi/source/6.png){: target="_blank"}

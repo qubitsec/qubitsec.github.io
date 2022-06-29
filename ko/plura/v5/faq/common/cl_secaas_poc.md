@@ -43,7 +43,7 @@ topnav: topnav
 - 분석하는 시스템에 대한 통합 관리 제공
 - 메뉴 위치: 좌측 상단 > 관리 > 멤버 > 멤버 추가
 
-▶ [http://blog.plura.io/?p=14030](http://blog.plura.io/?p=14030){: target="_blank"}
+▶ [https://qubitsec.github.io/manage_member.html](https://qubitsec.github.io/manage_member.html){: target="_blank"}
 
 ## 2. 에이전트 설치
 
@@ -51,7 +51,7 @@ topnav: topnav
 
 □ 에이전트 설치 영상을 참고하여 에이전트 설치 – 윈도우 서버에 에이전트 설치
 
-▶ [http://blog.plura.io/?p=7125](http://blog.plura.io/?p=7125){: target="_blank"}
+▶ [https://qubitsec.github.io/p_agent_win_srv.html](https://qubitsec.github.io/p_agent_win_srv.html){: target="_blank"}
 
 
 2) 사전 환경 확인
@@ -66,7 +66,7 @@ topnav: topnav
 2) 대상 서버의 OS 버전, 웹서버 App, 웹서비스 포트 정보 (예 : CentOS 7 / Apache 2.4 / TCP 80)
 
 * Windows 의 경우 Sysmon 을 설치하시면 보다 상세한 로그를 확인할 수 있으니 설치를 권장
-▶ Sysmon 설치 가이드 : [http://blog.plura.io/?p=5500](http://blog.plura.io/?p=5500){: target="_blank"}
+▶ Sysmon 설치 가이드 : [https://qubitsec.github.io/sysmon.html](https://qubitsec.github.io/sysmon.html){: target="_blank"}
 
  
 ## 3. PLURA V5 매뉴얼

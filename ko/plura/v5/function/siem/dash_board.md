@@ -93,4 +93,4 @@ topnav: topnav
 
 [![image](/docs/images/Manual/siem/dash/11.png){: width="800" }](/docs/images/Manual/siem/dash/11.png){: target="_blank"}
 
- 참고영상_PLURA V5 대시보드/메뉴 활용하기 : [http://blog.plura.io/?p=11856](http://blog.plura.io/?p=11856){: target="_blank"}
+ 참고영상_PLURA V5 대시보드/메뉴 활용하기 : [https://qubitsec.github.io/dash_menu.html](https://qubitsec.github.io/dash_menu.html){: target="_blank"}

@@ -9,7 +9,7 @@ topnav: topnav
      PLURA V5 Agent는 클라이언트가 서버로 요청한 데이터를
      GET 방식과 POST 방식으로 나누어 로그를 분석하여 보여줍니다.
 
-바로가기  [웹로그 사용 설정방법](http://127.0.0.1:4000/system_weblog.html){: target="_blank"} 
+바로가기  [웹로그 사용 설정방법](https://qubitsec.github.io/system_weblog.html){: target="_blank"} 
 
  
 

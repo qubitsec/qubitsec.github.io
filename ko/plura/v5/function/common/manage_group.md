@@ -38,4 +38,4 @@ c. 알림 상세 선택
 d. 웹훅 알림을 받고자 하는 서버의 환경 정보 입력
 - 프로토콜, 포맷 형식, 서버 IP 주소, 포트번호, 개행타입을 입력합니다.
 
-▣ 그룹알림(웹훅) 설정하기 DEMO : [http://blog.plura.io/?p=14538](http://blog.plura.io/?p=14538){: target="_blank"}
+▣ 그룹알림(웹훅) 설정하기 DEMO : [https://qubitsec.github.io/setting_up_webhook.html](https://qubitsec.github.io/setting_up_webhook.html){: target="_blank"}

@@ -30,6 +30,6 @@ topnav: topnav
 <br />
 ## 5. 응답
 - 응답 상태를 선택하여 볼 수 있습니다.
-[![image](/docs/images/Manual/common/extraction/login/4.png)]{: width="800" }(/docs/images/Manual/common/extraction/login/4.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/extraction/login/4.png){: width="800" }](/docs/images/Manual/common/extraction/login/4.png){: target="_blank"} 
 
  

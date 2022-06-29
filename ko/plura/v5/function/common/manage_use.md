@@ -126,4 +126,4 @@ MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$
 
 [관련 블로그]
 
-- Video > 기능소개 > SIEM > 업로드설정 DEMO : [http://blog.plura.io/?p=15932](http://blog.plura.io/?p=15932){: target="_blank"}
+- Video > 기능소개 > SIEM > 업로드설정 DEMO : [https://qubitsec.github.io/upload_setting.html](https://qubitsec.github.io/upload_setting.html){: target="_blank"}

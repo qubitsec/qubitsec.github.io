@@ -10,10 +10,10 @@ topnav: topnav
 
 ## 네트워크 필터 등록
 
-[![image](/docs/images/Manual/common/regi/network/1.png)](/docs/images/Manual/common/regi/network/1.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/network/1.png){: width="800" }](/docs/images/Manual/common/regi/network/1.png){: target="_blank"}
 
 
-사용자정의 필터등록 DEMO : [http://blog.plura.io/?p=14275](http://blog.plura.io/?p=14275){: target="_blank"}
+사용자정의 필터등록 DEMO : [https://qubitsec.github.io/filter_registration.html](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
 
 ▶ 필터 등록 방법
 
@@ -22,10 +22,10 @@ topnav: topnav
 
 
 ### 2.등록필터 페이지(시스템, 응용프로그램, 웹, 네트워크)에서 등록 버튼을 클릭합니다.
-[![image](/docs/images/Manual/common/regi/network/3.png)](/docs/images/Manual/common/regi/network/3.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/network/3.png){: width="800" }](/docs/images/Manual/common/regi/network/3.png){: target="_blank"}
 
 ### 3.필터분류를 선택합니다.
-[![image](/docs/images/Manual/common/regi/network/4.png)](/docs/images/Manual/common/regi/network/4.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/network/4.png){: width="800" }](/docs/images/Manual/common/regi/network/4.png){: target="_blank"}
 
 <br />
 ### 4.시스템 그룹을 선택합니다.
@@ -35,7 +35,7 @@ topnav: topnav
 ### 6.채널을 선택합니다.
 <br />
 
-[![image](/docs/images/Manual/common/regi/network/5.png)](/docs/images/Manual/common/regi/network/5.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/network/5.png){: width="800" }](/docs/images/Manual/common/regi/network/5.png){: target="_blank"}
 
 
 ### 7.필터명을 입력합니다.
@@ -47,7 +47,7 @@ topnav: topnav
 ### 10.필터 동작시간(24시간/시간설정)을 설정합니다.
 
 <br />
-[![image](/docs/images/Manual/common/regi/network/6.png)](/docs/images/Manual/common/regi/network/6.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/network/6.png){: width="800" }](/docs/images/Manual/common/regi/network/6.png){: target="_blank"}
 
 - 예를들어 퇴근시간 이후부터 출근시간까지에서 필터 동작을 확인하고 싶다면, “시간설정” 선택 후, 원하는 시간을 입력합니다.
 
@@ -59,7 +59,7 @@ topnav: topnav
 ※ 네트워크 필터를 등록 할 때에는 분류를 etc. 로 선택하셔야 합니다.
 
 ※ 네트워크 필터 등록 예시
-[![image](/docs/images/Manual/common/regi/network/7.png)](/docs/images/Manual/common/regi/network/7.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/network/7.png){: width="800" }](/docs/images/Manual/common/regi/network/7.png){: target="_blank"}
 
 
  

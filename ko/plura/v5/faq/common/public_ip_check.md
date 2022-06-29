@@ -44,7 +44,7 @@ PLURA V5 웹 접속 時 보안 시스템 中 하나로
 
 ▶ PLURA V5가 제공하는 더 많은 보안 시스템 알아보기
 
-[보안](http://blog.plura.io/?p=12969){:target="_blank"}
+[보안](https://qubitsec.github.io/manage_security.html){:target="_blank"}
 
 
 ▶ Private (사설) IP주소 대역 확인하기

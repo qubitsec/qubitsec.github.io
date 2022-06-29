@@ -42,4 +42,4 @@ topnav: topnav
 [![image](/docs/images/Manual/common/filter2/syslog/4.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/4.png){: target="_blank"}  
 
 
-▣ 사용자정의 필터등록 DEMO : [http://blog.plura.io/?p=14275](http://blog.plura.io/?p=14275){: target="_blank"} 
+▣ 사용자정의 필터등록 DEMO : [https://qubitsec.github.io/system_weblog.html](https://qubitsec.github.io/system_weblog.html){: target="_blank"} 

@@ -38,4 +38,4 @@ topnav: topnav
 
  [![image](/docs/images/Manual/common/manage/list/6.png){: width="800" }](/docs/images/Manual/common/manage/list/6.png){: target="_blank"}
 
-▣ 관련 내부 블로그 : [응용프로그램 로그 업로드 설정하기](http://blog.plura.io/?p=17653){: target="_blank"}
+▣ 관련 내부 블로그 : [응용프로그램 로그 업로드 설정하기](https://qubitsec.github.io/set_app_log_up.html){: target="_blank"}
