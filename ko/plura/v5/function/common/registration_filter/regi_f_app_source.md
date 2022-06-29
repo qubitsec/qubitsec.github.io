@@ -23,7 +23,7 @@ topnav: topnav
 
 ### 2.등록필터 페이지(시스템, 응용프로그램, 웹, 네트워크)에서 등록 버튼을 클릭합니다.
 
-[![image](/docs/images/Manual/common/regi/source/3.png)](/docs/images/Manual/common/regi/source/3.png){: target="_blank"}
+[![image](/docs/images/Manual/common/regi/source/3.png){: width="800" }](/docs/images/Manual/common/regi/source/3.png){: target="_blank"}
 
 ### 3.시스템 그룹을 선택합니다.
 

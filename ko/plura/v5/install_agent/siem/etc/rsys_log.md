@@ -54,7 +54,10 @@ product: Install_A_S
      전체로그 > 시스템 > 주요개체 컬럼에서 application 확인
 
 <br />
+
 [![image](/docs/images/Ins_G/rsyslog/2.png){: width="800" }](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
+
+<br />
 
 ## 6. PLURA V5 실시간 탐지 필터 등록하기
 
@@ -66,9 +69,10 @@ product: Install_A_S
 
 
 <br />
+
 [![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
-
+<br />
 
 **[최신 rsyslog 설치하기]**
 
@@ -83,7 +87,9 @@ product: Install_A_S
       # rsyslogd -version
 
       rsyslogd 8.2012.0 (aka 2020.12) compiled with:
-      
+
+<br />
+
 - 외부 참고 사이트
 
 [https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html](https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html){:target="_blank"}

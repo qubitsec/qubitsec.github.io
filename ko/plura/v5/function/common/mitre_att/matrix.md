@@ -37,6 +37,3 @@ topnav: topnav
 <br />
  참고사이트
 MITRE ATT&CK 공식 사이트> 매트릭스 [https://attack.mitre.org/matrices/enterprise/](https://attack.mitre.org/matrices/enterprise/){: target="_blank"}
-
-
- 내부 블로그 [MITRE ATT&CK 이해](http://blog.plura.io/?p=13055){: target="_blank"}

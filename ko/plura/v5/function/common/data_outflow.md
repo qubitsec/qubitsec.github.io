@@ -38,6 +38,3 @@ topnav: topnav
 
  [![image](/docs/images/Manual/common/outflow/4.png){: width="800" }](/docs/images/Manual/common/outflow/4.png){: target="_blank"}
 
-관련 블로그
-
-[웹을 통한 데이터유출 해킹 대응 개론](http://blog.plura.io/?p=12219){: target="_blank"}
