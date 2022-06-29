@@ -7,7 +7,7 @@ product: Install_A_S
 
 ## 1. xrdp.conf 다운로드 rsyslog 사용
 
-     curl https://repo.plura.io/v5/module/rsyslog/80-xrdp.conf -o /etc/rsyslog.d/80-xrdp.conf
+`# curl https://repo.plura.io/v5/module/rsyslog/80-xrdp.conf -o /etc/rsyslog.d/80-xrdp.conf`
 
 <br />
 
@@ -25,13 +25,14 @@ product: Install_A_S
      LogLevel=DEBUG
      EnableSyslog=1
      SyslogLevel=DEBUG
-     #vi /etc/rsyslog.d/80-xrdp.conf
+
+`# vi /etc/rsyslog.d/80-xrdp.conf`
 
 <br />
 
 ## 3. rsyslog 데몬 재 시작
 
-     service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 

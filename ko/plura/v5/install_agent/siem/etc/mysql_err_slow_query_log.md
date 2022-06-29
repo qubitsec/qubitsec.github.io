@@ -65,29 +65,44 @@ product: Install_A_S
 
 ## 2. MySQL – SLOW QUERY 설정
 1) 설정
-vi /etc/my.cnf
+
+`# vi /etc/my.cnf`
 
 [mysqld]
+
 slow_query_log = 1
+
 slow_query_log_file = /var/log/mysql-slow.log
+
 long_query_time = 3
 
+<br />
+
 2) 로그 파일 생성 및 권한 설정
-- touch /var/log/mysql-slow.log
-- chown mysql.mysql /var/log/mysql-slow.log
+
+`# touch /var/log/mysql-slow.log`
+
+`# chown mysql.mysql /var/log/mysql-slow.log`
+
+<br />
 
 3) 권한 확인
 
-- ls -aZ /var/log/mysql*
+`# ls -aZ /var/log/mysql*`
+
 [![image](/docs/images/Ins_G/mysql_slow/9.png)](/docs/images/Ins_G/mysql_slow/9.png){:target="_blank"}
 
 4) mysql restart
-- systemctl restart mysqld
+
+`# systemctl restart mysqld`
+
+<br />
 
 5) 활성화 확인
 <br />
 
-mysql> show variables like ‘slow_query_%’;
+`mysql> show variables like ‘slow_query_%’;`
+
 [![image](/docs/images/Ins_G/mysql_slow/10.png)](/docs/images/Ins_G/mysql_slow/10.png){:target="_blank"}
 
 <br />

@@ -19,11 +19,14 @@ product: Install_A_S
 
 ## 2. HP-UX Srv 에서 Syslog 전송 설정을 합니다.
 
-     # vi /etc/syslog.conf
+`# vi /etc/syslog.conf`
+
      <예>
      *.info @로그취합 시스템 IP주소
-     # /sbin/init.d/syslogd stop
-     # /sbin/init.d/syslogd start
+     
+`# /sbin/init.d/syslogd stop`
+
+`# /sbin/init.d/syslogd start`
 
      @ 하나는 UDP로 통신
      @@ 두개는 TCP로 통신

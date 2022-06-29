@@ -59,7 +59,7 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
 **4. 환경 설정을 합니다.**
 
-     vi /etc/datos/conf/httplogger.conf
+`# vi /etc/datos/conf/httplogger.conf`
 
 <br />
 

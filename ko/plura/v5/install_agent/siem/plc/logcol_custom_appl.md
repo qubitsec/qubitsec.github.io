@@ -26,14 +26,21 @@ Logstash는 다양한 소스로부터 데이터를 수집하고 곧바로 전환
 
 Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이션 서버 로그 등 다양한 데이터 원본에서 비정형 데이터를 쉽게 수집할 수 있습니다.[2]
 
+<br />
+
 ## 1. Logstash 설정 방법
+
+<br />
 
 ### ① Install Logstash
 [https://github.com/QubitSecurity/Logstash](https://github.com/QubitSecurity/Logstash){:target="_blank"}
 
+<br />
+
 ### ② Conf 파일 다운로드
-#cd /etc/logstash/conf.d/
-#wget “https://raw.githubusercontent.com/QubitSecurity/Logstash/main/conf.d/70-postfix-plura.conf”
+`# cd /etc/logstash/conf.d/`
+
+`# wget “https://raw.githubusercontent.com/QubitSecurity/Logstash/main/conf.d/70-postfix-plura.conf”`
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/1.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/1.png){:target="_blank"}
 
@@ -41,17 +48,21 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 
 ### ③ Postfix 로그 경로 수정
 
-     # vi /etc/logstash/conf.d/70-postfix-plura.conf
+`# vi /etc/logstash/conf.d/70-postfix-plura.conf`
 
 <br />
+
 [https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf){:target="_blank"}
+
 <br />
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/2.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/2.png){:target="_blank"}
 
-#mkdir /etc/logstash/patterns.d
-#cd /etc/logstash/patterns.d
-#wget [“https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix”](https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix){:target="_blank"}
+`# mkdir /etc/logstash/patterns.d`
+
+`# cd /etc/logstash/patterns.d`
+
+`# wget`[“https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix”](https://raw.githubusercontent.com/QubitSecurity/Logstash/main/patterns.d/grok-postfix){:target="_blank"}
 
 ## 2. PLURA-Agent를 이용하여 업로드 설정하기
 
@@ -59,9 +70,9 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 
 ※ 테스트 환경
 
-– 원격지 서버(자식) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstash 설치
+- 원격지 서버(자식) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstash 설치
 
-– 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
+- 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
 
 [Install Guide > SIEM > Log Collector > Application[3] : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
 
@@ -82,11 +93,15 @@ Logstash가 설정된 원격지(자식) 서버를 등록합니다.
 
 <br />
 
- ### ③ 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
- RUN Logstash(foreground)
- <br /> 
+###  ③ 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
+
+RUN Logstash(foreground)
+
+<br /> 
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"}
+
+<br />
 
 ## 3. PLURA V5 웹에서 확인하기
 
@@ -95,14 +110,20 @@ Logstash가 설정된 원격지(자식) 서버를 등록합니다.
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"}
 
+<br />
+
 - “수정” 버튼을 클릭한 후, postfix 항목에 체크를 하면 사용자정의 응용프로그램에서 postfix로그를 확인할 수 있습니다.
 
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/7.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/7.png){:target="_blank"}
 
+<br />
+
 Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 확인할 수 있습니다.
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"}
+
+<br />
 
 ## 4. 참고 사이트
 - [1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/set_app_log_up.html](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}

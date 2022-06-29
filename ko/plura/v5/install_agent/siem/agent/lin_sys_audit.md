@@ -13,34 +13,50 @@ product: Install_A_S
 
 ### 1.1 Audit Log 패키지 개별 설치를 진행합니다.
 
-     ▶ CentOS, Red Hat, Amazon Linux
-     # yum -y install audit audisp-plugins
+<br />
 
-     ▶ Ubuntu
-     # apt -y update
-     # apt -y install auditd audispd-plugins
+▶ CentOS, Red Hat, Amazon Linux
 
-     ※ 사용자 환경에 따라 아래 패키지를 설치해주세요.
+`# yum -y install audit audisp-plugins`
 
-     ▶ CentOS, Red Hat, Amazon Linux
-     # yum -y install cronie logrotate rsyslog
+<br />
 
-     ▶ Ubuntu
-     # apt -y update
-     # apt -y install cron logrotate rsyslog
+▶ Ubuntu
+
+`# apt -y update`
+
+`# apt -y install auditd audispd-plugins`
+
+<br />
+
+※ 사용자 환경에 따라 아래 패키지를 설치해주세요.
+
+<br />
+
+▶ CentOS, Red Hat, Amazon Linux
+
+`# yum -y install cronie logrotate rsyslog`
+
+<br />
+
+▶ Ubuntu
+
+`# apt -y update`
+
+`# apt -y install cron logrotate rsyslog`
 
 <br />
 
 ### 1.2 Syslog+Audit 로그 패키지 통합 설치를 진행합니다.
 
-     ※ PLURA V5 Agent 사전 설치 필요
+※ PLURA V5 Agent 사전 설치 필요
 
-     # /etc/plura/plura.sh install_syslog
+`# /etc/plura/plura.sh install_syslog`
 
 <br />
 
 ## 2. 활성화 한 Audit로그는 PLURA V5 웹 페이지에서 확인하실 수 있습니다.
 
-  __필터탐지 > 시스템__
+필터탐지 > 시스템
 
-    전체로그 > 시스템
+전체로그 > 시스템

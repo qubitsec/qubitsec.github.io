@@ -19,10 +19,12 @@ product: Install_A_S
 
 ## 2. AIX Srv 에서 Syslog 전송 설정을 합니다.
 
-     # vi /etc/syslog.conf
+`# vi /etc/syslog.conf`
+
      <예>
      *.info @로그취합 시스템 IP주소
-     # refresh -s syslogd
+
+`# refresh -s syslogd`
 
      @ 하나는 UDP로 통신
      @@ 두개는 TCP로 통신
@@ -32,7 +34,7 @@ product: Install_A_S
 
 ## 3. 파일 감사 설정을 하려면 아래와 같이 설정합니다.
 
-     # vi /etc/security/audit/config
+`# vi /etc/security/audit/config`
      set binmode = off
      streammode = on
 
@@ -44,15 +46,15 @@ product: Install_A_S
      root = general
      default = general, system, init
 
-     # find /etc -type f | awk ‘{printf(“%s:\n\tw = FILE_Write\n\n”,$1)}’ >> /etc/security/audit/objects
-     # /usr/sbin/auditstream | /usr/sbin/auditselect -e “event == FILE_Write” | auditpr -hhelpPRtTc -v > /dev/console &
+`# find /etc -type f | awk ‘{printf(“%s:\n\tw = FILE_Write\n\n”,$1)}’ >> /etc/security/audit/objects`
 
-     # vi /etc/security/audit/streamcmds
-     /usr/sbin/auditstream | auditpr -v | /usr/bin/logger -p local7.info &
+`# /usr/sbin/auditstream | /usr/sbin/auditselect -e “event == FILE_Write” | auditpr -hhelpPRtTc -v > /dev/console &`
 
-     # audit off
-     # audit shutdown
-     # refresh -s syslogd
+`# vi /etc/security/audit/streamcmds/usr/sbin/auditstream | auditpr -v | /usr/bin/logger -p local7.info &`
+
+`# audit off`
+`# audit shutdown`
+`# refresh -s syslogd`
 
 <br />
 

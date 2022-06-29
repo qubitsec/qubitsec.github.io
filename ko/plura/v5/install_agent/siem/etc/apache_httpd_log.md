@@ -12,15 +12,15 @@ product: Install_A_S
 ### 1. conf 설정하기(rsyslog 사용)
 ※ 80-httpd.conf → conf 파일 생성하기
 
-     # cd /etc/rsyslog.d/
-     # vi /etc/rsyslog.d/80-httpd.conf
+`# cd /etc/rsyslog.d/`
+`# vi /etc/rsyslog.d/80-httpd.conf`
 
 <br />
 
 ### 2. conf 파일 생성
 ※ File = “로그 경로”, Tag = “태그”, Severity = “심각도”, programname = “프로그램명”
 
-     ## vi /etc/rsyslog.d/80-httpd.conf
+`## vi /etc/rsyslog.d/80-httpd.conf`
 
      #variables required for non-syslog log file forwarding – httpd error log file
      #edit on your location
@@ -41,15 +41,15 @@ product: Install_A_S
 
 #### 2-1. PLURA V5 repo 에서 다운로드 받기
 
-     # wget https://repo.plura.io/v5/module/rsyslog/80-httpd.conf
+`# wget https://repo.plura.io/v5/module/rsyslog/80-httpd.conf`
 
-     # curl https://repo.plura.io/v5/module/rsyslog/80-httpd.conf -o /etc/rsyslog.d/80-httpd.conf
+`# curl https://repo.plura.io/v5/module/rsyslog/80-httpd.conf -o /etc/rsyslog.d/80-httpd.conf`
 
 <br />
 
 ### 3. rsyslog 데몬 재시작
 
-     # service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 

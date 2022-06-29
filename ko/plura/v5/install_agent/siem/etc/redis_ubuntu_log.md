@@ -19,7 +19,7 @@ product: Install_A_S
 
 ## 2. Redis 데몬 재시작
 
-     service redis restart
+`# service redis restart`
 
 <br />
 

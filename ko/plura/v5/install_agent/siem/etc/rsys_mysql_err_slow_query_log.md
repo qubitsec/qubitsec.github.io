@@ -11,8 +11,9 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
 
 ## 1. rsyslog conf 설정
 
-     1) 설정
-     vi /etc/rsyslog.d/80-mysql.conf
+### 1) 설정
+
+`# vi /etc/rsyslog.d/80-mysql.conf`
 
      #variables required for non-syslog log file forwarding – mysql error
      #edit on your location
@@ -38,35 +39,49 @@ MySQL Error 로그와 Slow-Query 취합을 위한 설정
      if $programname == ‘mysql-slow’ then /var/log/plura/ceelog-127.0.0.1.log;CEETemplate
      :programname, isequal, “mysql-slow” ~
 
-     2) rsyslog restart
-     # systemctl restart rsyslog
+### 2) rsyslog restart
+
+`# systemctl restart rsyslog`
 
 <br />
 
 ### 1-1. PLURA V5 repo 에서 다운로드 받기
 
-     # wget https://repo.plura.io/v5/module/rsyslog/80-mysql.conf
+`# wget https://repo.plura.io/v5/module/rsyslog/80-mysql.conf`
 
-     # curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf
+`# curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf`
 
 <br />
 
 ## 2. MySQL – SLOW QUERY 설정
 
-1) 설정
-vi /etc/my.cnf
+<br />
+
+### 1) 설정
+
+`# vi /etc/my.cnf`
 
 [mysqld]
+
 slow_query_log = 1
+
 slow_query_log_file = /var/log/mysql-slow.log
+
 long_query_time = 3
 
-2) 로그 파일 생성 및 권한 설정
-touch /var/log/mysql-slow.log
-chown mysql.mysql /var/log/mysql-slow.log
+<br />
 
-3) 권한 확인
-ls -aZ /var/log/mysql*
+### 2) 로그 파일 생성 및 권한 설정
+
+`# touch /var/log/mysql-slow.log`
+
+`# chown mysql.mysql /var/log/mysql-slow.log`
+
+<br />
+
+### 3) 권한 확인
+
+`# ls -aZ /var/log/mysql*`
 
 <br />
 
@@ -74,11 +89,13 @@ ls -aZ /var/log/mysql*
 
 <br />
 
-4) mysql restart
-systemctl restart mysqld
+### 4) mysql restart
 
-5) 활성화 확인
-mysql> show variables like ‘slow_query_%’;
+`# systemctl restart mysqld`
+
+### 5) 활성화 확인
+
+`mysql> show variables like ‘slow_query_%’;`
 
 <br />
 

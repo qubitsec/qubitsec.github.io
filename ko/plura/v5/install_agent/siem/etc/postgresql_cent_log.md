@@ -26,14 +26,15 @@ product: Install_A_S
 
 ## 2. PostgreSQL 및 Syslog 재시작
 
-     > 버전에 따라 서비스명이 다르므로 버전 확인
+버전에 따라 서비스명이 다르므로 버전 확인
 
-     #psql –version
+`# psql –version`
 
      [버전 출력 예시] psql (PostgreSQL) 9.6.15
      [서비스명 확인 경로 예시] /etc/systemd/system/multi-user.target.wants/postgresql-9.6.service
      [위의 예시로 확인된 버전에 따른 재시작 예시] service postgresql-9.6 restart
-     service rsyslog restart
+     
+`# service rsyslog restart`
 
 <br />
 

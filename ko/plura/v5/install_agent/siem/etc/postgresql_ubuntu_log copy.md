@@ -25,8 +25,9 @@ product: Install_A_S
 
 ## 2. PostgreSQL 및 Syslog 재시작
 
-     systemctl restart postgresql
-     systemctl restart rsyslog
+`# systemctl restart postgresql`
+
+`# systemctl restart rsyslog`
 
 <br />
 

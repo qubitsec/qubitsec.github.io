@@ -7,34 +7,35 @@ product: Install_A_S
 
 ## 1. openvpn.conf 다운로드 rsyslog 사용
 
-     curl https://repo.plura.io/v5/module/rsyslog/80-openvpn.conf -o /etc/rsyslog.d/80-openvpn.conf
+`# curl https://repo.plura.io/v5/module/rsyslog/80-openvpn.conf -o /etc/rsyslog.d/80-openvpn.conf`
 
 <br />
 
 ## 2. 80-openvpn.conf 수정
 
-     > /etc/openvpn/server/server.conf 로그 위치 확인
+`# /etc/openvpn/server/server.conf` 로그 위치 확인
 
-     log /var/log/openvpn.log
-     log-append /var/log/openvpn.log
+log /var/log/openvpn.log
 
-     #vi /etc/rsyslog.d/80-openvpn.conf
+log-append /var/log/openvpn.log
+
+`# vi /etc/rsyslog.d/80-openvpn.conf`
 
 <br />
 
 ## 3. openvpn server conf 수정
 
-     > logging 레벨 확인
+logging 레벨 확인
 
-     verb 4
+verb 4
 
-     #vi /etc/openvpn/server/server.conf
+`# vi /etc/openvpn/server/server.conf`
 
 <br />
 
 ## 4. rsyslog 데몬 재 시작
 
-     service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 

@@ -11,7 +11,7 @@ product: Install_A_S
 
 ### 1. mysql.conf 다운로드 rsyslog 사용
 
-     curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf
+`# curl https://repo.plura.io/v5/module/rsyslog/80-mysql.conf -o /etc/rsyslog.d/80-mysql.conf`
 
 <br />
 
@@ -19,13 +19,13 @@ product: Install_A_S
 
      > mysql error 로그 위치 확인
 
-     #vi /etc/rsyslog.d/80-mysql.conf
+`# vi /etc/rsyslog.d/80-mysql.conf`
 
 <br />
 
 ### 3. rsyslog 데몬 재 시작
 
-     service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 

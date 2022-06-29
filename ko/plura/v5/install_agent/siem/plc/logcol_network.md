@@ -35,7 +35,7 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 **※ 자식 시스템 설정하기**
 Syslog 전송 설정 (by root)
 
-     # vi /etc/rsyslog.conf
+`# vi /etc/rsyslog.conf`
 
      <예>
      *.info @로그취합시스템IP
@@ -44,20 +44,20 @@ Syslog 전송 설정 (by root)
 
 Syslog 재시작
 
-     # service rsyslog restart
+`# service rsyslog restart`
 
 <br />
 
 #### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
-      sudo -s
-      curl https://repo.plura.io/v5/logcollector/install.sh | bash
+`# sudo -s`
+`# curl https://repo.plura.io/v5/logcollector/install.sh | bash`
 
 <br />
 
 #### 3. 라이센스 등록 및 실행을 합니다.
 
-      /etc/plura/plura.sh register 라이센스키
+`# /etc/plura/plura.sh register 라이센스키`
 
 <br />
 

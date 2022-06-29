@@ -18,7 +18,7 @@ product: Install_A_S
 ## 2. conf 설정하기(rsyslog 사용)
 ※ 80-application.conf → conf 파일 생성하기
 
-     # vi /etc/rsyslog.d/80-application.conf
+`# vi /etc/rsyslog.d/80-application.conf`
 
 <br />
 
@@ -47,15 +47,15 @@ product: Install_A_S
 
 ## 3-1. PLURA V5 repo 에서 다운로드 받기
 
-     # wget https://repo.plura.io/v5/module/rsyslog/80-application.conf
+`# wget https://repo.plura.io/v5/module/rsyslog/80-application.conf`
 
-     # curl https://repo.plura.io/v5/module/rsyslog/80-application.conf -o /etc/rsyslog.d/80-application.conf
+`# curl https://repo.plura.io/v5/module/rsyslog/80-application.conf -o /etc/rsyslog.d/80-application.conf`
 
 <br />
 
 ## 4. rsyslog 데몬 재시작
 
-    # service rsyslog restart 
+`# service rsyslog restart`
 
 <br />
 
@@ -86,17 +86,17 @@ product: Install_A_S
 
 **[최신 rsyslog 설치하기]**
 
-      # cp /etc/yum.repos.d/rsyslog.repo /etc/yum.repos.d/rsyslog.repo.old
+`# cp /etc/yum.repos.d/rsyslog.repo /etc/yum.repos.d/rsyslog.repo.old`
 
-      # curl -s http://rpms.adiscon.com/v8-stable/rsyslog.repo -o /etc/yum.repos.d/rsyslog.repo
+`# curl -s http://rpms.adiscon.com/v8-stable/rsyslog.repo -o /etc/yum.repos.d/rsyslog.repo`
 
-      # yum -y install rsyslog
+`# yum -y install rsyslog`
 
-      # yum list rsyslog
+`# yum list rsyslog`
 
-      # rsyslogd -version
+`# rsyslogd -version`
 
-      rsyslogd 8.2012.0 (aka 2020.12) compiled with:
+rsyslogd 8.2012.0 (aka 2020.12) compiled with:
 
 <br />
 

@@ -35,7 +35,7 @@ Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
 
 ## 1. Datos 설정 파일 추가
 
-     vi /etc/datos/conf/httplogger2.conf
+`# vi /etc/datos/conf/httplogger2.conf`
 
      interface=eth1
      logfile=/var/log/plura/weblog2.log
@@ -47,7 +47,7 @@ Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
 <br />
 
 ## 2. Datos 서비스 파일 추가
-     vi /etc/datos/conf/datos2.service
+`# vi /etc/datos/conf/datos2.service`
 
      [Unit]
      Description=Datos httplogger service
@@ -76,15 +76,15 @@ Datos 에이전트를 추가 생성하는 방법은 아래와 같습니다.
 
 ## 3. Datos 서비스 추가 등록
 
-     cp /etc/datos/conf/datos2.service /usr/lib/systemd/system/datos2.service
+`# cp /etc/datos/conf/datos2.service /usr/lib/systemd/system/datos2.service`
 
-     systemctl enable datos2.service
+`# systemctl enable datos2.service`
 
 <br />
 
 ## 4. Datos 서비스 추가 실행
      
-     service datos2 start
+`# service datos2 start`
 
 <br />
 

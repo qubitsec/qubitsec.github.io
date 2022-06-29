@@ -19,21 +19,22 @@ __PLURA V5 Linux Syslog 설치 영상__
 
 ## 1. PLURA V5 Agent를 설치합니다.
 
-     - [root@localhost]# sudo -s
-     - [root@localhost]# curl https://repo.plura.io/v5/agent/install.sh | bash
+`# sudo -s`
+`# curl https://repo.plura.io/v5/agent/install.sh | bash`
 
 <br />
 
 ## 2. 라이센스 등록 및 실행 합니다.
 
-     - [root@localhost]# /etc/plura/plura.sh register ****
+`# /etc/plura/plura.sh register ****`
 
 <br />
 
 ## 3. 설치 정보를 확인합니다.
 
-     - [root@localhost]# /etc/plura/pluraagent -version
-     - Version: x.x.x
+`# /etc/plura/pluraagent -version`
+
+Version: x.x.x
 
 <br />
 
@@ -55,7 +56,7 @@ __PLURA V5 Agent Linux Srv 설치 영상__
 설치 경로를 선택할 수 있습니다.
 
 
-     [root@localhost]# vi /etc/plura/conf/plura.conf
+`# vi /etc/plura/conf/plura.conf`
 
      # 시스템 기동 시 에이전트 로그인 지연 설정
      login_delay_sec = 0 (초)
@@ -78,9 +79,10 @@ __PLURA V5 Agent Linux Srv 설치 영상__
 
 ## 5. CentOS 6 End of Lifetime (EOL) 대응
 
-     에이전트 설치 전에 아래 명령을 실행
+에이전트 설치 전에 아래 명령을 실행
 
-     # mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.org
+
+`# mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.org`
 
      * CentOS Product Specifications
        https://wiki.centos.org/About/Product
