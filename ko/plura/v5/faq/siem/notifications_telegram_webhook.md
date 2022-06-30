@@ -5,11 +5,14 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-텔레그램 메신저를 이용해 웹훅 수신을 설정하면 PLURA V5 탐지 알림을 텔레그램으로 받아볼 수 있습니다.
+     텔레그램 메신저를 이용해 웹훅 수신을 설정하면 PLURA V5 탐지 알림을 텔레그램으로 받아볼 수 있습니다.
+
+<br />
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lIFuWAtDVbk' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
+
 ## 1. Bot 생성
 
      BotFather 검색
@@ -19,6 +22,7 @@ topnav: topnav
      Bot 생성 이후 출력창의 t.me/Bot식별키를 클릭하여 시작(start)을 눌러서 활성화
 
 <br />
+
 ## 2. Bot 을 그룹채팅에 초대
 
      그룹을 만들고 생성한 Bot 이름으로 검색하여 등록
@@ -26,6 +30,7 @@ topnav: topnav
      https://api.telegram.org/bot{Token}/getUpdates
 
 <br />
+
 ## 3. 확인한 정보를 PLURA V5 알림설정에 등록
 
      예) https://api.telegram.org/bot{Token}/sendmessage?parse_mode=Markdown&chat_id={id}

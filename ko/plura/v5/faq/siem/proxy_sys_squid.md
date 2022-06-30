@@ -17,7 +17,7 @@ httpd 와 유사한 로깅 방법은 다음과 같습니다.
 <br />
 json 으로 PLURA V5 로깅 형태로 저장하는 방법은 다음과 같습니다.
 
-     #vi /etc/squid/squid.conf
+`# vi /etc/squid/squid.conf`
 
      forwarded_for on
      acl has-xff req_header X-Forwarded-For ^(([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)|(\[([0-9a-f]+)?:([0-9a-f:]+)?:([0-9a-f]+|0-9\.]+)?\]))
@@ -31,27 +31,34 @@ json 으로 PLURA V5 로깅 형태로 저장하는 방법은 다음과 같습니
 
  
 <br />
+
 ▶ Git source, [https://github.com/QubitSecurity/ModPlura/tree/main/squid](https://github.com/QubitSecurity/ModPlura/tree/main/squid){: target="_blank"}
 
 squid 를 웹 시스템으로 인식하게 하는 명령어
 
-     echo “ModPlura-squid” > /etc/modplura
-     echo “0.0.1” >> /etc/modplura
-     touch /etc/.modplura
+`# echo “ModPlura-squid” > /etc/modplura`
+
+`# echo “0.0.1” >> /etc/modplura`
+
+`# touch /etc/.modplura`
 
 <br />
+
 squid access 로그 파일에 권한 부여하기
 
-     touch /var/log/plura/weblog.log
-     chmod -R 766 /var/log/plura/weblog.log
-     chcon -t squid_log_t /var/log/plura/weblog.log
+`# touch /var/log/plura/weblog.log`
+
+`# chmod -R 766 /var/log/plura/weblog.log`
+
+`# chcon -t squid_log_t /var/log/plura/weblog.log`
 
  <br />
+
 **PLURA V5 > 시스템 관리**에서 다음과 같이 확인됩니다.
 
  [![image](/docs/images/Additianal/proxy/1.png)](/docs/images/Additianal/proxy/1.png){: target="_blank"}
 
- 
+<br />
 
 참고 사이트
 

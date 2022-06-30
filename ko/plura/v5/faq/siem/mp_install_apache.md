@@ -8,6 +8,7 @@ topnav: topnav
 ## 1. 사전 조사
 
 `# ps -ef|grep httpd`
+
 `# ps -ef|grep apache`
 
      → apache 실행파일 경로/ 명령 파라미터 확인 (=readlink /proc/$(pid)/exe)
@@ -25,13 +26,13 @@ topnav: topnav
 
 <br />
 
-### 1-1) 서비스 등록 확인
+### 1-1. 서비스 등록 확인
 
 `# service httpd|apache2 status`
 
 <br />
 
-### 1-2) 재설정 실험
+### 1-2. 재설정 실험
 
 `# service httpd|apache2 reload`
 
@@ -41,12 +42,14 @@ topnav: topnav
 
 <br />
 
-### 1-3) 설정 파일 확인
+### 1-3. 설정 파일 확인
 
 □ 표준 설치 = /etc/httpd/conf.d/
 
      /etc/httpd/conf/httpd.conf
      IncludeOptional conf.d/*.conf
+
+<br />
 
 □ 사용자 정의 설치 = /usr/local/apache2/conf/extra/
 

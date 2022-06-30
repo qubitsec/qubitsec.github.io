@@ -27,16 +27,18 @@ topnav: topnav
 
 
 <br />
+
 **기본 등록 정보**
 
- - 정보입력 > msg > 직접입력 : Accepted publickey for > 포함
+  정보입력 > msg > 직접입력 : Accepted publickey for > 포함
 
  
 <br />
+
 **내부 IP 주소 제외 처리 필요한 경우 등록 정보**
 
- - 정보입력 > msg > 직접입력 : Accepted publickey for > 포함
+  정보입력 > msg > 직접입력 : Accepted publickey for > 포함
 
- - 정보입력 > msg > 선택입력 : default > 제외
+  정보입력 > msg > 선택입력 : default > 제외
 
  *default: 서버그룹으로, default 에 등록되어 있는 IP 주소 탐지 제외 처리

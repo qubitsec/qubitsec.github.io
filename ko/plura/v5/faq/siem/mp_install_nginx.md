@@ -7,25 +7,25 @@ topnav: topnav
 
 ## 1. 사전 조사
 
-### 1-1) nginx 실행 여부 검사
+### 1-1. nginx 실행 여부 검사
 
 `# ps -ef|grep nginx`
 
      nginx 실행파일 경로/ 명령 파라미터 확인 (=readlink /proc/$(pid)/exe)
 
      nginx 설정파일 경로 확인 (nginx -t)
-     
+
      nginx process owner 확인
 
 <br />
 
-### 1-2) 서비스 등록 확인
+### 1-2. 서비스 등록 확인
 
 `# service nginx status`
 
 <br />
 
-### 1-3) 재설정 실험
+### 1-3. 재설정 실험
 
 `# service nginx reload`
 
@@ -33,7 +33,7 @@ topnav: topnav
 
 <br />
 
-### 1-4) 설정 파일 확인
+### 1-4. 설정 파일 확인
 
      /etc/nginx/nginx.conf
      http {

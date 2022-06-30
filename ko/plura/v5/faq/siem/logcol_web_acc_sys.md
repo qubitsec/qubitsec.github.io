@@ -17,9 +17,11 @@ topnav: topnav
 
 ## 1. 클라이언트: Apache Httpd 웹 접속 로그를 생성
 
-* 환경: CentOS 7 (64비트), Rsyslog 8.24.0-57.el7_9.1
+ 환경: CentOS 7 (64비트), Rsyslog 8.24.0-57.el7_9.1
 
-**1) rsyslog.conf 생성 및 remote rsyslog 서버로 전송 수정**
+<br />
+
+**1-1. rsyslog.conf 생성 및 remote rsyslog 서버로 전송 수정**
 
 `# vi /etc/rsyslog.d/80-httpd-remote.conf`
 
@@ -45,13 +47,13 @@ topnav: topnav
 
 <br />
 
-**2) rsyslog restart**
+**1-2. rsyslog restart**
 
 `# service rsyslog restart`
 
 <br />
 
-**3) 서버 접속 debug**
+**1-3. 서버 접속 debug**
 
 `# nc -zu PLURA_Log_Collector_Server 514`
 
@@ -61,15 +63,15 @@ topnav: topnav
 
 ## 2. 서버 Log Collector
 
-* 환경: CentOS 7, Rsyslog 8.2010.0
+ 환경: CentOS 7, Rsyslog 8.2010.0
 
 <br />
 
-**1) [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/p_agent_lin_srv.html){: target="_blank"}**
+**2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/p_agent_lin_srv.html){: target="_blank"}**
 
 <br />
 
-**2) Remote 클라이언트의 syslog 전송 오픈**
+**2-2. Remote 클라이언트의 syslog 전송 오픈**
 
 `# firewall-cmd –add-port 514/udp`
 
@@ -77,7 +79,7 @@ topnav: topnav
 
 <br />
 
-**3) 77-plura.conf 수정**
+**2-3. 77-plura.conf 수정**
 
 `# vi /etc/rsyslog.d/77-plura.conf`
 
@@ -89,7 +91,7 @@ topnav: topnav
 
 <br />
 
-**4) 99-plura.conf 수정**
+**2-4. 99-plura.conf 수정**
 
 `# vi /etc/rsyslog.d/99-plura.conf`
 
@@ -98,19 +100,19 @@ topnav: topnav
 
 <br />
 
-**5) rsyslog restart**
+**2-5. rsyslog restart**
 
 `# service rsyslog restart`
 
 <br />
 
-**6) 경로에 파일 수신 여부 확인**
+**2-6. 경로에 파일 수신 여부 확인**
 
 `# ls -al /var/log/plura/`
 
 <br />
 
-**7) Log Collector 등록**
+**2-7. Log Collector 등록**
 
 [![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}
 
