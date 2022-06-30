@@ -11,7 +11,7 @@ product: Install_A_S
 
 <br />
 
-### 1.1 Audit Log 패키지 개별 설치를 진행합니다.
+### 1-1. Audit Log 패키지 개별 설치를 진행합니다.
 
 <br />
 
@@ -47,7 +47,7 @@ product: Install_A_S
 
 <br />
 
-### 1.2 Syslog+Audit 로그 패키지 통합 설치를 진행합니다.
+### 1-2. Syslog+Audit 로그 패키지 통합 설치를 진행합니다.
 
 ※ PLURA V5 Agent 사전 설치 필요
 
