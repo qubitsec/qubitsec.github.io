@@ -74,4 +74,4 @@ PLURA V5 에서 정상적으로 업로드 된 로그를 확인해주세요.
 
 ▶PLURA V5 Forensic 에이전트 설치 방법
 
-[PLURA Log-F Agent Srv – PLURA’S BLOG](https://qubitsec.github.io/forensic.html){: target="_blank"}
+[https://qubitsec.github.io/forensic.html](https://qubitsec.github.io/forensic.html){: target="_blank"}

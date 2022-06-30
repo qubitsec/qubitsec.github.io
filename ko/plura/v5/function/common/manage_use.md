@@ -102,11 +102,11 @@ MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$
 - 응용프로그램 업로드 → 공백 예외
   원본 로그 중 공백을 예외하고 싶은 경우
 
-**{ “timegenerated”: “2022-05-21T13:20:45.098193+09:00”, “tag”: “top”, “path”: “/var/log/pluraagent.txt”, “msg”: “” }**
+{ “timegenerated”: “2022-05-21T13:20:45.098193+09:00”, “tag”: “top”, “path”: “/var/log/pluraagent.txt”, “msg”: “” }
 
 1. 공백이 1회 이상일때는 > ^\s+$
 
-**2. 공백이 0회 이상일때는 > ^\s*$**
+2. 공백이 0회 이상일때는 > ^\s*$
 
 <br />
 예시 이미지)
