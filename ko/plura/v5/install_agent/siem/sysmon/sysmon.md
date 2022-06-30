@@ -57,8 +57,7 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 #### ② 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후, 아래의 명령어를 입력합니다.
 
-#설치 명령어
-`sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”`
+`# sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”`
 
 <br />
 
