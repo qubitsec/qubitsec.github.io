@@ -10,8 +10,9 @@ product: Install_A_S
      아래의 내용은 CentOS 7 버전 설치 과정 예시 입니다.
      반드시 www.plura.io 우측 상단의 Install Agents 페이지에서 확인하여 설치하시길 바랍니다.
 
+<br />
 
-__PLURA V5 Linux Syslog 설치 영상__
+PLURA V5 Linux Syslog 설치 영상
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TW7_NF1gF9g' frameborder='0' allowfullscreen></iframe></div>
 

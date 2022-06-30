@@ -22,6 +22,8 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 [http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){:target="_blank"}
 
+<br />
+
 ## 응용프로그램 로그는 “LogStash”를 이용하여 컬럼을 분리할 수 있습니다.
 
 Logstash는 다양한 소스로부터 데이터를 수집하고 곧바로 전환하여 원하는 대상에 전송할 수 있도록 하는 경량의 오픈 소스 서버측 데이터 처리 파이프라인입니다.
@@ -76,7 +78,10 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 
 <br />
 
-### Logstash가 설정된 원격지(자식) 서버를 등록합니다.   
+### Logstash가 설정된 원격지(자식) 서버를 등록합니다.
+
+<br />
+
 ### 2-1. 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"}

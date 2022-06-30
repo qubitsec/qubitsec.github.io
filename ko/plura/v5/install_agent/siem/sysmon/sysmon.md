@@ -23,7 +23,7 @@ PLURA V5 Agent 설치 완료 후, 아래의 내용을 참고하여 Sysmon 을 �
 
 <br />
 
-### 참고사항 I 
+### 1-1. 옵션
 
 최신버전 다운로드 링크 : [ Sysmon ](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon){:target="_blank"}
 
@@ -44,9 +44,9 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 <br />
 
-### 참고사항 II
+### 1-2. 실행
 
-#### ① sysmon-plura.xml 파일을 아래의 경로에서 다운로드합니다.
+#### 1-2-1. sysmon-plura.xml 파일을 아래의 경로에서 다운로드합니다.
 <br />
      [https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml](https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml){:target="_blank"}
 
@@ -55,13 +55,13 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 <br />
 
-#### ② 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후, 아래의 명령어를 입력합니다.
+#### 1-2-2. 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후, 아래의 명령어를 입력합니다.
 
 `# sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”`
 
 <br />
 
-### 참고사항 Ⅲ
+### 1-3. 확인
 
 Agent 에서 SYSMON 설치 확인
 
