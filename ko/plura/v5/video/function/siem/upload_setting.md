@@ -10,4 +10,7 @@ topnav: topnav
 <br />
 
 내부 블로그  
-1. Function > Common > 관리 > 사용, [https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}
+
+Function > Common > 관리 > 사용
+
+[https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}

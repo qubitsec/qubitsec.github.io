@@ -26,4 +26,7 @@ PLURA V5 탐지/대응 내역을 Syslog 시스템을 이용하여 받기
 <br />
 
 내부 블로그  
-1. Function > Common > 관리 > 연동, [https://qubitsec.github.io/manage_peristalsis.html](https://qubitsec.github.io/manage_peristalsis.html){:target="_blank"}
+
+Function > Common > 관리 > 연동 
+
+[https://qubitsec.github.io/manage_peristalsis.html](https://qubitsec.github.io/manage_peristalsis.html){:target="_blank"}

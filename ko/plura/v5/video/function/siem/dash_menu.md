@@ -10,4 +10,7 @@ topnav: topnav
 <br />
 
 내부 블로그  
-1. 대시보드, [https://qubitsec.github.io/dash_board.html](https://qubitsec.github.io/dash_board.html){:target="_blank"}
+
+대시보드
+
+[https://qubitsec.github.io/dash_board.html](https://qubitsec.github.io/dash_board.html){:target="_blank"}
