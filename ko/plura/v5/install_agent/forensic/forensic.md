@@ -26,7 +26,7 @@ Windows 10 또는 .NET Framework 4.5 이상 환경에서 설치가 가능합니�
 
 <br />
 
-## 1 Install Step
+## 1. Install Step
 
 먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인(라이센스 : 포렌식) 후 우측상단 <font color='dodgerblue'> Install Agents </font>  를 클릭하여 다운로드합니다.
 
