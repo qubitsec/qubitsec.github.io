@@ -24,8 +24,8 @@ product: Install_A_S
 
 ## 3. conf 파일 생성 예시
 
-※ File = “로그 경로”, Tag = “로그 태그”, Severity = “심각도”
-※ 파일명에 와일드카드를 사용해야 하는 경우는 __rsyslog 버전 8.25 이상__ 을 사용하셔야 합니다.
+※ File = “로그 경로”, Tag = “로그 태그”, Severity = “심각도”   
+※ 파일명에 와일드카드를 사용해야 하는 경우는 __rsyslog 버전 8.25 이상__ 을 사용하셔야 합니다.   
 ※ 최신 rsyslog 설치하기 바로가기
 
      #variables required for non-syslog log file forwarding – application log file
@@ -45,7 +45,7 @@ product: Install_A_S
 
 <br />
 
-## 3-1. PLURA V5 repo 에서 다운로드 받기
+### 3-1. PLURA V5 repo 에서 다운로드 받기
 
 `# wget https://repo.plura.io/v5/module/rsyslog/80-application.conf`
 
@@ -61,9 +61,7 @@ product: Install_A_S
 
 ## 5. PLURA V5 수집 로그 확인
 
-     전체로그 > 시스템 > 주요개체 컬럼에서 application 확인
-
-<br />
+전체로그 > 시스템 > 주요개체 컬럼에서 application 확인
 
 [![image](/docs/images/Ins_G/rsyslog/2.png){: width="800" }](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
 
@@ -71,14 +69,9 @@ product: Install_A_S
 
 ## 6. PLURA V5 실시간 탐지 필터 등록하기
 
-     1) 2020010100037 키워드에 대한 실시간 탐지 등록 필터
-
-     2) 필터 > 등록필터 > 시스템/웹/웹방화벽 > 등록
-
-     3) 필터등록 하단 > 정보입력 >  msg >  2020010100037 등록
-
-
-<br />
+1) 2020010100037 키워드에 대한 실시간 탐지 등록 필터   
+2) 필터 > 등록필터 > 시스템/웹/웹방화벽 > 등록   
+3) 필터등록 하단 > 정보입력 >  msg >  2020010100037 등록
 
 [![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
@@ -96,10 +89,10 @@ product: Install_A_S
 
 `# rsyslogd -version`
 
-rsyslogd 8.2012.0 (aka 2020.12) compiled with:
+rsyslogd 8.2012.0 (aka 2020.12) compiled ...
 
 <br />
 
-- 외부 참고 사이트
+**[외부 참고 사이트]**
 
 [https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html](https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html){:target="_blank"}
