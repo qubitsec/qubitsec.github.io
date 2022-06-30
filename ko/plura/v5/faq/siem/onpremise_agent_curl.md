@@ -17,6 +17,8 @@ curl -o /etc/yum.repos.d/CentOS-Base.repo https://rpms.plura.io/module/baseurl/6
 mv /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6 /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6.org
 curl -o /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6 https://rpms.plura.io/module/baseurl/6/RPM-GPG-KEY-CentOS-6
 
+<br />
+
 ### 2) Install epel
 
 mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org
@@ -31,6 +33,8 @@ yum install https://rpms.plura.io/module/baseurl/6/epel-release-latest-6.noarch.
 mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org
 curl -o /etc/yum.repos.d/epel.repo https://rpms.plura.io/module/baseurl/6/epel.repo
 
+<br />
+
 ## 2. CentOS 7
 
 ### 1) Change Base CentOS repo
@@ -40,6 +44,8 @@ curl -o /etc/yum.repos.d/CentOS-Base.repo https://rpms.plura.io/module/baseurl/7
 
 mv /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7 /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7.org
 curl -o /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7 https://rpms.plura.io/module/baseurl/7/RPM-GPG-KEY-CentOS-7
+
+<br />
 
 ### 2) Install epel
 
