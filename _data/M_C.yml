@@ -88,7 +88,7 @@ folders:
 - title: 필터
   folderitems:
 
-  - title: OS
+  - title:
     url: 
 
     subfolders:
@@ -104,7 +104,7 @@ folders:
       - title: Audit
         url: /f_regi_audit.html
 
-  - title: Security
+  - title:
     url: 
 
     subfolders:
