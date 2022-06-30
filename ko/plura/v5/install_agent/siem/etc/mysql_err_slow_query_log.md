@@ -98,8 +98,6 @@ long_query_time = 3
 <br />
 
 ### 2.5. 활성화 확인
-<br />
-
 `mysql> show variables like ‘slow_query_%’;`
 
 [![image](/docs/images/Ins_G/mysql_slow/10.png)](/docs/images/Ins_G/mysql_slow/10.png){:target="_blank"}
@@ -111,4 +109,6 @@ long_query_time = 3
 Mysql Error 또는 Slow Query 로그 발생 후 응용프로그램 로그에서 MySQL 관련 로그를 확인합니다.   
 등록한 태그명으로 검색이 가능합니다.
 
-▶ 관련 내부 블로그 : [응용프로그램 로그 업로드 설정하기](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}
+내부 블로그 
+
+[응용프로그램 로그 업로드 설정하기](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}
