@@ -21,6 +21,10 @@ topnav: topnav
 
 내부 블로그  
 
-1. Function > SIEM > 방어 > 설정, [https://qubitsec.github.io/defense_setting.html](https://qubitsec.github.io/defense_setting.html){:target="_blank"}
+Function > SIEM > 방어 > 설정
 
-2. Video > 기능소개 > SIEM(DEMO) > 계정탈취 필터등록, [https://qubitsec.github.io/account_takeover_fil_reg.html](https://qubitsec.github.io/account_takeover_fil_reg.html){:target="_blank"}
+[https://qubitsec.github.io/defense_setting.html](https://qubitsec.github.io/defense_setting.html){:target="_blank"}
+
+Video > 기능소개 > SIEM(DEMO) > 계정탈취 필터등록
+
+[https://qubitsec.github.io/account_takeover_fil_reg.html](https://qubitsec.github.io/account_takeover_fil_reg.html){:target="_blank"}

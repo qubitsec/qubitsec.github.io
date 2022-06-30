@@ -31,4 +31,7 @@ topnav: topnav
 <br />
 
 내부 블로그  
-1. Install Agents > SIEM > PLC > System, [https://qubitsec.github.io/logcol_system.html](https://qubitsec.github.io/logcol_system.html){:target="_blank"}
+
+Install Agents > SIEM > PLC > System
+
+[https://qubitsec.github.io/logcol_system.html](https://qubitsec.github.io/logcol_system.html){:target="_blank"}

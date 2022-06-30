@@ -36,4 +36,7 @@ PLURA V5 탐지/대응 내역을 웹훅 시스템을 이용하여 받기
 <br />
 
 참고 사이트
-1. 위키백과 > 웹훅, [https://ko.wikiqube.net/wiki/Webhook](https://ko.wikiqube.net/wiki/Webhook){:target="_blank"}
+
+위키백과 > 웹훅
+
+[https://ko.wikiqube.net/wiki/Webhook](https://ko.wikiqube.net/wiki/Webhook){:target="_blank"}
