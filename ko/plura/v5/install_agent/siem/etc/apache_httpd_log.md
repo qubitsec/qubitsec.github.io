@@ -10,17 +10,17 @@ product: Install_A_S
 <br />
 
 ### 1. conf 설정하기(rsyslog 사용)
-※ 80-httpd.conf → conf 파일 생성하기
+80-httpd.conf → conf 파일 생성하기
 
-`# cd /etc/rsyslog.d/`
+`# cd /etc/rsyslog.d/`   
 `# vi /etc/rsyslog.d/80-httpd.conf`
 
 <br />
 
 ### 2. conf 파일 생성
-※ File = “로그 경로”, Tag = “태그”, Severity = “심각도”, programname = “프로그램명”
+File = “로그 경로”, Tag = “태그”, Severity = “심각도”, programname = “프로그램명”
 
-`## vi /etc/rsyslog.d/80-httpd.conf`
+`# vi /etc/rsyslog.d/80-httpd.conf`
 
      #variables required for non-syslog log file forwarding – httpd error log file
      #edit on your location
@@ -58,6 +58,8 @@ product: Install_A_S
 
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.(Syslog 필터등록)
+
+<br />
 
 외부 참고 사이트
 

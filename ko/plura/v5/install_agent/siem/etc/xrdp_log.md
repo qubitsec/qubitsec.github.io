@@ -26,7 +26,7 @@ product: Install_A_S
      EnableSyslog=1
      SyslogLevel=DEBUG
 
-`# vi /etc/rsyslog.d/80-xrdp.conf`
+     # vi /etc/rsyslog.d/80-xrdp.conf
 
 <br />
 
@@ -44,4 +44,5 @@ product: Install_A_S
 
 [![image](/docs/images/Ins_G/xrdp/2.png){: width="800" }](/docs/images/Ins_G/xrdp/2.png){:target="_blank"}
 
-위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.[(Syslog 필터등록 바로가기)](https://qubitsec.github.io/f_regi_syslog.html){:target="_blank"}
+위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.   
+[(Syslog 필터등록 바로가기)](https://qubitsec.github.io/f_regi_syslog.html){:target="_blank"}
