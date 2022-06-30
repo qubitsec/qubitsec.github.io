@@ -46,8 +46,6 @@ product: Install_A_S
 
 ### 4. 로그 취합서버(부모)에서 라이센스 등록 및 실행을 합니다.
 
-<br />
-
 [![image](/docs/images/Ins_G/LogCol_app/app_3.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}
 
 <br />
@@ -77,12 +75,14 @@ product: Install_A_S
 
 <br />
   ⑤ 등록한 태그 및 수집하고자 하는 응용 프로그램 경로를 등록합니다.
+
     – 아래 예시에서는 Apache-errorlog를 설정하였습니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_9.png)](/docs/images/Ins_G/LogCol_app/app_9.png){: target="_blank"}
 
 <br />
   ⑥ 로그 취합서버(부모)를 선택하여 응용프로그램 로그수집이 정상적으로 설정되었는지 확인합니다.
+  
     – 원격지(자식) 서버를 선택하면 설정 팝업이 노출됩니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_10.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}

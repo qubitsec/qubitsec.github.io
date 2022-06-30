@@ -56,6 +56,7 @@ Syslog 재시작
 
 
 `# sudo -s`
+
 `# curl https://repo.plura.io/v5/logcollector/install.sh | bash`
 
 <br />
