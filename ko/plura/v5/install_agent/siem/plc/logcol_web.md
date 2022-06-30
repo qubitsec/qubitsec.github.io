@@ -32,17 +32,11 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
 __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)__
 
-
-<br />
-
 [![image](/docs/images/Ins_G/LogCol_web/1.png){: width="800" }](/docs/images/Ins_G/LogCol_web/1.png){:target="_blank"}
 
 <br />
 
 **2. 라이센스 등록 및 실행을 합니다.**
-
-
-<br />
 
 [![image](/docs/images/Ins_G/LogCol_web/2.png){: width="800" }](/docs/images/Ins_G/LogCol_web/2.png){:target="_blank"}
 
@@ -50,18 +44,13 @@ __1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
 **3. 웹로그 모듈을 설치합니다.**
 
-
-<br />
-
 [![image](/docs/images/Ins_G/LogCol_web/3.png){: width="800" }](/docs/images/Ins_G/LogCol_web/3.png){:target="_blank"}
 
 <br />
 
 **4. 환경 설정을 합니다.**
 
-`# vi /etc/datos/conf/httplogger.conf`
-
-<br />
+`# vi /etc/datos/conf/httplogger.conf`   
 
 [![image](/docs/images/Ins_G/LogCol_web/4.png){: width="800" }](/docs/images/Ins_G/LogCol_web/4.png){:target="_blank"}
 

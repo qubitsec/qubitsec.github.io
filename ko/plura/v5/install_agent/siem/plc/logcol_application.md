@@ -40,6 +40,8 @@ product: Install_A_S
 [![image](/docs/images/Ins_G/LogCol_app/app_2.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
 
 
+<br />
+
 ### 3. 로그 취합서버(부모)에서 인바운드 TCP 5514 포트를 오픈합니다.
 
 <br />
@@ -67,7 +69,8 @@ product: Install_A_S
 <br />
   ④ 태그 및 경로를 등록합니다.
 
-[![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}
+[![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}   
+
 ※ 태그 등록 방법
 – 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
 
