@@ -24,6 +24,8 @@ product: Install_A_S
      <예>
      *.info @로그취합 시스템 IP주소
 
+<br />
+
 `# refresh -s syslogd`
 
      @ 하나는 UDP로 통신
@@ -35,6 +37,7 @@ product: Install_A_S
 ## 3. 파일 감사 설정을 하려면 아래와 같이 설정합니다.
 
 `# vi /etc/security/audit/config`
+     
      set binmode = off
      streammode = on
 
@@ -53,7 +56,9 @@ product: Install_A_S
 `# vi /etc/security/audit/streamcmds/usr/sbin/auditstream | auditpr -v | /usr/bin/logger -p local7.info &`
 
 `# audit off`
+
 `# audit shutdown`
+
 `# refresh -s syslogd`
 
 <br />

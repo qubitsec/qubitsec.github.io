@@ -23,10 +23,12 @@ product: Install_A_S
 
      <예>
      *.info @로그취합 시스템 IP주소
-     
+
 `# /sbin/init.d/syslogd stop`
 
 `# /sbin/init.d/syslogd start`
+
+<br />
 
      @ 하나는 UDP로 통신
      @@ 두개는 TCP로 통신

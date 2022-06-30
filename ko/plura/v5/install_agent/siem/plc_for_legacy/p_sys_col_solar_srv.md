@@ -23,7 +23,9 @@ product: Install_A_S
 
      <예>
      *.info @로그취합 시스템 IP주소
-     
+
+<br />
+
 `# svcadm restart system-log`
 
      @ 하나는 UDP로 통신
