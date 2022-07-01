@@ -8,7 +8,7 @@ topnav: topnav
 
 ## PLURA V5의 Amazon EC2 Auto Scaling 환경 지원
 
-[https://qubitsec.github.io/amazon_ec2_scaling.html](https://qubitsec.github.io/amazon_ec2_scaling.html){:target="_blank"}
+[https://qubitsec.github.io/ko_amazon_ec2_scaling.html](https://qubitsec.github.io/ko_amazon_ec2_scaling.html){:target="_blank"}
 
 PLURA V5 에이전트가 설치된 인스턴스를 Auto Scaling 하실때 고려해야 할 사항이 있습니다.
 
