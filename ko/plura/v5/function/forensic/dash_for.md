@@ -15,6 +15,8 @@ topnav: topnav
 - Gold(LogF) : 1TB, 90일
 - Platinum(LogF) : 2TB, 180일
 
+<br />
+
 ## 1.마이터 / 상관분석 / 시스템로그
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.
 
