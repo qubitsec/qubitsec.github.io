@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-PLURA V5의 보안필터 중 데이터 유출은 실시간으로 데이터의 유출을 탐지하는 필터입니다.
+     보안필터 중 데이터 유출은 실시간으로 데이터의 유출을 탐지하는 필터입니다.
 
 <br />
 [![image](/docs/images/Manual/common/filter2/security/data/1.png){: width="800" }](/docs/images/Manual/common/filter2/security/data/1.png){: target="_blank"}

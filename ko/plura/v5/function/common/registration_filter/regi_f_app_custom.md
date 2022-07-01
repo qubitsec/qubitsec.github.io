@@ -16,32 +16,50 @@ topnav: topnav
 
 필터등록 DEMO :[https://qubitsec.github.io/filter_registration.html](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
 
+<br />
+
 ▶ 필터 등록 방법
 
 ### 1.PLURA V5 웹페이지 왼쪽 네비게이션 바 메뉴에 필터 > 등록을 클릭합니다.
 [![image](/docs/images/Manual/common/regi/custom/2.png)](/docs/images/Manual/common/regi/custom/2.png){: target="_blank"}
 
+<br />
+
 ### 2.등록필터 페이지(시스템, 응용프로그램, 웹, 네트워크)에서 등록 버튼을 클릭합니다.
 
 [![image](/docs/images/Manual/common/regi/custom/3.png){: width="800" }](/docs/images/Manual/common/regi/custom/3.png){: target="_blank"}
 
+<br />
+
 ### 3.시스템 그룹을 선택합니다.
+
+<br />
 
 ### 4.태그를 선택합니다.
 
 [![image](/docs/images/Manual/common/regi/custom/4.png){: width="800" }](/docs/images/Manual/common/regi/custom/4.png){: target="_blank"}
 
+<br />
+
 ### 5.필터명을 입력합니다.
+
+<br />
 
 ### 6.필터설명을 입력합니다.
 
+<br />
+
 ### 7.필터위험도(높음/중간/낮음)를 지정합니다.
+
+<br />
 
 ### 8.필터 동작시간(24시간/시간설정)을 설정합니다.
 
 [![image](/docs/images/Manual/common/regi/custom/5.png){: width="800" }](/docs/images/Manual/common/regi/custom/5.png){: target="_blank"}
 
 - 예를들어 퇴근시간 이후부터 출근시간까지에서 필터 동작을 확인하고 싶다면, “시간설정” 선택 후, 원하는 시간을 입력합니다.
+
+<br />
 
 ### 9.동작을 설정합니다.
 

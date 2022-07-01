@@ -11,11 +11,9 @@ topnav: topnav
 
 <br />
 
+## 1. 데이터 유출 시연 영상
+
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Qp-JbyZ_G1k' frameborder='0' allowfullscreen></iframe></div>
-
-<br />
-
-## 1. 참고영상_PLURA V5 데이터 유출 시연 영상
 
 <br />
 
@@ -26,7 +24,7 @@ topnav: topnav
 
 <br />
 
- Tab에서 응답본문 유출영역 보기 버튼을 클릭 시, 실제 유출된 응답 본문 내용을 볼 수 있습니다.
+- Tab에서 응답본문 유출영역 보기 버튼을 클릭 시, 실제 유출된 응답 본문 내용을 볼 수 있습니다.
 
 [![image](/docs/images/Manual/common/outflow/2.png){: width="800" }](/docs/images/Manual/common/outflow/2.png){: target="_blank"}
 
