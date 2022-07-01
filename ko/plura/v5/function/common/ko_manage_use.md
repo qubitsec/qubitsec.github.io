@@ -57,11 +57,13 @@ topnav: topnav
 <br />
 ※ [참고] 웹 업로드 Default 설정값
 
-▶ Extension : (?i)^(jpg|gif|png|jpeg|ico|bmp|tiff|exif|ppm|pgm|pbm|
-pnm|mng|pgf|tga|bpg|cgm|svg|hevc|wmv|Xvid|VP6|VP7|VP8|VP9|MPEG-1|
-MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$
+     Extension : 
+     (?i)^(jpg|gif|png|jpeg|ico|bmp|tiff|exif|ppm|pgm|pbm|pnm|mng|pgf|tga|bpg|cgm|svg|hevc|wmv|Xvid|VP6|VP7|VP8|VP9|MPEG-1|MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$
 
-▶ Req-Content Type : (?i)(image|video|audio|font)
+     Req-Content Type : 
+     (?i)(image|video|audio|font)
+
+<br />
 
    - 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.
 
@@ -100,8 +102,8 @@ MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$
 [![image](/docs/images/Manual/common/manage/use/12.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 - 응용프로그램 업로드 → 공백 예외
-  원본 로그 중 공백을 예외하고 싶은 경우
 
+  원본 로그 중 공백을 예외하고 싶은 경우   
 { “timegenerated”: “2022-05-21T13:20:45.098193+09:00”, “tag”: “top”, “path”: “/var/log/pluraagent.txt”, “msg”: “” }
 
 1. 공백이 1회 이상일때는 > ^\s+$
@@ -126,4 +128,4 @@ MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$
 
 [관련 블로그]
 
-- Video > 기능소개 > SIEM > 업로드설정 DEMO : [https://qubitsec.github.io/upload_setting.html](https://qubitsec.github.io/upload_setting.html){: target="_blank"}
+- Video > 기능소개 > SIEM > 업로드설정 DEMO : [https://qubitsec.github.io/ko_upload_setting.html](https://qubitsec.github.io/ko_upload_setting.html){: target="_blank"}

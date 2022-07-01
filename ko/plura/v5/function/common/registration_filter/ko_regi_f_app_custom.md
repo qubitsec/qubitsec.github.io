@@ -14,7 +14,7 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/regi/custom/1.png){: width="800" }](/docs/images/Manual/common/regi/custom/1.png){: target="_blank"}
 
-필터등록 DEMO :[https://qubitsec.github.io/filter_registration.html](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
+필터등록 DEMO :[https://qubitsec.github.io/ko_filter_registration.html](https://qubitsec.github.io/ko_filter_registration.html){: target="_blank"}
 
 <br />
 

@@ -13,7 +13,7 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/regi/system/1.png){: width="800" }](/docs/images/Manual/common/regi/system/1.png){: target="_blank"}
 
-사용자정의 필터등록 DEMO : [(https://qubitsec.github.io/filter_registration.html](https://qubitsec.github.io/filter_registration.html){: target="_blank"}
+사용자정의 필터등록 DEMO : [(https://qubitsec.github.io/ko_filter_registration.html](https://qubitsec.github.io/ko_filter_registration.html){: target="_blank"}
 
 <br />
 ▶ 필터 등록 방법

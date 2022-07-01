@@ -69,4 +69,4 @@ topnav: topnav
 [![image](/docs/images/Manual/common/filter/custom/10.png){: width="800" }](/docs/images/Manual/common/filter/custom/10.png){: target="_blank"}
 
  **내부 블로그**
-- Log Collector > Custom Application : [https://qubitsec.github.io/logcol_custom_appl.html](https://qubitsec.github.io/logcol_custom_appl.html){: target="_blank"}
+- Log Collector > Custom Application : [https://qubitsec.github.io/ko_logcol_custom_appl.html](https://qubitsec.github.io/ko_logcol_custom_appl.html){: target="_blank"}

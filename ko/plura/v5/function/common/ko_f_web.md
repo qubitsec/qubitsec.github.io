@@ -10,7 +10,7 @@ topnav: topnav
      탐지 가능 공격 유형은 OWASP TOP 10 입니다. 
 
 <br />
-바로가기  [웹 로그 사용 설정방법](https://qubitsec.github.io/system_weblog.html){: target="_blank"}
+바로가기  [웹 로그 사용 설정방법](https://qubitsec.github.io/ko_system_weblog.html){: target="_blank"}
 
 <br />
 ## 1. 탐지된 로그 상세 내용

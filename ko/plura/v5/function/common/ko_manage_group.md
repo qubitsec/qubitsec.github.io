@@ -48,4 +48,4 @@ topnav: topnav
 
 <br />
 
-그룹알림(웹훅) 설정하기 DEMO : [https://qubitsec.github.io/setting_up_webhook.html](https://qubitsec.github.io/setting_up_webhook.html){: target="_blank"}
+그룹알림(웹훅) 설정하기 DEMO : [https://qubitsec.github.io/ko_setting_up_webhook.html](https://qubitsec.github.io/ko_setting_up_webhook.html){: target="_blank"}
