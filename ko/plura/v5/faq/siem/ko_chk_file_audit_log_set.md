@@ -133,7 +133,7 @@ PLURA V5 웹에서 Audit 필터를 등록합니다.
 ## 6. PLURA V5 에서 Audit 필터 탐지 활용
 [(바로가기)](https://qubitsec.github.io/ko_aix_hack_using_audit.html){: target="_blank"}
 
- 
+<br />
 
-참조
-https://developer.ibm.com/technologies/systems/articles/au-audit_filter/
+참조   
+[https://developer.ibm.com/technologies/systems/articles/au-audit_filter/](https://developer.ibm.com/technologies/systems/articles/au-audit_filter/){: target="_blank"}
