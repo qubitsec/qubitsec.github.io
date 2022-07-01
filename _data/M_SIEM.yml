@@ -5,7 +5,7 @@ folders:
   folderitems:
 
   - title: 대시보드
-    url: /dash_board.html
+    url: /ko_dash_board.html
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -19,16 +19,16 @@ folders:
   folderitems:
 
   - title: 시스템 관리
-    url: /system_sys_manage.html
+    url: /ko_system_sys_manage.html
 
   - title: 그룹관리
-    url: /system_g_manage.html
+    url: /ko_system_g_manage.html
 
   - title: 리소스모니터링
-    url: /system_resource_m.html
+    url: /ko_system_resource_m.html
 
   - title: 웹로그 사용 설정 방법
-    url: /system_weblog.html
+    url: /ko_system_weblog.html
   
 
   folders:
@@ -36,30 +36,30 @@ folders:
   folderitems: 
 
   - title: 차단IP주소
-    url: /defense_ip.html
+    url: /ko_defense_ip.html
 
   - title: 로그
-    url: /defense_log.html
+    url: /ko_defense_log.html
 
   - title: 설정
-    url: /defense_setting.html
+    url: /ko_defense_setting.html
 
   - title: 즉시차단
-    url: /defense_block_immediately.html
+    url: /ko_defense_block_immediately.html
 
   folders:
 - title: 컴플라이언스
   folderitems:
 
   - title: 컴플라이언스
-    url: /compliance.html
+    url: /ko_compliance.html
 
   folders:
 - title: API 제공(On-premise 전용)
   folderitems:
 
   - title: API 제공(On-premise 전용)
-    url: /api_provision.html
+    url: /ko_api_provision.html
 
 
   

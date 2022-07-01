@@ -5,7 +5,7 @@ folders:
   folderitems:
 
   - title: 웹방화벽
-    url: /filter_detection_waf.html
+    url: /ko_filter_detection_waf.html
 
 
   folders:
@@ -13,30 +13,30 @@ folders:
   folderitems:
 
   - title: 웹방화벽
-    url: /all_log_waf.html
+    url: /ko_all_log_waf.html
 
   folders:
 - title: 방어
   folderitems: 
 
   - title: 차단IP주소
-    url: /defense_block_ip_waf.html
+    url: /ko_defense_block_ip_waf.html
 
   - title: 로그
-    url: /defense_log_waf.html
+    url: /ko_defense_log_waf.html
 
   - title: 설정
-    url: /defense_setting_waf.html
+    url: /ko_defense_setting_waf.html
   
   - title: 즉시차단
-    url: /defense_block_immediately_waf.html
+    url: /ko_defense_block_immediately_waf.html
 
   folders:
 - title: 관리
   folderitems:
 
   - title: 웹방화벽
-    url: /web_firewall_waf.html
+    url: /ko_web_firewall_waf.html
 
 
     # subfolders:
@@ -51,14 +51,14 @@ folders:
   folderitems: 
 
   - title: 웹방화벽 필터등록
-    url: /filter_waf.html
+    url: /ko_filter_waf.html
  
   folders:
 - title: 보고서
   folderitems:
 
   - title: 웹방화벽 분석
-    url: /report_waf.html
+    url: /ko_report_waf.html
 
 
   

@@ -5,32 +5,32 @@ folders:
   folderitems:
 
   - title: 상관분석
-    url: /correlation_analysis.html
+    url: /ko_correlation_analysis.html
 
   - title: 데이터 유출
-    url: /data_outflow.html
+    url: /ko_data_outflow.html
 
   - title: 계정탈취
-    url: /acc_takeover.html
+    url: /ko_acc_takeover.html
   
   - title: 홈페이지 위변조
-    url: /h_forgery.html
+    url: /ko_h_forgery.html
 
     subfolders:
     - title: MITRE ATT&CK 프레임워크
       subfolderitems: 
 
       - title: 매트릭스
-        url: /matrix.html
+        url: /ko_matrix.html
       
       - title: 리스트
-        url: /list.html
+        url: /ko_list.html
 
       - title: 해킹그룹
-        url: /hack_g.html
+        url: /ko_hack_g.html
 
       - title: 소프트웨어
-        url: /sw.html
+        url: /ko_sw.html
 
     # subfolders:
     # - title: PLURA V5 Syslog Collector Srv
@@ -44,45 +44,45 @@ folders:
   folderitems:
 
   - title: 시스템
-    url: /f_system.html
+    url: /ko_f_system.html
 
   - title: 응용프로그램>원본
-    url: /f_app_source.html
+    url: /ko_f_app_source.html
 
   - title: 응용프로그램>사용자정의
-    url: /f_app_custom.html
+    url: /ko_f_app_custom.html
 
   - title: 웹
-    url: /f_web.html
+    url: /ko_f_web.html
   
   - title: 네트워크
-    url: /f_network.html
+    url: /ko_f_network.html
 
   folders:
 - title: ML탐지
   folderitems:
 
   - title: ML탐지
-    url: /ml.html
+    url: /ko_ml.html
 
   folders:
 - title: 전체로그
   folderitems:
 
   - title: 시스템
-    url: /full_log_system.html
+    url: /ko_full_log_system.html
 
   - title: 응용프로그램>원본
-    url: /full_log_app_source.html
+    url: /ko_full_log_app_source.html
 
   - title: 응용프로그램>사용자 정의
-    url: /full_log_app_custom.html
+    url: /ko_full_log_app_custom.html
 
   - title: 웹
-    url: /full_log_web.html
+    url: /ko_full_log_web.html
 
   - title: 네트워크
-    url: /full_log_network.html
+    url: /ko_full_log_network.html
 
   folders:
 - title: 필터
@@ -96,13 +96,13 @@ folders:
       subfolderitems:
 
       - title: Syslog
-        url: /f_regi_syslog.html
+        url: /ko_f_regi_syslog.html
 
       - title: Windows
-        url: /f_regi_window.html
+        url: /ko_f_regi_window.html
 
       - title: Audit
-        url: /f_regi_audit.html
+        url: /ko_f_regi_audit.html
 
   - title:
     url: 
@@ -112,38 +112,38 @@ folders:
       subfolderitems: 
 
       - title: 상관분석
-        url: /s_f_cor_analysis.html
+        url: /ko_s_f_cor_analysis.html
 
       - title: 데이터 유출
-        url: /s_f_data_outflow.html
+        url: /ko_s_f_data_outflow.html
 
       - title: 계정탈취
-        url: /s_f_acc_takeover.html
+        url: /ko_s_f_acc_takeover.html
 
       - title: 홈페이지 위변조
-        url: /s_f_h_forgery.html
+        url: /ko_s_f_h_forgery.html
 
   - title: 추천
-    url: /recom_fil.html
+    url: /ko_recom_fil.html
 
     subfolders:
     - title: 등록
       subfolderitems: 
 
       - title: 시스템
-        url: /regi_f_system.html
+        url: /ko_regi_f_system.html
 
       - title: 응용프로그램>원본
-        url: /regi_f_app_source.html
+        url: /ko_regi_f_app_source.html
 
       - title: 응용프로그램>사용자정의
-        url: /regi_f_app_custom.html
+        url: /ko_regi_f_app_custom.html
 
       - title: 웹
-        url: /regi_f_web.html
+        url: /ko_regi_f_web.html
 
       - title: 네트워크
-        url: /regi_f_network.html
+        url: /ko_regi_f_network.html
 
 
   folders:
@@ -151,121 +151,121 @@ folders:
   folderitems:
 
   - title: IP주소
-    url: /extraction_ip.html
+    url: /ko_extraction_ip.html
 
   - title: Login
-    url: /extraction_login.html
+    url: /ko_extraction_login.html
 
   - title: URL
-    url: /extraction_url.html
+    url: /ko_extraction_url.html
 
   folders:
 - title: 보고서
   folderitems:
 
   - title: 메인
-    url: /report_main.html
+    url: /ko_report_main.html
 
   - title: 마이터어택 분석
-    url: /report_m_analy.html
+    url: /ko_report_m_analy.html
 
   - title: 상관분석
-    url: /report_c_analy.html
+    url: /ko_report_c_analy.html
 
   - title: 데이터유출 분석
-    url: /report_d_breach_analy.html
+    url: /ko_report_d_breach_analy.html
 
   - title: 계정탈취 분석
-    url: /report_a_takeover.analy.html
+    url: /ko_report_a_takeover.analy.html
 
   - title: 시스템 분석
-    url: /report_sys_analy.html
+    url: /ko_report_sys_analy.html
 
   - title: 응용프로그램 분석
-    url: /report_app_analy.html
+    url: /ko_report_app_analy.html
 
   - title: 웹 분석
-    url: /report_web_analy.html
+    url: /ko_report_web_analy.html
 
   - title: 네트워크 분석
-    url: /report_network_analy.html
+    url: /ko_report_network_analy.html
 
   folders:
 - title: 통계
   folderitems:
 
   - title: IP주소
-    url: /statistics_ip.html
+    url: /ko_statistics_ip.html
 
   - title: Login
-    url: /statistics_login.html
+    url: /ko_statistics_login.html
 
   - title: 업로드용량
-    url: /statistics_up_volume.html
+    url: /ko_statistics_up_volume.html
 
   - title: 워드클라우드
-    url: /statistics_w_cloud.html
+    url: /ko_statistics_w_cloud.html
 
   - title: 히트맵
-    url: /statistics_h_map.html
+    url: /ko_statistics_h_map.html
 
   - title: 박스플롯
-    url: /statistics_box_p.html
+    url: /ko_statistics_box_p.html
 
   folders:
 - title: 검색기능
   folderitems:
 
   - title: 검색기능
-    url: /search_fun.html
+    url: /ko_search_fun.html
 
   folders:
 - title: 관리
   folderitems:
 
   - title: 서비스
-    url: /manage_service.html
+    url: /ko_manage_service.html
 
   - title: 멤버
-    url: /manage_member.html
+    url: /ko_manage_member.html
 
   - title: 보안
-    url: /manage_security.html
+    url: /ko_manage_security.html
 
   - title: 목록
-    url: /manage_list.html
+    url: /ko_manage_list.html
 
   - title: 연동
-    url: /manage_peristalsis.html
+    url: /ko_manage_peristalsis.html
 
   - title: 사용
-    url: /manage_use.html
+    url: /ko_manage_use.html
 
   - title: 시스템
-    url: /manage_system.html
+    url: /ko_manage_system.html
 
   - title: 그룹알림
-    url: /manage_group.html
+    url: /ko_manage_group.html
 
   - title: 사용로그
-    url: /manage_usage_log.html
+    url: /ko_manage_usage_log.html
 
   folders:
 - title: 개인화
   folderitems: 
   
   - title: 개인알림
-    url: /personal.html
+    url: /ko_personal.html
 
   - title: 나의 정보
-    url: /my.html
+    url: /ko_my.html
 
   - title: 테마 설정
-    url: /theme.html
+    url: /ko_theme.html
 
   folders:
 - title: TOOL
   folderitems: 
 
   - title: 디코딩/인코딩
-    url: /tool_d_i_coding.html
+    url: /ko_tool_d_i_coding.html

@@ -21,13 +21,13 @@ navbar_dropdowns:
     - title: Function
       folderitems:
         - title: Common
-          url: manual_common.html
+          url: ko_manual_common.html
         - title: SIEM
-          url: manual_siem.html
+          url: ko_manual_siem.html
         - title: Forensic
-          url: manual_for.html
+          url: ko_manual_for.html
         - title: WAF
-          url: manual_waf.html
+          url: ko_manual_waf.html
 
     - title: FAQ
       folderitems:
