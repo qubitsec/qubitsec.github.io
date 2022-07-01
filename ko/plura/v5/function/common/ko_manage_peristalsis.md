@@ -45,12 +45,12 @@ topnav: topnav
 
 ## 4. Syslog 연동 설정
 
-a. 대표/그룹별 선택 가능
+4-1. 대표/그룹별 선택 가능
 - 대표 또는 서비스 그룹별로 구분하여 Syslog 알림을 받을 수 있습니다.
 
 <br />
 
-b. 알림 상세 선택   
+4-2. 알림 상세 선택   
  [![image](/docs/images/Manual/common/manage/peristalsis/7.png)](/docs/images/Manual/common/manage/peristalsis/7.png){: target="_blank"}
 
 - 추가, 삭제 버튼을 이용하여 syslog 알림을 받을 서버 편집을 할 수 있습니다.
@@ -61,7 +61,7 @@ b. 알림 상세 선택
 
 <br />
 
-c. syslog 알림을 받고자 하는 서버의 환경 정보 입력
+4-3. syslog 알림을 받고자 하는 서버의 환경 정보 입력
 - 프로토콜, Syslog 포맷 형식, 서버 IP 주소, 포트번호, 개행타입을 입력합니다.
 - 예시_Syslog 설정
 

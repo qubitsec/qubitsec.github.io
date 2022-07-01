@@ -16,36 +16,36 @@ topnav: topnav
 - 각각의 Summary 숫자를 클릭하는 경우, 해당 정보로 필터된 정보가 노출됩니다.   
 [![image](/docs/images/Manual/forensic/system/1.png){: width="800" }](/docs/images/Manual/forensic/system/1.png){: target="_blank"}
 
+<br />
+
 - Syslog Collector에서 노출되는 정보의 의미는 아래와 같습니다.      
 [![image](/docs/images/Manual/forensic/system/2.png)](/docs/images/Manual/forensic/system/2.png){: target="_blank"}   
 
       P : Parent(부모), C : Child(자식)
 
 <br />
+
 - PLURA V5 Syslog Collector(부모) 의 역할   
 자식(네트워크 장비 또는 다른 시스템)시스템의 syslog 를 취합   
-취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
+취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송   
 
-<br />
 - PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
       CentOS/RHEL 6, 7, 8
       AWS AMI 2018
       AWS Linux AMI 2
-      Ubuntu 16, 18, 20
-
-<br />
-
-     제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
-     PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
-     제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.
-     해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
+      Ubuntu 16, 18, 20   
+      
+      제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.   
+      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.   
+      제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.   
+      해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
 <br />
 
 PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참고해주세요.
 
-- Install Guide > SIEM > PLURA V5 Syslog Collector Srv  : [http://blog.plura.io/?p=7186](http://blog.plura.io/?p=7186){:target="_blank"}
+- Install Agents > SIEM > PLC > System : [https://qubitsec.github.io/ko_logcol_system.html](https://qubitsec.github.io/ko_logcol_system.html){:target="_blank"}
 
 <br />
 ## 2. 최신순/ 오래된순 선택

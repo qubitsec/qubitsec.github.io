@@ -30,7 +30,7 @@ topnav: topnav
 <br />
 PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참고해주세요.
 
-- Install Guide > SIEM > PLURA V5 Syslog Collector Srv  : [http://blog.plura.io/?p=7186](http://blog.plura.io/?p=7186){:target="_blank"}
+- Install Agents > SIEM > PLC > System : [https://qubitsec.github.io/ko_logcol_system.html](https://qubitsec.github.io/ko_logcol_system.html){:target="_blank"}
 
 <br />
 ## 2. 시스템 정보
