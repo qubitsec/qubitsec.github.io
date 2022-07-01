@@ -94,6 +94,8 @@ topnav: topnav
 
 [응용프로그램 로그 수집 – PLURA’S BLOG](https://qubitsec.github.io/ko_rsys_log.html){: target="_blank"}
 
+<br />
+
 외부 참고 사이트
 
 [https://www.rsyslog.com/doc/v5-stable/configuration/modules/imfile.html](https://www.rsyslog.com/doc/v5-stable/configuration/modules/imfile.html){: target="_blank"}

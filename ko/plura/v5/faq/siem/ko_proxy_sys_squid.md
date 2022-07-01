@@ -70,7 +70,7 @@ squid access 로그 파일에 권한 부여하기
 
 [https://gist.github.com/kosho/82546a86140ad67c866e8197d730c53c](https://gist.github.com/kosho/82546a86140ad67c866e8197d730c53c){: target="_blank"}
 
- 
+ <br />
 
 참고사이트 XFF
 

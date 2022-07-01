@@ -111,7 +111,7 @@ MIME 타입은 개별 타입과 멀티파트 타입으로 구분됩니다.
 
 <br />
 
-**▣ 참조 사이트**
+참고 사이트
 
  1. Content-Type : MIME 타입 검사 [https://mzl.la/327am7k](https://mzl.la/327am7k){: target="_blank"}
 
