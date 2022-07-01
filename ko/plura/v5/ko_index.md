@@ -1,5 +1,5 @@
 ---
-permalink: ko_index.html
+permalink: index.html
 # sidebar: generic
 topnav: topnav
 ---
