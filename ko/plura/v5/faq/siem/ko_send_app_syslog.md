@@ -72,7 +72,7 @@ topnav: topnav
 
 <br />
 
-### 2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/p_agent_lin_srv.html){: target="_blank"}
+### 2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/ko_p_agent_lin_srv.html){: target="_blank"}
 
 <br />
 
@@ -92,7 +92,7 @@ topnav: topnav
 
 내부 블로그
 
-[응용프로그램 로그 수집 – PLURA’S BLOG](https://qubitsec.github.io/rsys_log.html){: target="_blank"}
+[응용프로그램 로그 수집 – PLURA’S BLOG](https://qubitsec.github.io/ko_rsys_log.html){: target="_blank"}
 
 외부 참고 사이트
 

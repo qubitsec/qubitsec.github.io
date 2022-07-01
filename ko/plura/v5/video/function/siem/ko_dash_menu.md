@@ -13,4 +13,4 @@ topnav: topnav
 
 대시보드
 
-[https://qubitsec.github.io/dash_board.html](https://qubitsec.github.io/dash_board.html){:target="_blank"}
+[https://qubitsec.github.io/ko_dash_board.html](https://qubitsec.github.io/ko_dash_board.html){:target="_blank"}

@@ -34,4 +34,4 @@ topnav: topnav
 
 Install Agents > SIEM > PLC > Web
 
-[https://qubitsec.github.io/logcol_web.html](https://qubitsec.github.io/logcol_web.html){:target="_blank"}
+[https://qubitsec.github.io/ko_logcol_web.html](https://qubitsec.github.io/ko_logcol_web.html){:target="_blank"}

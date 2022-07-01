@@ -43,4 +43,4 @@ topnav: topnav
 
  PLURA V5 의 데이터유출 탐지 예외 사항과 해결책
 
-[데이터유출 탐지 예외 사항과 해결책](https://qubitsec.github.io/data_exfiltration_solution.html){: target="_blank"}
+[데이터유출 탐지 예외 사항과 해결책](https://qubitsec.github.io/ko_data_exfiltration_solution.html){: target="_blank"}

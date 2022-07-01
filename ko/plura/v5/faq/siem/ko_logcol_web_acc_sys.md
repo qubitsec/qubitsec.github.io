@@ -42,7 +42,9 @@ topnav: topnav
 
 
  <font color='dodgerblue'> PLURA V5 웹 로깅 경로 /var/log/plura/weblog.log </font>
-
+ 
+ <br />
+ 
  <font color='red'> 주의: PLURA V5 웹로그 수집 OFF </font>
 
 <br />
@@ -67,7 +69,7 @@ topnav: topnav
 
 <br />
 
-**2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/p_agent_lin_srv.html){: target="_blank"}**
+**2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/ko_p_agent_lin_srv.html){: target="_blank"}**
 
 <br />
 

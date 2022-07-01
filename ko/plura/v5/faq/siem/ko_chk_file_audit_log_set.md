@@ -126,12 +126,12 @@ PLURA V5 우측 상단의 Install Agents 페이지 상단 메뉴에서 OS별 선
 ## 5. PLURA V5 웹에서 Audit 필터 등록
 
 PLURA V5 웹에서 Audit 필터를 등록합니다.   
-[(바로가기)](https://qubitsec.github.io/f_regi_audit.html){: target="_blank"}
+[(바로가기)](https://qubitsec.github.io/ko_f_regi_audit.html){: target="_blank"}
 
 <br />
 
 ## 6. PLURA V5 에서 Audit 필터 탐지 활용
-[(바로가기)](https://qubitsec.github.io/aix_hack_using_audit.html){: target="_blank"}
+[(바로가기)](https://qubitsec.github.io/ko_aix_hack_using_audit.html){: target="_blank"}
 
  
 

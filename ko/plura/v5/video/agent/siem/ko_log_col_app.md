@@ -34,4 +34,4 @@ topnav: topnav
 
 Install Agents > SIEM > PLC > Application
 
-[https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
+[https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}

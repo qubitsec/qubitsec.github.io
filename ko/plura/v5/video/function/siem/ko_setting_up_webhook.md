@@ -34,7 +34,7 @@ PLURA V5 탐지/대응 내역을 웹훅 시스템을 이용하여 받기
 
 Function > Common > 관리 > 그룹알림
 
-[https://qubitsec.github.io/manage_group.html](https://qubitsec.github.io/manage_group.html){:target="_blank"}
+[https://qubitsec.github.io/ko_manage_group.html](https://qubitsec.github.io/ko_manage_group.html){:target="_blank"}
 
 <br />
 

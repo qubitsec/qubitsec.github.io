@@ -13,4 +13,4 @@ topnav: topnav
 
 Function > Common > 관리 > 사용
 
-[https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}
+[https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){:target="_blank"}
