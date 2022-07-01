@@ -1,6 +1,6 @@
 ---
 title: AWS에서 타임존 설정
-permalink: timezone_aws.html
+permalink: ko_timezone_aws.html
 sidebar: PCSP
 topnav: topnav
 ---

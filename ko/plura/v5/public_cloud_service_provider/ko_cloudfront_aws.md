@@ -1,6 +1,6 @@
 ---
 title: WAF의 AWS CloudFront 환경 지원
-permalink: cloudfront_aws.html
+permalink: ko_cloudfront_aws.html
 sidebar: PCSP
 topnav: topnav
 ---

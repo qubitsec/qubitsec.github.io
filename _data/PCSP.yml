@@ -5,16 +5,16 @@ folders:
   folderitems:
 
   - title: Auto Scaling 설정
-    url: /scaling_setup_guide.html
+    url: /ko_scaling_setup_guide.html
 
   - title: 타임존 설정
-    url: /timezone_aws.html
+    url: /ko_timezone_aws.html
 
   - title: Router 53 DNS 할당
-    url: /route_53_dns.html
+    url: /ko_route_53_dns.html
   
   - title: EC2 Auto Scaling 환경 지원
-    url: /amazon_ec2_scaling.html
+    url: /ko_amazon_ec2_scaling.html
 
   - title: WAF의 CloudFront 환경 지원
-    url: /cloudfront_aws.html
+    url: /ko_cloudfront_aws.html

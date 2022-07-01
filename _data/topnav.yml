@@ -41,7 +41,7 @@ navbar_dropdowns:
     - title: Public Cloud 
       folderitems:
         - title: Public Cloud 
-          url: pc_sp.html
+          url: ko_pc_sp.html
     
     - title: Video
       folderitems:
