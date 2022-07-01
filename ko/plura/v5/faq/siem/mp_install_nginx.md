@@ -55,7 +55,7 @@ topnav: topnav
 
 ## 3. 사용자 정의 설치
 
-⭐주의 !!! server {} 블럭에 access_log 지시어가 있는 경우, 상위 블록인 http {} 블럭의 access_log
+⭐주의 : server {} 블럭에 access_log 지시어가 있는 경우, 상위 블록인 http {} 블럭의 access_log
 지시어가 무시됩니다. 따라서 아래와 같이, 수동으로 access_log 지시어 라인을 추가해야 합니다.
 
      server {
@@ -78,6 +78,6 @@ topnav: topnav
 <br />
 
 ## 5. 권한 이슈
-⭐주의 !!! PLURA 웹로그 생성 디렉토리의 owner를 nginx worker process 의 owner로 변경합니다.
+⭐주의 : PLURA 웹로그 생성 디렉토리의 owner를 nginx worker process 의 owner로 변경합니다.
 
 `# chown nginx /var/log/plura`

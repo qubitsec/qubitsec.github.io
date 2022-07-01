@@ -15,7 +15,7 @@ topnav: topnav
 
 <br />
 
-### 2-1. /etc/hosts 파일의 접근하여 위변조를 시도하는 경우,
+### 2-1. /etc/hosts 파일의 접근하여 위변조를 시도하는 경우
 
 [![image](/docs/images/Additianal/aix/1.png){: width="800" }](/docs/images/Additianal/aix/1.png){: target="_blank"}
 
@@ -33,7 +33,7 @@ topnav: topnav
 
 <br />
 
-### 3-1. /www/html/index.html 파일의 접근하여 위변조를 시도하는 경우,
+### 3-1. /www/html/index.html 파일의 접근하여 위변조를 시도하는 경우
 
 [![image](/docs/images/Additianal/aix/3.png){: width="800" }](/docs/images/Additianal/aix/3.png){: target="_blank"}
 

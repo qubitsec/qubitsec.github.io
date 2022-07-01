@@ -18,38 +18,39 @@ __동영상 챕터 요약__
 
 <br />
 
- **Powershell Command**
+## Powershell Command
 
 <br />
 
-**Powershell 버전 확인 :**
+### Powershell 버전 확인
 
-`$ PSVersionTable.PSVersion.Major`
+`$PSVersionTable.PSVersion.Major`
 
 <br />
 
-**Windows OS 버전 확인 :**
+### Windows OS 버전 확인
 
 `Get-WmiObject Win32_OperatingSystem | Select -Property Name`
 
 <br />
 
-**PowerShell 스크립트 블록 로깅 켜기 “사용” (관리자 권한으로 실행) :**
+### PowerShell 스크립트 블록 로깅 켜기 “사용” (관리자 권한으로 실행)
 
 `reg add “HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging” /v “EnableScriptBlockLogging” /t REG_DWORD /d 1 /f`
 
 <br />
 
-**PowerShell 스크립트 블록 로깅 켜기 “사용안함” (관리자 권한으로 실행) :**
+### PowerShell 스크립트 블록 로깅 켜기 “사용안함” (관리자 권한으로 실행)
 
 `reg delete “HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell” /f`
 
 <br />
 
-**PowerShell 스크립트 블록 로깅 켜기 “설정 적용확인” (관리자 권한으로 실행) :**
+### PowerShell 스크립트 블록 로깅 켜기 “설정 적용확인” (관리자 권한으로 실행)
 
 `reg query “HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging” /v “EnableScriptBlockLogging”`
 
+<br />
 
 WMF 5.1 설치 및 구성 다운로드 링크
 

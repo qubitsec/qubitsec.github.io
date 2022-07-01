@@ -68,7 +68,7 @@ topnav: topnav
 
 ## 2. 서버
 
- 환경: CentOS 7, Rsyslog 8.2010.0
+ 환경 : CentOS 7, Rsyslog 8.2010.0
 
 <br />
 
@@ -93,8 +93,6 @@ topnav: topnav
 내부 블로그
 
 [응용프로그램 로그 수집 – PLURA’S BLOG](https://qubitsec.github.io/rsys_log.html){: target="_blank"}
-
- 
 
 외부 참고 사이트
 

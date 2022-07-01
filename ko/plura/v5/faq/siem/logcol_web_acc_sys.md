@@ -63,7 +63,7 @@ topnav: topnav
 
 ## 2. 서버 Log Collector
 
- 환경: CentOS 7, Rsyslog 8.2010.0
+ 환경 : CentOS 7, Rsyslog 8.2010.0
 
 <br />
 

@@ -14,12 +14,8 @@ topnav: topnav
      → apache 실행파일 경로/ 명령 파라미터 확인 (=readlink /proc/$(pid)/exe)
      apache process owner 확인
 
-<br />
-
 `httpd|apache2 -V`
      → apache 설정파일 경로 확인
-
-<br />
 
 `httpd|apache2 -v`
      → apache 버전 확인
@@ -44,14 +40,14 @@ topnav: topnav
 
 ### 1-3. 설정 파일 확인
 
-□ 표준 설치 = /etc/httpd/conf.d/
+표준 설치 = /etc/httpd/conf.d/
 
      /etc/httpd/conf/httpd.conf
      IncludeOptional conf.d/*.conf
 
 <br />
 
-□ 사용자 정의 설치 = /usr/local/apache2/conf/extra/
+사용자 정의 설치 = /usr/local/apache2/conf/extra/
 
      /usr/local/apache2/conf/httpd.conf
      Include conf/extra/plura.conf
@@ -75,7 +71,7 @@ topnav: topnav
 
 <br />
 
-□ 참고!!! plura.conf 파일의 내용
+plura.conf 파일의 내용
 
      LoadModule mod_plura_module modules/mod_plura_module.so
      mp_log /var/log/plura/weblog.log
@@ -112,7 +108,7 @@ topnav: topnav
 
 ## 6. 권한 이슈
 
-⭐주의 !!! PLURA 웹로그 생성 디렉토리의 owner를 apache worker process 의 owner로 변경합니다.
+⭐주의 : PLURA 웹로그 생성 디렉토리의 owner를 apache worker process 의 owner로 변경합니다.
 
 `# chown apache /var/log/plura`
 
