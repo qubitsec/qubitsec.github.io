@@ -50,7 +50,7 @@ topnav: topnav
  
  메뉴 위치: 좌측 상단 > 관리 > 멤버 > 멤버 추가
 
-[https://qubitsec.github.io/manage_member.html](https://qubitsec.github.io/manage_member.html){: target="_blank"}
+[https://qubitsec.github.io/ko_manage_member.html](https://qubitsec.github.io/ko_manage_member.html){: target="_blank"}
 
 <br />
 
@@ -59,7 +59,7 @@ topnav: topnav
 ### 2-1. 로그인 後 에이전트 설치 “Install Agents”
 
 - 에이전트 설치 영상을 참고하여 에이전트 설치 – 윈도우 서버에 에이전트 설치
-[https://qubitsec.github.io/p_agent_win_srv.html](https://qubitsec.github.io/p_agent_win_srv.html){: target="_blank"}
+[https://qubitsec.github.io/ko_p_agent_win_srv.html](https://qubitsec.github.io/ko_p_agent_win_srv.html){: target="_blank"}
 
 <br />
 
@@ -75,7 +75,7 @@ Install Agents 에서 시스템 환경에 맞는 문서를 찾기 어렵다면 �
 - 대상 서버의 접속정보 (root 권한 필요)   
 - 대상 서버의 OS 버전, 웹서버 App, 웹서비스 포트 정보 (예 : CentOS 7 / Apache 2.4 / TCP 80)
 - Windows 의 경우 Sysmon 을 설치하시면 보다 상세한 로그를 확인할 수 있으니 설치를 권장   
-Sysmon 설치 가이드 : [https://qubitsec.github.io/sysmon.html](https://qubitsec.github.io/sysmon.html){: target="_blank"}
+Sysmon 설치 가이드 : [https://qubitsec.github.io/ko_sysmon.html](https://qubitsec.github.io/ko_sysmon.html){: target="_blank"}
 
 <br />
  

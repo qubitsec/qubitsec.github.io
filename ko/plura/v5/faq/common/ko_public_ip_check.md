@@ -49,5 +49,5 @@ topnav: topnav
 
 <br />
 
-PLURA V5가 제공하는 더 많은 보안 시스템 알아보기 : [보안](https://qubitsec.github.io/manage_security.html){:target="_blank"}
+PLURA V5가 제공하는 더 많은 보안 시스템 알아보기 : [보안](https://qubitsec.github.io/ko_manage_security.html){:target="_blank"}
 
