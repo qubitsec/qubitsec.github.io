@@ -34,4 +34,4 @@ mysql error 로그 위치 확인
 [![image](/docs/images/Ins_G/Mysql(cent)log/1.png){: width="800" }](/docs/images/Ins_G/Mysql(cent)log/1.png){:target="_blank"}
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.   
-[Syslog 필터등록 바로가기](https://qubitsec.github.io/f_regi_syslog.html){:target="_blank"}
+[Syslog 필터등록 바로가기](https://qubitsec.github.io/ko_f_regi_syslog.html){:target="_blank"}

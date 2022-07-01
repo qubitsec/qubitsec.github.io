@@ -20,7 +20,7 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 응용프로그램 로그 업로드 설정하기[1]
 
-[http://blog.plura.io/?p=17653](http://blog.plura.io/?p=17653){:target="_blank"}
+[https://qubitsec.github.io/ko_set_app_log_up.html](https://qubitsec.github.io/ko_set_app_log_up.html){:target="_blank"}
 
 <br />
 
@@ -74,7 +74,7 @@ Logstash를 사용하면 시스템 로그, 웹 사이트 로그, 애플리케이
 
 - 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
 
-[Install Guide > SIEM > Log Collector > Application[3] : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
+[Install Guide > SIEM > Log Collector > Application[3] : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
 
 <br />
 
@@ -127,10 +127,10 @@ Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 �
 <br />
 
 ## 4. 참고 사이트
-[1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/set_app_log_up.html](https://qubitsec.github.io/set_app_log_up.html){:target="_blank"}
+[1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/ko_set_app_log_up.html](https://qubitsec.github.io/ko_set_app_log_up.html){:target="_blank"}
 
 [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
 
-[3] Install Guide > SIEM > Log Collector > Application : [https://qubitsec.github.io/logcol_application.html](https://qubitsec.github.io/logcol_application.html){:target="_blank"}
+[3] Install Guide > SIEM > Log Collector > Application : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
 
-[4] Manual > Common > 관리 > 사용 : [https://qubitsec.github.io/manage_use.html](https://qubitsec.github.io/manage_use.html){:target="_blank"}
+[4] Manual > Common > 관리 > 사용 : [https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){:target="_blank"}
