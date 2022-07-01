@@ -9,48 +9,48 @@ topnav: topnav
      사용자가 직접 원하는 웹방화벽 필터를 만들 수 있습니다.
 
 <br />
-▣ 사용자정의 필터등록 DEMO
+사용자정의 필터등록 DEMO
 
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/y9NnH2fjzEU' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
-## 1.웹방화벽 필터 등록
+웹방화벽 필터 등록
 
 [![image](/docs/images/Manual/waf/filter/1.png){: width="800" }](/docs/images/Manual/waf/filter/1.png){: target="_blank"}
  
 
 <br />
-### ▶ 필터 등록 방법
+## 1. 필터 등록 방법
 
 <br />
-1.PLURA V5 웹페이지 왼쪽 네비게이션 바 메뉴에 필터 > 등록필터를 클릭합니다.
+1-1. PLURA V5 웹페이지 왼쪽 네비게이션 바 메뉴에 필터 > 등록필터를 클릭합니다.
 
 [![image](/docs/images/Manual/waf/filter/2.png)](/docs/images/Manual/waf/filter/2.png){: target="_blank"}
 
 <br />
-2.등록필터 페이지(시스템/웹/웹방화벽)에서 필터등록 버튼을 클릭합니다.
+1-2. 등록필터 페이지(시스템/웹/웹방화벽)에서 필터등록 버튼을 클릭합니다.
 
 [![image](/docs/images/Manual/waf/filter/3.png){: width="800" }](/docs/images/Manual/waf/filter/3.png){: target="_blank"}
 
 <br />
-3.필터 분류를 선택합니다.
+1-3. 필터 분류를 선택합니다.
 
 [![image](/docs/images/Manual/waf/filter/4.png)](/docs/images/Manual/waf/filter/4.png){: target="_blank"}
 
 <br />
-4.그룹을 선택합니다.
+1-4. 그룹을 선택합니다.
 
 <br />
-5.필터명을 입력합니다.
+1-5. 필터명을 입력합니다.
 
 <br />
-6.필터설명을 입력합니다.
+1-6. 필터설명을 입력합니다.
 
 <br />
-7.유형(탐지/차단)을 선택합니다.
+1-7. 유형(탐지/차단)을 선택합니다.
 
 <br />
-8.동작을 설정합니다.
+1-8. 동작을 설정합니다.
 
 - 하단의 있는 정보입력 영역의 추가 버튼을 클릭하면 데이터 값을 입력하여 해당하는 값을 포함 또는 제외할 수 있습니다.
 
@@ -64,36 +64,34 @@ topnav: topnav
 
  
 <br />
-## 2.검색 기능
+## 2. 검색 기능
 - 찾고 싶은 필터명을 검색합니다.
 
 [![image](/docs/images/Manual/waf/filter/6.png)](/docs/images/Manual/waf/filter/6.png){: target="_blank"}
  
 <br />
-## 3.조건별로 필터 검색
+## 3. 조건별로 필터 검색
 분류, 위험도, 동작 옵션을 선택하여 원하는 필터를 볼 수 있습니다.
 
 - **필터분류별**
-
 [![image](/docs/images/Manual/waf/filter/7.png)](/docs/images/Manual/waf/filter/7.png){: target="_blank"}
 
- 
+<br /> 
 
 - **위험도별**
-
 [![image](/docs/images/Manual/waf/filter/8.png)](/docs/images/Manual/waf/filter/8.png){: target="_blank"}
  
+ <br />
 
 - **그룹별**
-
 [![image](/docs/images/Manual/waf/filter/9.png)](/docs/images/Manual/waf/filter/9.png){: target="_blank"}
  
+<br />
 
 - **동작**
-
 [![image](/docs/images/Manual/waf/filter/10.png)](/docs/images/Manual/waf/filter/10.png){: target="_blank"}
  
+<br /> 
 
 - **유형별**
-
 [![image](/docs/images/Manual/waf/filter/11.png)](/docs/images/Manual/waf/filter/11.png){: target="_blank"}

@@ -5,11 +5,7 @@ sidebar: M_SIEM
 topnav: topnav
 ---
 
-## PLURA V5 웹로그 사용 설정은 어떻게 하나요?
-
- 
-
-## 1.웹로그 사용 설정은 시스템 관리 페이지에서 할 수 있습니다.
+## 1. 웹로그 사용 설정은 시스템 관리 페이지에서 할 수 있습니다.
 
 시스템 > 시스템 관리에 들어갑니다.
 
@@ -21,7 +17,7 @@ topnav: topnav
 
  
 <br />
-## 2.Windows Agent 의 경우 IIS(웹로그) : 사용 시
+## 2. Windows Agent 의 경우 IIS(웹로그) : 사용 시
 
 위의 방법 외에 Agent UI 에서도 설정할 수 있습니다.
 
