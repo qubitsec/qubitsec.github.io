@@ -73,7 +73,7 @@ folders:
     - title: CentOS
       subfolderitems: 
 
-      - title: Apache httpd error 로그 수집
+      - title: Apache httpd error 로그
         url: /ko_apache_httpd_log.html
 
       - title: MySQL 로그
