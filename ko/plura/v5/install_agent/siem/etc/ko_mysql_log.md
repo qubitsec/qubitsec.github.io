@@ -1,6 +1,6 @@
 ---
 title: MySQL(CentOS) 로그
-permalink: mysql_log.html
+permalink: ko_mysql_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

@@ -1,6 +1,6 @@
 ---
 title: AIX Server
-permalink: p_sys_col_aix_srv.html
+permalink: ko_p_sys_col_aix_srv.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

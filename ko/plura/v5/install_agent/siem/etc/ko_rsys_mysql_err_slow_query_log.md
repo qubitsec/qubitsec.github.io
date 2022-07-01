@@ -1,6 +1,6 @@
 ---
 title: (PLC)MySQL Error & Slow-Query 로그
-permalink: rsys_mysql_err_slow_query_log.html
+permalink: ko_rsys_mysql_err_slow_query_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

@@ -1,6 +1,6 @@
 ---
 title: Network
-permalink: logcol_network.html
+permalink: ko_logcol_network.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

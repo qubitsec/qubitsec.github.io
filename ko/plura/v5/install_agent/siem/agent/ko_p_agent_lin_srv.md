@@ -1,6 +1,6 @@
 ---
 title: Linux Server
-permalink: p_agent_lin_srv.html
+permalink: ko_p_agent_lin_srv.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

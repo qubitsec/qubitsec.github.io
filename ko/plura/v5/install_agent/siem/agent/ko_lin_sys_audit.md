@@ -1,6 +1,6 @@
 ---
 title: Linux Syslog-Audit
-permalink: lin_sys_audit.html
+permalink: ko_lin_sys_audit.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

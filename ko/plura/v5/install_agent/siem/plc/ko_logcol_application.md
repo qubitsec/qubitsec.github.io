@@ -1,6 +1,6 @@
 ---
 title: Application
-permalink: logcol_application.html
+permalink: ko_logcol_application.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

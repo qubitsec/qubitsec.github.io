@@ -1,6 +1,6 @@
 ---
 title: (PLC)응용프로그램 로그
-permalink: rsys_log.html
+permalink: ko_rsys_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

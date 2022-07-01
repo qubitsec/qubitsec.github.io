@@ -14,9 +14,9 @@ navbar_dropdowns:
     - title: Install Agents
       folderitems:
         - title: SIEM
-          url: /Ins_siem.html
+          url: /ko_Ins_siem.html
         - title: Forensic
-          url: /Ins_for.html
+          url: /ko_Ins_for.html
 
     - title: Function
       folderitems:

@@ -1,6 +1,6 @@
 ---
 title: Linux Web Server-Datos
-permalink: p_lin_w_sd.html
+permalink: ko_p_lin_w_sd.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

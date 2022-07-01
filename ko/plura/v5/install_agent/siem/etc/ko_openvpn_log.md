@@ -1,6 +1,6 @@
 ---
 title: Openvpn 로그
-permalink: openvpn_log.html
+permalink: ko_openvpn_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

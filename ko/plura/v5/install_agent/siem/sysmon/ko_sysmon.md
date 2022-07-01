@@ -1,6 +1,6 @@
 ---
 title: Sysmon (Windows Sysinternals)
-permalink: sysmon.html
+permalink: ko_sysmon.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

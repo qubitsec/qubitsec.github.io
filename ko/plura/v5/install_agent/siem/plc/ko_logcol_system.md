@@ -1,6 +1,6 @@
 ---
 title: System
-permalink: logcol_system.html
+permalink: ko_logcol_system.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

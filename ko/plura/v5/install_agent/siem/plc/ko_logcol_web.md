@@ -1,6 +1,6 @@
 ---
 title: Web
-permalink: logcol_web.html
+permalink: ko_logcol_web.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

@@ -1,6 +1,6 @@
 ---
 title: Log-F Agent Srv 
-permalink: forensic.html
+permalink: ko_forensic.html
 sidebar: Install_A_F
 product: Install_A_F
 ---

@@ -1,6 +1,6 @@
 ---
 title: Apache httpd error 로그
-permalink: apache_httpd_log.html
+permalink: ko_apache_httpd_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

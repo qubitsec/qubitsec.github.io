@@ -1,6 +1,6 @@
 ---
-title: HP-UX Server
-permalink: p_sys_col_hp_ux_srv.html
+title: Solaris Server
+permalink: ko_p_sys_col_solar_srv.html
 sidebar: Install_A_S
 product: Install_A_S
 ---
@@ -13,22 +13,20 @@ product: Install_A_S
 
 페이지 상단 메뉴에서 OS별 선택
 
-  - Log Collector > System 탭
+ - Log Collector > System 탭
  
 <br />
 
-## 2. HP-UX Srv 에서 Syslog 전송 설정을 합니다.
+## 2. Solaris Srv 에서 Syslog 전송 설정을 합니다.
 
 `# vi /etc/syslog.conf`
 
      <예>
      *.info @로그취합 시스템 IP주소
 
-`# /sbin/init.d/syslogd stop`
-
-`# /sbin/init.d/syslogd start`
-
 <br />
+
+`# svcadm restart system-log`
 
      @ 하나는 UDP로 통신
      @@ 두개는 TCP로 통신
@@ -37,6 +35,6 @@ product: Install_A_S
 <br />
 
 ## 3. www.plura.io 웹에서 시스템 등록을 합니다.
- - **시스템 > 시스템 관리 > 취합 시스템 선택 > 시스템 등록**
+- **시스템 > 시스템 관리 > 취합 시스템 선택 > 시스템 등록**
 
- [![image](/docs/images/Ins_G/P_Sys_Collector_HP-UX_Srv/HP_UX.png)](/docs/images/Ins_G/P_Sys_Collector_HP-UX_Srv/HP_UX.png){:target="_blank"}
+[![image](/docs/images/Ins_G/Solaris/Solaris_Srv.png)](/docs/images/Ins_G/Solaris/Solaris_Srv.png){:target="_blank"}

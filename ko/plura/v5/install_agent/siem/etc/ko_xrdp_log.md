@@ -1,6 +1,6 @@
 ---
 title: xrdp 로그
-permalink: xrdp_log.html
+permalink: ko_xrdp_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---

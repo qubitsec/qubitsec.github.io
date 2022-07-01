@@ -1,15 +1,14 @@
 ---
-title: PostgreSQL(CentOS) 로그
-permalink: postgresql_cent_log.html
+title: PostgreSQL(Ununtu) 로그
+permalink: ko_postgresql_ubuntu_log.html
 sidebar: Install_A_S
 product: Install_A_S
 ---
 
-
 ## 1. postgresql.conf 수정
 
-    > 사전 Syslog 설치 필요
-    > Config 위치 확인
+     > 사전 Syslog 설치 필요
+     > Config 위치 확인
 
      [config 경로 예시] /var/lib/pgsql/9.6/data/postgresql.conf
      [수정 예시] # ERROR REPORTING AND LOGGING 하단에서 수정
@@ -26,24 +25,15 @@ product: Install_A_S
 
 ## 2. PostgreSQL 및 Syslog 재시작
 
-버전에 따라 서비스명이 다르므로 버전 확인
+`# systemctl restart postgresql`
 
-`# psql –version`
-
-     [버전 출력 예시] psql (PostgreSQL) 9.6.15
-     [서비스명 확인 경로 예시] /etc/systemd/system/multi-user.target.wants/postgresql-9.6.service
-     [위의 예시로 확인된 버전에 따른 재시작 예시] service postgresql-9.6 restart
-     
-`# service rsyslog restart`
+`# systemctl restart rsyslog`
 
 <br />
 
 ## 3. PLURA V5에서 확인
 
-로그 샘플 예)
-
-[![image](/docs/images/Ins_G/Postgresql_c/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_c/1.png){:target="_blank"}
-<br />
+[![image](/docs/images/Ins_G/Postgresql_u/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_u/1.png){:target="_blank"}
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.   
 [(Syslog 필터등록 바로가기)](https://qubitsec.github.io/f_regi_syslog.html){:target="_blank"}

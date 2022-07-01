@@ -1,6 +1,6 @@
 ---
 title: Custom
-permalink: logcol_custom_appl.html
+permalink: ko_logcol_custom_appl.html
 sidebar: Install_A_S
 product: Install_A_S
 ---
