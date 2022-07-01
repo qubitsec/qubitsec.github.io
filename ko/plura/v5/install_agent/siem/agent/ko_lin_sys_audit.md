@@ -1,0 +1,62 @@
+---
+title: Linux Syslog-Audit
+permalink: ko_lin_sys_audit.html
+sidebar: Install_A_S
+product: Install_A_S
+---
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8WYGIsW08yY' frameborder='0' allowfullscreen></iframe></div>
+
+## 1. Syslog Audit 활성화(아래 1, 2번 중 선택 사용)
+
+<br />
+
+### 1-1. Audit Log 패키지 개별 설치를 진행합니다.
+
+<br />
+
+▶ CentOS, Red Hat, Amazon Linux
+
+`# yum -y install audit audisp-plugins`
+
+<br />
+
+▶ Ubuntu
+
+`# apt -y update`
+
+`# apt -y install auditd audispd-plugins`
+
+<br />
+
+※ 사용자 환경에 따라 아래 패키지를 설치해주세요.
+
+<br />
+
+▶ CentOS, Red Hat, Amazon Linux
+
+`# yum -y install cronie logrotate rsyslog`
+
+<br />
+
+▶ Ubuntu
+
+`# apt -y update`
+
+`# apt -y install cron logrotate rsyslog`
+
+<br />
+
+### 1-2. Syslog+Audit 로그 패키지 통합 설치를 진행합니다.
+
+※ PLURA V5 Agent 사전 설치 필요
+
+`# /etc/plura/plura.sh install_syslog`
+
+<br />
+
+## 2. 활성화 한 Audit로그는 PLURA V5 웹 페이지에서 확인하실 수 있습니다.
+
+필터탐지 > 시스템
+
+전체로그 > 시스템

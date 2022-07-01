@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-**소프트웨어 페이지**
+## 1. 소프트웨어 페이지
 
 - 소프트웨어 리스트를 제공합니다.
 
@@ -15,5 +15,8 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/mitre/sw/1.png){: width="800" }](/docs/images/Manual/common/mitre/sw/1.png){: target="_blank"}
 
-▣ 참고사이트
+<br />
+
+참고사이트
+
 MITRE ATT&CK 공식 사이트 > 소프트웨어 [https://attack.mitre.org/software/](https://attack.mitre.org/software/){: target="_blank"}

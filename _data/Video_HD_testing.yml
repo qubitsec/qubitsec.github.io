@@ -5,37 +5,37 @@ folders:
   folderitems:
 
   - title: Log4Shell
-    url: /log4shell.html
+    url: /ko_log4shell.html
 
   - title: Wannacry Ransomware
-    url: /wannacry_ransomware.html
+    url: /ko_wannacry_ransomware.html
 
   folders:
 - title: WEB
   folderitems:
 
   - title: WebShell
-    url: /webshell.html
+    url: /ko_webshell.html
 
   - title: XSL Script Processing [T1220]
-    url: /xsl_script_processing.html
+    url: /ko_xsl_script_processing.html
 
   - title: XSS
-    url: /xss.html
+    url: /ko_xss.html
 
   folders:
 - title: 계정탈취
   folderitems:
 
   - title: Credential Stuffing
-    url: /credential_stuffing.html
+    url: /ko_credential_stuffing.html
 
   folders:
 - title: 데이터유출
   folderitems:
 
   - title: SQL 인젝션
-    url: /data_breach_detection.html
+    url: /ko_data_breach_detection.html
 
 # folders:
 # - title: SIEM

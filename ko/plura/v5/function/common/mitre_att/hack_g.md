@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-**해킹그룹 페이지**
+## 1. 해킹그룹 페이지
 
 - 해킹그룹 리스트를 제공합니다.
 
@@ -15,5 +15,8 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/mitre/hack_g/1.png){: width="800" }](/docs/images/Manual/common/mitre/hack_g/1.png){: target="_blank"}
 
-▣ 참고사이트
+<br />
+
+참고사이트
+
 MITRE ATT&CK 공식 사이트> 해킹그룹 [https://attack.mitre.org/groups/](https://attack.mitre.org/groups/){: target="_blank"}

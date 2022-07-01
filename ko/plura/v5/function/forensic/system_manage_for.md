@@ -7,6 +7,7 @@ topnav: topnav
 
      PLURA V5 서비스를 설치하면 시스템 관리 페이지에 시스템의 상세 정보가 남게 되며, 그룹 생성 및 시스템의 상태를 변경할 수 있습니다.
 
+<br />
 
 ## 1. 시스템 Summary
 
@@ -21,10 +22,9 @@ topnav: topnav
       P : Parent(부모), C : Child(자식)
 
 <br />
-- PLURA V5 Syslog Collector(부모) 의 역할
-
-      자식(네트워크 장비 또는 다른 시스템)시스템의 syslog 를 취합
-      취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
+- PLURA V5 Syslog Collector(부모) 의 역할   
+자식(네트워크 장비 또는 다른 시스템)시스템의 syslog 를 취합   
+취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 - PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
@@ -35,11 +35,10 @@ topnav: topnav
       Ubuntu 16, 18, 20
 
 <br />
+
      제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
-
      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
-
-     제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다. 
+     제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.
      해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
 <br />

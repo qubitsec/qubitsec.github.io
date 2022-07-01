@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-PLURA V5의 보안필터 중 홈페이지 위변조는 등록된 홈페이지 파일명이나 파일의 내용이 변경되는 것을 탐지하는 필터입니다.
+     보안필터 중 홈페이지 위변조는 등록된 홈페이지 파일명이나 파일의 내용이 변경되는 것을 탐지하는 필터입니다.
 
 <br />
 [![image](/docs/images/Manual/common/filter2/security/forgery/1.png){: width="800" }](/docs/images/Manual/common/filter2/security/forgery/1.png){: target="_blank"}
