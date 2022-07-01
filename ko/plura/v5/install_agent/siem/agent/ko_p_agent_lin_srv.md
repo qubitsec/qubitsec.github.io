@@ -42,13 +42,13 @@ Version: x.x.x
 
 __PLURA V5 Agent Linux Srv 설치 영상__
 
-– Linux Syslog 설치 영상 : [https://qubitsec.github.io/lin_sys.html](https://qubitsec.github.io/lin_sys.html){:target="_blank"}
+– Linux Syslog 설치 영상 : [https://qubitsec.github.io/ko_lin_sys.html](https://qubitsec.github.io/ko_lin_sys.html){:target="_blank"}
 
-– Linux Syslog-Audit 설치 영상 : [https://qubitsec.github.io/linu_sys_audit.html](https://qubitsec.github.io/linu_sys_audit.html){:target="_blank"}
+– Linux Syslog-Audit 설치 영상 : [https://qubitsec.github.io/ko_linu_sys_audit.html](https://qubitsec.github.io/ko_linu_sys_audit.html){:target="_blank"}
 
-– Linux Apache / Nginx 설치 영상 : [https://qubitsec.github.io/lin_apache_nginx.html](https://qubitsec.github.io/lin_apache_nginx.html){:target="_blank"}
+– Linux Apache / Nginx 설치 영상 : [https://qubitsec.github.io/ko_lin_apache_nginx.html](https://qubitsec.github.io/ko_lin_apache_nginx.html){:target="_blank"}
 
-– Linux Web Server – Datos 설치 영상 : [https://qubitsec.github.io/lin_web_server.html](https://qubitsec.github.io/lin_web_server.html){:target="_blank"}
+– Linux Web Server – Datos 설치 영상 : [https://qubitsec.github.io/ko_lin_web_server.html](https://qubitsec.github.io/ko_lin_web_server.html){:target="_blank"}
 
 <br />
 
