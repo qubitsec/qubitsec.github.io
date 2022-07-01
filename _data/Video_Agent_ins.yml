@@ -5,38 +5,38 @@ folders:
   folderitems:
 
   - title: Windows Event & IIS Log
-    url: /win_event_iis_log.html
+    url: /ko_win_event_iis_log.html
 
   - title: Windows Sysmon Log (sysinternals)
-    url: /win_sysmon_log.html
+    url: /ko_win_sysmon_log.html
 
   - title: Linux Syslog
-    url: /lin_sys.html
+    url: /ko_lin_sys.html
 
   - title: Linux Syslog-Audit
-    url: /linu_sys_audit.html
+    url: /ko_linu_sys_audit.html
 
   - title: Linux Apache | Nginx
-    url: /lin_apache_nginx.html
+    url: /ko_lin_apache_nginx.html
 
   - title: Linux Web Server - Datos
-    url: /lin_web_server.html
+    url: /ko_lin_web_server.html
 
   - title: Log Collector - System
-    url: /log_col_system.html
+    url: /ko_log_col_system.html
 
   - title: Log Collector - Application
-    url: /log_col_app.html
+    url: /ko_log_col_app.html
 
   - title: Log Collector - Web
-    url: /log_col_web.html
+    url: /ko_log_col_web.html
 
   - title: Log Collector - Network
-    url: /log_col_network.html
+    url: /ko_log_col_network.html
 
   folders:
 - title: Forensic
   folderitems:
 
   - title: Forensic
-    url: /agent_forensic.html
+    url: /ko_agent_forensic.html

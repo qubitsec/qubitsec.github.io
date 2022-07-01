@@ -5,24 +5,24 @@ folders:
   folderitems:
 
   - title: 회사
-    url: /company.html
+    url: /ko_company.html
   
   folders:
 - title: 제품
   folderitems:
 
   - title: 제품
-    url: /product.html
+    url: /ko_product.html
 
   folders:
 - title: 방송/발표
   folderitems:
 
        - title: 한국경제TV'스타장외주식'출연
-         url: /kor_economic_tv.html
+         url: /ko_kor_economic_tv.html
 
        - title: 도전! K-스타트업 2016, KBS 1TV
-         url: /k_startup_2016.html
+         url: /ko_k_startup_2016.html
 
        - title: SparkLabs Demoday
-         url: /sparklabs_demoday.html
+         url: /ko_sparklabs_demoday.html

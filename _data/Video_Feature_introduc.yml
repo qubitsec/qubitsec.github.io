@@ -5,47 +5,47 @@ folders:
   folderitems:
 
   - title: 대시보드/메뉴 활용하기
-    url: /dash_menu.html
+    url: /ko_dash_menu.html
 
   - title: 사용자정의 필터등록
-    url: /filter_registration.html
+    url: /ko_filter_registration.html
 
   - title: 관리
-    url: /management.html
+    url: /ko_management.html
 
   - title: 재전송 공격
-    url: /re_send_attack.html
+    url: /ko_re_send_attack.html
 
   - title: MITRE ATT&CK 
-    url: /mitre_attack_demo.html
+    url: /ko_mitre_attack_demo.html
 
   - title: 보안 
-    url: /security.html
+    url: /ko_security.html
 
   - title: 계정탈취 필터등록 
-    url: /account_takeover_fil_reg.html
+    url: /ko_account_takeover_fil_reg.html
 
   - title: 계정탈취 메뉴활용 
-    url: /account_takeover_menu.html
+    url: /ko_account_takeover_menu.html
 
   - title: 그룹알림(Syslog) 설정하기 
-    url: /setting_up_syslog.html
+    url: /ko_setting_up_syslog.html
 
   - title: 그룹알림(웹훅) 설정하기 
-    url: /setting_up_webhook.html
+    url: /ko_setting_up_webhook.html
 
   - title: 개인알림 설정하기 
-    url: /setting_up_personal.html
+    url: /ko_setting_up_personal.html
 
   - title: 웹방화벽 차단 설정 
-    url: /web_firewall_blocking_set.html
+    url: /ko_web_firewall_blocking_set.html
 
   - title: 업로드설정 
-    url: /upload_setting.html
+    url: /ko_upload_setting.html
 
   folders:
 - title: Forensic
   folderitems:
 
   - title: Forensic
-    url: /function_forensic.html
+    url: /ko_function_forensic.html

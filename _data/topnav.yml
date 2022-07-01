@@ -46,25 +46,25 @@ navbar_dropdowns:
     - title: Video
       folderitems:
         - title: 회사&제품소개
-          url: video_company.html
+          url: ko_video_company.html
 
         # - title: 제품소개
         #   url: video_product.html
 
         - title: 기능소개
-          url: video_f_introduc.html
+          url: ko_video_f_introduc.html
 
         - title: 에이전트 설치
-          url: video_a_ins.html
+          url: ko_video_a_ins.html
 
         - title: 해킹탐지 시연
-          url: video_hd_t.html
+          url: ko_video_hd_t.html
 
         # - title: 방송/발표
         #   url: video_bc.html
 
         - title: 고객 사례
-          url: video_c.html
+          url: ko_video_c.html
 
 
     # - title: Other Resources
