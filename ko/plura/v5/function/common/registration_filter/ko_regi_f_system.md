@@ -19,22 +19,19 @@ topnav: topnav
 ▶ 필터 등록 방법
 
 ### 1.PLURA V5 웹페이지 왼쪽 네비게이션 바 메뉴에 필터 > 등록을 클릭합니다.
-
-<br />
 [![image](/docs/images/Manual/common/regi/system/2.png)](/docs/images/Manual/common/regi/system/2.png){: target="_blank"}
 
 <br />
 
 ### 2.등록필터 페이지(시스템, 응용프로그램, 웹, 네트워크)에서 등록 버튼을 클릭합니다.
-
-<br />
 [![image](/docs/images/Manual/common/regi/system/3.png)](/docs/images/Manual/common/regi/system/3.png){: target="_blank"}
 
 <br />
+
 ### 3.필터분류를 선택합니다.
+[![image](/docs/images/Manual/common/regi/system/4.png){: width="800" }](/docs/images/Manual/common/regi/system/4.png){: target="_blank"}
 
 <br />
-[![image](/docs/images/Manual/common/regi/system/4.png){: width="800" }](/docs/images/Manual/common/regi/system/4.png){: target="_blank"}
 
 ### 4.시스템 그룹을 선택합니다.
 
@@ -45,13 +42,11 @@ topnav: topnav
 <br />
 
 ### 6.채널을 선택합니다.
-
 [![image](/docs/images/Manual/common/regi/system/5.png){: width="800" }](/docs/images/Manual/common/regi/system/5.png){: target="_blank"}
 
 <br />
-### 7.이벤트 타입을 선택합니다.
 
-<br />
+### 7.이벤트 타입을 선택합니다.
 [![image](/docs/images/Manual/common/regi/system/6.png){: width="800" }](/docs/images/Manual/common/regi/system/6.png){: target="_blank"}
 
 <br />
@@ -69,8 +64,6 @@ topnav: topnav
 <br />
 
 ### 11.필터 동작시간(24시간/시간설정)을 설정합니다.
-
-<br />
 [![image](/docs/images/Manual/common/regi/system/7.png)](/docs/images/Manual/common/regi/system/7.png){: target="_blank"}
 
 

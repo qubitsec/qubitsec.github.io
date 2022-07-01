@@ -7,13 +7,15 @@ topnav: topnav
 
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NbaEKIuQqa0' frameborder='0' allowfullscreen></iframe></div>
 
+<br />
+
 관리 > 보안 설정 매뉴얼 영상입니다. 보안 DEMO : [https://qubitsec.github.io/ko_security.html](https://qubitsec.github.io/ko_security.html){: target="_blank"}
 
 
-- 보안 : 인증과 세션 시간 설정, 로그인허용IP주소, 2차 인증 PIN번호를 설정할 수 있습니다.
+<br />
 
-※ 관리자 계정에서만 노출되는 페이지입니다.(운영자는 보안탭 미노출)
-
+- 보안 : 인증과 세션 시간 설정, 로그인허용IP주소, 2차 인증 PIN번호를 설정할 수 있습니다.   
+- 관리자 계정에서만 노출되는 페이지입니다.(운영자는 보안탭 미노출)
  [![image](/docs/images/Manual/common/manage/security/1.png){: width="800" }](/docs/images/Manual/common/manage/security/1.png){: target="_blank"}
 
 <br />
@@ -33,7 +35,7 @@ topnav: topnav
 <br />
 - 로그인 허용 IP 주소 : PLURA V5 웹에 로그인하고자 하는 IP주소를 직접 추가할 수 있습니다.
 
- [![image](/docs/images/Manual/common/manage/security/4.png){: width="800" }](/docs/images/Manual/common/manage/security/4.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/security/4.png){: width="800" }](/docs/images/Manual/common/manage/security/4.png){: target="_blank"}   
  [![image](/docs/images/Manual/common/manage/security/5.png)](/docs/images/Manual/common/manage/security/5.png){: target="_blank"}
 
 <br />

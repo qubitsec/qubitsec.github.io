@@ -21,37 +21,36 @@ topnav: topnav
 [![image](/docs/images/Manual/common/manage/use/2.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-### 1.관리 > 사용 > 웹 개인정보숨김 > 설정 버튼을 클릭합니다.
 
+### 1. 관리 > 사용 > 웹 개인정보숨김 > 설정 버튼을 클릭합니다.   
 [![image](/docs/images/Manual/common/manage/use/3.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-### 2.숨기고자 하는 개인정보를 추가합니다.
 
+### 2. 숨기고자 하는 개인정보를 추가합니다.   
 [![image](/docs/images/Manual/common/manage/use/4.png)](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-### 3.개인정보 숨김 설정이 정상적으로 적용된 것을 확인할 수 있습니다.
 
+### 3. 개인정보 숨김 설정이 정상적으로 적용된 것을 확인할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/5.png)](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
  - 웹탐지예외 : 전체로그에는 올라오지만 탐지로그에는 올라오지 않도록 설정할 수 있습니다.
 
 예시) host 주소가 123.34.45.1 인 로그는 탐지가 안되도록 설정 하고 싶으면 host 선택 후 123.34.45.1 을 기입하면 됩니다.
 
-   - 관리 > 사용 > 웹탐지예외 > 예외설정 추가 선택
-
+   - 관리 > 사용 > 웹탐지예외 > 예외설정 추가 선택   
 [![image](/docs/images/Manual/common/manage/use/6.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
  
 <br />
-   - 그룹에서 +로 추가하는 항목들은 AND 조건, 그룹 간에는 OR 조건입니다.
 
+   - 그룹에서 +로 추가하는 항목들은 AND 조건, 그룹 간에는 OR 조건입니다.   
 [![image](/docs/images/Manual/common/manage/use/7.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-- 웹 업로드 : 사용자가 원하는 웹 업로드 형식을 선별 또는 예외처리할  수 있습니다.
-웹 업로드 설정의 경우, 기본적인 이미지 등의 디폴트 설정이 되어있으며 사용자에 의해 수정이 가능합니다.
 
+- 웹 업로드 : 사용자가 원하는 웹 업로드 형식을 선별 또는 예외처리할  수 있습니다.   
+- 웹 업로드 설정의 경우, 기본적인 이미지 등의 디폴트 설정이 되어있으며 사용자에 의해 수정이 가능합니다.   
 [![image](/docs/images/Manual/common/manage/use/8.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
@@ -65,9 +64,7 @@ topnav: topnav
 
 <br />
 
-   - 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.
-
-<br />
+   - 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/9.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
@@ -97,8 +94,8 @@ topnav: topnav
 [![image](/docs/images/Manual/common/manage/use/11.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
  
 <br />
-- 응용프로그램 원본 업로드 : 사용자가 원하는 응용프로그램 로그를 선별/예외처리할 수 있습니다.
 
+- 응용프로그램 원본 업로드 : 사용자가 원하는 응용프로그램 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/12.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 - 응용프로그램 업로드 → 공백 예외
@@ -122,8 +119,8 @@ topnav: topnav
 [![image](/docs/images/Manual/common/manage/use/14.png)](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-- 네트워크 업로드 : 사용자가 원하는 네트워크 로그를 선별/예외처리할 수 있습니다.
 
+- 네트워크 업로드 : 사용자가 원하는 네트워크 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/15.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 [관련 블로그]

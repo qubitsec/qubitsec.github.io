@@ -56,6 +56,8 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/filter/web/6.png){: width="800" }](/docs/images/Manual/common/filter/web/6.png){: target="_blank"}
 
+<br />
+
 - 탐지된 로그 목록을 클릭 > 유출정보 Tab > 응답본문 유출영역 보기 버튼 클릭
 - 유출된 응답 본문에 대한 내용을 확인할 수 있습니다.
 
