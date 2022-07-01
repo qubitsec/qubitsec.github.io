@@ -1,6 +1,6 @@
 ---
 title: AWS RHEL 8 환경
-permalink: aws_rhel_proxy.html
+permalink: ko_aws_rhel_proxy.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

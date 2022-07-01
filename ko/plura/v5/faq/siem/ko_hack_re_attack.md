@@ -1,6 +1,6 @@
 ---
 title: 재전송공격 사용법 안내 
-permalink: hack_re_attack.html
+permalink: ko_hack_re_attack.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

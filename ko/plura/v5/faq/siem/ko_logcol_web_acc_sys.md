@@ -1,6 +1,6 @@
 ---
 title: 대상 웹 access 로그
-permalink: logcol_web_acc_sys.html
+permalink: ko_logcol_web_acc_sys.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

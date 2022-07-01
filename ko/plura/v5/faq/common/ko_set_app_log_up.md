@@ -1,6 +1,6 @@
 ---
 title: 응용프로그램
-permalink: set_app_log_up.html
+permalink: ko_set_app_log_up.html
 sidebar: faq_common_M
 topnav: topnav
 ---

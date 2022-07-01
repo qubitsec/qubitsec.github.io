@@ -1,6 +1,6 @@
 ---
 title: 감사정책 복원 방법
-permalink: agent_ins_policy.html
+permalink: ko_agent_ins_policy.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

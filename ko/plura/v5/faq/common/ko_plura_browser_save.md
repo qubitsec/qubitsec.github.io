@@ -1,6 +1,6 @@
 ---
 title: 유저별 브라우저 저장 기능
-permalink: plura_browser_save.html
+permalink: ko_plura_browser_save.html
 sidebar: faq_common_M
 topnav: topnav
 ---

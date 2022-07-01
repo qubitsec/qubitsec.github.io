@@ -1,6 +1,6 @@
 ---
 title: 톰캣 access 로깅 켜기
-permalink: apache_tom_acc.html
+permalink: ko_apache_tom_acc.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

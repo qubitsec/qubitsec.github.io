@@ -32,11 +32,11 @@ navbar_dropdowns:
     - title: FAQ
       folderitems:
         - title: Common
-          url: common_m.html
+          url: ko_common_m.html
         - title: SIEM
-          url: siem_m.html
+          url: ko_siem_m.html
         - title: Forensic
-          url: forensic_m.html
+          url: ko_forensic_m.html
     
     - title: Public Cloud 
       folderitems:

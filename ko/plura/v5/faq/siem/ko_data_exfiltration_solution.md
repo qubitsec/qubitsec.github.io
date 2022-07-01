@@ -1,6 +1,6 @@
 ---
 title: 데이터유출
-permalink: data_exfiltration_solution.html
+permalink: ko_data_exfiltration_solution.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

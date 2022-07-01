@@ -1,6 +1,6 @@
 ---
 title: squid 로깅 켜기
-permalink: proxy_sys_squid.html
+permalink: ko_proxy_sys_squid.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

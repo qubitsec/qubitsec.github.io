@@ -1,6 +1,6 @@
 ---
 title: Audit을 이용한 해킹 탐지
-permalink: aix_hack_using_audit.html
+permalink: ko_aix_hack_using_audit.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

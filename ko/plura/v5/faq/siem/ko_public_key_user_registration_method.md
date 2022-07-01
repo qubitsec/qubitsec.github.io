@@ -1,6 +1,6 @@
 ---
 title: 공개키 로그인 성공
-permalink: public_key_user_registration_method.html
+permalink: ko_public_key_user_registration_method.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

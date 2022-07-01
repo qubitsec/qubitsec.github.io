@@ -1,6 +1,6 @@
 ---
 title: 백신 소프트웨어 종료 탐지 방법
-permalink: antivirus_sw.html
+permalink: ko_antivirus_sw.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

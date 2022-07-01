@@ -1,6 +1,6 @@
 ---
 title: 톰캣 catalina.out 로그
-permalink: send_app_syslog.html
+permalink: ko_send_app_syslog.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

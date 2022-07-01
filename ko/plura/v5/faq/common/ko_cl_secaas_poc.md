@@ -1,6 +1,6 @@
 ---
 title: 온라인 PoC 진행 방법 안내
-permalink: cl_secaas_poc.html
+permalink: ko_cl_secaas_poc.html
 sidebar: faq_common_M
 topnav: topnav
 ---

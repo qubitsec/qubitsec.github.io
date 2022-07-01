@@ -1,6 +1,6 @@
 ---
 title: WGET 에이전트 설치하기
-permalink: onpremise_agent_inst_wget.html
+permalink: ko_onpremise_agent_inst_wget.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

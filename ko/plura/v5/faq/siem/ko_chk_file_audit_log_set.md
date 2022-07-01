@@ -1,6 +1,6 @@
 ---
 title: Audit 설정 안내
-permalink: chk_file_audit_log_set.html
+permalink: ko_chk_file_audit_log_set.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

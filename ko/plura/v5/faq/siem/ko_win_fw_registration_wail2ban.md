@@ -1,6 +1,6 @@
 ---
 title: Wail2ban 에 의한 윈도우 방화벽 설정 
-permalink: win_fw_registration_wail2ban.html
+permalink: ko_win_fw_registration_wail2ban.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

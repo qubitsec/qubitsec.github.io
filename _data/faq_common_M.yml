@@ -5,25 +5,25 @@ folders:
   folderitems:
 
   - title: 유저별 브라우저 저장 기능
-    url: /plura_browser_save.html
+    url: /ko_plura_browser_save.html
   
   folders:
 - title: IP 주소 확인
   folderitems:
 
   - title: Public IP주소 확인하는 방법
-    url: /public_ip_check.html
+    url: /ko_public_ip_check.html
 
   folders:
 - title: PoC
   folderitems:
 
   - title: 온라인 PoC 진행 방법 안내
-    url: /cl_secaas_poc.html
+    url: /ko_cl_secaas_poc.html
 
   folders:
 - title: 업로드 설정
   folderitems:
 
   - title: 응용프로그램
-    url: /set_app_log_up.html
+    url: /ko_set_app_log_up.html

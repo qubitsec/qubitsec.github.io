@@ -1,6 +1,6 @@
 ---
 title: Apache 수동 설치
-permalink: mp_install_apache.html
+permalink: ko_mp_install_apache.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

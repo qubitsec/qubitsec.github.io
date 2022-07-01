@@ -1,6 +1,6 @@
 ---
 title: Nginx 수동 설치
-permalink: mp_install_nginx.html
+permalink: ko_mp_install_nginx.html
 sidebar: faq_siem_M
 topnav: topnav
 ---

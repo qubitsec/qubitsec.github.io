@@ -1,6 +1,6 @@
 ---
 title: 운영체제 로그 업로드 수집 경로 및 사용 방법
-permalink: path_uasge_method.html
+permalink: ko_path_uasge_method.html
 sidebar: faq_forensic_M
 topnav: topnav
 ---

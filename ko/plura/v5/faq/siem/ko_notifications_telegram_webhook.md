@@ -1,6 +1,6 @@
 ---
 title: Webhook 설정으로 Telegram에서 받기
-permalink: notifications_telegram_webhook.html
+permalink: ko_notifications_telegram_webhook.html
 sidebar: faq_siem_M
 topnav: topnav
 ---
