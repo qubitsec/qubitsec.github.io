@@ -24,7 +24,7 @@ topnav: topnav
 본인의 Public IP 주소를 확인하는 방법은 아래와 같습니다.
 
 ## 1. IP 주소 검색 사이트
-[(http://www.myipaddress.com/what-is-my-ip-address/)](http://www.myipaddress.com/what-is-my-ip-address/){: target="_blank"}
+[http://www.myipaddress.com/what-is-my-ip-address/](http://www.myipaddress.com/what-is-my-ip-address/){: target="_blank"}
 
 <br />
 
