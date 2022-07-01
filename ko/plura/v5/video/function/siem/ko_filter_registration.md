@@ -29,7 +29,7 @@ topnav: topnav
 
 – 등록필터 > 웹 
 
-[https://qubitsec.github.io/ko_regi_f_web.html](https://qubitsec.github.io/ko_regi_f_web.html0){:target="_blank"}
+[https://qubitsec.github.io/ko_regi_f_web.html](https://qubitsec.github.io/ko_regi_f_web.html){:target="_blank"}
 
 – 등록필터 > 네트워크 
 
