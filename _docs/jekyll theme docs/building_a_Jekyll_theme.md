@@ -63,7 +63,7 @@ Create index.md file
 
 ---
 title: Homepage
-permalink: index.html
+permalink: ko_index.html
 ---
 
 
@@ -79,7 +79,7 @@ customize the h1 tags with the title
 
 ---
 title: Homepage
-permalink: index.html
+permalink: ko_index.html
 ---
 
 This is some content.
