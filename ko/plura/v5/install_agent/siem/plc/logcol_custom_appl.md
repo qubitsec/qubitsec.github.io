@@ -106,6 +106,7 @@ RUN Logstash(foreground)
 ## 3. PLURA V5 웹에서 확인하기
 
 - 경로 : 전체로그 > 응용프로그램 > 사용자정의 > postfix
+
 ※ 관리 > 사용 > 응용프로그램 > 사용자정의 설정이 ON 상태인 경우에만 메뉴가 노출됩니다.[4]
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"}
