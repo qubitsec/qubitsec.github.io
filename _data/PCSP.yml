@@ -4,7 +4,7 @@ folders:
 - title: AWS
   folderitems:
 
-  - title: Auto Scaling 설정
+  - title: Auto Scaling 설정 가이드
     url: /ko_scaling_setup_guide.html
 
   - title: 타임존 설정
