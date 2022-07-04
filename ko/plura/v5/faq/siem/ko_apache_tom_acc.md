@@ -5,7 +5,7 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-     Tomcat 의 access 로그를 PLURA V5 로깅(logging) 연동 설정하는 방법입니다.
+     Tomcat의 access 로그를 PLURA V5 로깅(logging) 연동 설정하는 방법입니다.
 
 <br />
 

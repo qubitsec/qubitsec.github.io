@@ -6,9 +6,7 @@ topnav: topnav
 ---
 
 PLURA V5 클라우드 서비스 접속을 위하여 Proxy 시스템을 두어 운영하는 경우,
-다음과 같이 Proxy 설정을 해야 합니다.
-
-<br />
+다음과 같이 Proxy 설정을 해야 합니다.     
 
 `# vi /etc/profile.d/plura.sh`
 

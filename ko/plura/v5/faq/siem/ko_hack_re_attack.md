@@ -10,6 +10,7 @@ topnav: topnav
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_ICFu8Rg5h0' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
+
 **재전송공격**이란, 탐지 로그를 이용하여 실제 공격을 확인하는 기능으로 모의해킹의 일환입니다.
 
 **재전송공격**으로 모의 해킹을 하는 이유는 공격의 성공과 실패를 확인하기 위함입니다.

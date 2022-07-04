@@ -78,6 +78,7 @@ topnav: topnav
 <br />
 
 ## 5. 권한 이슈
+
 ⭐주의 : PLURA 웹로그 생성 디렉토리의 owner를 nginx worker process 의 owner로 변경합니다.
 
 `# chown nginx /var/log/plura`
