@@ -75,8 +75,6 @@ Apache Tomcat catalina.out 로깅하기
 
 [https://tomcat.apache.org/tomcat-9.0-doc/config/valve.html](https://tomcat.apache.org/tomcat-9.0-doc/config/valve.html){: target="_blank"}
 
- 
-
 [https://m.blog.naver.com/solinsystem/221796167356](https://m.blog.naver.com/solinsystem/221796167356){: target="_blank"}
 
 [https://gyrfalcon.tistory.com/entry/Apache-Tomcat-access-log-%EC%84%A4%EC%A0%95](https://gyrfalcon.tistory.com/entry/Apache-Tomcat-access-log-%EC%84%A4%EC%A0%95){: target="_blank"}
