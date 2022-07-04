@@ -20,8 +20,7 @@ topnav: topnav
 
 - Syslog Collector에서 노출되는 정보의 의미는 아래와 같습니다.      
 [![image](/docs/images/Manual/forensic/system/2.png)](/docs/images/Manual/forensic/system/2.png){: target="_blank"}   
-
-      P : Parent(부모), C : Child(자식)
+P : Parent(부모), C : Child(자식)
 
 <br />
 
@@ -112,12 +111,9 @@ PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참�
 
 - 등록완료 팝업창이 나타나면 확인 버튼을 누르면 그룹 등록이 완료됩니다.
 
- 
 <br />
 
 ## 11. 시스템 삭제
 
 - 시스템 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’ 버튼을 클릭하면 해당 시스템이 삭제됩니다.   
 [![image](/docs/images/Manual/forensic/system/12.png){: width="800" }](/docs/images/Manual/forensic/system/12.png){: target="_blank"}
-
- 
