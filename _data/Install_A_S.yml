@@ -82,7 +82,7 @@ folders:
       - title: MySQL Error & Slow-Query 로그
         url: /ko_mysql_err_slow_query_log.html
 
-      - title: (Rsyslog)MySQL Error & Slow-Query 로그
+      - title: (PLC)MySQL Error & Slow-Query 로그
         url: /ko_rsys_mysql_err_slow_query_log.html
 
       - title: Openvpn 로그
