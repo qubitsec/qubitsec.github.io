@@ -6,7 +6,7 @@ product: Install_A_S
 ---
 
 
-[응용프로그램] MySQL Error 로그와 Slow-Query 로그 취합을 위한 설정
+     응용프로그램 : MySQL Error 로그와 Slow-Query 로그 취합을 위한 설정
 
 <br />
 

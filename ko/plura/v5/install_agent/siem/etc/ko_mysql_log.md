@@ -5,7 +5,7 @@ sidebar: Install_A_S
 product: Install_A_S
 ---
 
-## MySQL(CentOS) 로그 분석
+     MySQL(CentOS) 로그 분석
 
 <br />
 

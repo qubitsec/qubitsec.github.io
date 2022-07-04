@@ -5,7 +5,7 @@ sidebar: Install_A_S
 product: Install_A_S
 ---
 
-MySQL Error 로그와 Slow-Query 취합을 위한 설정
+      Rsyslog : MySQL Error 로그와 Slow-Query 취합을 위한 설정
 
 <br />
 
