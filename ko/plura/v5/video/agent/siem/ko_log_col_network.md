@@ -16,10 +16,10 @@ topnav: topnav
      
      지원 제품 목록
 
-     -- WAF : Juniper, Barracuda
-     -- IPS : WINS Sniper
-     -- UTM : Fortinet, Sonicwall
-     -- Switch : Cisco, Huawei
+     - WAF : Juniper, Barracuda
+     - IPS : WINS Sniper
+     - UTM : Fortinet, Sonicwall
+     - Switch : Cisco, Huawei
      
 <br />
 
