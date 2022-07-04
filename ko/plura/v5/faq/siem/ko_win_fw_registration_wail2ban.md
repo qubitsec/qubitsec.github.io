@@ -7,6 +7,8 @@ topnav: topnav
 
      Wail2ban 을 이용해 RDP 무차별 대입공격에 대한 보안 설정을 했을 경우, Wail2ban 에 의해 윈도우 방화벽에 차단 등록되는 동작을 PLURA V5에서 탐지할 수 있습니다.
 
+<br />
+
 Wail2ban 이란?
 
 [https://developer.ibm.com/kr/cloud/softlayer-bluemix-infra/security/2017/08/31/rdp-security-script/](https://developer.ibm.com/kr/cloud/softlayer-bluemix-infra/security/2017/08/31/rdp-security-script/){: target="_blank"}

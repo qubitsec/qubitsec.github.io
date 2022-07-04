@@ -5,7 +5,7 @@ sidebar: faq_common_M
 topnav: topnav
 ---
 
-## 1. PLURA V5 PoC 진행 프로세스 안내
+## 1. PLURA PoC 진행 프로세스 안내
 
 ### 1-1. PoC 진행 프로세스 안내
 
@@ -16,7 +16,7 @@ topnav: topnav
 
 <br />
 
-### 1-2. PLURA V5 회원 가입
+### 1-2. PLURA 회원 가입
 
 회원가입 (브라우저 크롬 권장)
 
@@ -79,5 +79,5 @@ Sysmon 설치 가이드 : [https://qubitsec.github.io/ko_sysmon.html](https://qu
 
 <br />
  
-## 3. PLURA V5 매뉴얼
+## 3. PLURA 매뉴얼
 [https://qubitsec.github.io/index.html](https://qubitsec.github.io/index.html){: target="_blank"}

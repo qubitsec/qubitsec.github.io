@@ -6,7 +6,7 @@ topnav: topnav
 ---
 
 
-## PLURA V5의 Amazon EC2 Auto Scaling 환경 지원
+## PLURA의 Amazon EC2 Auto Scaling 환경 지원
 
 [https://qubitsec.github.io/ko_amazon_ec2_scaling.html](https://qubitsec.github.io/ko_amazon_ec2_scaling.html){:target="_blank"}
 

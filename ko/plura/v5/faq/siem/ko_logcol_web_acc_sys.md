@@ -118,6 +118,7 @@ topnav: topnav
 
 [![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}
 
+<br />
 
 외부 참고 사이트
 

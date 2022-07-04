@@ -9,11 +9,15 @@ topnav: topnav
 
 <br />
 
+## 1. 그룹알림(웹훅설정) 영상
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lIFuWAtDVbk' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
 
-## 1. Bot 생성
+## 2. 텔레그램으로 웹훅 설정하기
+
+### 2-1. Bot 생성
 
      BotFather 검색
      /newbot 입력
@@ -23,7 +27,7 @@ topnav: topnav
 
 <br />
 
-## 2. Bot 을 그룹채팅에 초대
+### 2-2. Bot 을 그룹채팅에 초대
 
      그룹을 만들고 생성한 Bot 이름으로 검색하여 등록
      Bot생성시 Token을 이용해서 현재 그룹채팅의 id 정보를 확인
@@ -31,6 +35,6 @@ topnav: topnav
 
 <br />
 
-## 3. 확인한 정보를 PLURA V5 알림설정에 등록
+### 2-3. 확인한 정보를 PLURA V5 알림설정에 등록
 
      예) https://api.telegram.org/bot{Token}/sendmessage?parse_mode=Markdown&chat_id={id}

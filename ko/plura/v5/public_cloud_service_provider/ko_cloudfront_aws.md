@@ -19,6 +19,6 @@ topnav: topnav
 
 <br />
 
-## 3. CloudFront + PLURA V5 WAF 구성 예
+## 3. CloudFront + PLURA WAF 구성 예
 
 [![image](/docs/images/Public_Cloud/cloudfront/02.png){: width="800"  }](/docs/images/Public_Cloud/cloudfront/02.png){: target="_blank"}

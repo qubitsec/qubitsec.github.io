@@ -13,6 +13,8 @@ topnav: topnav
 
      PLURA V5 Log Collector 서버 이용 장점은 클라이언트(Web Server) 에 별도 로그를 생성하지 않고 syslog 로 바로 전송하므로 리소스 사용량 (CPU, Memory 등)을 최소화할 수 있습니다.
 
+<br />
+
  [![image](/docs/images/Additianal/send/1.png){: width="800" }](/docs/images/Additianal/send/1.png){: target="_blank"}
 
 <br />

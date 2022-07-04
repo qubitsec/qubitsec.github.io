@@ -5,7 +5,7 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-## PLURA V5 Manual – 재전송 공격
+### 1. PLURA V5 Manual – 재전송 공격 영상
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_ICFu8Rg5h0' frameborder='0' allowfullscreen></iframe></div>
 
@@ -24,22 +24,22 @@ SQL 인젝션 공격의 성공은 매우 심각한 위험에 노출되므로 성
 
 <br />
 
-### 1. HTTP Method 재전송 대상
+### 2. HTTP Method 재전송 대상
 
-1-1. GET 모든 로그
+2-1. GET 모든 로그
 
-1-2.
+2-2.
 POST | PUT | PATCH | DELETE 의 경우 파라미터 이름이 존재하면서 Content-type 이 존재하는 로그
 
 <br />
 
-### 2. Content-Type 재전송 대상
+### 3. Content-Type 재전송 대상
 
-2-1. application/x-www-form-urlencoded : key/value 형태
+3-1. application/x-www-form-urlencoded : key/value 형태
 
-2-2. application/json : json 형태
+3-2. application/json : json 형태
 
-2-3. application/xml :xml 형태
+3-3. application/xml :xml 형태
 
 아래의 이미지는 Method – GET 방식(application/x-www-form-urlencoded) 의 공격으로 재전송 공격의 조건이 성립되어 재전송공격 버튼이 노출된 것을 확인할 수 있습니다.
 
@@ -62,30 +62,30 @@ https 를 사용하지 않는 경우, http : 80 으로 수정하여 재전송공
 
 <br />
 
-### 3. HTTP Method 재전송 대상이 아닌 경우 – 재전송공격 버튼이 노출되지 않습니다.
+### 4. HTTP Method 재전송 대상이 아닌 경우 – 재전송공격 버튼이 노출되지 않습니다.
 
-3-1. POST (상단 재전송 가능 조건이 만족하지 않는 경우)
+4-1. POST (상단 재전송 가능 조건이 만족하지 않는 경우)
 
-3-2. PUT (상단 재전송 가능 조건이 만족하지 않는 경우)
+4-2. PUT (상단 재전송 가능 조건이 만족하지 않는 경우)
 
-3-3. PATCH (상단 재전송 가능 조건이 만족하지 않는 경우)
+4-3. PATCH (상단 재전송 가능 조건이 만족하지 않는 경우)
 
-3-4. DELETE (상단 재전송 가능 조건이 만족하지 않는 경우)
+4-4. DELETE (상단 재전송 가능 조건이 만족하지 않는 경우)
 
-3-5. HEAD
+4-5. HEAD
 
-3-6. OPTION
+4-6. OPTION
 
-3-7. CONNECT
+4-7. CONNECT
 
-3-8. TRACE
+4-8. TRACE
 
 <br />
 
-### 4. Content-Type 재전송 대상이 아닌 경우 – 재전송공격 버튼이 노출되지 않습니다.
+### 5. Content-Type 재전송 대상이 아닌 경우 – 재전송공격 버튼이 노출되지 않습니다.
 
-4-1. multipart/form-data : key/value 형태 (바이너리 포함)
+5-1. multipart/form-data : key/value 형태 (바이너리 포함)
 
-4-2. application/octet-stream : 바이너리 파일
+5-2. application/octet-stream : 바이너리 파일
 
-4-3. text/yaml : yml
+5-3. text/yaml : yml

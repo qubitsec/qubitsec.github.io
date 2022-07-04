@@ -9,7 +9,7 @@ topnav: topnav
      퍼블릭 클라우드 SaaS 서비스가 일상화된 작금의 시대에
      퍼블릭 클라우드 SaaS 서비스는 자체 보안 시스템이 매우 중요합니다.
 
-     PLURA V5 웹 접속 時 보안 시스템 中 하나로
+     PLURA 웹 접속 時 보안 시스템 中 하나로
      접속 IP 주소에 대한 제한을 설정할 수 있습니다.
 
      이를 위하여는 Public IP 주소를 확인하여야 합니다.
@@ -40,7 +40,7 @@ topnav: topnav
 
 <br />
 
-## 4. 확인된 IP 주소는 PLURA V5 로그인 허용 IP주소에 추가할 수 있습니다.
+## 4. 확인된 IP 주소는 PLURA 로그인 허용 IP주소에 추가할 수 있습니다.
 
 상단 메뉴 중 관리 > 보안 > “로그인허용IP주소”
 
@@ -49,5 +49,5 @@ topnav: topnav
 
 <br />
 
-PLURA V5가 제공하는 더 많은 보안 시스템 알아보기 : [보안](https://qubitsec.github.io/ko_manage_security.html){:target="_blank"}
+PLURA가 제공하는 더 많은 보안 시스템 알아보기 : [보안](https://qubitsec.github.io/ko_manage_security.html){:target="_blank"}
 
