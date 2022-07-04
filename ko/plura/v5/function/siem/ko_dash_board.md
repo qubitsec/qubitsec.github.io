@@ -92,5 +92,5 @@ topnav: topnav
 [![image](/docs/images/Manual/siem/dash/10.png){: width="800" }](/docs/images/Manual/siem/dash/10.png){: target="_blank"}   
 [![image](/docs/images/Manual/siem/dash/11.png){: width="800" }](/docs/images/Manual/siem/dash/11.png){: target="_blank"}
 
- 참고영상_PLURA V5 대시보드/메뉴 활용하기   
+ 참고영상 : PLURA V5 대시보드/메뉴 활용하기   
  [https://qubitsec.github.io/ko_dash_menu.html](https://qubitsec.github.io/ko_dash_menu.html){: target="_blank"}

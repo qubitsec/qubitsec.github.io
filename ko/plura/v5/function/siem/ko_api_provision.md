@@ -10,8 +10,7 @@ topnav: topnav
 
 ## 1. API 인증키 설정
 - 그룹관리 > 연동설정 메뉴에서 설정할 수 있습니다.
-- 발급하기 버튼을 누르면 다음과 같이 API 인증키가 발급됩니다.
-
+- 발급하기 버튼을 누르면 다음과 같이 API 인증키가 발급됩니다.   
 [![image](/docs/images/Manual/siem/api/1.png)](/docs/images/Manual/siem/api/1.png){: target="_blank"}
  
 
