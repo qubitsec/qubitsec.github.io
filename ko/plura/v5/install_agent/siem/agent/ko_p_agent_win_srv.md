@@ -109,14 +109,13 @@ Step 2 까지는 ‘시스템 로그’ 수집에 대한 내용이며, Step 3은
 
 수동 다운로드 링크 : [Visual Studio 2013 Visual C++ 재배포 가능 패키지](https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe){:target="_blank"}
 
-
+<br />
 
 ## Step 4
 
 __4.1 자동 업데이트 기능__
 
-PLURA V5 Agent 자동 업데이트 기능을 사용하시려면
-환경설정 탭으로 이동하여 자동업데이트 체크박스에 체크 되어있는지 확인합니다. 기본값은 체크 상태입니다.
+PLURA V5 Agent 자동 업데이트 기능을 사용하시려면 환경설정 탭으로 이동하여 자동업데이트 체크박스에 체크 되어있는지 확인합니다. 기본값은 체크 상태입니다.
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_10.png)](/docs/images/Ins_G/Agent_W/Agent_W_10.png){:target="_blank"}
 
@@ -126,9 +125,7 @@ PLURA V5 Agent 자동 업데이트 기능을 사용하시려면
 
 __5.1 업데이트 확인__
 
-PLURA V5 Agent의 업데이트 버전은
-C:\Program Files (x86)\PLURA 경로에서 확인 하실 수 있습니다.
-
+PLURA V5 Agent의 업데이트 버전은 C:\Program Files (x86)\PLURA 경로에서 확인 하실 수 있습니다.
 
 **ex)PLURAService 버전 확인**
 
@@ -138,10 +135,9 @@ C:\Program Files (x86)\PLURA 경로에서 확인 하실 수 있습니다.
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_12.png)](/docs/images/Ins_G/Agent_W/Agent_W_12.png){:target="_blank"}
 
-
 <br />
 
-__※ PLURA V5 Web 시스템 관리 메뉴에서 Web Log 수집 설정 방법__
+## 웹로그 수집 설정 영상
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/kKLL_sP9w9c' frameborder='0' allowfullscreen></iframe></div>
 
 

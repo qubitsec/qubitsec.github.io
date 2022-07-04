@@ -20,8 +20,8 @@ product: Install_A_S
 
 ## 1. Sysmon 설치
 
-Sysmon 을 설치하려면 먼저 __PLURA V5 Agent__ 를 설치해야합니다.
-PLURA V5 Agent 설치 완료 후, 아래의 내용을 참고하여 Sysmon 을 설치합니다.
+Sysmon 을 설치하려면 먼저 __PLURA V5 Agent__ 를 설치해야합니다.   
+PLURA V5 Agent 설치 완료 후 아래의 내용을 참고하여 Sysmon 을 설치합니다.
 
 <br />
 
@@ -49,15 +49,17 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 ### 1-2. 실행
 
 #### 1-2-1. sysmon-plura.xml 파일을 아래의 경로에서 다운로드합니다.
+
 <br />
+
      [https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml](https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml){:target="_blank"}
 
-     ※ PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
+     PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
      경로 : C:\Program Files (x86)\PLURA
 
 <br />
 
-#### 1-2-2. 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후, 아래의 명령어를 입력합니다.
+#### 1-2-2. 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후 아래의 명령어를 입력합니다.
 
 `# sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”`
 
@@ -101,9 +103,6 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
 - 전체로그 > 시스템
 
       제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
-
       PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
-
       제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.
-     
       해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.

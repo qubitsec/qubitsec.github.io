@@ -8,8 +8,8 @@ product: Install_A_S
 
      PLURA V5 Log Collector-System의 역할
 
-     – 다른 시스템의 syslog 를 취합
-     – 취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
+     1. 다른 시스템의 syslog 를 취합
+     2. 취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
@@ -69,17 +69,19 @@ Syslog 재시작
 
 ### 4. 원격지(자식) 서버를 등록합니다.
 
-  ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 시스템 버튼을 클릭합니다.
+- 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 시스템 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/logCol_system/sys_3.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_3.png){:target="_blank"}
 
 <br />
-  ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
+
+- 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 
 [![image](/docs/images/Ins_G/logCol_system/sys_4.png)](/docs/images/Ins_G/logCol_system/sys_4.png){:target="_blank"}
 
 <br />
-  ③ 시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
+
+- 시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
 
 [![image](/docs/images/Ins_G/logCol_system/sys_5.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"}
 

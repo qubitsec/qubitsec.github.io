@@ -7,8 +7,8 @@ product: Install_A_S
 
      PLURA V5 Log Collector-Application의 역할
 
-     – 다른 시스템의 Application log 를 취합
-     – 취합한 Application log 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
+     1. 다른 시스템의 Application log 를 취합
+     2. 취합한 Application log 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
@@ -38,9 +38,7 @@ product: Install_A_S
 
 ### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
 
-
 [![image](/docs/images/Ins_G/LogCol_app/app_2.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
-
 
 <br />
 
@@ -55,43 +53,48 @@ product: Install_A_S
 <br />
 
 ### 5. 원격지(자식) 서버를 등록합니다.
-  ① 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.
+- 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_4.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}
 
-  ② 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
+- 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_5.png)](/docs/images/Ins_G/LogCol_app/app_5.png){: target="_blank"}
 
 <br />
-  ③ 등록 팝업에서 “경로 등록” 버튼을 클릭합니다.
+
+- 등록 팝업에서 “경로 등록” 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_6.png)](/docs/images/Ins_G/LogCol_app/app_6.png){: target="_blank"}
 
 <br />
-  ④ 태그 및 경로를 등록합니다.
+
+- 태그 및 경로를 등록합니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}   
 
-※ 태그 등록 방법
-– 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
+- 태그 등록 방법
+   - 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_8.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}
 
 <br />
-  ⑤ 등록한 태그 및 수집하고자 하는 응용 프로그램 경로를 등록합니다.   
-  – 아래 예시에서는 Apache-errorlog를 설정하였습니다.
+
+- 등록한 태그 및 수집하고자 하는 응용 프로그램 경로를 등록합니다.   
+   - 아래 예시에서는 Apache-errorlog를 설정하였습니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_9.png)](/docs/images/Ins_G/LogCol_app/app_9.png){: target="_blank"}
 
 <br />
-  ⑥ 로그 취합서버(부모)를 선택하여 응용프로그램 로그수집이 정상적으로 설정되었는지 확인합니다.   
-  – 원격지(자식) 서버를 선택하면 설정 팝업이 노출됩니다.
+
+- 로그 취합서버(부모)를 선택하여 응용프로그램 로그수집이 정상적으로 설정되었는지 확인합니다.   
+   - 원격지(자식) 서버를 선택하면 설정 팝업이 노출됩니다.
 
 [![image](/docs/images/Ins_G/LogCol_app/app_10.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}
 
 <br />
-  ⑦ 응용프로그램 설정 버튼을 OFF → ON으로 활성화시켜줍니다. 
+
+- 응용프로그램 설정 버튼을 OFF → ON으로 활성화시켜줍니다. 
 
 [![image](/docs/images/Ins_G/LogCol_app/app_11.png)](/docs/images/Ins_G/LogCol_app/app_11.png){: target="_blank"}
 
