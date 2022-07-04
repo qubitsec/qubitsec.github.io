@@ -74,7 +74,9 @@ product: Install_A_S
 [![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}   
 
 ※ 태그 등록 방법
-– 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
+
+- 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
+- 경로 : 관리 > 목록 > 응용프로그램 태그 
 
 [![image](/docs/images/Ins_G/LogCol_app/app_8.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}
 
