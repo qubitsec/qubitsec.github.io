@@ -61,7 +61,8 @@ topnav: topnav
 
 - 하단의 있는 정보입력 영역의 추가 버튼을 클릭하면 데이터값을 입력하여 해당하는 값을 포함 또는 제외할 수 있습니다.
 
-※ **필터를 등록할 때는 과탐/오탐이 발생할 수 있으므로 담당자와 확인 후, 등록하는 것을 추천합니다.**
+- 필터를 등록할 때는 과탐/오탐이 발생할 수 있으므로 담당자와 확인 후, 등록하는 것을 추천합니다.
 
-※ 응용프로그램 원본 필터 등록 예시
+- 응용프로그램 원본 필터 등록 예시
+
 [![image](/docs/images/Manual/common/regi/source/6.png){: width="800" }](/docs/images/Manual/common/regi/source/6.png){: target="_blank"}

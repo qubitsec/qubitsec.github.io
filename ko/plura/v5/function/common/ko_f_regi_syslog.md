@@ -28,18 +28,21 @@ topnav: topnav
 [![image](/docs/images/Manual/common/filter2/syslog/1.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/1.png){: target="_blank"}  
 
 <br />
+
 ## 2. 필터탐지 조건 예시
 
 **2-1.** 아래처럼 두 개 이상의 데이터 그룹이 있을 때, 그룹끼리는 AND 조건입니다.
 
 [![image](/docs/images/Manual/common/filter2/syslog/2.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/2.png){: target="_blank"}  
+
 <br />
 
 [![image](/docs/images/Manual/common/filter2/syslog/3.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/3.png){: target="_blank"}  
 
 <br />
+
 **2-2.** 아래처럼 한 개의 그룹에 여러개의 데이터 값이 있을 때, 그룹 내의 값끼리는 OR 조건입니다.
 [![image](/docs/images/Manual/common/filter2/syslog/4.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/4.png){: target="_blank"}  
 
 
-▣ 사용자정의 필터등록 DEMO : [https://qubitsec.github.io/ko_system_weblog.html](https://qubitsec.github.io/ko_system_weblog.html){: target="_blank"} 
+사용자정의 필터등록 DEMO : [https://qubitsec.github.io/ko_system_weblog.html](https://qubitsec.github.io/ko_system_weblog.html){: target="_blank"} 
