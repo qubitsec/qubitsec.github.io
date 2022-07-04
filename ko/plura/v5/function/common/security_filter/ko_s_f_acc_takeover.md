@@ -11,13 +11,14 @@ topnav: topnav
 ▶ 크리덴셜 스터핑이란?
 [https://owasp.org/www-community/attacks/Credential_stuffing](https://owasp.org/www-community/attacks/Credential_stuffing){: target="_blank"}
 
-PLURA V5의 보안필터 중 크리덴셜 스터핑은 꾸준한 로그인 시도를 통해 계정을 탈취하는 공격을 탐지하는 필터입니다.
+보안필터 중 크리덴셜 스터핑은 꾸준한 로그인 시도를 통해 계정을 탈취하는 공격을 탐지하는 필터입니다.
 
 ▶ 볼륨 메트릭이란?
 [https://www.a10networks.com/blog/understanding-ddos-attacks/](https://www.a10networks.com/blog/understanding-ddos-attacks/){: target="_blank"}
 
+보안필터 중 볼륨 메트릭은 무자비 대입을 통해 계정을 탈취하는 공격을 탐지하는 필터입니다.
+
 <br />
-PLURA V5의 보안필터 중 볼륨 메트릭은 무자비 대입을 통해 계정을 탈취하는 공격을 탐지하는 필터입니다.
 
 [![image](/docs/images/Manual/common/filter2/security/takeover/1.png){: width="800" }](/docs/images/Manual/common/filter2/security/takeover/1.png){: target="_blank"}
 
@@ -40,6 +41,7 @@ PLURA V5의 보안필터 중 볼륨 메트릭은 무자비 대입을 통해 계�
 AND, OR 조건을 활용할 수 있습니다.
 
 <br />
-※ 예시_계정탈취 보안필터
+
+아래는 등록 예시입니다.   
 
 [![image](/docs/images/Manual/common/filter2/security/takeover/2.png){: width="800" }](/docs/images/Manual/common/filter2/security/takeover/2.png){: target="_blank"}
