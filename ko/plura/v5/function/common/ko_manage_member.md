@@ -24,16 +24,19 @@ topnav: topnav
  [![image](/docs/images/Manual/common/manage/member/4.png){: width="800" }](/docs/images/Manual/common/manage/member/4.png){: target="_blank"}
 
 <br />
-① 권한(관리자, 운영자, 모니터링)을 변경할 수 있습니다.
+
+- 권한(관리자, 운영자, 모니터링)을 변경할 수 있습니다.
 
  [![image](/docs/images/Manual/common/manage/member/5.png)](/docs/images/Manual/common/manage/member/5.png){: target="_blank"}
 
 <br />
-② 멤버별 그룹(전체/선택)을 지정할 수 있습니다.
+
+- 멤버별 그룹(전체/선택)을 지정할 수 있습니다.
 
  [![image](/docs/images/Manual/common/manage/member/6.png)](/docs/images/Manual/common/manage/member/6.png){: target="_blank"}
 
 <br />
+
 ▷ **관리자** : 시스템 관리(등록, 수정, 삭제) 및 멤버 관리(초대, 삭제, 권한변경)를 포함한 PLURA V5의 모든 기능을 사용할 수 있습니다.
 
 ▷ **운영자** : 서비스 운영에 필요한 필터 등록 및 수정, 삭제, 방어 설정 등을 할 수 있습니다.   
