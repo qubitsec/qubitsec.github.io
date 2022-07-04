@@ -8,6 +8,7 @@ topnav: topnav
      계정탈취 보안필터에는 크리덴셜 스터핑, 볼륨 메트릭이 있습니다.
 
 <br />
+
 ▶ 크리덴셜 스터핑이란?
 [https://owasp.org/www-community/attacks/Credential_stuffing](https://owasp.org/www-community/attacks/Credential_stuffing){: target="_blank"}
 

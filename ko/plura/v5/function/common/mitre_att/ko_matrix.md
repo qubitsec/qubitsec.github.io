@@ -17,8 +17,7 @@ topnav: topnav
 
 - 탐지된 ID 클릭 시, 해당 ID 의 탐지 상세 페이지로 이동합니다.
 
-- 매트릭스 우측 상단에 있는 새창보기 버튼 클릭 시, 매트릭스 새창으로 이동합니다.
-
+- 매트릭스 우측 상단에 있는 새창보기 버튼 클릭 시, 매트릭스 새창으로 이동합니다.   
 [![image](/docs/images/Manual/common/mitre/matrix/1.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/1.png){: target="_blank"}
 
 <br />
@@ -27,14 +26,12 @@ topnav: topnav
 
 - 우측 상단에 버튼을 클릭하면, 라이트/다크 모드를 지원합니다.
 
-- 라이트 모드
-
+- 라이트 모드   
 [![image](/docs/images/Manual/common/mitre/matrix/2.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/2.png){: target="_blank"}
 
 <br />
 
-- 다크 모드
-
+- 다크 모드   
 [![image](/docs/images/Manual/common/mitre/matrix/3.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/3.png){: target="_blank"}
 
 <br />
