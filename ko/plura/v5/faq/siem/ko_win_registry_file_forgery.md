@@ -21,6 +21,8 @@ topnav: topnav
 
 [![image](/docs/images/Additianal/win_registry/2.png){: width="800" }](/docs/images/Additianal/win_registry/2.png){: target="_blank"}
 
+<br />
+
 [![image](/docs/images/Additianal/win_registry/3.png){: width="800" }](/docs/images/Additianal/win_registry/3.png){: target="_blank"}
 
 <br />
@@ -40,5 +42,7 @@ topnav: topnav
 ### 2-2. 시스템 필터 탐지에서 파일 위변조에 대한 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Additianal/win_registry/5.png){: width="800" }](/docs/images/Additianal/win_registry/5.png){: target="_blank"}
+
+<br />
 
 [![image](/docs/images/Additianal/win_registry/6.png){: width="800" }](/docs/images/Additianal/win_registry/6.png){: target="_blank"}

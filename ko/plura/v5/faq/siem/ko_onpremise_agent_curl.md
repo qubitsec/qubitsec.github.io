@@ -5,11 +5,11 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-     On-premise 에서 PLURA 에이전트 설치하기 curl
+## [curl] On-premise 에서 PLURA 에이전트 설치하기
 
-## 1. CentOS 6
+### 1. CentOS 6
 
-### 1-1. Change Base CentOS repo
+#### 1-1. Change Base CentOS repo
 
 `mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.org`
 
@@ -22,7 +22,7 @@ topnav: topnav
 
 <br />
 
-### 2-2. Install epel
+#### 1-2. Install epel
 
 `mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org`
 
@@ -43,9 +43,9 @@ or
 
 <br />
 
-## 2. CentOS 7
+### 2. CentOS 7
 
-### 2-1. Change Base CentOS repo
+#### 2-1. Change Base CentOS repo
 
 `mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.org`
 
@@ -58,7 +58,7 @@ or
 
 <br />
 
-### 2-2. Install epel
+#### 2-2. Install epel
 
 `mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.org`
 

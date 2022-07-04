@@ -9,7 +9,8 @@ topnav: topnav
 
 <br />
 
-1. 아래의 링크를 참고하여 OS에 맞는 감사 정책 제거 스크립트를 실행합니다.   
+#### 1. 아래의 링크를 참고하여 OS에 맞는 감사 정책 제거 스크립트를 실행합니다.   
+
 [https://github.com/QubitSecurity/EDR](https://github.com/QubitSecurity/EDR){:target="_blank"}
 
 <br />

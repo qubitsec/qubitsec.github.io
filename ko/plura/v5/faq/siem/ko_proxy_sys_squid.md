@@ -7,8 +7,6 @@ topnav: topnav
 
 Forward 프록시로 squid 사용할 때 PLURA V5 로깅(logging) 연동 설정하는 방법입니다.
 
- 
-
 httpd 와 유사한 로깅 방법은 다음과 같습니다.
 
      logformat httpd %>a %[ui %[un [%tl] “%rm %ru HTTP/%rv” %>Hs %<st “%{Referer}>h” “%{User-Agent}>h” %Ss:%Sh
