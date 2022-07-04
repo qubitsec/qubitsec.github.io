@@ -9,13 +9,7 @@ topnav: topnav
 
 <br />
 
-PLURA V5 탐지/대응 내역을 Syslog 시스템을 이용하여 받기
-
-<br />
-
 ※ PLURA V5 업데이트로 일부 메뉴 및 기능이 아래와 같이 변경되었습니다.
-
-<br />
 
      (2022-06-16) 업데이트
      1.Syslog 연동 메뉴 위치 이동
@@ -27,6 +21,5 @@ PLURA V5 탐지/대응 내역을 Syslog 시스템을 이용하여 받기
 
 내부 블로그  
 
-Function > Common > 관리 > 연동 
-
+- Function > Common > 관리 > 연동   
 [https://qubitsec.github.io/ko_manage_peristalsis.html](https://qubitsec.github.io/ko_manage_peristalsis.html){:target="_blank"}
