@@ -6,8 +6,7 @@ topnav: topnav
 ---
 
 - 사용 : 데이터 유출 설정, 웹 개인 정보 숨김, 웹 탐지 예외 설정, 웹/시스템/응용프로그램/네트워크 업로드 설정을 할 수 있습니다.
-
-※ PLURA V5 Forensic 제품에서는 데이터 유출 설정, 웹/시스템 업로드 설정 기능을 지원하지 않습니다.
+- PLURA V5 Forensic 제품에서는 데이터 유출 설정, 웹/시스템 업로드 설정 기능을 지원하지 않습니다.
 
 [![image](/docs/images/Manual/common/manage/use/1.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
@@ -54,7 +53,8 @@ topnav: topnav
 [![image](/docs/images/Manual/common/manage/use/8.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
-※ [참고] 웹 업로드 Default 설정값
+
+[참고] 웹 업로드 Default 설정값   
 
      Extension : 
      (?i)^(jpg|gif|png|jpeg|ico|bmp|tiff|exif|ppm|pgm|pbm|pnm|mng|pgf|tga|bpg|cgm|svg|hevc|wmv|Xvid|VP6|VP7|VP8|VP9|MPEG-1|MPEF-2|MPEF-4|ACC|mp4|avi|asf|wav|otf|woff|woff2|eot|ttf|less|js|css)$

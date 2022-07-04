@@ -13,7 +13,8 @@ topnav: topnav
 [![image](/docs/images/Manual/common/regi/web/1.png){: width="800" }](/docs/images/Manual/common/regi/web/1.png){: target="_blank"}
 
 <br />
- 사용자정의 필터등록 DEMO
+
+## 사용자정의 필터등록 DEMO
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/y9NnH2fjzEU' frameborder='0' allowfullscreen></iframe></div>
 
@@ -55,9 +56,9 @@ topnav: topnav
 
 - 등록한 필터는 등록 필터 페이지에서 확인할 수 있습니다.
 
-※ **필터를 등록할 때는 과탐/오탐이 발생할 수 있으므로 담당자와 확인 후, 등록하는 것을 추천합니다.**
+- 필터를 등록할 때는 과탐/오탐이 발생할 수 있으므로 담당자와 확인 후, 등록하는 것을 추천합니다.
 
-※ 웹 필터 등록 예시
+- 웹 필터 등록 예시   
 [![image](/docs/images/Manual/common/regi/web/5.png){: width="800" }](/docs/images/Manual/common/regi/web/5.png){: target="_blank"}
 
  

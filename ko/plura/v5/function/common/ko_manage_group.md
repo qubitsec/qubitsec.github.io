@@ -5,10 +5,6 @@ sidebar: M_C
 topnav: topnav
 ---
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BJZZMEvrl-Y' frameborder='0' allowfullscreen></iframe></div>
-
-<br />
-
 - 그룹알림 : PLURA V5 알림(탐지, 방어, 에이전트 중지)을 웹훅 설정으로 수신할 수 있습니다.
 - 에이전트 중지 알림은 온프레미스 환경 전용 기능   
 [![image](/docs/images/Manual/common/manage/group/1.png){: width="800" }](/docs/images/Manual/common/manage/group/1.png){: target="_blank"}
