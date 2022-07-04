@@ -15,6 +15,7 @@ httpd 와 유사한 로깅 방법은 다음과 같습니다.
      access_log /var/log/squid/access.log httpd
 
 <br />
+
 json 으로 PLURA V5 로깅 형태로 저장하는 방법은 다음과 같습니다.
 
 `# vi /etc/squid/squid.conf`
