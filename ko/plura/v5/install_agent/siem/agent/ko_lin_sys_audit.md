@@ -28,8 +28,6 @@ product: Install_A_S
 
 사용자 환경에 따라 아래 패키지를 설치해주세요.
 
-<br />
-
 - CentOS, Red Hat, Amazon Linux   
 `# yum -y install cronie logrotate rsyslog`
 

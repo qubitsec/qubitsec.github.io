@@ -41,21 +41,25 @@ MySQL Error 로그와 Slow-Query 로그 경로를 입력합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/5.png)](/docs/images/Ins_G/mysql_slow/5.png){:target="_blank"}
 
-※ 태그 등록 방법
-
-- 경로 : 관리 > 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
+<br />
 
 [![image](/docs/images/Ins_G/mysql_slow/6.png){: width="800" }](/docs/images/Ins_G/mysql_slow/6.png){:target="_blank"}
 
 <br />
 
-- 등록 버튼을 클릭합니다.
+- 태그 등록 방법
+   - 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.
+   - 경로 : 관리 > 목록 > 응용프로그램 태그 
+
+<br />
+
+- 설정 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/7.png){: width="800" }](/docs/images/Ins_G/mysql_slow/7.png){:target="_blank"}
 
 <br />
 
-- 등록하고자 하는 태그를 입력합니다.
+- 등록 버튼을 클릭하여 등록하고자 하는 태그를 입력합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/8.png){: width="800" }](/docs/images/Ins_G/mysql_slow/8.png){:target="_blank"}
 

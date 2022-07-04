@@ -39,6 +39,8 @@ product: Install_A_S
      if $programname == ‘mysql-slow’ then /var/log/plura/ceelog-127.0.0.1.log;CEETemplate
      :programname, isequal, “mysql-slow” ~
 
+<br />
+
 rsyslog restart
 
 `# systemctl restart rsyslog`

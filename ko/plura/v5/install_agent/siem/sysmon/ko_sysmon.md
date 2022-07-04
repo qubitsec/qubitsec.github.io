@@ -49,9 +49,6 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 ### 1-2. 실행
 
 #### 1-2-1. sysmon-plura.xml 파일을 아래의 경로에서 다운로드합니다.
-
-<br />
-
      [https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml](https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml){:target="_blank"}
 
      PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
