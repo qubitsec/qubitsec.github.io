@@ -62,10 +62,7 @@ topnav: topnav
 ## 3. 화면 설정
 
 - 대시보드 우측 톱니바퀴를 클릭하면 화면설정 페이지가 노출됩니다.   
-[![image](/docs/images/Manual/siem/dash/8.png){: width="800" }](/docs/images/Manual/siem/dash/8.png){: target="_blank"}
-
-<br />
-
+[![image](/docs/images/Manual/siem/dash/8.png){: width="800" }](/docs/images/Manual/siem/dash/8.png){: target="_blank"}   
 [![image](/docs/images/Manual/siem/dash/9.png){: width="800" }](/docs/images/Manual/siem/dash/9.png){: target="_blank"}
 
  <br />
