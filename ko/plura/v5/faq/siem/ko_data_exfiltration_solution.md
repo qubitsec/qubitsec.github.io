@@ -73,7 +73,7 @@ topnav: topnav
 
 <br />
 
-**▣ MIME 타입 정리**
+## 4. MIME 타입 정리
 
 MIME 타입은 개별 타입과 멀티파트 타입으로 구분됩니다.
 

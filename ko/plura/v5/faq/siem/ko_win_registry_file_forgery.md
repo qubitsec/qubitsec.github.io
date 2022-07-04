@@ -11,7 +11,7 @@ topnav: topnav
 
 <br />
 
-### 1-1. 윈도우 레지스트리 위변조를 시도하는 경우,
+### 1-1. 윈도우 레지스트리 위변조 시도
 
 [![image](/docs/images/Additianal/win_registry/1.png){: width="800" }](/docs/images/Additianal/win_registry/1.png){: target="_blank"}
 
@@ -33,7 +33,7 @@ topnav: topnav
 
 <br />
 
-### 2-1. 파일에 접근하여 위변조를 시도하는 경우,
+### 2-1. 파일에 접근하여 위변조 시도
 
 [![image](/docs/images/Additianal/win_registry/4.png){: width="800" }](/docs/images/Additianal/win_registry/4.png){: target="_blank"}
 
