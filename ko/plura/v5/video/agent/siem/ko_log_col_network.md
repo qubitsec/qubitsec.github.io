@@ -32,6 +32,5 @@ topnav: topnav
 
 내부 블로그  
 
-Install Agents > SIEM > PLC > Network
-
+- Install Agents > SIEM > PLC > Network   
 [https://qubitsec.github.io/ko_logcol_network.html](https://qubitsec.github.io/ko_logcol_network.html){:target="_blank"}

@@ -11,6 +11,5 @@ topnav: topnav
 
 내부 블로그  
 
-대시보드
-
+- 대시보드   
 [https://qubitsec.github.io/ko_dash_board.html](https://qubitsec.github.io/ko_dash_board.html){:target="_blank"}

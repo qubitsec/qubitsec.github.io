@@ -11,10 +11,8 @@ topnav: topnav
 
 내부 블로그  
 
-Function > Forensic > 대시보드
-
+- Function > Forensic > 대시보드   
 [https://qubitsec.github.io/ko_dash_for.html](https://qubitsec.github.io/ko_dash_for.html){:target="_blank"}
 
-Install Agents > Forensic > Log-F Agent Srv
-
+- Install Agents > Forensic > Log-F Agent Srv   
 [https://qubitsec.github.io/ko_forensic.html](https://qubitsec.github.io/ko_forensic.html){:target="_blank"}

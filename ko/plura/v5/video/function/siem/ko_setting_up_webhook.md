@@ -12,9 +12,9 @@ topnav: topnav
 
 PLURA V5 탐지/대응 내역을 웹훅 시스템을 이용하여 받기
 
-– 지원 웹훅: 잔디, 구글 챗(舊 행아웃), 슬랙, 텔레그램
+- 지원 웹훅: 잔디, 구글 챗(舊 행아웃), 슬랙, 텔레그램
 
-본 영상에서는 텔레그램으로 진행합니다.
+- 본 영상에서는 텔레그램으로 진행합니다.
 
 <br />
 
@@ -32,14 +32,12 @@ PLURA V5 탐지/대응 내역을 웹훅 시스템을 이용하여 받기
 
 내부 블로그  
 
-Function > Common > 관리 > 그룹알림
-
+- Function > Common > 관리 > 그룹알림   
 [https://qubitsec.github.io/ko_manage_group.html](https://qubitsec.github.io/ko_manage_group.html){:target="_blank"}
 
 <br />
 
 참고 사이트
 
-위키백과 > 웹훅
-
+- 위키백과 > 웹훅   
 [https://ko.wikiqube.net/wiki/Webhook](https://ko.wikiqube.net/wiki/Webhook){:target="_blank"}

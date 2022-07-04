@@ -11,6 +11,5 @@ topnav: topnav
 
 내부 블로그  
 
-Function > Common > 관리 > 사용
-
+- Function > Common > 관리 > 사용   
 [https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){:target="_blank"}

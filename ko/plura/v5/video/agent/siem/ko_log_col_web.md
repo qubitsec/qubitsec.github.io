@@ -19,7 +19,7 @@ topnav: topnav
      - CentOS 7, Stream 8  
      - RHEL 7, 8  
      - AWS Linux AMI 2  
-     - Ubuntu 16, 18, 20
+     - Ubuntu 18, 20, 22
 
 <br />
 
@@ -32,6 +32,5 @@ topnav: topnav
 
 내부 블로그  
 
-Install Agents > SIEM > PLC > Web
-
+- Install Agents > SIEM > PLC > Web   
 [https://qubitsec.github.io/ko_logcol_web.html](https://qubitsec.github.io/ko_logcol_web.html){:target="_blank"}
