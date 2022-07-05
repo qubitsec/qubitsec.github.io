@@ -55,7 +55,8 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
      [https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml](https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml){:target="_blank"}
 
      PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
-     경로 : C:\Program Files (x86)\PLURA
+
+     - **경로 : C:\Program Files (x86)\PLURA**
 
 <br />
 
