@@ -74,4 +74,4 @@ Sysmon 설치 가이드 : [https://qubitsec.github.io/ko_sysmon.html](https://qu
 <br />
  
 ## 3. PLURA 매뉴얼
-- [https://qubitsec.github.io/index.html](https://qubitsec.github.io/index.html){: target="_blank"}
+- [https://qubitsec.github.io/](https://qubitsec.github.io/){: target="_blank"}
