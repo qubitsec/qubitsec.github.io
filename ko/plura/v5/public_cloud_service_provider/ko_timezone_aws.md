@@ -17,7 +17,9 @@ AWS 에서는 Local Time 기본값으로 “GMT” 가 설정됩니다.
 
 <br />
 
-## 2. rsyslog 를 재시작 해줘야 취합로그 시간이 변경 적용됩니다.
+## 2. rsyslog 재시작
+
+rsyslog 를 재시작 해줘야 취합로그 시간이 변경 적용됩니다.
 
 `# service rsyslog restart`
 
