@@ -68,11 +68,11 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 위에서 설명한 Logstash를 이용하여 Linux : Postfix 로그를 PLURA V5에서 수집해보겠습니다.
 
-※ 테스트 환경
+- 테스트 환경
+   - 원격지 서버(자식) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstash 설치
+   - 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
 
-- 원격지 서버(자식) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstash 설치
-
-- 로그 취합서버(부모) : CentOS Linux release 7.9.2009 (Core), 라이센스 등록 및 실행
+<br />
 
 [Install Guide > SIEM > Log Collector > Application[3] : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
 
@@ -84,7 +84,7 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 ### 2-2. 응용프로그램 서버 등록
 
-시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
+- 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.  
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"}
 
@@ -92,7 +92,7 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 ### 2-3. 시스템 등록 팝업 > 원격지(자식) 서버 정보 입력
 
-응용프로그램 사용자정의 로그 수집 경로에 “/var/log/plura/app-logstash-postfix.log”를 입력합니다.
+- 응용프로그램 사용자정의 로그 수집 경로에 “/var/log/plura/app-logstash-postfix.log”를 입력합니다.
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"}
 
@@ -100,7 +100,7 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 ### 2-4. Logstash 실행
 
-시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
+- 시스템 관리에서 경로 설정까지 완료된 후에 Logstash를 실행합니다.
 
 RUN Logstash(foreground)
 
@@ -112,7 +112,7 @@ RUN Logstash(foreground)
 
 - 경로 : 전체로그 > 응용프로그램 > 사용자정의 > postfix
 
-※ 관리 > 사용 > 응용프로그램 > 사용자정의 설정이 ON 상태인 경우에만 메뉴가 노출됩니다.[4]
+- 관리 > 사용 > 응용프로그램 > 사용자정의 설정이 ON 상태인 경우에만 메뉴가 노출됩니다.[4]
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"}
 
@@ -125,13 +125,14 @@ RUN Logstash(foreground)
 
 <br />
 
-Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 확인할 수 있습니다.
+- Postfix 로그가 생성되면 PLURA V5 전체로그(응용프로그램)에서 확인할 수 있습니다.
 
 [![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"}
 
 <br />
 
 ## 4. 참고 사이트
+
 [1] 응용프로그램 로그 업로드 설정하기 : [https://qubitsec.github.io/ko_set_app_log_up.html](https://qubitsec.github.io/ko_set_app_log_up.html){:target="_blank"}
 
 [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}

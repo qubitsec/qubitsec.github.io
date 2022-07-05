@@ -77,6 +77,6 @@ Syslog 재시작
 
 ### 5. 수집된 로그 확인
 
-전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
+- 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Ins_G/LogCol_Net/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/6.png){:target="_blank"}
