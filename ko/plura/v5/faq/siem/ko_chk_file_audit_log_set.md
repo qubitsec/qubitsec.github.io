@@ -129,7 +129,9 @@ PLURA V5 웹에서 Audit 필터를 등록합니다. [(바로가기)](https://qub
 
 <br />
 
-## 6. PLURA V5 에서 Audit 필터 탐지 활용 [(바로가기)](https://qubitsec.github.io/ko_aix_hack_using_audit.html){: target="_blank"}
+## 6. PLURA V5 에서 Audit 필터 탐지 활용 
+
+[(바로가기)](https://qubitsec.github.io/ko_aix_hack_using_audit.html){: target="_blank"}
 
 <br />
 

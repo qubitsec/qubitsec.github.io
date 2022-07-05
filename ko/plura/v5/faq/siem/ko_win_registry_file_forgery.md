@@ -16,7 +16,9 @@ PLURA V5 서비스는 레지스트리 위변조를 탐지할 수 있습니다.
 
 <br />
 
-### 1-2. 시스템 필터 탐지에서 레지스트리 위변조에 대한 로그를 확인할 수 있습니다.
+### 1-2. 수집된 로그 확인
+
+시스템 필터 탐지에서 레지스트리 위변조에 대한 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Additianal/win_registry/2.png){: width="800" }](/docs/images/Additianal/win_registry/2.png){: target="_blank"}
 
@@ -37,7 +39,9 @@ PLURA V5 서비스는 파일 위변조 탐지를 할 수 있습니다.
 
 <br />
 
-### 2-2. 시스템 필터 탐지에서 파일 위변조에 대한 로그를 확인할 수 있습니다.
+### 2-2. 수집된 로그 확인
+
+시스템 필터 탐지에서 파일 위변조에 대한 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Additianal/win_registry/5.png){: width="800" }](/docs/images/Additianal/win_registry/5.png){: target="_blank"}
 
