@@ -24,7 +24,8 @@ topnav: topnav
 
  <br />
 
-## 2. 필터등록 예시 : Windows 필터등록(윈도우 이벤트 ID 5156)
+## 2. 필터등록 예시
+- Windows 필터등록(윈도우 이벤트 ID 5156)
 
 <br />
 
