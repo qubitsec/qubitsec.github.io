@@ -9,7 +9,9 @@ product: Install_A_S
 
 <br />
 
-## 1. Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합니다.
+## 1. PLURA V5 Agent 설치
+
+Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합니다.
 
 페이지 상단 메뉴에서 OS별 선택
 
@@ -17,7 +19,7 @@ product: Install_A_S
  
 <br />
 
-## 2. Solaris Srv 에서 Syslog 전송 설정을 합니다.
+## 2. Solaris Srv 에서 Syslog 전송 설정
 
 `# vi /etc/syslog.conf`
 
@@ -34,7 +36,8 @@ product: Install_A_S
 
 <br />
 
-## 3. www.plura.io 웹에서 시스템 등록을 합니다.
+## 3. 시스템 등록
+
 - **시스템 > 시스템 관리 > 취합 시스템 선택 > 시스템 등록**
 
 [![image](/docs/images/Ins_G/Solaris/Solaris_Srv.png)](/docs/images/Ins_G/Solaris/Solaris_Srv.png){:target="_blank"}

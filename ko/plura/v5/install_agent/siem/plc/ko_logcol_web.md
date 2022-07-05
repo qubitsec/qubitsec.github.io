@@ -26,29 +26,29 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
 <br />
 
-## PLURA V5 Log Collector – Web 설정하기
+## PLURA V5 Log Collector – Web 설정
 
 <br />
 
-### 1. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
+### 1. 로그 취합서버(부모)에 로그콜렉터 설치(by root)
 
 [![image](/docs/images/Ins_G/LogCol_web/1.png){: width="800" }](/docs/images/Ins_G/LogCol_web/1.png){:target="_blank"}
 
 <br />
 
-### 2. 라이센스 등록 및 실행을 합니다.
+### 2. 라이센스 등록 및 실행
 
 [![image](/docs/images/Ins_G/LogCol_web/2.png){: width="800" }](/docs/images/Ins_G/LogCol_web/2.png){:target="_blank"}
 
 <br />
 
-### 3. 웹로그 모듈을 설치합니다.
+### 3. 웹로그 모듈 설치
 
 [![image](/docs/images/Ins_G/LogCol_web/3.png){: width="800" }](/docs/images/Ins_G/LogCol_web/3.png){:target="_blank"}
 
 <br />
 
-### 4. 환경 설정을 합니다.
+### 4. 환경 설정
 
 `# vi /etc/datos/conf/httplogger.conf`   
 
@@ -56,26 +56,34 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
 <br />
 
-### 5. 로그 취합 서버(부모)에 포트미러링을 구성합니다.
+### 5. 로그 취합 서버(부모)에 포트미러링 구성
 
 <br />
 
-### 6. 원격지(자식) 서버를 등록합니다.
+### 6. 원격지(자식) 서버 등록
 
-#### 6-1. 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 웹 버튼을 클릭합니다.
+#### 6-1. 원격지(자식) 등록 경로
+
+시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 웹 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/LogCol_web/5.png){: width="800" }](/docs/images/Ins_G/LogCol_web/5.png){:target="_blank"}
 
-#### 6-2. 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
+#### 6-2. 정보 입력
+
+시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 
 [![image](/docs/images/Ins_G/LogCol_web/6.png)](/docs/images/Ins_G/LogCol_web/6.png){:target="_blank"}
 
-#### 6-3. 시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
+#### 6-3. 등록 완료
+
+시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
 
 [![image](/docs/images/Ins_G/LogCol_web/7.png){: width="800" }](/docs/images/Ins_G/LogCol_web/7.png){:target="_blank"}
 
 <br />
 
-### 7. 전체로그 > 웹 메뉴에서 수집된 로그를 확인할 수 있습니다.
+### 7. 수집된 로그 확인
+
+전체로그 > 웹 메뉴에서 수집된 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Ins_G/LogCol_web/8.png){: width="800" }](/docs/images/Ins_G/LogCol_web/8.png){:target="_blank"}

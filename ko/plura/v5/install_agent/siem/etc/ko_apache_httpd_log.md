@@ -9,7 +9,7 @@ product: Install_A_S
 
 <br />
 
-### 1. conf 설정하기(rsyslog 사용)
+### 1. conf 설정(rsyslog 사용)
 80-httpd.conf → conf 파일 생성하기
 
 `# cd /etc/rsyslog.d/`   

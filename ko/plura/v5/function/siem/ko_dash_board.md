@@ -29,7 +29,9 @@ topnav: topnav
 
 <br />
 
-## 1. 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
+## 1. 실시간 탐지 항목
+
+- 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.   
 [![image](/docs/images/Manual/siem/dash/4.png){: width="800" }](/docs/images/Manual/siem/dash/4.png){: target="_blank"}
 

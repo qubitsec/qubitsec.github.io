@@ -11,7 +11,9 @@ product: Install_A_S
 
 <br />
 
-## 1. Syslog Audit 활성화(아래 1, 2번 중 선택 사용)
+## 1. Syslog Audit 활성화
+
+- 아래 1-1, 1-2번 중 선택 사용
 
 <br />
 

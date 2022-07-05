@@ -30,7 +30,7 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
 <br />
 
-### 1. 원격지(자식) 서버에 Syslog 전송 설정을 합니다.
+### 1. 원격지(자식) 서버에 Syslog 전송 설정
 
 <br />
 
@@ -52,7 +52,7 @@ Syslog 재시작
 
 <br />
 
-### 2. 로그 취합서버(부모)에 로그콜렉터를 설치합니다.(by root)
+### 2. 로그 취합서버(부모)에 로그콜렉터 설치(by root)
 
 
 `# sudo -s`
@@ -61,13 +61,13 @@ Syslog 재시작
 
 <br />
 
-### 3. 라이센스 등록 및 실행을 합니다.
+### 3. 라이센스 등록 및 실행
 
 `# /etc/plura/plura.sh register 라이센스키`
 
 <br />
 
-### 4. 원격지(자식) 서버를 등록합니다.
+### 4. 원격지(자식) 서버 등록
 
 - 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 시스템 버튼을 클릭합니다.
 
@@ -87,6 +87,8 @@ Syslog 재시작
 
 <br />
 
-### 5. 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
+### 5. 수집된 로그 확인
+
+- 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
 
 [![image](/docs/images/Ins_G/logCol_system/sys_6.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_6.png){:target="_blank"}
