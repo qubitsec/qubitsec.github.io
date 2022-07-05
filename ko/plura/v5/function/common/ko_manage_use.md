@@ -14,7 +14,6 @@ topnav: topnav
 
 ## 1. 예시) pwd에 대한 값을 숨김 설정하기
 - 웹 개인정보 숨김 : 웹로그 사용 시 개인정보 숨김 설정이 가능하며 설정하면 해당 정보를 *로 표시합니다.
-
 - 아래와 같이 pwd 값이 그대로 노출되고 있는 웹로그를 예로 들어 숨김 설정을 해보도록 하겠습니다.
 
 [![image](/docs/images/Manual/common/manage/use/2.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
@@ -34,16 +33,14 @@ topnav: topnav
 ### 1-3. 개인정보 숨김 설정이 정상적으로 적용된 것을 확인할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/5.png)](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
- - 웹탐지예외 : 전체로그에는 올라오지만 탐지로그에는 올라오지 않도록 설정할 수 있습니다.
-
-예시) host 주소가 123.34.45.1 인 로그는 탐지가 안되도록 설정 하고 싶으면 host 선택 후 123.34.45.1 을 기입하면 됩니다.
-
-   - 관리 > 사용 > 웹탐지예외 > 예외설정 추가 선택   
+- 웹탐지예외 : 전체로그에는 올라오지만 탐지로그에는 올라오지 않도록 설정할 수 있습니다.
+   - 예시) host 주소가 123.34.45.1 인 로그는 탐지가 안되도록 설정 하고 싶으면 host 선택 후 123.34.45.1 을 기입하면 됩니다.
+- 관리 > 사용 > 웹탐지예외 > 예외설정 추가 선택   
 [![image](/docs/images/Manual/common/manage/use/6.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
  
 <br />
 
-   - 그룹에서 +로 추가하는 항목들은 AND 조건, 그룹 간에는 OR 조건입니다.   
+- 그룹에서 +로 추가하는 항목들은 AND 조건, 그룹 간에는 OR 조건입니다.   
 [![image](/docs/images/Manual/common/manage/use/7.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
@@ -64,7 +61,7 @@ topnav: topnav
 
 <br />
 
-   - 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
+- 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/9.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
 <br />
