@@ -58,6 +58,7 @@ File = “로그 경로”, Tag = “태그”, Severity = “심각도”, prog
 
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.
+
 [Syslog 필터등록](https://qubitsec.github.io/ko_f_regi_syslog.html){:target="_blank"}
 
 <br />

@@ -25,9 +25,8 @@ product: Install_A_S
 ## 3. conf 파일 생성 예시
 
 - File = “로그 경로”, Tag = “로그 태그”, Severity = “심각도”   
-- 파일명에 와일드카드를 사용해야 하는 경우는 __rsyslog 버전 8.25 이상__ 을 사용하셔야 합니다.   
-- 최신 rsyslog 설치하기 바로가기
-
+- 파일명에 와일드카드를 사용해야 하는 경우는 __rsyslog 버전 8.25 이상__ 을 사용하셔야 합니다.
+   
      #variables required for non-syslog log file forwarding – application log file
      #edit on your location
 
