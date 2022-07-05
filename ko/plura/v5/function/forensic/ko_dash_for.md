@@ -19,7 +19,9 @@ topnav: topnav
 
 <br />
 
-## 1. 마이터 / 상관분석 / 시스템로그
+## 1. 실시간 탐지 항목
+
+- 마이터 / 상관분석 / 시스템로그
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.   
 [![image](/docs/images/Manual/forensic/dash/1.png){: width="800" }](/docs/images/Manual/forensic/dash/1.png){: target="_blank"}
 

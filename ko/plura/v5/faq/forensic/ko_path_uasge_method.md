@@ -39,37 +39,41 @@ topnav: topnav
 
 <br />
 
-### 2-1. PLURA V5 Forensic Agent 로그인을 합니다.
+### 2-1. PLURA V5 Forensic Agent 로그인
 
 [![image](/docs/images/Additianal/path/2.png){: width="800" }](/docs/images/Additianal/path/2.png){: target="_blank"}
 
 <br />
 
-### 2-2. 로그 업로드를 진행할 운영체제 및 로그년도를 선택합니다.
+### 2-2. 로그 업로드를 진행할 운영체제 및 로그년도 선택
 
 [![image](/docs/images/Additianal/path/3.png){: width="800" }](/docs/images/Additianal/path/3.png){: target="_blank"}
 
 <br />
 
-### 2-3. 시스템/호스트명/닉네임을 입력한 후, “Select” 버튼을 클릭하여 로그가 있는 경로를 선택합니다.
+### 2-3. 정보 및 경로 입력
+
+시스템/호스트명/닉네임을 입력한 후, “Select” 버튼을 클릭하여 로그가 있는 경로를 선택합니다.
 
 [![image](/docs/images/Additianal/path/4.png){: width="800" }](/docs/images/Additianal/path/4.png){: target="_blank"}
 
 <br />
 
-### 2-4. “Start” 버튼을 클릭하여 로그업로드를 진행합니다.
+### 2-4. “Start” 버튼을 클릭하여 로그업로드 진행
 
 [![image](/docs/images/Additianal/path/5.png){: width="800" }](/docs/images/Additianal/path/5.png){: target="_blank"}
 
 <br />
 
-### 2-5. 로그 업로드가 진행 중에는 “START” 버튼이 “STOP” 버튼으로 변경되며, 업로드를 중지할 수 있습니다.
+### 2-5. 업로드 중지
+
+로그 업로드가 진행 중에는 “START” 버튼이 “STOP” 버튼으로 변경되며, 업로드를 중지할 수 있습니다.
 
 [![image](/docs/images/Additianal/path/6.png){: width="800" }](/docs/images/Additianal/path/6.png){: target="_blank"}
 
 <br />
 
-### 2-6. 로그업로드가 완료되었습니다.
+### 2-6. 로그업로드 완료
 
 PLURA V5 에서 정상적으로 업로드 된 로그를 확인해주세요.
 

@@ -11,21 +11,19 @@ topnav: topnav
 
 <br />
 
-## 1.  알림 기능은 우측 상단의 계정명에 마우스 오버 시 나타나는 개인알림 메뉴에서 설정할 수 있습니다.
-
+## 1. 메뉴 위치
+- 알림 기능은 우측 상단의 계정명에 마우스 오버 시 나타나는 개인알림 메뉴에서 설정할 수 있습니다.   
 [![image](/docs/images/Manual/common/personal/1.png)](/docs/images/Manual/common/personal/1.png){: target="_blank"}
 
 <br />
 
-## 2. 개인알림 메뉴에 들어가시면 다음과 같은 설정 페이지를 볼 수 있습니다.
-
-<br />
-
+## 2. 수정하기
+- 개인알림 메뉴에 들어가시면 다음과 같은 설정 페이지를 볼 수 있습니다.   
 [![image](/docs/images/Manual/common/personal/2.png)](/docs/images/Manual/common/personal/2.png){: target="_blank"} **버튼을 클릭하여 설정을 변경할 수 있습니다.**
 
 <br />
 
-## 3. 알림설정의 종류
+## 3. 알림 설정의 종류
 
 - 기본 : 알림 간격을 설정할 수 있습니다.
 

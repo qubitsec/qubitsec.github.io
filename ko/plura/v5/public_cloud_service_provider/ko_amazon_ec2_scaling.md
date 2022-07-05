@@ -20,7 +20,9 @@ topnav: topnav
 
 <br />
 
-## 3. PLURA 에이전트에서 다음과 같이 Auto Scaling 에서 활용할 기능을 설정할 수 있습니다.
+## 3. PLURA 에이전트 설정
+
+PLURA 에이전트에서 다음과 같이 Auto Scaling 에서 활용할 기능을 설정할 수 있습니다.
 
      [root@localhost]# vi /etc/plura/conf/plura.conf
 

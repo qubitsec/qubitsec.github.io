@@ -17,7 +17,7 @@ topnav: topnav
 
 <br />
 
-## 1. 클라이언트: Apache Httpd 웹 접속 로그를 생성
+## 1. 클라이언트: Apache Httpd 웹 접속 로그 생성
 
  환경: CentOS 7 (64비트), Rsyslog 8.24.0-57.el7_9.1
 

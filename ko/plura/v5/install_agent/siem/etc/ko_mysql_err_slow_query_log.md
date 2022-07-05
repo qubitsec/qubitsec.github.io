@@ -12,32 +12,36 @@ product: Install_A_S
 
 ## 1. 응용프로그램 로그 수집 설정
 
-### 1-1. 시스템  > 시스템 관리 > 서버 선택 > 설정 탭 이동 > 설정 버튼을 클릭합니다.
+### 1-1. 설정 경로
+
+시스템  > 시스템 관리 > 서버 선택 > 설정 탭 이동 > 설정 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"}
 
 <br />
 
-### 1-2. 응용프로그램 원본로그 수집 설정을 활성화합니다.
+### 1-2. 응용프로그램 원본로그 수집 설정 활성화
 
 [![image](/docs/images/Ins_G/mysql_slow/2.png){: width="800" }](/docs/images/Ins_G/mysql_slow/2.png){:target="_blank"}
 
 <br />
 
-### 1-3. 경로 > 설정 버튼을 클릭합니다.
+### 1-3. 경로 > 설정 버튼 클릭
 
 [![image](/docs/images/Ins_G/mysql_slow/3.png){: width="800" }](/docs/images/Ins_G/mysql_slow/3.png){:target="_blank"}
 
 <br />
 
-### 1-4. 태그 선택 및 경로를 입력합니다.
+### 1-4. 태그 선택 및 경로 입력
 MySQL Error 로그와 Slow-Query 로그 경로를 입력합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/4.png)](/docs/images/Ins_G/mysql_slow/4.png){:target="_blank"}
 
 <br />
 
-### 1-5. 태그가 정상적으로 등록되었는지 확인 후, 수정 버튼을 클릭합니다.
+### 1-5. 입력 정보 확인
+
+태그가 정상적으로 등록되었는지 확인 후, 수정 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/5.png)](/docs/images/Ins_G/mysql_slow/5.png){:target="_blank"}
 

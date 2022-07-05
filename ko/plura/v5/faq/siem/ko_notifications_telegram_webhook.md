@@ -35,6 +35,8 @@ topnav: topnav
 
 <br />
 
-### 2-3. 확인한 정보를 PLURA V5 알림설정에 등록
+### 2-3. 알림 설정
+
+확인한 정보를 PLURA V5 알림설정에 등록
 
      예) https://api.telegram.org/bot{Token}/sendmessage?parse_mode=Markdown&chat_id={id}

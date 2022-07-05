@@ -5,7 +5,9 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-## 1. 파일 감사 설정하기 [(바로가기)](https://qubitsec.github.io/ko_chk_file_audit_log_set.html){: target="_blank"}
+## 1. 파일 감사 설정하기 
+
+[(바로가기)](https://qubitsec.github.io/ko_chk_file_audit_log_set.html){: target="_blank"}
 
 <br />
 
@@ -20,7 +22,7 @@ PLURA V5 서비스는 파밍 공격을 탐지할 수 있습니다.
 
 <br />
 
-### 2-2.  PLURA V5 서비스에서 탐지할 수 있습니다.
+### 2-2.  PLURA V5에서 탐지
 
 [![image](/docs/images/Additianal/aix/2.png){: width="800" }](/docs/images/Additianal/aix/2.png){: target="_blank"}
 
@@ -37,6 +39,6 @@ PLURA V5 서비스는 홈페이지 위변조 공격을 탐지할 수 있습니�
 
 <br />
 
-### 3-2. PLURA V5 서비스에서 탐지할 수 있습니다.
+### 3-2. PLURA V5에서 탐지
 
 [![image](/docs/images/Additianal/aix/4.png){: width="800" }](/docs/images/Additianal/aix/4.png){: target="_blank"}

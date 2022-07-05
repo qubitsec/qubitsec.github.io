@@ -48,15 +48,21 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 ### 1-2. 실행
 
-#### 1-2-1. sysmon-plura.xml 파일을 아래의 경로에서 다운로드합니다.
+#### 1-2-1. 파일 다운로드
+
+- sysmon-plura.xml 파일을 아래의 경로에서 다운로드합니다.
+
      [https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml](https://github.com/QubitSecurity/sysmon/blob/master/sysmon-plura.xml){:target="_blank"}
 
      PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
-     경로 : C:\Program Files (x86)\PLURA
+
+     - **경로 : C:\Program Files (x86)\PLURA**
 
 <br />
 
-#### 1-2-2. 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후 아래의 명령어를 입력합니다.
+#### 1-2-2. 명령어 입력
+
+- 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후 아래의 명령어를 입력합니다.
 
 `# sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”`
 
@@ -70,7 +76,7 @@ Agent 에서 SYSMON 설치 확인
 
 <br />
 
-## 2. Sysmon 이벤트확인
+## 2. Sysmon 이벤트 확인
 
 Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 추가됩니다.
 
@@ -94,8 +100,9 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
  
 <br />
 
-## 4. Sysmon 로그를 PLURA V5 웹 페이지에서 확인할 수 있습니다.
+## 4. Sysmon 로그 확인
 
+- Sysmon 로그를 PLURA V5 웹 페이지에서 확인할 수 있습니다.
 - 필터탐지 > 시스템
 - 전체로그 > 시스템
 

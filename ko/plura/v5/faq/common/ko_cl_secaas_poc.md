@@ -65,10 +65,11 @@ topnav: topnav
 
 ### 2-3. 에이전트 설치 – 원격지원
 
-사전 필요 정보   
-- 대상 서버의 접속정보 (root 권한 필요)   
-- 대상 서버의 OS 버전, 웹서버 App, 웹서비스 포트 정보 (예 : CentOS 7 / Apache 2.4 / TCP 80)
-- Windows 의 경우 Sysmon 을 설치하시면 보다 상세한 로그를 확인할 수 있으니 설치를 권장   
+- 필요한 사전 정보   
+
+  - 대상 서버의 접속정보 (root 권한 필요)   
+  - 대상 서버의 OS 버전, 웹서버 App, 웹서비스 포트 정보 (예 : CentOS 7 / Apache 2.4 / TCP 80)
+  - Windows 의 경우 Sysmon 을 설치하시면 보다 상세한 로그를 확인할 수 있으니 설치를 권장   
 Sysmon 설치 가이드 : [https://qubitsec.github.io/ko_sysmon.html](https://qubitsec.github.io/ko_sysmon.html){: target="_blank"}
 
 <br />
