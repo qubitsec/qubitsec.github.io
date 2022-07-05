@@ -530,3 +530,102 @@ ul#docnavsidebar li a:focus {
 .footer-Copyright {padding:10px 0 0; color:#f8f8f8; text-align:center;}
 
 .row-offcanvas-left {padding-bottom:100px}
+
+ul.social-icons-simple li,
+ul.social-icons li {
+    display: inline-block;
+}
+
+ul.social-icons li a,
+ul.social-icons-simple li a {
+    height: 30px;
+    line-height: 27px;
+    width: 30px;
+    font-size: 14px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    margin: 0 1px;
+    text-align: center;
+    display: block;
+    color: #26313c;
+    position: relative;
+    z-index: 1;
+    border: 1px solid #7c7c7c;
+}
+ul.no-border li a{
+    border: none !important;
+}
+
+ul.social-icons-simple li a {
+    border: none;
+}
+
+ul.social-icons.whitebg li a {
+    background: #fff;
+}
+
+ul.social-icons li:last-child a {
+    margin-right: 0;
+}
+
+ul.social-icons li:first-child a {
+    margin-left: 0;
+}
+
+ul.social-icons li a::before,
+ul.social-icons-simple li a::before {
+    content: "";
+    position: absolute;
+    left: -1px;
+    right: -1px;
+    bottom: -1px;
+    top: -1px;
+    opacity: 0;
+    visibility: hidden;
+    background: #24cdd5;
+    border-radius: inherit;
+    z-index: -1;
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -o-transform: scale(.5);
+    transform: scale(.5);
+}
+
+ul.social-icons li a:hover::before,
+ul.social-icons li a:focus::before,
+ul.social-icons-simple li a:hover::before,
+ul.social-icons-simple li a:focus::before {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+
+ul.social-icons.white li a,
+ul.social-icons-simple.white li a,
+ul.social-icons li a:hover,
+ul.social-icons li a:focus,
+ul.social-icons.white li a:hover,
+ul.social-icons.white li a:focus {
+    color: #fff;
+}
+/*icon bg bover */
+.facebook:before{
+    background-color: #4267B2 !important;
+}
+.twitter:before{
+    background-color: #1DA1F2 !important;
+}
+.insta:before{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%) !important;
+}
+.linkedin:before{
+    background-color: #0077B5 !important;
+}
+.whatsapp:before{
+    background-color: #09cc16 !important;
+}
+
+.font-normal {font-style: normal;}
