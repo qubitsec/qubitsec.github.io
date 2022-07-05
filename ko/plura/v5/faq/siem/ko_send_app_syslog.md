@@ -5,7 +5,7 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-**시나리오는 다음과 같습니다.**
+시나리오는 다음과 같습니다.
 
      클라이언트의 응용프로그램 로그를 “PLURA V5 Log Collector 서버” 이용하여 전송하는 방법
 
