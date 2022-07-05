@@ -17,7 +17,7 @@ product: Install_A_S
 
 <br />
 
-### 1-1. Audit Log 패키지 개별 설치를 진행합니다.
+### 1-1. Audit Log 패키지 개별 설치
 
 - CentOS, Red Hat, Amazon Linux   
 `# yum -y install audit audisp-plugins`
@@ -39,7 +39,7 @@ product: Install_A_S
 
 <br />
 
-### 1-2. Syslog+Audit 로그 패키지 통합 설치를 진행합니다.
+### 1-2. Syslog+Audit 로그 패키지 통합 설치
 
 - PLURA V5 Agent 사전 설치 필요
 - 통합 설치   
@@ -47,7 +47,9 @@ product: Install_A_S
 
 <br />
 
-## 2. 활성화 한 Audit로그는 다음의 메뉴에서 확인하실 수 있습니다.
+## 2. Audit 로그 확인
+
+활성화 한 Audit로그는 다음의 메뉴에서 확인하실 수 있습니다.
 
 - 필터탐지 > 시스템
 - 전체로그 > 시스템

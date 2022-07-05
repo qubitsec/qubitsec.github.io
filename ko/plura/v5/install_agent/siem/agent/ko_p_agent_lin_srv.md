@@ -18,7 +18,7 @@ product: Install_A_S
 
 <br />
 
-## 1. PLURA V5 Agent를 설치합니다.
+## 1. PLURA V5 Agent 설치
 
 `# sudo -s`
 
@@ -26,13 +26,13 @@ product: Install_A_S
 
 <br />
 
-## 2. 라이센스 등록 및 실행 합니다.
+## 2. 라이센스 등록 및 실행
 
 `# /etc/plura/plura.sh register ****`
 
 <br />
 
-## 3. 설치 정보를 확인합니다.
+## 3. 설치 정보 확인
 
 `# /etc/plura/pluraagent -version`
 
@@ -52,11 +52,11 @@ __PLURA V5 Agent Linux Srv 설치 영상__
 
 <br />
 
-## 4. 추가 설정이 필요하면 아래와 같이 파일을 추가합니다.
+## 4. 파일 추가
 
+추가 설정이 필요하면 아래와 같이 파일을 추가합니다.
 
 설치 경로를 선택할 수 있습니다.
-
 
 `# vi /etc/plura/conf/plura.conf`
 
