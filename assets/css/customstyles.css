@@ -531,15 +531,12 @@ ul#docnavsidebar li a:focus {
 
 .row-offcanvas-left {padding-bottom:100px}
 
-ul.social-icons-simple li,
-ul.social-icons li {
-    display: inline-block;
-}
+ul.social-icons-simple li, ul.social-icons li {display: inline-block;}
 
 ul.social-icons li a,
 ul.social-icons-simple li a {
     height: 30px;
-    line-height: 27px;
+    line-height: 0;
     width: 30px;
     font-size: 14px;
     -webkit-border-radius: 50%;
@@ -551,27 +548,13 @@ ul.social-icons-simple li a {
     position: relative;
     z-index: 1;
     border: 1px solid #7c7c7c;
+    margin-top:10px
 }
-ul.no-border li a{
-    border: none !important;
-}
-
-ul.social-icons-simple li a {
-    border: none;
-}
-
-ul.social-icons.whitebg li a {
-    background: #fff;
-}
-
-ul.social-icons li:last-child a {
-    margin-right: 0;
-}
-
-ul.social-icons li:first-child a {
-    margin-left: 0;
-}
-
+ul.no-border li a{border: none !important;}
+ul.social-icons-simple li a {border: none;}
+ul.social-icons.whitebg li a {background: #fff;}
+ul.social-icons li:last-child a {margin-right: 0;}
+ul.social-icons li:first-child a {margin-left: 0;}
 ul.social-icons li a::before,
 ul.social-icons-simple li a::before {
     content: "";
@@ -611,21 +594,14 @@ ul.social-icons.white li a:hover,
 ul.social-icons.white li a:focus {
     color: #fff;
 }
+
+ul.social-icons li a i {margin-left:-4px}
+
 /*icon bg bover */
-.facebook:before{
-    background-color: #4267B2 !important;
-}
-.twitter:before{
-    background-color: #1DA1F2 !important;
-}
-.insta:before{
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%) !important;
-}
-.linkedin:before{
-    background-color: #0077B5 !important;
-}
-.whatsapp:before{
-    background-color: #09cc16 !important;
-}
+.facebook:before{background-color: #4267B2 !important;}
+.twitter:before{background-color: #1DA1F2 !important;}
+.insta:before{background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%) !important;}
+.linkedin:before{background-color: #0077B5 !important;}
+.whatsapp:before{background-color: #09cc16 !important;}
 
 .font-normal {font-style: normal;}
