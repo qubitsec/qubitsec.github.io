@@ -8,6 +8,15 @@ topnav: topnav
      PLURA V5에서 수집하고 있는 네트워크 전체로그를 활용하여
      사용자가 직접 원하는 네트워크 필터를 만들 수 있습니다.
 
+     필터 등록 지원 대상
+     1) Firewall - juniper, secui
+     2) IPS - Snipe, sonicawall, fortigate
+     3) WAF - baracuda, webfront-k
+     4) Switch - cisco, huawei
+     5) VPN - secuway
+     * 계속하여 지원 확대 중
+
+
 ## 네트워크 필터 등록
 
 [![image](/docs/images/Manual/common/regi/network/1.png){: width="800" }](/docs/images/Manual/common/regi/network/1.png){: target="_blank"}
