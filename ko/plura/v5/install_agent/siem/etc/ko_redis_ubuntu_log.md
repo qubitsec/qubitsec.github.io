@@ -1,5 +1,5 @@
 ---
-title: Redis(Ununtu) 로그
+title: Redis 로그
 permalink: ko_redis_ubuntu_log.html
 sidebar: Install_A_S
 product: Install_A_S
