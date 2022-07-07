@@ -1,5 +1,5 @@
 ---
-title: MySQL(CentOS) 로그
+title: MySQL 로그
 permalink: ko_mysql_log.html
 sidebar: Install_A_S
 product: Install_A_S

@@ -1,5 +1,5 @@
 ---
-title: PostgreSQL(CentOS) 로그
+title: PostgreSQL 로그
 permalink: ko_postgresql_cent_log.html
 sidebar: Install_A_S
 product: Install_A_S
