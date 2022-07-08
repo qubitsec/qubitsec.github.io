@@ -90,6 +90,9 @@ folders:
 - title: 모의해킹
   folderitems:
 
+  - title: 데모 공격 시나리오
+    url: /ko_demo_attack_scenario.html
+
   - title: 재전송공격 사용법 안내 
     url: /ko_hack_re_attack.html
 
