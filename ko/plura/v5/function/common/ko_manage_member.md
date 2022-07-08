@@ -13,6 +13,7 @@ topnav: topnav
 
 - 멤버 추가 : 협업 동료를 추가하여 로그 분석 업무를 함께 수행할 수 있도록 설정할 수 있습니다.
 
+- 온프레미스 환경에서는 아래 그림과 같이 멤버를 추가할 수 있고, 클라우드 환경에서는 이메일로 초대를 보내게 됩니다.   
  [![image](/docs/images/Manual/common/manage/member/2.png)](/docs/images/Manual/common/manage/member/2.png){: target="_blank"}
 
 - 설정 : 권한을 변경/삭제하거나 소속 그룹을 설정할 수 있습니다.(관리자에게만 노출)
