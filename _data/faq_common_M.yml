@@ -27,3 +27,16 @@ folders:
 
   - title: 응용프로그램
     url: /ko_set_app_log_up.html
+
+  folders:
+- title: 가입/계정관리
+  folderitems:
+
+  - title: 회원가입 인증메일이 오지않아요
+    url: /ko_sign_up_mail.html
+
+  - title: 멤버가입은 어떻게 하나요
+    url: /ko_member_invite.html
+
+  - title: 회원탈퇴는 어떻게 하나요
+    url: /ko_plura_withdraw.html
