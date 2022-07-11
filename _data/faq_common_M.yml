@@ -40,3 +40,10 @@ folders:
 
   - title: 회원탈퇴는 어떻게 하나요
     url: /ko_plura_withdraw.html
+
+  folders:
+- title: 에이전트
+  folderitems:
+
+  - title: PLURA Agent 최소/권장사양
+    url: /ko_agent_install_recommend.html
