@@ -5,6 +5,8 @@ sidebar: faq_common_M
 topnav: topnav
 ---
 
+<br />
+
      메일로 문의하기를 통해 회원탈퇴가 가능합니다.
      
      - support@qubitsec.com 로 간단한 사유와 함께 탈퇴 요청을 해주시면 처리하겠습니다.

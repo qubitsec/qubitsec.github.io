@@ -45,5 +45,8 @@ folders:
 - title: 에이전트
   folderitems:
 
-  - title: PLURA Agent 최소/권장사양
+  - title: 최소/권장사양
     url: /ko_agent_install_recommend.html
+
+  - title: 지원 운영체제
+    url: /ko_support_os.html
