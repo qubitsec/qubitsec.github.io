@@ -50,3 +50,20 @@ folders:
 
   - title: 지원 운영체제
     url: /ko_support_os.html
+
+  folders:
+- title: 요금
+  folderitems:
+
+  - title: 이용요금
+    url: /ko_service_price.html
+
+  - title: 요금납부
+    url: /ko_servicep_payment.html
+
+  folders:
+- title: 기타
+  folderitems:
+
+  - title: PLURA Port/Address
+    url: /ko_agent_port_address.html
