@@ -64,6 +64,16 @@ folders:
     url: /ko_agent_uninstall.html
 
   folders:
+- title: 서비스
+  folderitems:
+
+  - title: 개인정보를 숨길 수 있는 기능이 있나요
+    url: /ko_personal_information_hidden.html
+
+  - title: 웹 탐지 예외를 하고 싶어요
+    url: /ko_web_detect_exception.html
+
+  folders:
 - title: 요금
   folderitems:
 
