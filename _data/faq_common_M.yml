@@ -51,6 +51,15 @@ folders:
   - title: 지원 운영체제
     url: /ko_support_os.html
 
+  - title: 윈도우 에이전트 설치 권한
+    url: /ko_window_agent_install_authority.html
+
+  - title: 에이전트 업데이트
+    url: /ko_agent_update.html
+
+  - title: 에이전트 삭제
+    url: /ko_agent_uninstall.html
+
   folders:
 - title: 요금
   folderitems:
