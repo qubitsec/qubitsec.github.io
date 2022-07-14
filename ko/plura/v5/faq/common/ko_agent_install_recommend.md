@@ -9,14 +9,14 @@ topnav: topnav
 
 <br />
 
-**Windows**
-     
-     - 최소 사양 : CPU Intel Pentium4 1GHz / Memory 2 GB 이상
-     - 권장 사양 : CPU Intel Core i5 2GHz / Memory 4 GB 이상
+### 1. Windows
+
+     최소 사양 : CPU Intel Pentium4 1GHz / Memory 2 GB 이상
+     권장 사양 : CPU Intel Core i5 2GHz / Memory 4 GB 이상
 
 <br />
 
-**Linux**
-     
-     - 최소 사양 : CPU Intel Pentium4 1GHz / Memory 1 GB 이상
-     - 권장 사양 : CPU Intel Core i5 2GHz / Memory 2 GB 이상
+### 2. Linux
+
+     최소 사양 : CPU Intel Pentium4 1GHz / Memory 1 GB 이상
+     권장 사양 : CPU Intel Core i5 2GHz / Memory 2 GB 이상

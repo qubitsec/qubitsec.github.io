@@ -57,6 +57,9 @@ folders:
   - title: 에이전트 업데이트
     url: /ko_agent_update.html
 
+  - title: 프로세스별 역할
+    url: /ko_process_role.html    
+
   - title: 에이전트 삭제
     url: /ko_agent_uninstall.html
 
