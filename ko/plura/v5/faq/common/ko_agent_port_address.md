@@ -14,10 +14,11 @@ topnav: topnav
 **Windows / CentOS / Red Hat / Ubuntu**
      
      https://apis.plura.io
-     https://rpms.plura.io
      https://repo.plura.io
-     https://uploadweb.plura.io
      https://uploadsys.plura.io
+     https://uploadweb.plura.io
+     https://uploadnet.plura.io
+     https://uploadapp.plura.io
+     https://uploadres.plura.io     
      
-     아웃바운드 SSL연결만을 사용하기에 일반적으로 https가 서비스되는 포트인 
-     443 포트를 허용해주시면 됩니다.
+     아웃바운드 SSL 연결만을 사용하기에 일반적으로 https가 서비스되는 포트인 443 포트를 허용해주시면 됩니다.
