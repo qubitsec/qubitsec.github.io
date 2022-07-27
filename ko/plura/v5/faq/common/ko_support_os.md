@@ -40,7 +40,7 @@ topnav: topnav
      FreeBSD 10 이상 
      HP-UX 11i v3 이상 
      Solaris 11.3 이상 
-     AIX 7.2이상 
+     AIX 7.2 이상 
 
 <br />
 
