@@ -137,6 +137,6 @@ RUN Logstash(foreground)
 
 [2] Logstash 정의 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
 
-[3] Install Guide > SIEM > Log Collector > Application : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
+[3] Install Guide > SIEM > PLC > Application : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
 
 [4] Manual > Common > 관리 > 사용 : [https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){:target="_blank"}
