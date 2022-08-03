@@ -31,18 +31,19 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 
 ### 1. 원격지(자식) 장비에 Syslog 전송 설정
 **※ 자식 시스템 설정하기**
-Syslog 전송 설정 (by root)
 
-`# vi /etc/rsyslog.conf`
+- Syslog 전송 설정 (by root)
 
-     <예>
-     *.info @로그취합시스템IP
+  `# vi /etc/rsyslog.conf`
+     
+        <예>
+        *.info @로그취합시스템IP주소
 
 <br />
 
-Syslog 재시작
+- Syslog 재시작
 
-`# service rsyslog restart`
+  `# service rsyslog restart`
 
 <br />
 
