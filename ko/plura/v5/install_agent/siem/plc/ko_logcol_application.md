@@ -5,14 +5,14 @@ sidebar: Install_A_S
 product: Install_A_S
 ---
 
-     PLURA V5 Log Collector-Application의 역할
+     PLURA Log Collector (PLC) - Application의 역할
 
      1. 다른 시스템의 Application log 를 취합
      2. 취합한 Application log 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
-   PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
+   PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 
      CentOS 7, Stream 8
      RHEL 7, 8
@@ -25,7 +25,7 @@ product: Install_A_S
 
 <br />
 
-## PLURA V5 Log Collector – Application 설정하기
+## PLURA Log Collector (PLC) – Application 설정하기
 
 <br />
 
@@ -36,9 +36,11 @@ product: Install_A_S
 
 <br />
 
-### 2. 로그 취합서버(부모)에 로그콜렉터 설치(by root)
+### 2. 로그 취합서버(부모)에 PLC 설치(by root)
 
-[![image](/docs/images/Ins_G/LogCol_app/app_2.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_2.png){: target="_blank"}
+`# sudo -s`
+
+`# curl https://repo.plura.io/v5/PLC/install.sh | bash`
 
 <br />
 

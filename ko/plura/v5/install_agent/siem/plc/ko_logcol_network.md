@@ -5,14 +5,14 @@ sidebar: Install_A_S
 product: Install_A_S
 ---
 
-     PLURA V5 Log Collector-Network의 역할
+     PLURA Log Collector (PLC) - Network의 역할
 
      – 다른 네트워크 장비 등의 시스템 로그를 Syslog 형태로 취합
      – 취합한 로그를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
-PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
+PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 
      CentOS 7, Stream 8
      RHEL 7, 8
@@ -25,7 +25,7 @@ PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
 
 <br />
 
-## PLURA V5 Log Collector – Network 설정
+## PLURA Log Collector (PLC) – Network 설정
 
 <br />
 
@@ -46,10 +46,10 @@ Syslog 재시작
 
 <br />
 
-### 2. 로그 취합서버(부모)에 로그콜렉터 설치(by root)
+### 2. 로그 취합서버(부모)에 PLC 설치(by root)
 
 `# sudo -s`
-`# curl https://repo.plura.io/v5/logcollector/install.sh | bash`
+`# curl https://repo.plura.io/v5/PLC/install.sh | bash`
 
 <br />
 

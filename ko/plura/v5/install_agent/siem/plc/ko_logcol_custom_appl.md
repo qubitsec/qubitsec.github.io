@@ -74,11 +74,11 @@ PLURA V5는 응용프로그램에 대한 로그를 업로드 설정을 이용하
 
 <br />
 
-[Install Guide > SIEM > Log Collector > Application[3] : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
+[Install Guide > SIEM > PLURA Log Collector (PLC) > Application[3] : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
 
 <br />
 
-### 2-1 Logstash가 설정된 원격지(자식) 서버 등록
+### 2-1. Logstash가 설정된 원격지(자식) 서버 등록
 
 <br />
 
