@@ -9,7 +9,14 @@ topnav: topnav
 보안 DEMO : [https://qubitsec.github.io/ko_security.html](https://qubitsec.github.io/ko_security.html){: target="_blank"}
 - 보안 : 인증과 세션 시간 설정, 로그인허용IP주소, 2차 인증 PIN번호를 설정할 수 있습니다.   
 - 관리자 계정에서만 노출되는 페이지입니다.(운영자는 보안탭 미노출)
- [![image](/docs/images/Manual/common/manage/security/1.png){: width="800" }](/docs/images/Manual/common/manage/security/1.png){: target="_blank"}
+
+ [![image](/docs/images/Manual/common/manage/security/7.png){: width="800" }](/docs/images/Manual/common/manage/security/7.png){: target="_blank"}
+
+<br />
+
+- 비밀번호 변경 : 비밀번호 변경 시점을 설정할 수 있습니다.
+
+[![image](/docs/images/Manual/common/manage/security/8.png){: width="800" }](/docs/images/Manual/common/manage/security/8.png){: target="_blank"}
 
 <br />
 
