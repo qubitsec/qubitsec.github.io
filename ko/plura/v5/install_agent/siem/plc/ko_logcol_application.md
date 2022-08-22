@@ -12,12 +12,11 @@ product: Install_A_S
 
 <br />
 
-   PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
+PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 
-     CentOS 7, Stream 8
-     RHEL 7, 8
-     AWS Linux 2 AMI
-     Ubuntu 18.04, 20.04, 22.04
+[https://qubitsec.github.io/ko_support_os.html](https://qubitsec.github.io/ko_support_os.html){:target="_blank"}
+
+<br />
 
      제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
