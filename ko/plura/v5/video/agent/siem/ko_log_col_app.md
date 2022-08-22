@@ -1,5 +1,5 @@
 ---
-title: Log Collector - Application
+title: PLURA Log Collector(PLC) - Application
 permalink: ko_log_col_app.html
 sidebar: Video_Agent_ins
 topnav: topnav
@@ -9,13 +9,13 @@ topnav: topnav
 
 <br />
 
-     PLURA V5 Log Collector-Application의 역할
+     PLURA Log Collector(PLC)-Application의 역할
      - 다른 시스템의 Application log 를 취합
      - 취합한 Application log 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
-     PLURA V5 Syslog Collector Server 지원 OS는 다음과 같습니다.
+     PLURA Log Collector(PLC) 지원 OS는 다음과 같습니다.
      - CentOS 7, Stream 8  
      - RHEL 7, 8  
      - AWS Linux AMI 2  

@@ -22,16 +22,16 @@ folders:
   - title: Linux Web Server - Datos
     url: /ko_lin_web_server.html
 
-  - title: Log Collector - System
+  - title: PLC - System
     url: /ko_log_col_system.html
 
-  - title: Log Collector - Application
+  - title: PLC - Application
     url: /ko_log_col_app.html
 
-  - title: Log Collector - Web
+  - title: PLC - Web
     url: /ko_log_col_web.html
 
-  - title: Log Collector - Network
+  - title: PLC - Network
     url: /ko_log_col_network.html
 
   folders:

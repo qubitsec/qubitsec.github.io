@@ -1,5 +1,5 @@
 ---
-title: Log Collector - Network
+title: PLURA Log Collector(PLC) - Network
 permalink: ko_log_col_network.html
 sidebar: Video_Agent_ins
 topnav: topnav
