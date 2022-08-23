@@ -1,5 +1,5 @@
 ---
-title: PLURA Log Collector(PLC) - System
+title: PLURA Log Collector (PLC) - System
 permalink: ko_log_col_system.html
 sidebar: Video_Agent_ins
 topnav: topnav
@@ -9,17 +9,15 @@ topnav: topnav
 
 <br />
 
-     PLURA Log Collector(PLC)-System의 역할
+     PLURA Log Collector (PLC) - System의 역할
      - 다른 시스템의 syslog 를 취합
      - 취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
-     PLURA Log Collector(PLC) 지원 OS는 다음과 같습니다.
-     - CentOS 7, Stream 8  
-     - RHEL 7, 8  
-     - AWS Linux AMI 2  
-     - Ubuntu 18, 20, 22
+PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
+
+[https://qubitsec.github.io/ko_support_os.html](https://qubitsec.github.io/ko_support_os.html){:target="_blank"}
 
 <br />
 
