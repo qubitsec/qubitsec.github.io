@@ -21,16 +21,16 @@ topnav: topnav
 
 **PLURA Log Collector (PLC)**
 
-     CentOS 7 (64bit)
-     CentOS Stream 8, RHEL 7/8 (64bit)
+     CentOS 7, Stream 8, Stream 9 (64bit)
+     RHEL 7/8 (64bit)
      Amazon Linux 2 AMI (64bit)
 
 <br />
 
 **CentOS / RHEL**
 
-     CentOS 7 (64bit)
-     CentOS Stream 8, RHEL 7/8 (64bit)
+     CentOS 7, Stream 8, Stream 9 (64bit)
+     RHEL 7/8 (64bit)
      Amazon Linux 2 AMI (64bit)
 
 <br />
