@@ -22,7 +22,7 @@ topnav: topnav
 **PLURA Log Collector (PLC)**
 
      CentOS 7, Stream 8, Stream 9 (64bit)
-     RHEL 7/8 (64bit)
+     RHEL 7/8/9 (64bit)
      Amazon Linux 2 AMI (64bit)
 
 <br />
@@ -30,7 +30,7 @@ topnav: topnav
 **CentOS / RHEL**
 
      CentOS 7, Stream 8, Stream 9 (64bit)
-     RHEL 7/8 (64bit)
+     RHEL 7/8/9 (64bit)
      Amazon Linux 2 AMI (64bit)
 
 <br />
