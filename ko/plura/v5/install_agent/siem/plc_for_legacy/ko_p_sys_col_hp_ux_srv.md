@@ -15,7 +15,7 @@ Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합
 
 페이지 상단 메뉴에서 OS별 선택
 
-  - Log Collector > System 탭
+  - PLURA Log Collector (PLC) > System 탭
  
 <br />
 
