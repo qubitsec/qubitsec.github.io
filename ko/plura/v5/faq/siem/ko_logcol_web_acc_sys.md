@@ -71,7 +71,7 @@ topnav: topnav
 
 <br />
 
-**2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/ko_p_agent_lin_srv.html){: target="_blank"}**
+**2-1. [PLURA V5 Log Collector 서버 설치](https://qubitsec.github.io/ko_logcol_application.html){: target="_blank"}**
 
 <br />
 
