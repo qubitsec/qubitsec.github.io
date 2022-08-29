@@ -33,8 +33,9 @@ topnav: topnav
 ### 1-2. 회원 가입 후 고객지원 요청
 
 - 로그 분석 지원을 위해 회원가입 완료 後 다음과 같이 “고객지원 요청하기” 선택
-   - 메뉴위치: 좌측 상단 > 관리 > 서비스 > 고객지원 요청하기   
    - 요청 사유 작성, 예) PoC 로그 분석 요청
+   - 메뉴위치: 좌측 상단 > 관리 > 서비스 > 고객지원 요청하기   
+   [https://qubitsec.github.io/ko_manage_service.html](https://qubitsec.github.io/ko_manage_service.html){: target="_blank"}
 
 [![image](/docs/images/Additianal/cloud/2.png){: width="800" }](/docs/images/Additianal/cloud/2.png){: target="_blank"}
 
