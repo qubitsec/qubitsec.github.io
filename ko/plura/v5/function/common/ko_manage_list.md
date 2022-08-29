@@ -36,8 +36,12 @@ topnav: topnav
 - 사용자 > 목록 관리 내 문자열 정규식 지원
 
 - 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.   
+[태그 등록 예시](https://qubitsec.github.io/ko_logcol_application.html){: target="_blank"}
+
  [![image](/docs/images/Manual/common/manage/list/6.png){: width="800" }](/docs/images/Manual/common/manage/list/6.png){: target="_blank"}
 
 <br />
 
-내부 블로그 : [응용프로그램 로그 업로드 설정하기](https://qubitsec.github.io/ko_set_app_log_up.html){: target="_blank"}
+내부 블로그 
+
+[응용프로그램 로그 업로드 설정하기](https://qubitsec.github.io/ko_set_app_log_up.html){: target="_blank"}
