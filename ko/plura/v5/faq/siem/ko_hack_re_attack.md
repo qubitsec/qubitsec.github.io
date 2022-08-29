@@ -44,6 +44,8 @@ POST | PUT | PATCH | DELETE 의 경우 파라미터 이름이 존재하면서 Co
 
 아래의 이미지는 Method – GET 방식(application/x-www-form-urlencoded) 의 공격으로 재전송 공격의 조건이 성립되어 재전송공격 버튼이 노출된 것을 확인할 수 있습니다.
 
+경로 : 전체로그 > 웹 > 로그상세
+
  [![image](/docs/images/Additianal/hack/1.png){: width="800" }](/docs/images/Additianal/aws/1.png){: target="_blank"}
 
 <br />
