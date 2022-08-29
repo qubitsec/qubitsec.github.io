@@ -38,6 +38,8 @@ product: Install_A_S
 
 ## 4. PLURA V5에서 확인하기
 
+로그 예시 : 전체로그 > 시스템
+
 [![image](/docs/images/Ins_G/xrdp/1.png){: width="800" }](/docs/images/Ins_G/xrdp/1.png){:target="_blank"}
 
 <br />
