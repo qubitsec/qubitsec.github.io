@@ -61,4 +61,4 @@ Localtime 이 Mon Jul 6 11:16:42 KST 2020 로 변경되었습니다.
 
 PLURA > 관리 > 시스템 > 시간
 
-Windows 서버의 경우, UTC 기준으로 시간이 설정되어 아래와 같이 Localtime 을 설정해주어야 합니다.
+Windows 서버의 경우, UTC 기준으로 시간이 설정되어 사용하시는 국가의 Localtime 을 설정해주어야 합니다.
