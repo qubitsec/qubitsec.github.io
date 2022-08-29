@@ -23,6 +23,8 @@ product: Install_A_S
 Sysmon 을 설치하려면 먼저 __PLURA V5 Agent__ 를 설치해야합니다.   
 PLURA V5 Agent 설치 완료 후 아래의 내용을 참고하여 Sysmon 을 설치합니다.
 
+[Agent 설치 페이지](https://qubitsec.github.io/ko_p_agent_win_srv.html){:target="_blank"}
+
 <br />
 
 ### 1-1. 옵션
@@ -103,8 +105,8 @@ Sysmon 이 설치되면 윈도우 서비스 로그 경로에 Sysmon 로그가 �
 ## 4. Sysmon 로그 확인
 
 - Sysmon 로그를 PLURA V5 웹 페이지에서 확인할 수 있습니다.
-- 필터탐지 > 시스템
-- 전체로그 > 시스템
+- 필터탐지 > 시스템 > 채널 "Sysmon" 선택
+- 전체로그 > 시스템 > 채널 "Sysmon" 선택
 
       제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
       PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.

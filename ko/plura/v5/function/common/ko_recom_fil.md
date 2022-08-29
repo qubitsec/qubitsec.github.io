@@ -20,7 +20,7 @@ topnav: topnav
 
 ## 2. 추천 필터 적용 방법
 - 추천 필터를 적용하려면 아래 그림처럼 먼저 사용할 필터를 체크한 후 등록을 해야 합니다.
-- 등록이 잘 되었다면 등록필터에서 확인할 수 있습니다.
+- 등록이 잘 되었다면 필터 > 등록에서 확인할 수 있습니다.
 
 [![image](/docs/images/Manual/common/filter2/recom/2.png){: width="800" }](/docs/images/Manual/common/filter2/recom/2.png){: target="_blank"}
 
