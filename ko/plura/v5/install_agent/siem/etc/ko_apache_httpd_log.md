@@ -54,6 +54,9 @@ File = “로그 경로”, Tag = “태그”, Severity = “심각도”, prog
 <br />
 
 ### 4. PLURA V5 탐지 확인
+
+로그 예시 : 전체로그 > 시스템
+
 [![image](/docs/images/Ins_G/apache_httpd_err/1.png){: width="800px"}](/docs/images/Ins_G/apache_httpd_err/1.png){: target="_blank"}
 
 

@@ -25,7 +25,7 @@ product: Install_A_S
 
 ## 3. PLURA V5에서 확인
 
-로그 샘플 예)
+로그 예시 : 전체로그 > 시스템
 
 [![image](/docs/images/Ins_G/redis_c/1.png){: width="800" }](/docs/images/Ins_G/redis_c/1.png){:target="_blank"}
 

@@ -5,7 +5,7 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-**PLURA V5 > 필터 > 등록**
+**PLURA V5 > 필터 > 등록 > 시스템**
 
 [![image](/docs/images/Additianal/public_key/1.png){: width="800" }](/docs/images/Additianal/public_key/1.png){: target="_blank"}
 

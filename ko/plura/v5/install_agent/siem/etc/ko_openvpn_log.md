@@ -41,6 +41,8 @@ verb 4
 
 ## 5. PLURA V5에서 확인하기
 
+로그 예시 : 전체로그 > 시스템
+
 [![image](/docs/images/Ins_G/openvpn/1.png){: width="800" }](/docs/images/Ins_G/openvpn/1.png){:target="_blank"}
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.   

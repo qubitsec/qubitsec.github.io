@@ -24,8 +24,6 @@ PLURA V5 서비스는 파밍 공격을 탐지할 수 있습니다.
 
 ### 2-2.  PLURA V5에서 탐지
 
-경로 : 필터탐지 > 시스템
-
 [![image](/docs/images/Additianal/aix/2.png){: width="800" }](/docs/images/Additianal/aix/2.png){: target="_blank"}
 
 <br />
@@ -42,7 +40,5 @@ PLURA V5 서비스는 홈페이지 위변조 공격을 탐지할 수 있습니�
 <br />
 
 ### 3-2. PLURA V5에서 탐지
-
-경로 : 필터탐지 > 시스템
 
 [![image](/docs/images/Additianal/aix/4.png){: width="800" }](/docs/images/Additianal/aix/4.png){: target="_blank"}
