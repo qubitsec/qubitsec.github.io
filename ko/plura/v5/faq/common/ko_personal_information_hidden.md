@@ -17,6 +17,8 @@ topnav: topnav
 
 아래와 같이 pwd 값이 그대로 노출되고 있는 웹로그를 예로 들어 숨김 설정을 해보도록 하겠습니다.
 
+로그 예시 : 전체로그 > 웹
+
 [![image](/docs/images/Faq/Agent/06.png){: width="800" }](/docs/images/Faq/Agent/06.png){: target="_blank"}
 
 <br />
@@ -40,6 +42,8 @@ topnav: topnav
 ### 3. 설정 확인
 
 개인정보 숨김 설정이 정상적으로 적용되었는지 확인합니다.
+
+로그 예시 : 전체로그 > 웹
 
 [![image](/docs/images/Faq/Agent/09.png){: width="800" }](/docs/images/Faq/Agent/09.png){: target="_blank"}
 
