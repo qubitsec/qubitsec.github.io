@@ -19,7 +19,8 @@ topnav: topnav
 
 #### 1-2. 자동 업데이트 기능 체크
 
-윈도우 PLURA V5 Agent 자동 업데이트 기능을 사용하시려면 환경설정 탭으로 이동하여 자동업데이트 체크박스에 체크해주세요.
+윈도우 PLURA V5 Agent 자동 업데이트 기능을 사용하시려면 환경설정 탭으로 이동하여 자동업데이트 체크박스에 체크해주세요.   
+기본값은 체크입니다.
 
 [![image](/docs/images/Faq/Agent/02.png)](/docs/images/Faq/Agent/02.png){: target="_blank"}
 
