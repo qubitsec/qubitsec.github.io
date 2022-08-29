@@ -53,7 +53,7 @@ squid access 로그 파일에 권한 부여하기
 
  <br />
 
-**PLURA V5 > 시스템 관리**에서 다음과 같이 확인됩니다.
+**PLURA V5 > 시스템 > 시스템 관리**에서 리스트의 시스템을 확장하면 다음과 같이 확인됩니다.
 
  [![image](/docs/images/Additianal/proxy/1.png)](/docs/images/Additianal/proxy/1.png){: target="_blank"}
 
