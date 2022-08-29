@@ -19,7 +19,7 @@ Wail2ban 이란?
 
 PLURA V5 웹에서 필터 등록으로 설정 방법
 
-**필터 > 필터관리 > 필터등록 선택**
+**필터 > 등록 > 시스템 > 등록하기**
 
 **서버그룹 선택 > 운영체제 windows 선택 > Security 채널 선택 > 이벤트타입 선택**
 
@@ -34,6 +34,8 @@ PLURA V5 웹에서 필터 등록으로 설정 방법
 ## 2. 방화벽 등록 탐지 예시
 
 Wail2ban 에 의해 윈도우 방화벽에 차단 등록이 되면 아래와 같이 탐지됩니다.
+
+로그 예시 : 필터탐지 > 시스템
 
 [![image](/docs/images/Additianal/wail/2.png){: width="800" }](/docs/images/Additianal/wail/2.png){: target="_blank"}
 
