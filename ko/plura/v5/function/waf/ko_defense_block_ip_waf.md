@@ -19,7 +19,6 @@ topnav: topnav
 
 ## 차단IP주소 > 웹방화벽
 - 웹방화벽 필터탐지/전체로그 페이지에서 즉시방어 버튼을 클릭하여 등록한 정보 또는 IP주소 등록 버튼을 클릭하여 직접 등록한 정보가 노출됩니다.
-
 [![image](/docs/images/Manual/waf/defense/ip/1.png){: width="800" }](/docs/images/Manual/waf/defense/ip/1.png){: target="_blank"}
  
 <br />
@@ -28,5 +27,4 @@ topnav: topnav
    - IP주소 :  차단 IP주소 입력
    - 차단기간 :  차단기간 설정
    - 설명 : 차단을 하는 이유 또는 목적 입력
-
 [![image](/docs/images/Manual/waf/defense/ip/2.png)](/docs/images/Manual/waf/defense/ip/2.png){: target="_blank"}
