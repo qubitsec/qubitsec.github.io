@@ -20,7 +20,6 @@ topnav: topnav
 [![image](/docs/images/Manual/siem/dash/2.png)](/docs/images/Manual/siem/dash/2.png){: target="_blank"}
 
 - 1시간 이내에 로그 발생이 없는 경우, 시스로그/웹로그 미업로드 시스템 항목에 표시됩니다.
-
 [![image](/docs/images/Manual/siem/dash/3.png){: width="800" }](/docs/images/Manual/siem/dash/3.png){: target="_blank"}
 
 <br />
@@ -45,11 +44,7 @@ topnav: topnav
 <br />
 
 - 최근 탐지된 로그의 ‘더보기’를 클릭하면 해당 탐지로그 페이지로 이동합니다.
-
 [![image](/docs/images/Manual/siem/dash/5.png)](/docs/images/Manual/siem/dash/5.png){: target="_blank"}
-
-<br />
-
 [![image](/docs/images/Manual/siem/dash/6.png){: width="800" }](/docs/images/Manual/siem/dash/6.png){: target="_blank"}
 
 <br />
