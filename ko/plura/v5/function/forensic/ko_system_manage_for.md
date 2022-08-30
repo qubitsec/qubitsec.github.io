@@ -18,7 +18,7 @@ topnav: topnav
 
 <br />
 
-## 2. 최신순/ 오래된순 선택
+## 2. 최신순/오래된순 선택
 
 - 최신순 또는 오래된순으로 선택해서 볼 수 있습니다.   
 [![image](/docs/images/Manual/forensic/system/3.png)](/docs/images/Manual/forensic/system/3.png){: target="_blank"}
