@@ -69,7 +69,6 @@ Syslog 재시작
 ### 4. 원격지(자식) 서버 등록
 
 - 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 시스템 버튼을 클릭합니다.
-
 [![image](/docs/images/Ins_G/logCol_system/sys_3.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_3.png){:target="_blank"}
 
 <br />
