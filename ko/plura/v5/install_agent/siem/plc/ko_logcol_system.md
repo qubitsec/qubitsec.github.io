@@ -74,13 +74,11 @@ Syslog 재시작
 <br />
 
 - 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
-
 [![image](/docs/images/Ins_G/logCol_system/sys_4.png)](/docs/images/Ins_G/logCol_system/sys_4.png){:target="_blank"}
 
 <br />
 
 - 시스템 > 시스템 관리 페이지에서 원격지(자식) 서버가 등록되었습니다. 
-
 [![image](/docs/images/Ins_G/logCol_system/sys_5.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"}
 
 <br />
@@ -88,5 +86,4 @@ Syslog 재시작
 ### 5. 수집된 로그 확인
 
 - 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
-
 [![image](/docs/images/Ins_G/logCol_system/sys_6.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_6.png){:target="_blank"}

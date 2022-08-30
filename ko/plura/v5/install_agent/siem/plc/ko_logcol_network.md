@@ -62,15 +62,12 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 ### 4. 원격지(자식) 서버 등록
 
 - 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 네트워크 버튼을 클릭합니다.
-
 [![image](/docs/images/Ins_G/LogCol_Net/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/3.png){:target="_blank"}
 
 - 시스템 등록 팝업 > 원격지(자식) 장비 정보를 입력합니다.
-
 [![image](/docs/images/Ins_G/LogCol_Net/4.png)](/docs/images/Ins_G/LogCol_Net/4.png){:target="_blank"}
 
 - 시스템 > 시스템 관리 페이지에서 원격지(자식) 장비가 등록되었습니다.
-
 [![image](/docs/images/Ins_G/LogCol_Net/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/5.png){:target="_blank"}
 
 <br />
@@ -78,5 +75,4 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 ### 5. 수집된 로그 확인
 
 - 전체로그 > 시스템 메뉴에서 수집된 로그를 확인할 수 있습니다.
-
 [![image](/docs/images/Ins_G/LogCol_Net/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/6.png){:target="_blank"}
