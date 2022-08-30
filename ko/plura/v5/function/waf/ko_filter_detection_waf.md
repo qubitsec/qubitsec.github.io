@@ -56,7 +56,6 @@ topnav: topnav
 - 전체로그(±5s) : 탐지된 필터 탐지 내역 “5초” 전후 시간대에 전체로그 페이지로 이동
 
 - 전체로그(±60s) : 탐지된 필터 탐지 내역 “60초” 전후 시간대에 전체로그 페이지로 이동
-
 [![image](/docs/images/Manual/waf/filter_detec/6.png){: width="800" }](/docs/images/Manual/waf/filter_detec/6.png){: target="_blank"}
 
 <br />
