@@ -69,14 +69,12 @@ topnav: topnav
 - 필터를 등록할 때는 과탐/오탐이 발생할 수 있으므로 담당자와 확인 후, 등록하는 것을 추천합니다.
 
 - 웹방화벽 필터 등록 예시
-
 [![image](/docs/images/Manual/waf/filter/5.png){: width="800" }](/docs/images/Manual/waf/filter/5.png){: target="_blank"}
 
 <br />
 
 ## 2. 검색 기능
 - 찾고 싶은 필터명을 검색합니다.
-
 [![image](/docs/images/Manual/waf/filter/6.png)](/docs/images/Manual/waf/filter/6.png){: target="_blank"}
  
 <br />
