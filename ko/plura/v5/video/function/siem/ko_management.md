@@ -31,3 +31,34 @@ topnav: topnav
 
      (2022-03-23) 업데이트
      1.관리 → 목록 → 호스트, 사용자, 응용프로그램 태그 추가
+
+<br />
+
+내부 블로그  
+
+- 서비스   
+[https://qubitsec.github.io/ko_manage_service.html](https://qubitsec.github.io/ko_manage_service.html){:target="_blank"}
+
+- 멤버   
+[https://qubitsec.github.io/ko_manage_member.html](https://qubitsec.github.io/ko_manage_member.html){:target="_blank"}
+
+- 보안  
+[https://qubitsec.github.io/ko_manage_security.html](https://qubitsec.github.io/ko_manage_security.html){:target="_blank"}
+
+- 목록   
+[https://qubitsec.github.io/ko_manage_list.html](https://qubitsec.github.io/ko_manage_list.html){:target="_blank"}
+
+- 연동   
+[https://qubitsec.github.io/ko_manage_peristalsis.html](https://qubitsec.github.io/ko_manage_peristalsis.html){:target="_blank"}
+
+- 사용  
+[https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){:target="_blank"}
+
+- 시스템  
+[https://qubitsec.github.io/ko_manage_system.html](https://qubitsec.github.io/ko_manage_system.html){:target="_blank"}
+
+- 그룹알림  
+[https://qubitsec.github.io/ko_manage_group.html](https://qubitsec.github.io/ko_manage_group.html){:target="_blank"}
+
+- 사용로그  
+[https://qubitsec.github.io/ko_manage_usage_log.html](https://qubitsec.github.io/ko_manage_usage_log.html){:target="_blank"}

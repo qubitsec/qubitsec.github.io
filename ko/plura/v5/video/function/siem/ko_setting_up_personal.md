@@ -12,3 +12,9 @@ topnav: topnav
 - 리소스 사용량 임계치 설정에 따른 알림 받기   
 ex) CPU – 50% 이상, 메모리 – 80% 이상, HDD 사용량 – 50% 이상
 
+<br />
+
+내부 블로그  
+
+- Function > Common > 개인화 > 개인알림
+[https://qubitsec.github.io/ko_personal.html](https://qubitsec.github.io/ko_personal.html){:target="_blank"}
