@@ -14,8 +14,12 @@ topnav: topnav
 
 - 시스템 로그에 대해서 확인할 수 있습니다.
 
-※ PLURA V5 Forensic 제품에서는 지원하지 않는 기능입니다.
+[![image](/docs/images/Manual/common/statistics/boxplot/01.png){: width="800" }](/docs/images/Manual/common/statistics/boxplot/01.png){: target="_blank"}
+
+<br />
 
 통계제외
 
 [![image](/docs/images/Manual/common/statistics/box/1.png)](/docs/images/Manual/common/statistics/box/1.png){: target="_blank"}
+
+※ PLURA V5 Forensic 제품에서는 지원하지 않는 기능입니다.
