@@ -18,19 +18,19 @@ topnav: topnav
 
 <br />
 
-- Syslog Collector에서 노출되는 정보의 의미는 아래와 같습니다.   
+- PLURA Log Collector (PLC) 에서 노출되는 정보의 의미는 아래와 같습니다.   
 [![image](/docs/images/Manual/siem/system/2.png)](/docs/images/Manual/siem/system/2.png){: target="_blank"}   
 P : Parent(부모), C : Child(자식)
 
 <br />
 
-- PLURA V5 Syslog Collector(부모) 의 역할
+- PLURA Log Collector (PLC) (부모) 의 역할
      - 자식(시스템, 응용프로그램, 웹, 네트워크)시스템의 syslog 를 취합
      - 취합한 syslog 를 압축하고 암호화하여 PLURA V5 클라우드로 전송
 
 <br />
 
-PLURA V5 Syslog Collector에 대한 자세한 내용은 아래의 링크를 참고해주세요.
+PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참고해주세요.
 
 - Install Agents > SIEM > PLC > System : [https://qubitsec.github.io/ko_logcol_system.html](https://qubitsec.github.io/ko_logcol_system.html){:target="_blank"}
 
