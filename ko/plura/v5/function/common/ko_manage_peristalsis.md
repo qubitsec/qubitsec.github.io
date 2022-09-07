@@ -7,7 +7,7 @@ topnav: topnav
 
 - 연동 : 컴플라이언스 수정 및 티켓 관리, Syslog 연동 설정을 할 수 있습니다.
 
- [![image](/docs/images/Manual/common/manage/peristalsis/1.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/1.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/peristalsis/9.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/9.png){: target="_blank"}
 
  <br />
 
@@ -52,9 +52,10 @@ topnav: topnav
 <br />
 
 4-2. 알림 상세 선택   
- [![image](/docs/images/Manual/common/manage/peristalsis/7.png)](/docs/images/Manual/common/manage/peristalsis/7.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/peristalsis/11.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/11.png){: target="_blank"}
 
 - 추가, 삭제 버튼을 이용하여 syslog 알림을 받을 서버 편집을 할 수 있습니다.
+- 탭 이동(탐지, 방어, 사용로그)을 하여 설정을 변경할 수 있습니다.
 - 편집 버튼을 클릭하면 상세 알림을 선택할 수 있는 팝업창이 노출됩니다.
    - 탐지 : 마이터, 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 네트워크로그
    - 방어 : 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 네트워크로그
@@ -66,4 +67,4 @@ topnav: topnav
 - 프로토콜, Syslog 포맷 형식, 서버 IP 주소, 포트번호, 개행타입을 입력합니다.
 - 예시_Syslog 설정
 
- [![image](/docs/images/Manual/common/manage/peristalsis/8.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/8.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/peristalsis/13.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/13.png){: target="_blank"}

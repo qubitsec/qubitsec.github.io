@@ -17,6 +17,23 @@ topnav: topnav
 
 <br />
 
+- 시스템 그룹 별로 웹방화벽 공지 설정을 진행할 수 있습니다.   
+  - 접속예외 설정을 통해 점검 중 예외처리(IP주소 등록)가 가능합니다.
+
+  [![image](/docs/images/Manual/waf/firewall/9.png){: width="800" }](/docs/images/Manual/waf/firewall/9.png){: target="_blank"}
+
+<br />
+
+- 웹방화벽 공지 설정 > 미리보기 버튼을 클릭하여 작성한 내용을 확인할 수 있습니다.
+ [![image](/docs/images/Manual/waf/firewall/10.png){: width="800" }](/docs/images/Manual/waf/firewall/10.png){: target="_blank"}
+
+<br />
+
+- 시스템 그룹 별로 웹방화벽 차단 안내 설정을 진행할 수 있습니다.   
+ [![image](/docs/images/Manual/waf/firewall/11.png){: width="800" }](/docs/images/Manual/waf/firewall/11.png){: target="_blank"}
+
+<br />
+
 - 운영방식 : 해당 그룹의 웹방화벽 운영방식을 탐지/차단 중 설정할 수 있습니다.   
  [![image](/docs/images/Manual/waf/firewall/3.png)](/docs/images/Manual/waf/firewall/3.png){: target="_blank"}
 
