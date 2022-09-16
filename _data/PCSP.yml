@@ -16,5 +16,8 @@ folders:
   - title: EC2 Auto Scaling 환경 지원
     url: /ko_amazon_ec2_scaling.html
 
-  - title: WAF의 CloudFront 환경 지원
-    url: /ko_cloudfront_aws.html
+  - title: PLURA WAF 환경
+    url: /ko_waf_no_cloudfront_aws.html
+
+  - title: PLURA WAF 환경(With CloudFront)
+    url: /ko_waf_cloudfront_aws.html
