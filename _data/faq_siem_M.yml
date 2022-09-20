@@ -50,7 +50,7 @@ folders:
 - title: Proxy 설정
   folderitems:
 
-  - title: AWS RHEL 8 환경
+  - title: AWS RHEL 환경
     url: /ko_aws_rhel_proxy.html
 
   folders:

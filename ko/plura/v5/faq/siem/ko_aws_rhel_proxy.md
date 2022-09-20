@@ -1,11 +1,11 @@
 ---
-title: AWS RHEL 8 환경
+title: AWS RHEL 환경
 permalink: ko_aws_rhel_proxy.html
 sidebar: faq_siem_M
 topnav: topnav
 ---
 
-PLURA V5 클라우드 서비스 접속을 위하여 Proxy 시스템을 두어 운영하는 경우,
+RHEL 시스템에서 PLURA V5 클라우드 서비스 접속을 위하여 Proxy 시스템을 두어 운영하는 경우,
 다음과 같이 Proxy 설정을 해야 합니다.     
 
 `# vi /etc/profile.d/plura.sh`
