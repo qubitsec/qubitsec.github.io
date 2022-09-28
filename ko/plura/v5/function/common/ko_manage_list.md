@@ -56,12 +56,12 @@ topnav: topnav
 <br />
 
 - 등록 버튼을 클릭하는 경우, 아래와 같은 등록 팝업이 노출됩니다.   
- [![image](/docs/images/Manual/common/manage/list/08.png){: width="800" }](/docs/images/Manual/common/manage/list/08.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/list/17.png){: width="800" }](/docs/images/Manual/common/manage/list/17.png){: target="_blank"}
 
  <br />
 
 - 대량등록 버튼을 클릭하는 경우, 아래와 같은 등록 팝업이 노출됩니다.   
- [![image](/docs/images/Manual/common/manage/list/09.png){: width="800" }](/docs/images/Manual/common/manage/list/09.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/list/18.png){: width="800" }](/docs/images/Manual/common/manage/list/18.png){: target="_blank"}
 
  <br />
 
@@ -83,7 +83,7 @@ topnav: topnav
 ## 5. MAC주소
 
 - 목록 > MAC주소 태그 : 사용자가 직접 관리 메뉴에서 특정 MAC주소에 대한 태그를 등록할 수 있습니다.   
- [![image](/docs/images/Manual/common/manage/list/07.png){: width="800" }](/docs/images/Manual/common/manage/list/07.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/list/16.png){: width="800" }](/docs/images/Manual/common/manage/list/16.png){: target="_blank"}
 
 <br />
 
