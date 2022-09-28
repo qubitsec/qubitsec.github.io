@@ -5,7 +5,7 @@ sidebar: M_C
 topnav: topnav
 ---
 
-## 호스트
+## 1. 호스트
 
 - 목록 > 호스트 : 계정탈취 필터 호스트 정보 등록에 사용할 목록 관리를 할 수 있습니다.
 
@@ -28,7 +28,7 @@ topnav: topnav
 
 <br />
 
-## 사용자
+## 2. 사용자
 
 - 목록 > 사용자 : 필터 등록에 사용할 목록 관리를 할 수 있습니다.   
  [![image](/docs/images/Manual/common/manage/list/14.png){: width="800" }](/docs/images/Manual/common/manage/list/14.png){: target="_blank"}
@@ -39,7 +39,7 @@ topnav: topnav
 
 <br />
 
-## 응용프로그램 태그
+## 3. 응용프로그램 태그
 
 - 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.   
 [태그 등록 예시](https://qubitsec.github.io/ko_logcol_application.html){: target="_blank"}
@@ -48,7 +48,7 @@ topnav: topnav
 
 <br />
 
-## IP주소 
+## 4. IP주소 
 
 - 목록 > IP주소 태그 : 사용자가 직접 관리 메뉴에서 특정 IP주소에 대한 태그를 등록할 수 있습니다.   
  [![image](/docs/images/Manual/common/manage/list/07.png){: width="800" }](/docs/images/Manual/common/manage/list/07.png){: target="_blank"}
@@ -80,7 +80,7 @@ topnav: topnav
 
   <br />
 
-## MAC주소
+## 5. MAC주소
 
 - 목록 > MAC주소 태그 : 사용자가 직접 관리 메뉴에서 특정 MAC주소에 대한 태그를 등록할 수 있습니다.   
  [![image](/docs/images/Manual/common/manage/list/07.png){: width="800" }](/docs/images/Manual/common/manage/list/07.png){: target="_blank"}
