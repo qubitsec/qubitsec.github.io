@@ -5,11 +5,11 @@ sidebar: M_C
 topnav: topnav
 ---
 
+## 호스트
+
 - 목록 > 호스트 : 계정탈취 필터 호스트 정보 등록에 사용할 목록 관리를 할 수 있습니다.
 
-- 운영자/모니터링 권한의 경우, 호스트 탭 숨김(Hidden) 처리
-
- [![image](/docs/images/Manual/common/manage/list/1.png){: width="800" }](/docs/images/Manual/common/manage/list/1.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/list/13.png){: width="800" }](/docs/images/Manual/common/manage/list/13.png){: target="_blank"}
 
 <br />
 
@@ -18,7 +18,7 @@ topnav: topnav
 
 <br />
 
-- “수정”, 버튼을 클릭하면 호스트 수정 팝업이 노출됩니다.   
+- “수정”, 버튼을 클릭하면 호스트 수정 팝업이 노출됩니다.  
  [![image](/docs/images/Manual/common/manage/list/3.png)](/docs/images/Manual/common/manage/list/3.png){: target="_blank"}
 
 <br />
@@ -28,17 +28,66 @@ topnav: topnav
 
 <br />
 
+## 사용자
+
 - 목록 > 사용자 : 필터 등록에 사용할 목록 관리를 할 수 있습니다.   
- [![image](/docs/images/Manual/common/manage/list/5.png){: width="800" }](/docs/images/Manual/common/manage/list/5.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/list/14.png){: width="800" }](/docs/images/Manual/common/manage/list/14.png){: target="_blank"}
 
 <br />
 
 - 사용자 > 목록 관리 내 문자열 정규식 지원
 
+<br />
+
+## 응용프로그램 태그
+
 - 목록 > 응용프로그램 태그 : 응용 프로그램 로그 수집 설정을 위한 태그를 등록할 수 있습니다.   
 [태그 등록 예시](https://qubitsec.github.io/ko_logcol_application.html){: target="_blank"}
 
- [![image](/docs/images/Manual/common/manage/list/6.png){: width="800" }](/docs/images/Manual/common/manage/list/6.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/list/15.png){: width="800" }](/docs/images/Manual/common/manage/list/15.png){: target="_blank"}
+
+<br />
+
+## IP주소 
+
+- 목록 > IP주소 태그 : 사용자가 직접 관리 메뉴에서 특정 IP주소에 대한 태그를 등록할 수 있습니다.   
+ [![image](/docs/images/Manual/common/manage/list/07.png){: width="800" }](/docs/images/Manual/common/manage/list/07.png){: target="_blank"}
+
+<br />
+
+- 등록 버튼을 클릭하는 경우, 아래와 같은 등록 팝업이 노출됩니다.   
+ [![image](/docs/images/Manual/common/manage/list/08.png){: width="800" }](/docs/images/Manual/common/manage/list/08.png){: target="_blank"}
+
+ <br />
+
+- 대량등록 버튼을 클릭하는 경우, 아래와 같은 등록 팝업이 노출됩니다.   
+ [![image](/docs/images/Manual/common/manage/list/09.png){: width="800" }](/docs/images/Manual/common/manage/list/09.png){: target="_blank"}
+
+ <br />
+
+- 등록된 IP 주소의 경우, 로그 조회 페이지에서 확인할 수 있습니다.
+- 태그 아이콘이 노출되고, 해당 부분을 마우스 오버하면 태그 정보를 확인할 수 있습니다.   
+ [![image](/docs/images/Manual/common/manage/list/10.png){: width="800" }](/docs/images/Manual/common/manage/list/10.png){: target="_blank"}   
+ **※ "IP주소 기본 태그"는 큐비트시큐리티에서 제공하는 태그 정보입니다.**
+
+  <br />
+
+ - 마우스 우측 버튼을 클릭하면 IP주소 사용자 태그를 등록 및 수정할 수 있습니다.   
+  [![image](/docs/images/Manual/common/manage/list/11.png){: width="800" }](/docs/images/Manual/common/manage/list/11.png){: target="_blank"}   
+
+- IP주소 사용자태그 팝업   
+  [![image](/docs/images/Manual/common/manage/list/12.png){: width="800" }](/docs/images/Manual/common/manage/list/12.png){: target="_blank"}
+
+  <br />
+
+## MAC주소
+
+- 목록 > MAC주소 태그 : 사용자가 직접 관리 메뉴에서 특정 MAC주소에 대한 태그를 등록할 수 있습니다.   
+ [![image](/docs/images/Manual/common/manage/list/07.png){: width="800" }](/docs/images/Manual/common/manage/list/07.png){: target="_blank"}
+
+<br />
+
+**※ 모니터링 권한의 경우, 목록 메뉴가 노출되지 않습니다.**
 
 <br />
 
