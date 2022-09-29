@@ -6,7 +6,7 @@ topnav: topnav
 ---
 
      상관분석 보안필터는 실시간으로 해킹/관리 로그 사이의 상관관계를 탐지합니다.
-     각각의 필터별(시스템, 웹, 응용프로그램, 웹) 상관분석 탐지가 가능합니다.
+     각각의 필터별(시스템, 웹, 응용프로그램, 네트워크) 상관분석 탐지가 가능합니다.
 
 <br />
 
@@ -21,7 +21,7 @@ topnav: topnav
 
 <br />
 
-- 필터(시스템, 웹, 응용프로그램, 웹) 버튼을 클릭하면 필터를 추가할 수 있습니다.
+- 필터(시스템, 웹, 응용프로그램, 네트워크) 버튼을 클릭하면 필터를 추가할 수 있습니다.
 
 - 시스템 필터 추가 팝업   
 [![image](/docs/images/Manual/common/filter2/security/cor_analy/04.png){: width="400" }](/docs/images/Manual/common/filter2/security/cor_analy/04.png){: target="_blank"}
