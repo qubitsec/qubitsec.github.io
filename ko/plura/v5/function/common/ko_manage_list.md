@@ -80,10 +80,32 @@ topnav: topnav
 
   <br />
 
+  - IP주소 사용자 입력 개수
+
+  - SaaS의 경우, 라이센스 별 아래와 같이 IP주소 태그를 등록할 수 있습니다.
+
+    > Standard 100개,
+    > Gold 300개,
+    > Platinum 500개,
+    > Preminum 1000개
+
+  - On-premise : 5000개
+
 ## 5. MAC주소
 
 - 목록 > MAC주소 태그 : 사용자가 직접 관리 메뉴에서 특정 MAC주소에 대한 태그를 등록할 수 있습니다.   
  [![image](/docs/images/Manual/common/manage/list/16.png){: width="800" }](/docs/images/Manual/common/manage/list/16.png){: target="_blank"}
+
+- MAC주소 사용자 입력 개수
+
+  - SaaS의 경우, 라이센스 별 아래와 같이 MAC주소 태그를 등록할 수 있습니다.
+
+    > Standard 50개,
+    > Gold 150개,
+    > Platinum 250개,
+    > Preminum 500개
+
+  - On-premise : 2000개
 
 <br />
 
