@@ -65,3 +65,11 @@ Administrator 계정으로 설치해야 합니다.
 * 로그 업로드 지원 시스템 : Windows, Linux, Android
 
 [![image](/docs/images/Ins_G/Forensic/install_4.png){: width="800" }](/docs/images/Ins_G/Forensic/install_4.png){: target="_blank"}
+
+<br />
+
+**내부 블로그**
+
+PLURA V5 Forensic 에이전트 사용 방법
+
+[https://qubitsec.github.io/ko_path_uasge_method.html](https://qubitsec.github.io/ko_path_uasge_method.html){: target="_blank"}
