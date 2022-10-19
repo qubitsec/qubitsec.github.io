@@ -56,7 +56,8 @@ topnav: topnav
 
 - 필터를 등록할 때는 과탐/오탐이 발생할 수 있으므로 담당자와 확인 후, 등록하는 것을 추천합니다.
 
-- 웹 필터 등록 예시   
+- 웹 필터 등록 예시
+
 [![image](/docs/images/Manual/common/regi/web/5.png){: width="800" }](/docs/images/Manual/common/regi/web/5.png){: target="_blank"}
 
  
