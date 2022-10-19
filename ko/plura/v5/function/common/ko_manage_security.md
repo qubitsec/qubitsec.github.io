@@ -36,10 +36,13 @@ topnav: topnav
 
 <br />
 
-- 로그인 허용 IP 주소 : PLURA V5 웹에 로그인하고자 하는 IP주소를 직접 추가할 수 있습니다.
+- 로그인 허용 IP 주소 : PLURA V5 웹에 로그인하고자 하는 IP주소, 국가(GeoIP) 설정을 직접 추가할 수 있습니다.
 
- [![image](/docs/images/Manual/common/manage/security/4.png){: width="800" }](/docs/images/Manual/common/manage/security/4.png){: target="_blank"}   
- [![image](/docs/images/Manual/common/manage/security/5.png)](/docs/images/Manual/common/manage/security/5.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/security/011.png){: width="800" }](/docs/images/Manual/common/manage/security/011.png){: target="_blank"}   
+
+- IP주소 추가 버튼을 클릭하면, 로그인허용 IP주소 추가 팝업이 노출됩니다.
+
+[![image](/docs/images/Manual/common/manage/security/5.png)](/docs/images/Manual/common/manage/security/5.png){: target="_blank"}
 
 <br />
 
