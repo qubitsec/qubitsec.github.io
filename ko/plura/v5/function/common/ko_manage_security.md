@@ -37,6 +37,7 @@ topnav: topnav
 <br />
 
 - 로그인 허용 IP 주소 : PLURA V5 웹에 로그인하고자 하는 IP주소, 국가(GeoIP) 설정을 직접 추가할 수 있습니다.
+- 검색창에서는 사용자 이름, 사용자 이메일, 사용자 전화번호, IP 주소 C CLASS 까지가 검색어에 해당되면 검색됩니다.
 
  [![image](/docs/images/Manual/common/manage/security/011.png){: width="800" }](/docs/images/Manual/common/manage/security/011.png){: target="_blank"}   
 
