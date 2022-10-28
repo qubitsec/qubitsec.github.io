@@ -16,7 +16,7 @@ navbar_dropdowns:
         - title: SIEM
           url: /ko_Ins_siem.html
         - title: WAF
-          url: /ko_waf.html
+          url: /ko_Ins_waf.html
         - title: Forensic
           url: /ko_Ins_for.html
 
@@ -29,7 +29,7 @@ navbar_dropdowns:
         - title: Forensic
           url: ko_manual_for.html
         - title: WAF
-          url: ko_manual_waf.html
+          url: ko_main_waf.html
 
     - title: FAQ
       folderitems:
