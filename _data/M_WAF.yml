@@ -1,6 +1,13 @@
 sidebarTitle: Function > WAF
 
 folders:
+
+- title: 대시보드
+  folderitems:
+  
+  - title: 대시보드
+    url: /ko_manual_waf.html
+
 - title: 필터탐지
   folderitems:
 

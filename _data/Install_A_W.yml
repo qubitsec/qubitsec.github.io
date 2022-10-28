@@ -1,0 +1,8 @@
+sidebarTitle: Install Agents > WAF
+
+folders:
+- title: Agent
+  folderitems:
+
+  - title: WAF Agent
+    url: /ko_waf.html

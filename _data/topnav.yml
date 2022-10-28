@@ -15,6 +15,8 @@ navbar_dropdowns:
       folderitems:
         - title: SIEM
           url: /ko_Ins_siem.html
+        - title: WAF
+          url: /ko_waf.html
         - title: Forensic
           url: /ko_Ins_for.html
 
