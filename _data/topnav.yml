@@ -26,10 +26,10 @@ navbar_dropdowns:
           url: ko_manual_common.html
         - title: SIEM
           url: ko_manual_siem.html
-        - title: Forensic
-          url: ko_manual_for.html
         - title: WAF
           url: ko_main_waf.html
+        - title: Forensic
+          url: ko_manual_for.html
 
     - title: FAQ
       folderitems:
