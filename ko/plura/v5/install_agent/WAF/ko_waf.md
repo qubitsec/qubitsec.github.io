@@ -16,7 +16,7 @@ product: Install_A_W
 
 ## 1. 사전 작업
 
-PLURA 웹방화벽은 Amazon Linux 2 AMI (또는 Centos 7)에 설치 가능합니다.
+PLURA 웹방화벽은 Amazon Linux 2 AMI (또는 CentOS 7)에 설치 가능합니다.
 
   - 1.1 웹방화벽을 설치할 EC2 인스턴스에 터미널 접속하여 root 권한을 획득한 후 설치를 진행합니다.
   - 1.2 타임존 설정 및 시간 동기화를 시스템에 맞게 설정하세요.
