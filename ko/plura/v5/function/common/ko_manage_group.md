@@ -6,8 +6,11 @@ topnav: topnav
 ---
 
 - 그룹알림 : PLURA V5 알림(탐지, 방어, 에이전트 중지)을 웹훅 설정으로 수신할 수 있습니다.
+
+- 선택한 웹훅의 주소 템플릿이 자동 입력됩니다.
+
 - 에이전트 중지 알림은 온프레미스 환경 전용 기능   
-[![image](/docs/images/Manual/common/manage/group/1.png){: width="800" }](/docs/images/Manual/common/manage/group/1.png){: target="_blank"}
+[![image](/docs/images/Manual/common/manage/group/01.png){: width="800" }](/docs/images/Manual/common/manage/group/01.png){: target="_blank"}
 
 <br />
 
