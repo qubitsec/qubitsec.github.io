@@ -55,6 +55,7 @@ PLURA 페이지 좌측 상단 관리 > 연동 메뉴에서 다음과 같이 설�
 
   - Kiwi Memu > File > Setup > Inputs > UDP > Data encoding : UTF-8 설정
   - Kiwi Memu > File > Setup > Inputs > IP addresses 메뉴에 송신지 IP주소 Add
+     - 송신지 IP주소는 고객사마다 다릅니다.
  
 
 
