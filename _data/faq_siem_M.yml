@@ -86,6 +86,9 @@ folders:
   - title: Webhook 설정으로 Telegram에서 받기
     url: /ko_notifications_telegram_webhook.html
 
+  - title: Syslog 설정으로 kiwi에서 받기
+    url: /ko_send_syslog_kiwi.html
+
   folders:
 - title: 모의해킹
   folderitems:
