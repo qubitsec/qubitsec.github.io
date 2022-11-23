@@ -10,6 +10,7 @@ topnav: topnav
 - 선택한 웹훅의 주소 템플릿이 자동 입력됩니다.
 
 - 에이전트 중지 알림은 온프레미스 환경 전용 기능   
+
 [![image](/docs/images/Manual/common/manage/group/01.png){: width="800" }](/docs/images/Manual/common/manage/group/01.png){: target="_blank"}
 
 <br />
@@ -37,8 +38,6 @@ topnav: topnav
   - 방어 : 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 네트워크로그   
   - 사용로그 : 멤버, 필터, 서버, 방어, 고객지원, 기타   
   - 에이전트 중지
-
-<br />
 
 [![image](/docs/images/Manual/common/manage/group/3.png)](/docs/images/Manual/common/manage/group/3.png){: target="_blank"}
 
