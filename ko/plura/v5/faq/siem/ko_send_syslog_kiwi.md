@@ -54,8 +54,12 @@ PLURA 페이지 좌측 상단 관리 > 연동 메뉴에서 다음과 같이 설�
 ### 5-2. [수신] Kiwi Syslog 설정
 
   - Kiwi Memu > File > Setup > Inputs > UDP > Data encoding : UTF-8 설정
-  - Kiwi Memu > File > Setup > Inputs > IP addresses 메뉴에 송신지 IP주소 Add
-     - 송신지 IP주소는 고객사마다 다릅니다.
+  - Kiwi Memu > File > Setup > Inputs > IP addresses 메뉴에 아래의 송신지 IP주소를 모두 Add
+     - 211.43.190.184
+     - 211.43.190.185
+     - 211.43.190.186
+     - 211.43.190.187
+     - 온프레미스 환경일 경우에는 송신지 IP주소가 다릅니다.
  
 
 
