@@ -13,7 +13,7 @@ topnav: topnav
      - PLURALogin.exe : 로그인 처리, PLURA V5 업데이트 처리
      - PLURAConfig.exe : 서비스 시작/중지, 웹 로그 사용/중지, ON/OFF 및 기타 정보 표시
      - PLURAService.exe : 로그 취합 및 업로드
-     - PLURATray.exe : Login , Config 실행 기능 및 알림 메시지 처리
+     - PLURATray.exe : Login, Config 실행 기능 및 알림 메시지 처리
      - PLURA_UNINSTALL.exe : PLURA V5 제거 (UI 제공)
      - PluraSelfUninstall.exe : UI 없이 PLURA V5 제거 (서버에서 삭제 시 처리)
 
