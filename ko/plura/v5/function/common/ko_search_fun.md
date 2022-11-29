@@ -64,7 +64,7 @@ topnav: topnav
 
 [![image](/docs/images/Manual/common/search/5.png){: width="800" }](/docs/images/Manual/common/search/5.png){: target="_blank"}
 
-     - 대상 라이센스: Enterprise(On-Prem), Premium에 제공
+     - 대상 라이센스: Enterprise(On-Prem), Platinum, Premium에 제공
      - 전체로그, 필터탐지, ML탐지 페이지에 노출
 
      - 타이머가 종료되면 페이지가 새로고침되어 데이터를 갱신합니다.
