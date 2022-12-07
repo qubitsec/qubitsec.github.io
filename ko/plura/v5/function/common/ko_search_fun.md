@@ -76,7 +76,25 @@ topnav: topnav
 
 <br />
 
-### 8.  다음은 로그 검색에 관한 예시입니다.
+### 8. 검색어 자동완성 기능
+
+- 보안탐지, 필터탐지 페이지에서 검색대상이 "필터명"일 경우 자동완성 기능을 사용할 수 있습니다.
+
+[![image](/docs/images/Manual/common/search/09.png){: width="600" }](/docs/images/Manual/common/search/09.png){: target="_blank"}
+
+<br /> 
+
+- 필터탐지, 전체로그 > 시스템 페이지에서 검색대상이 "채널"일 경우 자동완성 기능을 사용할 수 있습니다.
+
+[![image](/docs/images/Manual/common/search/10.png){: width="600" }](/docs/images/Manual/common/search/10.png){: target="_blank"}
+
+<br />
+
+- 검색어 입력 후, "추가"버튼 클릭하는 경우, 자동완성 기능으로 검색된 검색어를 선택하여야만 검색이 가능합니다.
+
+<br />
+
+### 9.  다음은 로그 검색에 관한 예시입니다.
 
      - 응답사이즈가 10000 이상이고, logURI 값이 /wordpress/index.php인 로그 검색을 원하는 경우, 아래와 같이 검색합니다.
 
@@ -86,7 +104,7 @@ topnav: topnav
 
 <br />
 
-### 9. 다음은 필터탐지 로그 검색에 관한 예제 입니다.
+### 10. 다음은 필터탐지 로그 검색에 관한 예제 입니다.
 
      - 로그인에 대한  탐지만 보기를 원할 때   “로그인” 이라는 단어를 입력합니다.
      로그인과 관련된 필터 탐지 내용을 볼 수 있습니다.
