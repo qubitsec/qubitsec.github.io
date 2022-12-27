@@ -39,11 +39,13 @@ MySQL Error 로그와 Slow-Query 로그 경로를 입력합니다.
 
 <br />
 
+[![image](/docs/images/Ins_G/mysql_slow/5.png)](/docs/images/Ins_G/mysql_slow/5.png){:target="_blank"}
+
+<br />
+
 ### 1-5. 입력 정보 확인
 
 태그가 정상적으로 등록되었는지 확인 후, 수정 버튼을 클릭합니다.
-
-[![image](/docs/images/Ins_G/mysql_slow/5.png)](/docs/images/Ins_G/mysql_slow/5.png){:target="_blank"}
 
 <br />
 
@@ -66,6 +68,10 @@ MySQL Error 로그와 Slow-Query 로그 경로를 입력합니다.
 - 등록 버튼을 클릭하여 등록하고자 하는 태그를 입력합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/8.png){: width="800" }](/docs/images/Ins_G/mysql_slow/8.png){:target="_blank"}
+
+<br />
+
+[![image](/docs/images/Ins_G/mysql_slow/9.png)](/docs/images/Ins_G/mysql_slow/9.png){:target="_blank"}
 
 <br />
 
@@ -97,7 +103,9 @@ long_query_time = 3
 
 `# ls -aZ /var/log/mysql*`
 
-[![image](/docs/images/Ins_G/mysql_slow/9.png)](/docs/images/Ins_G/mysql_slow/9.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/10.png)](/docs/images/Ins_G/mysql_slow/10.png){:target="_blank"}
+
+<br />
 
 ### 2.4. mysql restart
 
@@ -108,7 +116,7 @@ long_query_time = 3
 ### 2.5. 활성화 확인
 `mysql> show variables like ‘slow_query_%’;`
 
-[![image](/docs/images/Ins_G/mysql_slow/10.png)](/docs/images/Ins_G/mysql_slow/10.png){:target="_blank"}
+[![image](/docs/images/Ins_G/mysql_slow/11.png)](/docs/images/Ins_G/mysql_slow/11.png){:target="_blank"}
 
 <br />
 
