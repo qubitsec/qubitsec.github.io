@@ -120,6 +120,11 @@ long_query_time = 3
 
 <br />
 
+### 2.6. 권한 문제로 로그 기록이 되지 않는 경우 safe start
+`# ./mysqld_safe &`
+
+<br />
+
 ## 3. 로그 확인
 
 Mysql Error 또는 Slow Query 로그 발생 후 응용프로그램 로그에서 MySQL 관련 로그를 확인합니다.   
