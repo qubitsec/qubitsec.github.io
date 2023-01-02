@@ -11,7 +11,7 @@ topnav: topnav
 
 <style>
 body {
-  background-image: url('/docs/images/bak.png'); /*사용된 이미지 경로*/
+  background-image: url('/docs/images/bak.jpg'); /*사용된 이미지 경로*/
   background-color: #cccccc;
   background-repeat: no-repeat; /* 이미지를 반복하지 않음 */
   background-position: center; /* 이미지 중심 */
