@@ -120,7 +120,24 @@ long_query_time = 3
 
 <br />
 
-### 2.6. 권한 문제로 로그 기록이 되지 않는 경우 safe start
+### 2.6. mysql query 로깅 추가(선택)
+`# vi /etc/my.cnf`
+
+[mysqld]
+
+general_log_file = /var/log/general.log
+
+general_log = 1
+
+`# touch /var/log/general.log`
+
+`# chown mysql.mysql /var/log/general.log`
+
+`# systemctl restart mysqld`
+
+<br />
+
+### 2.7. 권한 문제로 로그 기록이 되지 않는 경우 safe start
 `# ./mysqld_safe &`
 
 <br />
