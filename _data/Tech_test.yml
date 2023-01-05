@@ -1,0 +1,8 @@
+sidebarTitle: Tech / manual
+
+folders:
+- title: test manual
+  folderitems:
+
+  - title: manual
+    url: ko_manual.html
