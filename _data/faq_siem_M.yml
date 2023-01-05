@@ -10,6 +10,9 @@ folders:
   - title: WGET 에이전트 설치하기
     url: /ko_onpremise_agent_inst_wget.html
 
+  - title: 사설 Root 인증서 등록하기
+    url: /ko_plura_root_ca.html
+
   folders:
 - title: ModPlura 
   folderitems:
