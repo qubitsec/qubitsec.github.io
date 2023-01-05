@@ -1,0 +1,17 @@
+ sidebarTitle: Tech / manual
+
+ folders:
+ - title: Jekyll manual
+   folderitems:
+
+   - title: Make jekyll blog
+     url: 
+
+   - title: Theme apply
+     url:
+
+   - title: Mark Down & HTML lang
+     url:
+
+   - title: Make top menu
+     url: ko_jekyll_manual.html

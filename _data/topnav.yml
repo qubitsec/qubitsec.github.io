@@ -68,10 +68,10 @@ navbar_dropdowns:
         - title: 고객 사례
           url: ko_video_c.html
 
-    - title: Tech
-      folderitems:
-        - title: test1
-          url: test.html
+    # - title: Tech
+    #   folderitems:
+    #     - title: Jekyll Manual
+    #       url: ko_jekyll.html
 
 
     # - title: Other Resources
