@@ -18,7 +18,7 @@ topnav: topnav
 
 ## 2. 브라우저별 사설 Root 인증서 등록
 
-### Chrome
+### 2.1 Chrome
 
 - 설정 > 개인정보 보호 및 보안 > 보안 선택   
 [![image](/docs/images/Faq/siem/on-premise/plura_root_ca/01.png){: width="800" }](/docs/images/Faq/siem/on-premise/plura_root_ca/01.png){: target="_blank"}
@@ -60,7 +60,7 @@ topnav: topnav
 
 <br />
 
-### Edge
+### 2.2 Edge
 
 - 설정 > 개인정보, 검색 및 서비스 > 인증서 관리 선택   
 [![image](/docs/images/Faq/siem/on-premise/plura_root_ca/03.png){: width="800" }](/docs/images/Faq/siem/on-premise/plura_root_ca/03.png){: target="_blank"}
@@ -97,7 +97,7 @@ topnav: topnav
 
 <br />
 
-### Firefox
+### 2.3 Firefox
 
 - 설정 > 개인 정보 및 보안  > 인증서 보기 버튼 클릭   
 [![image](/docs/images/Faq/siem/on-premise/plura_root_ca/12.png){: width="800" }](/docs/images/Faq/siem/on-premise/plura_root_ca/12.png){: target="_blank"}
@@ -115,6 +115,6 @@ topnav: topnav
 
 <br />
 
-<!-- ### Safari -->
+<!-- ### 2.4 Safari -->
 
 <!-- - Safari 추가 예정 -->
