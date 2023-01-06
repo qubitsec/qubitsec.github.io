@@ -1,6 +1,6 @@
 ---
 title: WAF Agent
-permalink: ko_waf.html
+permalink: ja_waf.html
 sidebar: Install_A_W
 product: Install_A_W
 ---
