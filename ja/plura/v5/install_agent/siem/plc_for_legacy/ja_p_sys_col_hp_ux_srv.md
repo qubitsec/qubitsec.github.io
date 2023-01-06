@@ -1,6 +1,6 @@
 ---
 title: HP-UX Server
-permalink: ko_p_sys_col_hp_ux_srv.html
+permalink: ja_p_sys_col_hp_ux_srv.html
 sidebar: Install_A_S
 product: Install_A_S
 ---
