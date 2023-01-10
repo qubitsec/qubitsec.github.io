@@ -4,14 +4,14 @@
  - title: Jekyll manual
    folderitems:
 
-   - title: Make jekyll blog
-     url: 
+   - title: Make Jekyll Blog
+     url: ko_make_b.html
 
    - title: Theme apply
-     url:
+     url: ko_jekyll_theme.html
 
    - title: Mark Down & HTML lang
-     url:
+     url: ko_mark_lang.html
 
-   - title: Make top menu
-     url: ko_jekyll_manual.html
+   - title: Make Top Menu
+     url: ko_top_manual.html
