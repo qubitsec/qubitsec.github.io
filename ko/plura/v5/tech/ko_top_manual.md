@@ -55,7 +55,7 @@ test.md 파일을 아래와 같이 기본적으로 작성해줘야 페이지가 
 
 <br />
 
-다 끝나면 사진처럼 페이지가 노출됩니다.
+적용하면 아래와 같이 페이지가 노출됩니다.
 
 [![image](/docs/images/Tech/Top/top_menu_7.PNG){: width="750" }](/docs/images/Tech/Top/top_menu_7.PNG){: target="_blank"}
 

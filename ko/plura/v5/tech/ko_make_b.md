@@ -9,7 +9,7 @@
 
 ## 1. vscode
 
-[vscode 다운로드](https://code.visualstudio.com/download){:target="_blank"}
+[VSCode 다운로드](https://code.visualstudio.com/download){:target="_blank"}
 를 합니다.
 
 <br />
@@ -24,12 +24,12 @@
 
 Repository 이름은 ex) username.github.io
 
-Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때문입니다)
+원격으로 접속을 해야 하기 때문에 Add a README file에 체크해야 합니다.
 
 <br />
 
-[git-scm.com](https://git-scm.com/){:target="_blank"}
- 에 접속하여 Git 설치합니다. (우측 하단 모니터 그림에 본인의 운영체제에 맞는 버전 알려줍니다)
+[https://git-scm.com](https://git-scm.com/){:target="_blank"}
+ 에 접속하여 본인의 운영체제에 맞는 버전의 Git을 설치합니다.
 
 [![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: target="_blank"}
 
@@ -47,9 +47,8 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 [![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: target="_blank"}
 
-들어가서 최신 버전으로 받습니다.
 
-다 진행하면 cmd 창이 나오는데 3번 눌러줍니다.
+모두 진행하면 cmd 창이 나오는데 3번 눌러줍니다.
 
 <br />
 
@@ -61,7 +60,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
  <br />
 
- 바탕화면 폴더 생성 or 내가 저장하고 싶은 경로에 생성합니다.
+ 바탕화면에 폴더 생성 또는 저장하고 싶은 경로에 생성합니다.
 
  생성한 폴더로 이동 / cd 명령으로 이동
  git clone (git repository HTTPS 주소 붙여넣기)
