@@ -26,7 +26,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-[git-scm.com](git-scm.com) 에 접속하여 Git 설치합니다. (우측 하단 모니터 그림에 본인의 운영체제에 맞는 버전 알려줍니다)
+[git-scm.com](https://git-scm.com/) 에 접속하여 Git 설치합니다. (우측 하단 모니터 그림에 본인의 운영체제에 맞는 버전 알려줍니다)
 
 [![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: target="_blank"}
 
