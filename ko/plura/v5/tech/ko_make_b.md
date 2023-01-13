@@ -7,16 +7,18 @@
 
 
 
-## 1. [vscode]
+## 1. vscode
 
-[vscode 다운로드](https://code.visualstudio.com/download)를 합니다.
+[vscode 다운로드](https://code.visualstudio.com/download){:target="_blank"}
+를 합니다.
 
 <br />
 
-## 2. [Git]
+## 2. Git
 
 
-[Git 회원가입](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)을 진행해야 합니다.
+[Git 회원가입](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home){:target="_blank"}
+을 진행해야 합니다.
 
 새로운 Repository 생성합니다.
 
@@ -26,22 +28,24 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-[git-scm.com](https://git-scm.com/) 에 접속하여 Git 설치합니다. (우측 하단 모니터 그림에 본인의 운영체제에 맞는 버전 알려줍니다)
+[git-scm.com](https://git-scm.com/){:target="_blank"}
+ 에 접속하여 Git 설치합니다. (우측 하단 모니터 그림에 본인의 운영체제에 맞는 버전 알려줍니다)
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: target="_blank"}
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: target="_blank"}
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: target="_blank"}
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: target="_blank"}
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: target="_blank"}
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: target="_blank"}
 
 **위 이미지 3개 제외하고 나머지는 기본 설정**
 
 <br />
 
-## 3. [Ruby]
-[https://www.ruby-lang.org/ko/](Ruby 다운로드)
+## 3. Ruby
+[Ruby 다운로드](https://www.ruby-lang.org/ko/){:target="_blank"}
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: target="_blank"}
+
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: target="_blank"}
 
 들어가서 최신 버전으로 받습니다.
 
@@ -49,7 +53,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-## 4. [Git 연동] cmd or VSC(terminal)
+## 4. Git 연동 cmd or VSC(terminal)
 
  git config –global user.name [github 계정]
 
@@ -83,7 +87,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-## 5. [Jekyll Install]
+## 5. Jekyll Install
 cmd 실행
 
 gem install jekyll

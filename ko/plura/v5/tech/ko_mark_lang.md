@@ -42,7 +42,7 @@
 
      >       >       > This is a blockqute
 
-[![image](/docs/images/Tech/Mark/mark_1.PNG){: width="600" }](/docs/images/Tech/Mark/mark_1.PNG){: target="_blank"}
+[![image](/docs/images/Tech/Mark/mark_1.PNG){: width="" }](/docs/images/Tech/Mark/mark_1.PNG){: target="_blank"}
 
 <br />
 
@@ -81,7 +81,7 @@
 
 <br />
 
-7. 링크
+## 7. 링크
 
 참조링크
 
