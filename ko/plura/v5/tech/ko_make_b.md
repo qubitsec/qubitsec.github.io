@@ -7,7 +7,7 @@
 
 
 
-## 1. vscode
+## 1. VSCode
 
 [VSCode 다운로드](https://code.visualstudio.com/download){:target="_blank"}
 를 합니다.

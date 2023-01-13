@@ -34,7 +34,7 @@
 
 ## 4. BlockQuote
 
-이메일에서 사용화는 <code> ></code> 블럭인용문자를 이용합니다.
+이메일에서 사용하는 <code> ></code> 블럭인용문자를 이용합니다.
 
      > This is a blockqute
 
