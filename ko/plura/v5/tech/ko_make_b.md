@@ -7,13 +7,13 @@
 
 
 
-## [vscode]
+## 1. [vscode]
 
 [vscode 다운로드](https://code.visualstudio.com/download)를 합니다.
 
 <br />
 
-## [Git]
+## 2. [Git]
 
 
 [Git 회원가입](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)을 진행해야 합니다.
@@ -38,7 +38,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-## [Ruby]
+## 3. [Ruby]
 [https://www.ruby-lang.org/ko/](Ruby 다운로드)
 
 [![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: target="_blank"}
@@ -49,7 +49,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-## [Git 연동] cmd or VSC(terminal)
+## 4. [Git 연동] cmd or VSC(terminal)
 
  git config –global user.name [github 계정]
 
@@ -66,7 +66,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-### Git 업로드(적용)
+### 4-1. Git 업로드(적용)
 
 **1. cmd**
    - git add [filename]
@@ -83,7 +83,7 @@ Add a README file 체크해야 합니다. (이유는 remote 해줘야 하기 때
 
 <br />
 
-## [Jekyll Install]
+## 5. [Jekyll Install]
 cmd 실행
 
 gem install jekyll
