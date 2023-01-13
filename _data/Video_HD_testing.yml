@@ -10,6 +10,9 @@ folders:
   - title: Wannacry Ransomware
     url: /ko_wannacry_ransomware.html
 
+  - title: APT29 (MITRE ATT&CK)
+    url: /ko_APT29_Attack.html
+
   folders:
 - title: WEB
   folderitems:
@@ -22,6 +25,9 @@ folders:
 
   - title: XSS
     url: /ko_xss.html
+
+  - title: Estatik plugin vulnerability
+    url: /ko_Estatik_plugin.html
 
   folders:
 - title: 계정탈취
