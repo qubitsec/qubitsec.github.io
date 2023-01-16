@@ -45,6 +45,11 @@ topnav: topnav
 
 <br />
 
+- 모든 인증서를 다음 저장소에 저장(신뢰할 수 있는 루트 인증 기관) 체크박스 선택 > 다음 선택
+[![image](/docs/images/Faq/siem/on-premise/plura_root_ca/15.png)](/docs/images/Faq/siem/on-premise/plura_root_ca/15.png){: target="_blank"}
+
+<br />
+
 - 인증서 정보 확인 후, 마침 버튼 클릭   
 [![image](/docs/images/Faq/siem/on-premise/plura_root_ca/09.png)](/docs/images/Faq/siem/on-premise/plura_root_ca/09.png){: target="_blank"}
 
@@ -79,6 +84,11 @@ topnav: topnav
 
 - 찾아보기 버튼 클릭하여, 등록할 인증서 가져오기 > 다음 선택   
 [![image](/docs/images/Faq/siem/on-premise/plura_root_ca/07.png)](/docs/images/Faq/siem/on-premise/plura_root_ca/07.png){: target="_blank"}
+
+<br />
+
+- 모든 인증서를 다음 저장소에 저장(신뢰할 수 있는 루트 인증 기관) 체크박스 선택 > 다음 선택
+[![image](/docs/images/Faq/siem/on-premise/plura_root_ca/15.png)](/docs/images/Faq/siem/on-premise/plura_root_ca/15.png){: target="_blank"}
 
 <br />
 
