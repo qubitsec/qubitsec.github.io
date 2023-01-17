@@ -1,19 +1,75 @@
-## Topnav single links
-## if you want to list an external url, use url instead of url. the theme will apply a different link base.
 navbar_singleitems:
 - items:
-    - title: Home
-      url: https://qubitsec.github.io/index_ja.html
+    - title: 
+      url: https://qubitsec.github.io/ja_index.html
 
-
-
-#Topnav dropdowns
 navbar_dropdowns:
 - folders:
 
-    - title: Install Guide
+    - title: Install Agents
       folderitems:
+        - title: SIEM
+          url: /ja_Ins_siem.html
+        - title: WAF
+          url: /ja_Ins_waf.html
         - title: Forensic
-          url: forensic_ja.html
+          url: /ja_Ins_for.html
 
- 
+    - title: Function
+      folderitems:
+        - title: Common
+          url: ja_manual_common.html
+        - title: SIEM
+          url: ja_manual_siem.html
+        - title: WAF
+          url: ja_main_waf.html
+        - title: Forensic
+          url: ja_manual_for.html
+
+    - title: FAQ
+      folderitems:
+        - title: Common
+          url: ja_common_m.html
+        - title: SIEM
+          url: ja_siem_m.html
+        - title: Forensic
+          url: ja_forensic_m.html
+    
+    - title: Public Cloud 
+      folderitems:
+        - title: Public Cloud 
+          url: ja_pc_sp.html
+    
+    - title: Video
+      folderitems:
+        - title: 회사&제품소개
+          url: ja_video_company.html
+
+        - title: 기능소개
+          url: ja_video_f_introduc.html
+
+        - title: 에이전트 설치
+          url: ja_video_a_ins.html
+
+        - title: 해킹탐지 시연
+          url: ja_video_hd_t.html
+
+        - title: 고객 사례
+          url: ja_video_c.html
+
+    - title: Tech
+      folderitems:
+        - title: Jekyll Manual
+          url: ja_jekyll.html
+
+    # - title: Lang
+    #   folderitems:
+
+    #     - title: KR
+    #       url: ko_index.html
+
+    #     - title: JA
+    #       url: ja_index.html
+
+    #     - title: EN
+    #       url: en_index.html

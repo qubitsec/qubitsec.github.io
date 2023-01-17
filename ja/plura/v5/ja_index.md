@@ -1,13 +1,12 @@
 ---
-permalink: ko_index.html
+permalink: ja_index.html
 # sidebar: generic
-topnav: topnav
+topnav: topnav_ja
 ---
 
 
-<p style="margin-top:250px; color:#fff; font-size:60px; text-align:center">문제점을 찾지 말고<br>해결책을 찾으라</p>
-<p style="margin-top:20px; color:#fff; font-size:22px; text-align:center">- 헨리 포드 -</p>
-
+<p style="margin-top:250px; color:#fff; font-size:50px; text-align:center">ドントゥ ファインドゥ フォルトゥ、<br>ファインドゥ ア レメディ。</p>
+<p style="margin-top:20px; color:#fff; font-size:22px; text-align:center">- ヘンリー・フォード -</p>
 <!-- <p style="margin-top:200px; color:#fff; font-size:60px; line-height:80px;">PLURA Manual</p> -->
 
 <style>

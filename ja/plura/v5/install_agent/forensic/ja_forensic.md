@@ -1,8 +1,8 @@
 ---
 title: Log-F Agent Srv 
 permalink: ja_forensic.html
-sidebar: Install_A_F
-product: Install_A_F
+sidebar: Install_G_F_ja
+product: Install_G_F_ja
 ---
 
 
