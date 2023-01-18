@@ -7,7 +7,7 @@ topnav: topnav
 
 <p style="margin-top:100px; color:#fff; font-size:48px; text-align:center">결점을 찾지 말고,<br>해결책을 찾으라</p>
 
-<p style="margin-top:100px; color:#fff; font-size:48px; text-align:center">ドントゥ ファインドゥ フォルトゥ、<br>ファインドゥ ア レメディ。</p>
+<p style="margin-top:100px; color:#fff; font-size:40px; text-align:center">ドントゥファインドゥフォルトゥ、<br>ファインドゥアレメディ。</p>
 
 <p style="margin-top:100px; color:#fff; font-size:48px; text-align:center">Don't find fault,<br>find a remedy.</p>
 

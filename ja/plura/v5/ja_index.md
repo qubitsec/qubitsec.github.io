@@ -5,7 +5,7 @@ topnav: topnav_ja
 ---
 
 
-<p style="margin-top:250px; color:#fff; font-size:50px; text-align:center">ドントゥ ファインドゥ フォルトゥ、<br>ファインドゥ ア レメディ。</p>
+<p style="margin-top:250px; color:#fff; font-size:40px; text-align:center">ドントゥファインドゥフォルトゥ、<br>ファインドゥアレメディ。</p>
 <p style="margin-top:20px; color:#fff; font-size:22px; text-align:center">- ヘンリー・フォード -</p>
 <!-- <p style="margin-top:200px; color:#fff; font-size:60px; line-height:80px;">PLURA Manual</p> -->
 
