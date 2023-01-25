@@ -1,75 +1,75 @@
-navbar_singleitems:
-- items:
-    - title: 
-      url: https://qubitsec.github.io/ja_index.html
+# navbar_singleitems:
+# - items:
+#     - title: 
+#       url: https://qubitsec.github.io/ja_index.html
 
-navbar_dropdowns:
-- folders:
+# navbar_dropdowns:
+# - folders:
 
-    - title: Install Agents
-      folderitems:
-        - title: SIEM
-          url: /ja_Ins_siem.html
-        - title: WAF
-          url: /ja_Ins_waf.html
-        - title: Forensic
-          url: /ja_Ins_for.html
+#     - title: Install Agents
+#       folderitems:
+#         - title: SIEM
+#           url: /ja_Ins_siem.html
+#         - title: WAF
+#           url: /ja_Ins_waf.html
+#         - title: Forensic
+#           url: /ja_Ins_for.html
 
-    - title: Function
-      folderitems:
-        - title: Common
-          url: ja_manual_common.html
-        - title: SIEM
-          url: ja_manual_siem.html
-        - title: WAF
-          url: ja_main_waf.html
-        - title: Forensic
-          url: ja_manual_for.html
+#     - title: Function
+#       folderitems:
+#         - title: Common
+#           url: ja_manual_common.html
+#         - title: SIEM
+#           url: ja_manual_siem.html
+#         - title: WAF
+#           url: ja_main_waf.html
+#         - title: Forensic
+#           url: ja_manual_for.html
 
-    - title: FAQ
-      folderitems:
-        - title: Common
-          url: ja_common_m.html
-        - title: SIEM
-          url: ja_siem_m.html
-        - title: Forensic
-          url: ja_forensic_m.html
+#     - title: FAQ
+#       folderitems:
+#         - title: Common
+#           url: ja_common_m.html
+#         - title: SIEM
+#           url: ja_siem_m.html
+#         - title: Forensic
+#           url: ja_forensic_m.html
     
-    - title: Public Cloud 
-      folderitems:
-        - title: Public Cloud 
-          url: ja_pc_sp.html
+#     - title: Public Cloud 
+#       folderitems:
+#         - title: Public Cloud 
+#           url: ja_pc_sp.html
     
-    - title: Video
-      folderitems:
-        - title: 会社&製品紹介
-          url: ja_video_company.html
+#     - title: Video
+#       folderitems:
+#         - title: 会社&製品紹介
+#           url: ja_video_company.html
 
-        - title: 機能紹介
-          url: ja_video_f_introduc.html
+#         - title: 機能紹介
+#           url: ja_video_f_introduc.html
 
-        - title: エージェントインストール
-          url: ja_video_a_ins.html
+#         - title: エージェントインストール
+#           url: ja_video_a_ins.html
 
-        - title: ハッキング検知試演
-          url: ja_video_hd_t.html
+#         - title: ハッキング検知試演
+#           url: ja_video_hd_t.html
 
-        - title: 顧客事例
-          url: ja_video_c.html
+#         - title: 顧客事例
+#           url: ja_video_c.html
 
-    - title: Tech
-      folderitems:
-        - title: Jekyll Manual
-          url: ja_jekyll.html
+#     - title: Tech
+#       folderitems:
+#         - title: Jekyll Manual
+#           url: ja_jekyll.html
 
-    - title: Lang
-      folderitems:
+#     - title: Lang
+#       folderitems:
 
-        - title: KR
-          url: ko_index.html
+#         - title: KR
+#           url: ko_index.html
 
-        - title: JA
-          url: ja_index.html
+#         - title: JA
+#           url: ja_index.html
 
-    #     - title: EN
-    #       url: en_index.html
+#     #     - title: EN
+#     #       url: en_index.html
