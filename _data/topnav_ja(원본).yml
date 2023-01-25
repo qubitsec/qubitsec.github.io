@@ -1,55 +1,75 @@
-## Topnav single links
-## if you want to list an external url, use url instead of url. the theme will apply a different link base.
-# navbar_singleitems:
-# - items:
-#     - title: Search - JA
-#       url: /search.html
+navbar_singleitems:
+- items:
+    - title: 
+      url: https://qubitsec.github.io/ja_index.html
 
-# #Topnav dropdowns
-# navbar_dropdowns:
-# - folders:
-#     - title: Jekyll Resources - JA
-#       folderitems:
-#         - title: Github Repo - JA
-#           url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-#         - title: Jekyll Talk - JA
-#           url: https://talk.jekyllrb.com
-#         - title: Jekyll documentation - JA
-#           url: http://jekyllrb.com/docs/home/
-#         - title: Jekyll on Stack Overflow - JA
-#           url: http://stackoverflow.com/questions/tagged/jekyll
-#         - title: Jekyll on my blog - JA
-#           url: http://idratherbewriting.com/category-jekyll/
-#     - title: Products - JA
-#       folderitems:
-#         - title: Jekyll Documentation Theme - JA
-#           url: /mydoc_introduction.html
-#         - title: Product 1- JA
-#           url: /p1_landing_page.html
-#         - title: Product 2- JA
-#           url: /p2_landing_page.html
-#     - title: Tags - JA
-#       folderitems:
-#         - title: Getting started - JA
-#           url: /tag-getting-started.html
+navbar_dropdowns:
+- folders:
 
-#         - title: Content types - JA
-#           url: /tag-content-types.html
+    - title: Install Agents
+      folderitems:
+        - title: SIEM
+          url: /ja_Ins_siem.html
+        - title: WAF
+          url: /ja_Ins_waf.html
+        - title: Forensic
+          url: /ja_Ins_for.html
 
-#         - title: Navigation - JA
-#           url: /tag-navigation.html
+    - title: Function
+      folderitems:
+        - title: Common
+          url: ja_manual_common.html
+        - title: SIEM
+          url: ja_manual_siem.html
+        - title: WAF
+          url: ja_main_waf.html
+        - title: Forensic
+          url: ja_manual_for.html
 
-#         - title: Formatting - JA
-#           url: /tag-formatting.html
+    - title: FAQ
+      folderitems:
+        - title: Common
+          url: ja_common_m.html
+        - title: SIEM
+          url: ja_siem_m.html
+        - title: Forensic
+          url: ja_forensic_m.html
+    
+    - title: Public Cloud 
+      folderitems:
+        - title: Public Cloud 
+          url: ja_pc_sp.html
+    
+    - title: Video
+      folderitems:
+        - title: 会社&製品紹介
+          url: ja_video_company.html
 
-#         - title: Publishing - JA
-#           url: /tag-publishing.html
+        - title: 機能紹介
+          url: ja_video_f_introduc.html
 
-#         - title: Single-sourcing - JA
-#           url: /tag-single-sourcing.html
+        - title: エージェントインストール
+          url: ja_video_a_ins.html
 
-#         - title: Collaboration - JA
-#           url: /tag-collaboration.html
+        - title: ハッキング検知試演
+          url: ja_video_hd_t.html
 
-#         - title: Troubleshooting - JA
-#           url: /tag-troubleshooting.html
+        - title: 顧客事例
+          url: ja_video_c.html
+
+    - title: Tech
+      folderitems:
+        - title: Jekyll Manual
+          url: ja_jekyll.html
+
+    - title: Lang
+      folderitems:
+
+        - title: KR
+          url: ko_index.html
+
+        - title: JA
+          url: ja_index.html
+
+    #     - title: EN
+    #       url: en_index.html
