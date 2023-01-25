@@ -1,101 +1,101 @@
-sidebarTitle: Menu
-owner: tomjohnson1492
+# sidebarTitle: Menu
+# owner: tomjohnson1492
 
-## Keep this commented out content because it shows the YAML model for the sidebar.
+# ## Keep this commented out content because it shows the YAML model for the sidebar.
 
-folders:
-- title: Install Guide
-  folderitems:
+# folders:
+# - title: Install Guide
+#   folderitems:
 
-  - title: Frensic
-    url: /Forensic.html
+#   - title: Frensic
+#     url: /Forensic.html
 
-    subfolders:
-    - title: SIEM
-      subfolderitems:
+#     subfolders:
+#     - title: SIEM
+#       subfolderitems:
 
-      - title: PLURA V5 Agent Windows Srv
-        url: # /P_Agent_Win_Srv.html
+#       - title: PLURA V5 Agent Windows Srv
+#         url: # /P_Agent_Win_Srv.html
       
-  - title: 
-    url: 
+#   - title: 
+#     url: 
 
-  # - title: Sample 2 really long title that will wrap even longer
-  #   url: /sample2.html
+#   # - title: Sample 2 really long title that will wrap even longer
+#   #   url: /sample2.html
 
-  # - title: Sample 3
-  #   url: /sample3.html
+#   # - title: Sample 3
+#   #   url: /sample3.html
 
-- title: Manual
-  folderitems:
+# - title: Manual
+#   folderitems:
 
-  - title: Common
-    url: /sublevel1.html
+#   - title: Common
+#     url: /sublevel1.html
 
-    subfolders:
-    - title: SIEM
-      subfolderitems:
+#     subfolders:
+#     - title: SIEM
+#       subfolderitems:
 
-      - title: 대시보드
-        url: /sublevel2.html
+#       - title: 대시보드
+#         url: /sublevel2.html
 
-        subsubfolders:
-        - title: 시스템
-          subsubfolderitems:
+#         subsubfolders:
+#         - title: 시스템
+#           subsubfolderitems:
 
-            - title: 시스템 관리
-              url: /sublevel3.html
+#             - title: 시스템 관리
+#               url: /sublevel3.html
 
-  - title: Forensic
-    url: /sublevel3.html
+#   - title: Forensic
+#     url: /sublevel3.html
 
-  - title: WAF
-    url: /sublevel3.html
+#   - title: WAF
+#     url: /sublevel3.html
 
-- title: Qubit Insight
-  folderitems:
+# - title: Qubit Insight
+#   folderitems:
 
-  - title: Additional Manual
-    url: /sublevel1.html
+#   - title: Additional Manual
+#     url: /sublevel1.html
 
-  - title: Public Cloud Service Provider
-    url: /sublevel2.html
+#   - title: Public Cloud Service Provider
+#     url: /sublevel2.html
 
-  - title: Card News
-    url: /sublevel3.html
+#   - title: Card News
+#     url: /sublevel3.html
 
-  - title: Column
-    url: /sublevel3.html
+#   - title: Column
+#     url: /sublevel3.html
 
-  - title: Case Study
-    url: /sublevel2.html
+#   - title: Case Study
+#     url: /sublevel2.html
 
-  - title: Newsletter
-    url: /sublevel3.html
+#   - title: Newsletter
+#     url: /sublevel3.html
 
-  - title: Tech
-    url: /sublevel3.html
+#   - title: Tech
+#     url: /sublevel3.html
 
-- title: Video
-  folderitems:
+# - title: Video
+#   folderitems:
 
-  - title: 회사소개
-    url: /sublevel1.html
+#   - title: 회사소개
+#     url: /sublevel1.html
 
-  - title: 제품소개
-    url: /sublevel2.html
+#   - title: 제품소개
+#     url: /sublevel2.html
 
-  - title: 기능소개
-    url: /sublevel3.html
+#   - title: 기능소개
+#     url: /sublevel3.html
 
-  - title: 에이전트 설치
-    url: /sublevel3.html
+#   - title: 에이전트 설치
+#     url: /sublevel3.html
 
-  - title: 해킹탐지 시연
-    url: /sublevel2.html
+#   - title: 해킹탐지 시연
+#     url: /sublevel2.html
 
-  - title: 방송/발표
-    url: /sublevel3.html
+#   - title: 방송/발표
+#     url: /sublevel3.html
 
-  - title: 고객 사례
-    url: /sublevel3.html
+#   - title: 고객 사례
+#     url: /sublevel3.html

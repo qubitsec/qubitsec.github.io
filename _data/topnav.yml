@@ -73,14 +73,14 @@ navbar_dropdowns:
         - title: Jekyll Manual
           url: ko_jekyll.html
 
-    # - title: Lang
-    #   folderitems:
+    - title: Lang
+      folderitems:
 
-    #     - title: KR
-    #       url: ko_index.html
+        - title: KR
+          url: ko_index.html
 
-    #     - title: JA
-    #       url: ja_index.html
+        - title: JA
+          url: ja_index.html
 
     #     - title: EN
     #       url: en_index.html
