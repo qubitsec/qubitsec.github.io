@@ -1,8 +1,8 @@
 ---
 title: Linux Web Server-Datos
 permalink: ja_p_lin_w_sd.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 
@@ -13,7 +13,7 @@ product: Install_A_S
 
 次のような環境で使用出来ます。
 
-1) ウェブサーバーにApache HTTPD, Nginxではない環境、例えば,Apache Tomcatの単独使用の場合
+1) ウェブサーバにApache HTTPD, Nginxではない環境、例えば,Apache Tomcatの単独使用の場合
 
 2) コンテナ環境で、ホストに複数のウェブPOD使用する場合
 

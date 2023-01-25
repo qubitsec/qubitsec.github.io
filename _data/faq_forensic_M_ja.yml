@@ -1,0 +1,10 @@
+sidebarTitle: FAQ > Forensic
+
+folders:
+- title: アップロード
+  folderitems:
+
+  - title: オペレーティングシステムログアップロード収集パスおよび使用方法
+    url: /ja_path_uasge_method.html
+
+

@@ -1,8 +1,8 @@
 ---
 title: Web
 permalink: ja_logcol_web.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
      PLURA Log Collector (PLC) - Webの役割
@@ -14,7 +14,7 @@ product: Install_A_S
 
 PLURA Log Collector (PLC)サポートOSは次の通りです.
 
-[https://qubitsec.github.io/ko_support_os.html](https://qubitsec.github.io/ko_support_os.html){:target="_blank"}
+[https://qubitsec.github.io/ja_support_os.html](https://qubitsec.github.io/ja_support_os.html){:target="_blank"}
 
 <br />
 
@@ -29,7 +29,7 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 1.　ログ取り込みサーバー(親)にPLCインストール(by root)
+### 1.　ログ取り込みサーバ(親)にPLCインストール(by root)
 
 `# sudo -s`
 
@@ -57,27 +57,27 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 5. ログ取り込みサーバー(親)にポットミラーリング構成
+### 5. ログ取り込みサーバ(親)にポットミラーリング構成
 
 <br />
 
-### 6. 遠距離(子)サーバー登録
+### 6. 遠距離(子)サーバ登録
 
 <br />
 
 #### 6-1. 遠距離(子)登録パス
 
-- システム  > システム管理 > ログ取り込みサーバー(親)選択 > ウェブボタンをクリックします。
+- システム  > システム管理 > ログ取り込みサーバ(親)選択 > ウェブボタンをクリックします。
 [![image](/docs/images/Ins_G/LogCol_web/5.png){: width="800" }](/docs/images/Ins_G/LogCol_web/5.png){:target="_blank"}
 
 #### 6-2. 情報入力
 
-- システム登録ポップアップ > 遠距離(子)サーバー情報を入力します。
+- システム登録ポップアップ > 遠距離(子)サーバ情報を入力します。
 [![image](/docs/images/Ins_G/LogCol_web/6.png)](/docs/images/Ins_G/LogCol_web/6.png){:target="_blank"}
 
 #### 6-3.登録完了
 
-- システム > システム管理ページで遠距離(子)サーバーが登録されました。 
+- システム > システム管理ページで遠距離(子)サーバが登録されました。 
 [![image](/docs/images/Ins_G/LogCol_web/7.png){: width="800" }](/docs/images/Ins_G/LogCol_web/7.png){:target="_blank"}
 
 <br />

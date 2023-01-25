@@ -1,0 +1,42 @@
+sidebarTitle: Video > エージェントのインストール
+
+folders:
+- title: SIEM
+  folderitems:
+
+  - title: Windows Event & IIS Log
+    url: /ja_win_event_iis_log.html
+
+  - title: Windows Sysmon Log (sysinternals)
+    url: /ja_win_sysmon_log.html
+
+  - title: Linux Syslog
+    url: /ja_lin_sys.html
+
+  - title: Linux Syslog-Audit
+    url: /ja_linu_sys_audit.html
+
+  - title: Linux Apache | Nginx
+    url: /ja_lin_apache_nginx.html
+
+  - title: Linux Web Server - Datos
+    url: /ja_lin_web_server.html
+
+  - title: PLC - System
+    url: /ja_log_col_system.html
+
+  - title: PLC - Application
+    url: /ja_log_col_app.html
+
+  - title: PLC - Web
+    url: /ja_log_col_web.html
+
+  - title: PLC - Network
+    url: /ja_log_col_network.html
+
+  folders:
+- title: Forensic
+  folderitems:
+
+  - title: Forensic
+    url: /ja_agent_forensic.html

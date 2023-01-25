@@ -1,0 +1,51 @@
+sidebarTitle: Video > 機能紹介
+
+folders:
+- title: SIEM(DEMO)
+  folderitems:
+
+  - title: ダッシュボード/メニューを活用
+    url: /ja_dash_menu.html
+
+  - title: ユーザ定義フィルタ登録
+    url: /ja_filter_registration.html
+
+  - title: 管理
+    url: /ja_management.html
+
+  - title: 再転送攻撃
+    url: /ja_re_send_attack.html
+
+  - title: MITRE ATT&CK 
+    url: /ja_mitre_attack_demo.html
+
+  - title: セキュリティ 
+    url: /ja_security.html
+
+  - title: アカウント乗っ取りフィルタ登録 
+    url: /ja_account_takeover_fil_reg.html
+
+  - title: アカウント乗っ取りメニュの活用 
+    url: /ja_account_takeover_menu.html
+
+  - title: グループ通知(Syslog)設定 
+    url: /ja_setting_up_syslog.html
+
+  - title: グループ通知(ウェブフック)設定
+    url: /ja_setting_up_webhook.html
+
+  - title: 個人通知の設定 
+    url: /ja_setting_up_personal.html
+
+  - title: ウェブファイアウォールのブロック設定 
+    url: /ja_web_firewall_blocking_set.html
+
+  - title: アップロード設定
+    url: /ja_upload_setting.html
+
+  folders:
+- title: Forensic
+  folderitems:
+
+  - title: Forensic
+    url: /ja_function_forensic.html

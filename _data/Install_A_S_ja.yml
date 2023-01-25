@@ -1,0 +1,115 @@
+sidebarTitle: Install Agents > SIEM
+
+folders:
+- title: Agent 
+  folderitems:
+
+  - title: Windows Server
+    url: /ja_p_agent_win_srv.html
+
+  - title: Linux Server
+    url: /ja_p_agent_lin_srv.html
+
+  - title: Linux Web Server-Datos
+    url: /ja_p_lin_w_sd.html
+
+  - title: Linux Syslog-Audit
+    url: /ja_lin_sys_audit.html
+
+  folders:
+- title: Sysmon
+  folderitems:
+
+  - title: Sysmon (Windows Sysinternals)
+    url: /ja_sysmon.html
+
+
+  folders:
+- title: PLC
+  folderitems:
+
+  - title: System
+    url: /ja_logcol_system.html
+
+  - title: Application
+    url: /ja_logcol_application.html
+
+  - title: Custom
+    url: /ja_logcol_custom_appl.html
+
+  - title: Web
+    url: /ja_logcol_web.html
+
+  - title: Network
+    url: /ja_logcol_network.html
+
+  folders:
+- title: PLC for Legacy
+  folderitems:
+
+  - title: AIX Server
+    url: /ja_p_sys_col_aix_srv.html
+
+  - title: HP-UX Server
+    url: /ja_p_sys_col_hp_ux_srv.html
+
+  - title: Solaris Server
+    url: /ja_p_sys_col_solar_srv.html
+
+  - title: FreeBSD Server
+    url: /ja_p_sys_col_freebsd_srv.html
+
+
+ 
+
+  folders:
+- title: ETC
+  folderitems:
+
+  - title:
+    url: 
+
+    subfolders:
+    - title: CentOS
+      subfolderitems: 
+
+      - title: Apache httpd error ログ
+        url: /ja_apache_httpd_log.html
+
+      - title: MySQL ログ
+        url: /ja_mysql_log.html
+
+      - title: MySQL Error & Slow-Query ログ
+        url: /ja_mysql_err_slow_query_log.html
+
+      - title: (PLC)MySQL Error & Slow-Query ログ
+        url: /ja_rsys_mysql_err_slow_query_log.html
+
+      - title: Openvpn ログ
+        url: /ja_openvpn_log.html
+
+      - title: PostgreSQL ログ
+        url: /ja_postgresql_cent_log.html
+  
+      - title: Redis ログ
+        url: /ja_redis_cent_log.html
+
+      - title: xrdp ログ
+        url: /ja_xrdp_log.html
+
+      - title: (PLC)アプリケーションログ
+        url: /ja_rsys_log.html
+
+  - title:
+    url: 
+
+    subfolders:
+    - title: Ubuntu
+      subfolderitems: 
+
+
+      - title: PostgreSQLログ
+        url: /ja_postgresql_ubuntu_log.html
+
+      - title: Redisログ
+        url: /ja_redis_ubuntu_log.html

@@ -1,0 +1,23 @@
+sidebarTitle: Public Cloud
+
+folders:
+- title: AWS
+  folderitems:
+
+  - title: Auto Scaling設定ガイド
+    url: /ja_scaling_setup_guide.html
+
+  - title: タイムゾーン設定
+    url: /ja_timezone_aws.html
+
+  - title: Router 53 DNSの割り当て
+    url: /ja_route_53_dns.html
+  
+  - title: EC2 Auto Scaling環境のサポート
+    url: /ja_amazon_ec2_scaling.html
+
+  - title: PLURA WAF環境
+    url: /ja_waf_no_cloudfront_aws.html
+
+  - title: PLURA WAF環境(With CloudFront)
+    url: /ja_waf_cloudfront_aws.html

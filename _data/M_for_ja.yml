@@ -1,0 +1,18 @@
+sidebarTitle: Function > Forensic
+
+folders:
+- title: ダッシュボード
+  folderitems:
+
+  - title: ダッシュボード
+    url: /ja_dash_for.html
+
+  folders:
+- title: システム管理
+  folderitems:
+
+  - title: システム管理
+    url: /ja_system_manage_for.html
+
+
+  

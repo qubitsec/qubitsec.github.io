@@ -1,0 +1,91 @@
+sidebarTitle: FAQ > Common
+
+folders:
+- title: 機能
+  folderitems:
+
+  - title: ユーザ別ブラウザ保存機能
+    url: /ja_plura_browser_save.html
+  
+  folders:
+- title: IPアドレス確認
+  folderitems:
+
+  - title: Public IPアドレス確認方法
+    url: /ja_public_ip_check.html
+
+  folders:
+- title: PoC
+  folderitems:
+
+  - title: オンライン PoC 進行方法のご案内
+    url: /ja_cl_secaas_poc.html
+
+  folders:
+- title: アップロード設定
+  folderitems:
+
+  - title: アプリケーション
+    url: /ja_set_app_log_up.html
+
+  folders:
+- title: 登録/アカウント管理
+  folderitems:
+
+  - title: 会員登録認証メールが届かない
+    url: /ja_sign_up_mail.html
+
+  - title: 会員登録はどうすればいいですか
+    url: /ja_member_invite.html
+
+  - title: 会員退会はどうすればいいですか
+    url: /ja_plura_withdraw.html
+
+  folders:
+- title: エージェント
+  folderitems:
+
+  - title: 最小/推奨仕様
+    url: /ja_agent_install_recommend.html
+
+  - title: サポートオペレーティングシステム
+    url: /ja_support_os.html
+
+  - title: Windowsエージェントのインストール権限
+    url: /ja_window_agent_install_authority.html
+
+  - title: エージェントアップデート
+    url: /ja_agent_update.html
+
+  - title: プロセス別の役割
+    url: /ja_process_role.html    
+
+  - title: エージェント削除
+    url: /ja_agent_uninstall.html
+
+  folders:
+- title: サービス
+  folderitems:
+
+  - title: 個人情報を非表示にする機能はありますか
+    url: /ja_personal_information_hidden.html
+
+  - title: ウェブ検知例外をしたいです
+    url: /ja_web_detect_exception.html
+
+  folders:
+- title: 料金
+  folderitems:
+
+  - title: 利用料金
+    url: /ja_service_price.html
+
+  - title: 料金のお支払い
+    url: /ja_servicep_payment.html
+
+  folders:
+- title: その他
+  folderitems:
+
+  - title: PLURA Port/Address
+    url: /ja_agent_port_address.html

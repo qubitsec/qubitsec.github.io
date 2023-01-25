@@ -42,19 +42,19 @@ navbar_dropdowns:
     
     - title: Video
       folderitems:
-        - title: 회사&제품소개
+        - title: 会社&製品紹介
           url: ja_video_company.html
 
-        - title: 기능소개
+        - title: 機能紹介
           url: ja_video_f_introduc.html
 
-        - title: 에이전트 설치
+        - title: エージェントインストール
           url: ja_video_a_ins.html
 
-        - title: 해킹탐지 시연
+        - title: ハッキング検知試演
           url: ja_video_hd_t.html
 
-        - title: 고객 사례
+        - title: 顧客事例
           url: ja_video_c.html
 
     - title: Tech

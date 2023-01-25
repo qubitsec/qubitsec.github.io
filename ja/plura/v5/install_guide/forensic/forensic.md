@@ -1,17 +1,17 @@
 ---
-title: (JA제목)PLURA V5 Log-F Agent Srv 
+title: (JAタイトル)PLURA V5 Log-F Agent Srv 
 permalink: forensic_ja.html
 sidebar: Install_G_F_ja
-product: Install_G_F_ja
+topnav: topnav_ja
 ---
 
 
 
      
-+ 일본어 (기계어 번역)
+## + 일본어 (기계어 번역)
      
-  PLURA V5 Forensicは、他のシステムのログをアップロードしてデータを収集、ログ分析ができるサービスです。
-エージェントからログをアップロードすると、数千の異常行為を検出できるポリシーを提供し、従来のログ分析業務方式に比べて95%以上の業務負荷を削減できます。
+PLURA V5 Forensicは、他システムのログをアップロードしてデータを収集、ログ分析ができるサービスです。
+エージェントからログをアップロードすると数千の異常行為を検出できるポリシーを提供し、従来のログ分析業務方式に比べて95%以上の業務負荷を削減できます。
 
 <br />
 メーカーがサポートを終了した製品についてPLURAV5でもサポートを終了します。

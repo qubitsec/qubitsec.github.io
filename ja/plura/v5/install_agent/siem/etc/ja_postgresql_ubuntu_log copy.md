@@ -1,8 +1,8 @@
 ---
 title: PostgreSQLログ
 permalink: ja_postgresql_ubuntu_log.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 ## 1. postgresql.conf修正
@@ -37,5 +37,5 @@ product: Install_A_S
 
 [![image](/docs/images/Ins_G/Postgresql_u/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_u/1.png){:target="_blank"}
 
-上記の内容を活用し、フィルターを登録すると検出ログが確認出来ます。 
-[(Syslogフィルター登録ショートカット)](https://qubitsec.github.io/ko_f_regi_syslog.html){:target="_blank"}
+上記の内容を活用し、フィルタを登録すると検出ログが確認出来ます。 
+[(Syslogフィルタ登録ショートカット)](https://qubitsec.github.io/ja_f_regi_syslog.html){:target="_blank"}

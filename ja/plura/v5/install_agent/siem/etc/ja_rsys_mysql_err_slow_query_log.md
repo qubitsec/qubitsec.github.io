@@ -1,8 +1,8 @@
 ---
 title: (PLC)MySQL Error & Slow-Queryログ
 permalink: ja_rsys_mysql_err_slow_query_log.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
       Rsyslog : MySQL ErrorログとSlow-Queryの取り込するみための設定

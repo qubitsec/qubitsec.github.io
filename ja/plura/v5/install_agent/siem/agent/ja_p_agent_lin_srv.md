@@ -1,8 +1,8 @@
 ---
 title: Linux Server
 permalink: ja_p_agent_lin_srv.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 
@@ -42,13 +42,13 @@ Version: x.x.x
 
 __PLURA V5 Agent Linux Srvインストール映像__
 
-– Linux Syslogインストール映像 : [https://qubitsec.github.io/ko_lin_sys.html](https://qubitsec.github.io/ko_lin_sys.html){:target="_blank"}
+– Linux Syslogインストール映像 : [https://qubitsec.github.io/ja_lin_sys.html](https://qubitsec.github.io/ja_lin_sys.html){:target="_blank"}
 
-– Linux Syslog-Auditインストール映像 : [https://qubitsec.github.io/ko_linu_sys_audit.html](https://qubitsec.github.io/ko_linu_sys_audit.html){:target="_blank"}
+– Linux Syslog-Auditインストール映像 : [https://qubitsec.github.io/ja_linu_sys_audit.html](https://qubitsec.github.io/ja_linu_sys_audit.html){:target="_blank"}
 
-– Linux Apache / Nginxインストール映像 : [https://qubitsec.github.io/ko_lin_apache_nginx.html](https://qubitsec.github.io/ko_lin_apache_nginx.html){:target="_blank"}
+– Linux Apache / Nginxインストール映像 : [https://qubitsec.github.io/ja_lin_apache_nginx.html](https://qubitsec.github.io/ja_lin_apache_nginx.html){:target="_blank"}
 
-– Linux Web Server – Datosインストール映像 : [https://qubitsec.github.io/ko_lin_web_server.html](https://qubitsec.github.io/ko_lin_web_server.html){:target="_blank"}
+– Linux Web Server – Datosインストール映像 : [https://qubitsec.github.io/ja_lin_web_server.html](https://qubitsec.github.io/ja_lin_web_server.html){:target="_blank"}
 
 <br />
 

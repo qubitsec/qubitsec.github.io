@@ -1,8 +1,8 @@
 ---
 title: HP-UX Server
 permalink: ja_p_sys_col_hp_ux_srv.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 必ずwww.plura.io右上のInstall Agentsページで確認してインストールしてください。

@@ -1,0 +1,271 @@
+sidebarTitle: Function > Common
+
+folders:
+- title: セキュリティ検知
+  folderitems:
+
+  - title: 相関分析(correlation analysis)
+    url: /ja_correlation_analysis.html
+
+  - title: データ流出
+    url: /ja_data_outflow.html
+
+  - title: アカウント乗っ取り
+    url: /ja_acc_takeover.html
+  
+  - title: ホームページ偽造・変造
+    url: /ja_h_forgery.html
+
+    subfolders:
+    - title: MITRE ATT&CKフレームワーク
+      subfolderitems: 
+
+      - title: マトリックス
+        url: /ja_matrix.html
+      
+      - title: リスト
+        url: /ja_list.html
+
+      - title: ハッキンググループ
+        url: /ja_hack_g.html
+
+      - title: ソフトウェア
+        url: /ja_sw.html
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+  folders:
+- title: フィルタ検知
+  folderitems:
+
+  - title: システム
+    url: /ja_f_system.html
+
+  - title: アプリケーション>元本
+    url: /ja_f_app_source.html
+
+  - title: アプリケーション>ユーザー定義
+    url: /ja_f_app_custom.html
+
+  - title: ウェブ
+    url: /ja_f_web.html
+  
+  - title: ネットワーク
+    url: /ja_f_network.html
+
+  folders:
+- title: ML検知
+  folderitems:
+
+  - title: ML検知
+    url: /ja_ml.html
+
+  folders:
+- title: 全体ログ
+  folderitems:
+
+  - title: システム
+    url: /ja_full_log_system.html
+
+  - title: アプリケーション>元本
+    url: /ja_full_log_app_source.html
+
+  - title: アプリケーション>ユーザー定義
+    url: /ja_full_log_app_custom.html
+
+  - title: ウェブ
+    url: /ja_full_log_web.html
+
+  - title: ネットワーク
+    url: /ja_full_log_network.html
+
+  folders:
+- title: フィルタ
+  folderitems:
+
+  - title:
+    url: 
+
+    subfolders:
+    - title: system
+      subfolderitems:
+
+      - title: Syslog
+        url: /ja_f_regi_syslog.html
+
+      - title: Windows
+        url: /ja_f_regi_window.html
+
+      - title: Audit
+        url: /ja_f_regi_audit.html
+
+  - title:
+    url: 
+
+    subfolders:
+    - title: セキュリティ
+      subfolderitems: 
+
+      - title: 相関分析(correlation analysis)
+        url: /ja_s_f_cor_analysis.html
+
+      - title: データ流出
+        url: /ja_s_f_data_outflow.html
+
+      - title: アカウント乗っ取り
+        url: /ja_s_f_acc_takeover.html
+
+      - title: ホームページ偽造・変造
+        url: /ja_s_f_h_forgery.html
+
+  - title: おすすめ
+    url: /ja_recom_fil.html
+
+    subfolders:
+    - title: 登録
+      subfolderitems: 
+
+      - title: システム
+        url: /ja_regi_f_system.html
+
+      - title: アプリケーション>元本
+        url: /ja_regi_f_app_source.html
+
+      - title: アプリケーション>ユーザー定義
+        url: /ja_regi_f_app_custom.html
+
+      - title: ウェブ
+        url: /ja_regi_f_web.html
+
+      - title: ネットワーク
+        url: /ja_regi_f_network.html
+
+
+  folders:
+- title: 抽出ログ
+  folderitems:
+
+  - title: IPアドレス
+    url: /ja_extraction_ip.html
+
+  - title: Login
+    url: /ja_extraction_login.html
+
+  - title: URL
+    url: /ja_extraction_url.html
+
+  folders:
+- title: レポート
+  folderitems:
+
+  - title: メイン
+    url: /ja_report_main.html
+
+  - title: マイターアタック(MITRE ATT&CK)分析
+    url: /ja_report_m_analy.html
+
+  - title: 相関分析(correlation analysis)
+    url: /ja_report_c_analy.html
+
+  - title: データ流出分析
+    url: /ja_report_d_breach_analy.html
+
+  - title: アカウント乗っ取り分析
+    url: /ja_report_a_takeover.analy.html
+
+  - title: システム分析
+    url: /ja_report_sys_analy.html
+
+  - title: アプリケーション分析
+    url: /ja_report_app_analy.html
+
+  - title: ウェブ分析
+    url: /ja_report_web_analy.html
+
+  - title: ネットワーク分析
+    url: /ja_report_network_analy.html
+
+  folders:
+- title: 統計
+  folderitems:
+
+  - title: IPアドレス
+    url: /ja_statistics_ip.html
+
+  - title: Login
+    url: /ja_statistics_login.html
+
+  - title: アップロード容量
+    url: /ja_statistics_up_volume.html
+
+  - title: ワードクラウド(WordCloud)
+    url: /ja_statistics_w_cloud.html
+
+  - title: ヒートマップ(HeatMap)
+    url: /ja_statistics_h_map.html
+
+  - title: 箱ひげ図(boxplot)
+    url: /ja_statistics_box_p.html
+
+  folders:
+- title: 検索機能
+  folderitems:
+
+  - title: 検索機能
+    url: /ja_search_fun.html
+
+  folders:
+- title: 管理
+  folderitems:
+
+  - title: サービス
+    url: /ja_manage_service.html
+
+  - title: メンバー
+    url: /ja_manage_member.html
+
+  - title: セキュリティ
+    url: /ja_manage_security.html
+
+  - title: リスト
+    url: /ja_manage_list.html
+
+  - title: 連動
+    url: /ja_manage_peristalsis.html
+
+  - title: 使用管理
+    url: /ja_manage_use.html
+
+  - title: システム
+    url: /ja_manage_system.html
+
+  - title: グループ通知
+    url: /ja_manage_group.html
+
+  - title: 使用ログ
+    url: /ja_manage_usage_log.html
+
+  folders:
+- title: パーソナライズ化
+  folderitems: 
+  
+  - title: 個人通知
+    url: /ja_personal.html
+
+  - title: 個人情報
+    url: /ja_my.html
+
+  - title: テーマ設定
+    url: /ja_theme.html
+
+  folders:
+- title: TOOL
+  folderitems: 
+
+  - title: デコード/エンコーディング
+    url: /ja_tool_d_i_coding.html

@@ -1,8 +1,8 @@
 ---
 title: Log-F Agent Srv 
 permalink: ja_forensic.html
-sidebar: Install_G_F_ja
-product: Install_G_F_ja
+sidebar: Install_A_F_ja
+topnav: topnav_ja
 ---
 
 
@@ -72,4 +72,4 @@ Administratorアカウントでインストールする必要があります。
 
 PLURA V5 Forensicエージェント使用方法
 
-[https://qubitsec.github.io/ko_path_uasge_method.html](https://qubitsec.github.io/ko_path_uasge_method.html){: target="_blank"}
+[https://qubitsec.github.io/ja_path_uasge_method.html](https://qubitsec.github.io/ja_path_uasge_method.html){: target="_blank"}

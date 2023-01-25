@@ -1,0 +1,28 @@
+sidebarTitle: Video > 会社&製品紹介
+
+folders:
+- title: 会社
+  folderitems:
+
+  - title: 会社
+    url: /ja_company.html
+  
+  folders:
+- title: 製品
+  folderitems:
+
+  - title: 製品
+    url: /ja_product.html
+
+  folders:
+- title: 放送/発表
+  folderitems:
+
+       - title: 韓国経済TV「スター場外株式」出演
+         url: /ja_kor_economic_tv.html
+
+       - title: 挑戦!K-スタートアップ2016、KBS1TV
+         url: /ja_k_startup_2016.html
+
+       - title: SparkLabs Demoday
+         url: /ja_sparklabs_demoday.html

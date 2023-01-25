@@ -1,8 +1,8 @@
 ---
 title: Custom
 permalink: ja_logcol_custom_appl.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 ## アプリケーション分析 – Postfix映像
@@ -20,15 +20,15 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 アプリケーションログアップロード設定[1]
 
-[https://qubitsec.github.io/ko_set_app_log_up.html](https://qubitsec.github.io/ko_set_app_log_up.html){:target="_blank"}
+[https://qubitsec.github.io/ja_set_app_log_up.html](https://qubitsec.github.io/ja_set_app_log_up.html){:target="_blank"}
 
 <br />
 
 **アプリケーションログは“LogStash”を使用してカラムを分離出来ます。**
 
-- Logstashには多様なソースからデータを収集、転換して目標の腕先へ転送出来るようにする軽量のオープンソースサーバー側のデータ処理パイプラインです。
+- Logstashには多様なソースからデータを収集、転換して目標の腕先へ転送出来るようにする軽量のオープンソースサーバ側のデータ処理パイプラインです。
 
-- Logstashを使用するとシステムログ, ウェブサイトログ, アプリケーションサーバーログなど多様なデータ原本から非定型データを簡単に収集出来ます。[2]
+- Logstashを使用するとシステムログ, ウェブサイトログ, アプリケーションサーバログなど多様なデータ原本から非定型データを簡単に収集出来ます。[2]
 
 <br />
 
@@ -69,27 +69,27 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 上記から説明したLogstashを使用してLinux : PostfixログをPLURA V5で収集します。
 
 - テスト環境
-   - 遠距離サーバー(子) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstashインストール
-   - ログ取り込みサーバー(親) : CentOS Linux release 7.9.2009 (Core),ライセンス登録及び実行
+   - 遠距離サーバ(子) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstashインストール
+   - ログ取り込みサーバ(親) : CentOS Linux release 7.9.2009 (Core),ライセンス登録及び実行
 
 <br />
 
-[Install Guide > SIEM > PLURA Log Collector (PLC) > Application[3] : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
+[Install Guide > SIEM > PLURA Log Collector (PLC) > Application[3] : [https://qubitsec.github.io/ja_logcol_application.html](https://qubitsec.github.io/ja_logcol_application.html){:target="_blank"}
 
 <br />
 
-### 2-1. Logstashが設定された遠距離(子)サーバー登録
+### 2-1. Logstashが設定された遠距離(子)サーバ登録
 
 <br />
 
-### 2-2. アプリケーションサーバー登録
+### 2-2. アプリケーションサーバ登録
 
-- システム  > システム管理 > ログ取り込みサーバー(親)選択 > アプリケーションボタンをクリックします。 
+- システム  > システム管理 > ログ取り込みサーバ(親)選択 > アプリケーションボタンをクリックします。 
 [![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"}
 
 <br />
 
-### 2-3. システム登録ポップアップ > 遠隔地(子)サーバー情報入力
+### 2-3. システム登録ポップアップ > 遠隔地(子)サーバ情報入力
 
 - アプリケーションのカスタマイズログ収集パスに“/var/log/plura/app-logstash-postfix.log”を入力します。
 [![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"}
@@ -127,10 +127,10 @@ RUN Logstash(foreground)
 
 ## 4. 参考サイト
 
-[1] アプリケーションログアップロード設定 : [https://qubitsec.github.io/ko_set_app_log_up.html](https://qubitsec.github.io/ko_set_app_log_up.html){:target="_blank"}
+[1] アプリケーションログアップロード設定 : [https://qubitsec.github.io/ja_set_app_log_up.html](https://qubitsec.github.io/ja_set_app_log_up.html){:target="_blank"}
 
 [2] Logstash定義 : [https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/logstash/){:target="_blank"}
 
-[3] Install Guide > SIEM > PLC > Application : [https://qubitsec.github.io/ko_logcol_application.html](https://qubitsec.github.io/ko_logcol_application.html){:target="_blank"}
+[3] Install Guide > SIEM > PLC > Application : [https://qubitsec.github.io/ja_logcol_application.html](https://qubitsec.github.io/ja_logcol_application.html){:target="_blank"}
 
-[4] Manual > Common > 管理 > 使用 : [https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){:target="_blank"}
+[4] Manual > Common > 管理 > 使用 : [https://qubitsec.github.io/ja_manage_use.html](https://qubitsec.github.io/ja_manage_use.html){:target="_blank"}

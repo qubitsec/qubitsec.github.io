@@ -1,0 +1,71 @@
+sidebarTitle: Function > WAF
+
+folders:
+
+- title: ダッシュボード
+  folderitems:
+  
+  - title: ダッシュボード
+    url: /ja_manual_waf.html
+
+- title: フィルタ検知
+  folderitems:
+
+  - title: ウェブファイアウォール
+    url: /ja_filter_detection_waf.html
+
+
+  folders:
+- title: 全体ログ
+  folderitems:
+
+  - title: ウェブファイアウォール
+    url: /ja_all_log_waf.html
+
+  folders:
+- title: 防御
+  folderitems: 
+
+  - title: ブロッグIPアドレス
+    url: /ja_defense_block_ip_waf.html
+
+  - title: ログ
+    url: /ja_defense_log_waf.html
+
+  - title: 設定
+    url: /ja_defense_setting_waf.html
+  
+  - title: 直ちにブロッグ
+    url: /ja_defense_block_immediately_waf.html
+
+  folders:
+- title: 管理
+  folderitems:
+
+  - title: ウェブファイアウォール
+    url: /ja_web_firewall_waf.html
+
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+  folders:
+- title: フィルタ
+  folderitems: 
+
+  - title: ウェブファイアウォールフィルタ登録
+    url: /ja_filter_waf.html
+ 
+  folders:
+- title: レポート
+  folderitems:
+
+  - title: ウェブファイアウォール分析
+    url: /ja_report_waf.html
+
+
+  

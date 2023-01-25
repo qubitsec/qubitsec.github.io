@@ -1,8 +1,8 @@
 ---
 title: WAF Agent
 permalink: ja_waf.html
-sidebar: Install_A_W
-product: Install_A_W
+sidebar: Install_A_W_ja
+topnav: topnav_ja
 ---
      
      PLURA WAFは知られていない(Unknown)攻撃に対応するための機能を提供します。

@@ -1,0 +1,114 @@
+sidebarTitle: FAQ > SIEM
+
+folders:
+- title: On-premise
+  folderitems:
+
+  - title: CURLエージェントのインストール
+    url: /ja_onpremise_agent_curl.html
+
+  - title: WGETエージェントのインストール
+    url: /ja_onpremise_agent_inst_wget.html
+
+  - title: プライベートルート証明書の登録
+    url: /ja_plura_root_ca.html
+
+  folders:
+- title: ModPlura 
+  folderitems:
+
+  - title: Apache手動インストール
+    url: /ja_mp_install_apache.html
+
+  - title: Nginx手動インストール
+    url: /ja_mp_install_nginx.html
+
+  folders:
+- title: Syslog伝送
+  folderitems:
+
+  - title: 対象ウェブaccessログ
+    url: /ja_logcol_web_acc_sys.html
+
+  - title: トムキャットcatalina.outログ
+    url: /ja_send_app_syslog.html
+
+  folders:
+- title: Logging支援
+  folderitems:
+
+  - title: 監査ポリシーの復元方法
+    url: /ja_agent_ins_policy.html
+
+  - title: Powershellスクリプトブロックロギングをオンにする
+    url: /ja_powershell_block_logging.html
+
+  - title: トムキャットaccess ロギングをオンにする
+    url: /ja_apache_tom_acc.html
+
+  - title: squidロギングをオンにする
+    url: /ja_proxy_sys_squid.html
+
+  folders:
+- title: Proxy設定
+  folderitems:
+
+  - title: AWS RHEL環境
+    url: /ja_aws_rhel_proxy.html
+
+  folders:
+- title: IBM AIXサーバ設定
+  folderitems:
+
+  - title: Audit設定案内
+    url: /ja_chk_file_audit_log_set.html
+
+  - title: Auditを利用したハッキング検知
+    url: /ja_aix_hack_using_audit.html
+
+  folders:
+- title: 検知フィルタ制作
+  folderitems:
+
+  - title: データ流出
+    url: /ja_data_exfiltration_solution.html
+
+  - title: Windowsレジストリ&ファイルの偽造·変造
+    url: /ja_win_registry_file_forgery.html
+
+  - title: 公開鍵ログイン成功
+    url: /ja_public_key_user_registration_method.html
+
+  - title: Wail2banによるWindowsファイアウォール設定
+    url: /ja_win_fw_registration_wail2ban.html
+
+  folders:
+- title: 通知を受ける
+  folderitems:
+
+  - title: Webhook設定でTelegramから受け取る
+    url: /ja_notifications_telegram_webhook.html
+
+  - title: Syslog設定でkiwiから受け取る
+    url: /ja_send_syslog_kiwi.html
+
+  folders:
+- title: 模擬ハッキング
+  folderitems:
+
+  - title: デモ攻撃シナリオ
+    url: /ja_demo_attack_scenario.html
+
+  - title: リプレイアタックの使い方を案内
+    url: /ja_hack_re_attack.html
+
+  folders:
+- title: ETC
+  folderitems:
+
+  - title: ワクチンソフトウェア終了検知方法
+    url: /ja_antivirus_sw.html
+
+  - title: ApacheサーバでHTTP圧縮を無効にする
+    url: /ja_apache_http_compression.html
+

@@ -1,8 +1,8 @@
 ---
 title: Windows Server
 permalink: ja_p_agent_win_srv.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 
@@ -78,9 +78,9 @@ __2.4 サービス中止__
 <br />
 
 ## Step 3
-__3.1 IISサーバーウェブロク使用方法__
+__3.1 IISサーバウェブロク使用方法__
 
-Step 2までは‘システムログ’収集に対する内容で、Step 3は‘ウェブサーバーログ’を収集する機能を追加する内容です。
+Step 2までは‘システムログ’収集に対する内容で、Step 3は‘ウェブサーバログ’を収集する機能を追加する内容です。
 ‘システムログ’だけ必要するならこのStepはスキップしてください。
 ウェブログ取り込は下記の順番に進んでください。
 

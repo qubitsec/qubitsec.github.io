@@ -1,8 +1,8 @@
 ---
 title: MySQL Error & Slow-Query ログ
 permalink: ja_mysql_err_slow_query_log.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 
@@ -14,7 +14,7 @@ product: Install_A_S
 
 ### 1-1. 設定パス
 
-システム  > システム管理 > サーバー選択 > 設定メニュー > 設定ボタンをクリックします。
+システム  > システム管理 > サーバ選択 > 設定メニュー > 設定ボタンをクリックします。
 
 [![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"}
 
@@ -121,4 +121,4 @@ Mysql Error及びSlow Queryログ発生後、アプリケーションログでMy
 
 内部ブログ
 
-[アプリケーションログログアップロード設定](https://qubitsec.github.io/ko_set_app_log_up.html){:target="_blank"}
+[アプリケーションログログアップロード設定](https://qubitsec.github.io/ja_set_app_log_up.html){:target="_blank"}

@@ -1,0 +1,65 @@
+sidebarTitle: Function > SIEM
+
+folders:
+- title: ダッシュボード
+  folderitems:
+
+  - title: ダッシュボード
+    url: /ja_dash_board.html
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+  folders:
+- title: システム
+  folderitems:
+
+  - title: システム管理
+    url: /ja_system_sys_manage.html
+
+  - title: グループ管理
+    url: /ja_system_g_manage.html
+
+  - title: リソースモニタリング
+    url: /ja_system_resource_m.html
+
+  - title: ウェブログの使用設定方法
+    url: /ja_system_weblog.html
+  
+
+  folders:
+- title: 防御
+  folderitems: 
+
+  - title: ブロックIPアドレス
+    url: /ja_defense_ip.html
+
+  - title: ログ
+    url: /ja_defense_log.html
+
+  - title: 設定
+    url: /ja_defense_setting.html
+
+  - title: 直ちにブロック
+    url: /ja_defense_block_immediately.html
+
+  folders:
+- title: コンプライアンス
+  folderitems:
+
+  - title: コンプライアンス
+    url: /ja_compliance.html
+
+  folders:
+- title: API提供(On-premise専用)
+  folderitems:
+
+  - title: API提供(On-premise専用)
+    url: /ja_api_provision.html
+
+
+  

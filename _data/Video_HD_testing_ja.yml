@@ -1,0 +1,66 @@
+sidebarTitle: Video > ハッキング検知支援 試演
+
+folders:
+- title: System
+  folderitems:
+
+  - title: Log4Shell
+    url: /ja_log4shell.html
+
+  - title: Wannacry Ransomware
+    url: /ja_wannacry_ransomware.html
+
+  folders:
+- title: WEB
+  folderitems:
+
+  - title: WebShell
+    url: /ja_webshell.html
+
+  - title: XSL Script Processing [T1220]
+    url: /ja_xsl_script_processing.html
+
+  - title: XSS
+    url: /ja_xss.html
+
+  folders:
+- title: アカウント乗っ取り
+  folderitems:
+
+  - title: Credential Stuffing
+    url: /ja_credential_stuffing.html
+
+  folders:
+- title: データ流出
+  folderitems:
+
+  - title: SQLインジェクション
+    url: /ja_data_breach_detection.html
+
+# folders:
+# - title: SIEM
+#   folderitems:
+
+#   - title: Log4Shell
+#     url: /log4shell.html
+
+#   - title: XSS
+#     url: /xss.html
+
+#   - title: WebShell
+#     url: /webshell.html
+
+#   - title: APT29 (MITRE ATT&CK)
+#     url: /apt.html
+
+#   - title: データ流出検知 (SQLインジェクション)
+#     url: /data_breach_detection.html
+
+#   - title: XSL Script Processing [T1220]
+#     url: /xsl_script_processing.html
+
+#   - title: Wannacry Ransomware
+#     url: /wannacry_ransomware.html
+
+#   - title: Credential Stuffing
+#     url: /credential_stuffing.html

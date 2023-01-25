@@ -1,8 +1,8 @@
 ---
 title: Apache httpd error ログ
 permalink: ja_apache_httpd_log.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
       Apache httpd errorログ収集
@@ -60,9 +60,9 @@ File = “ログパス”, Tag = “タグ”, Severity = “深刻度”, progr
 [![image](/docs/images/Ins_G/apache_httpd_err/1.png){: width="800px"}](/docs/images/Ins_G/apache_httpd_err/1.png){: target="_blank"}
 
 
-上の内容を活用してフィルターを登録すると検出ログが確認出来ます。
+上の内容を活用してフィルタを登録すると検出ログが確認出来ます。
 
-[Syslogフィルターを登録](https://qubitsec.github.io/ko_f_regi_syslog.html){:target="_blank"}
+[Syslogフィルタを登録](https://qubitsec.github.io/ja_f_regi_syslog.html){:target="_blank"}
 
 <br />
 

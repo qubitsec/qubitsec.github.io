@@ -1,8 +1,8 @@
 ---
 title: (PLC)アプリケーションログログ
 permalink: ja_rsys_log.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 アプリケーションログログの中、特別なキーワードをリアルタイムで検出したい場合はどうすれば良いでしょうか。
@@ -65,11 +65,11 @@ product: Install_A_S
 
 <br />
 
-## 6. PLURA V5リアルタイムで検出フィルター登録
+## 6. PLURA V5リアルタイムで検出フィルタ登録
 
-- 2020010100037 キーワードに対するリアルタイムで検出フィルター
-- フィルター > 登録フィルター > システム/ウェブ/ファイアウォール > 登録   
-- フィルター登録下段 > 情報入力 >  msg >  2020010100037 登録
+- 2020010100037 キーワードに対するリアルタイムで検出フィルタ
+- フィルタ > 登録フィルタ > システム/ウェブ/ファイアウォール > 登録   
+- フィルタ登録下段 > 情報入力 >  msg >  2020010100037 登録
 [![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
 <br />

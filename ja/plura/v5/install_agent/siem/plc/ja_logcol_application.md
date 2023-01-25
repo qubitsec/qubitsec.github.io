@@ -1,8 +1,8 @@
 ---
 title: Application
 permalink: ja_logcol_application.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
      PLURA Log Collector (PLC) - Applicationの役割
@@ -14,7 +14,7 @@ product: Install_A_S
 
 PLURA Log Collector (PLC)サポートOSは下記の通りです。
 
-[https://qubitsec.github.io/ko_support_os.html](https://qubitsec.github.io/ko_support_os.html){:target="_blank"}
+[https://qubitsec.github.io/ja_support_os.html](https://qubitsec.github.io/ja_support_os.html){:target="_blank"}
 
 <br />
 
@@ -29,14 +29,14 @@ PLURA Log Collector (PLC)サポートOSは下記の通りです。
 
 <br />
 
-### 1. 遠隔地(子)サーバーにアプリケーション転送モジュールインストール
+### 1. 遠隔地(子)サーバにアプリケーション転送モジュールインストール
 
 
 [![image](/docs/images/Ins_G/LogCol_app/app_1.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_1.png){: target="_blank"}
 
 <br />
 
-### 2. ログ取り込みサーバー(親)にPLCインストール(by root)
+### 2. ログ取り込みサーバ(親)にPLCインストール(by root)
 
 `# sudo -s`
 
@@ -44,22 +44,22 @@ PLURA Log Collector (PLC)サポートOSは下記の通りです。
 
 <br />
 
-### 3. ログ取り込みサーバー(親)でインバウンドTCP 5514 ホットをオープン
+### 3. ログ取り込みサーバ(親)でインバウンドTCP 5514 ホットをオープン
 
 <br />
 
-### 4. ログ取り込みサーバー(親)でライセンス登録及び実行
+### 4. ログ取り込みサーバ(親)でライセンス登録及び実行
 
 [![image](/docs/images/Ins_G/LogCol_app/app_3.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}
 
 <br />
 
-### 5. 遠隔地(子)サーバー登録
+### 5. 遠隔地(子)サーバ登録
 
-- システム  > システム管理 > ログ取り込みサーバー(親)選択 > アプリケーションボタンをクリックします。
+- システム  > システム管理 > ログ取り込みサーバ(親)選択 > アプリケーションボタンをクリックします。
 [![image](/docs/images/Ins_G/LogCol_app/app_4.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}
 
-- システム登録ポップアップ > 遠隔地(子)サーバー情報を入力します。
+- システム登録ポップアップ > 遠隔地(子)サーバ情報を入力します。
 [![image](/docs/images/Ins_G/LogCol_app/app_5.png)](/docs/images/Ins_G/LogCol_app/app_5.png){: target="_blank"}
 
 <br />
@@ -85,8 +85,8 @@ PLURA Log Collector (PLC)サポートOSは下記の通りです。
 
 <br />
 
-- ログ取り込みサーバー(親)を選択して、アプリケーションログ取り込みが正常に設定されているか確認します。   
-   - 遠隔地(子)サーバーを選択すると設定ポップアップが出ます。
+- ログ取り込みサーバ(親)を選択して、アプリケーションログ取り込みが正常に設定されているか確認します。   
+   - 遠隔地(子)サーバを選択すると設定ポップアップが出ます。
    [![image](/docs/images/Ins_G/LogCol_app/app_10.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}
 
 <br />

@@ -1,8 +1,8 @@
 ---
 title: Network
 permalink: ja_logcol_network.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
      PLURA Log Collector (PLC) - Networkの役割
@@ -14,7 +14,7 @@ product: Install_A_S
 
 PLURA Log Collector (PLC)サポートOSは次の通りです.
 
-[https://qubitsec.github.io/ko_support_os.html](https://qubitsec.github.io/ko_support_os.html){:target="_blank"}
+[https://qubitsec.github.io/ja_support_os.html](https://qubitsec.github.io/ja_support_os.html){:target="_blank"}
 
 <br />
 
@@ -47,7 +47,7 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 2. ログ取り込みサーバー(親)にPLCインストール(by root)
+### 2. ログ取り込みサーバ(親)にPLCインストール(by root)
 
 `# sudo -s`
 `# curl https://repo.plura.io/v5/PLC/install.sh | bash`
@@ -60,9 +60,9 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 4. 遠距離(子)サーバー登録
+### 4. 遠距離(子)サーバ登録
 
-- システム  > システム管理 > ログ取り込みサーバー(親)選択 > ネットワークボタンをクリックします。
+- システム  > システム管理 > ログ取り込みサーバ(親)選択 > ネットワークボタンをクリックします。
 [![image](/docs/images/Ins_G/LogCol_Net/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/3.png){:target="_blank"}
 
 - システム登録ポップアップ > 遠距離(子)デバイス情報を入力します。

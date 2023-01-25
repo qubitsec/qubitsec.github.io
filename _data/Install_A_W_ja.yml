@@ -1,0 +1,8 @@
+sidebarTitle: Install Agents > WAF
+
+folders:
+- title: Agent
+  folderitems:
+
+  - title: WAF Agent
+    url: /ja_waf.html

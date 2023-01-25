@@ -1,8 +1,8 @@
 ---
 title: Sysmon (Windows Sysinternals)
 permalink: ja_sysmon.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+product: Install_A_S_ja
 ---
 
 ## Sysmonインストール映像
@@ -14,7 +14,7 @@ product: Install_A_S
      Sysmonはデフォルトウィンドウイベントログでは限界があるプロセス生成、ネットワーク制限などをイベント化出来ます。
      事故対応の観点から生成されたプロセスリストとネットワーク接続ログは事故を再構成することに非常に役立ちます
      Sysmonは別のモニタリングツールがなくてもドライバーのインストールだけで上記のログをイベント化させます。
-     サーバー管理者はサービス中のサーバーで使用されているドライバーとSysmonドライバーの競合可否を確認する必要があります。
+     サーバ管理者はサービス中のサーバで使用されているドライバーとSysmonドライバーの競合可否を確認する必要があります。
 
 <br />
 
@@ -23,7 +23,7 @@ product: Install_A_S
 Sysmonをインストールするにはまず __PLURA V5 Agent__ をインストールする必要があります。   
 インストール後、下記の内容を参照してSysmonをインストールします。
 
-[Agentインストールページ](https://qubitsec.github.io/ko_p_agent_win_srv.html){:target="_blank"}
+[Agentインストールページ](https://qubitsec.github.io/ja_p_agent_win_srv.html){:target="_blank"}
 
 <br />
 
@@ -105,7 +105,7 @@ Sysmonがインストールされるとウィンドウサービスログパス�
 ## 4. Sysmonログ確認
 
 - SysmonログをPLURA V5ウェブページで確認出来ます。
-- フィルター検出 > システム > チャンネル"Sysmon"選択
+- フィルタ検出 > システム > チャンネル"Sysmon"選択
 - 全ログ > システム > チャンネル"Sysmon"選択
 
      メーカーがサポートを終了した製品についてPLURAV5でもサポートを終了します。

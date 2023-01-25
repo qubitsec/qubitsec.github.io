@@ -1,8 +1,8 @@
 ---
 title: Linux Syslog-Audit
 permalink: ja_lin_sys_audit.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 ## Linux Agent Audit Logアクティブ映像
@@ -51,5 +51,5 @@ product: Install_A_S
 
 アクティブ状態のAuditログ次のメニューで確認出来ます。
 
-- フィルター検出 > システム > チャンネル"Auditlog"選択
+- フィルタ検出 > システム > チャンネル"Auditlog"選択
 - 全ログ > システム > チャンネル"Auditlog"選択

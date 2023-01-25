@@ -1,15 +1,15 @@
 ---
 title: FreeBSD Server
 permalink: ja_p_sys_col_freebsd_srv.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_S_ja
+topnav: topnav_ja
 ---
 
 必ずwww.plura.io右上のInstall Agentsページで確認してインストールしてください。
 
 <br />
 
-## 1. PLURA V5 Agent 설치
+## 1. PLURA V5 Agent インストール
 
 Syslogを受け取るLinux系のシステムにPLURA V5 Agentをインストールします。
 
