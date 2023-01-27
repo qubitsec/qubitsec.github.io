@@ -2,6 +2,8 @@
  title: Theme apply
  permalink: ja_jekyll_theme.html
  sidebar: Tech_ja
+ topnav: topnav_ja
+---
 ## 1. テーマ選択
 
 [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
