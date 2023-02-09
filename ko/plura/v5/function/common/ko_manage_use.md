@@ -5,10 +5,12 @@ sidebar: M_C
 topnav: topnav
 ---
 
-- 사용 : 데이터 유출 설정, 웹 개인 정보 숨김, 웹 탐지 예외 설정, 웹/시스템/응용프로그램/네트워크 업로드 설정을 할 수 있습니다.
+<br />
+
+- 사용 : 데이터 유출 설정, 웹 개인 정보 숨김, 웹 탐지 예외 설정, 계정탈취 예외 설정, 웹/시스템/응용프로그램/네트워크 업로드 설정을 할 수 있습니다.
 - PLURA V5 Forensic 제품에서는 데이터 유출 설정, 웹/시스템 업로드 설정 기능을 지원하지 않습니다.
 
-[![image](/docs/images/Manual/common/manage/use/1.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
+[![image](/docs/images/Manual/common/manage/use/16.png){: width="800" }](/docs/images/Manual/common/manage/use/16.png){: target="_blank"}
 
 <br />
 
@@ -37,6 +39,8 @@ topnav: topnav
    - 예시) host 주소가 123.34.45.1 인 로그는 탐지가 안되도록 설정 하고 싶으면 host 선택 후 123.34.45.1 을 기입하면 됩니다.
 - 관리 > 사용 > 웹탐지예외 > 예외설정 추가 선택   
 [![image](/docs/images/Manual/common/manage/use/6.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
+
+※ 계정탈취 예외 설정도 위 설명과 동일한 방법으로 계정탈취 탐지로그에서 예외처리가 가능합니다.
  
 <br />
 
