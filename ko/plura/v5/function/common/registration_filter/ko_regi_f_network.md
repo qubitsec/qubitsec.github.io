@@ -9,11 +9,11 @@ topnav: topnav
      사용자가 직접 원하는 네트워크 필터를 만들 수 있습니다.
 
      필터 등록 지원 대상
-     1) Firewall - juniper, secui
-     2) IPS - Snipe, sonicawall, fortigate
-     3) WAF - baracuda, webfront-k
-     4) Switch - cisco, huawei
-     5) VPN - secuway
+     1) Firewall - Juniper, Secui
+     2) IPS - Sniper, Sonicwall, Fortigate
+     3) WAF - Barracuda, Webfront-k
+     4) Switch - Cisco, Huawei
+     5) VPN - Secuway
      * 계속하여 지원 확대 중
 
 
