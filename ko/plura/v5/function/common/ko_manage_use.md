@@ -40,7 +40,8 @@ topnav: topnav
 - 관리 > 사용 > 웹탐지예외 > 예외설정 추가 선택   
 [![image](/docs/images/Manual/common/manage/use/6.png){: width="800" }](/docs/images/Manual/common/manage/use/1.png){: target="_blank"}
 
-※ 계정탈취 예외 설정도 위 설명과 동일한 방법으로 계정탈취 탐지로그에서 예외처리가 가능합니다.
+- 계정탈취 예외 설정도 위 설명과 동일한 방법으로 계정탈취 탐지로그에서 예외처리가 가능합니다.   
+  ※ 계정탈취 예외 설정의 경우, 로그 양에 따라서 설정 정보가 적용되는데 최소 10분의 시간이 소요됩니다.
  
 <br />
 
