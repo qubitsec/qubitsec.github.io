@@ -41,7 +41,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 - 해당 시스템을 클릭하면 시스템IP주소, 운영체제 버전, 업데이트 버전, 에이전트 설치시간을 확인할 수 있습니다.
 - 업데이트(빌드) 버전 마우스 오버 시, 해당 HotFix 정보를 확인할 수 있습니다.
 - 업데이트 정보가 없는 경우, HotFix 정보는 노출되지 않습니다.   
-[![image](/docs/images/Manual/siem/system/3.png){: width="800" }](/docs/images/Manual/siem/system/3.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/08.png){: width="800" }](/docs/images/Manual/siem/system/08.png){: target="_blank"}
 
 <br />
 
@@ -78,3 +78,14 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 - 필요 시 시스템 삭제도 가능합니다. 시스템 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’버튼을 클릭하면 해당 시스템이 삭제됩니다.
 - PLURA V5 서버와 통신이 정상일 때 삭제하면 해당 시스템에 설치된 에이전트도 삭제됩니다.   
 [![image](/docs/images/Manual/siem/system/7.png)](/docs/images/Manual/siem/system/7.png){: target="_blank"}
+
+<br />
+
+## 7. 협의된 네트워크 로그 수집 등록
+
+- 협의된 네트워크 로그 수집 등록은 Public-Syslog 서비스로서, 에이전트를 설치할 수 없는 환경의 Syslog를 수집할 수 있는 서비스입니다.
+[![image](/docs/images/Manual/siem/system/09.png){: width="800" }](/docs/images/Manual/siem/system/09.png){: target="_blank"}
+
+- IP주소 입력의 경우, 외부로 통신하는 IP주소를 입력해주세요.
+- 정렬코드 : 업로드되는 로그의 programname이 없는 경우, 정렬코드 여부 설정으로 임의의 programname을 생성하여 msg정렬을 할 수 있습니다. 기본값은 OFF 이며 필요 시 시스템 환경에 따라 큐비트시큐리티와 협의하여 수정이 필요합니다.
+- 모든 정보를 등록한 후, 큐비트시큐리티로 연락주시면 후속 지원해드리겠습니다.
