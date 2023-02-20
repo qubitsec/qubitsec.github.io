@@ -34,6 +34,11 @@ topnav: topnav
 
 <br />
 
+- 다음은 차단 안내 화면 예시입니다.
+ [![image](/docs/images/Manual/waf/firewall/12.png){: width="800" }](/docs/images/Manual/waf/firewall/12.png){: target="_blank"}
+
+<br />
+
 - 운영방식 : 해당 그룹의 웹방화벽 운영방식을 탐지/차단 중 설정할 수 있습니다.   
  [![image](/docs/images/Manual/waf/firewall/3.png)](/docs/images/Manual/waf/firewall/3.png){: target="_blank"}
 
@@ -69,3 +74,8 @@ topnav: topnav
 
 - 계정탈취필터에 등록된 호스트/경로가 있어야 설정할 수 있습니다.   
  [![image](/docs/images/Manual/waf/firewall/8.png){: width="800" }](/docs/images/Manual/waf/firewall/8.png){: target="_blank"}
+
+<br />
+
+ - 관리 > 사용 메뉴에서 PLURA 웹방화벽의 탐지/차단 예외를 설정할 수 있습니다.
+ [https://qubitsec.github.io/ko_manage_use.html](https://qubitsec.github.io/ko_manage_use.html){: target="_blank"}
