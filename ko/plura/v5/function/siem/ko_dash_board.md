@@ -13,7 +13,7 @@ topnav: topnav
 대시보드에서는 오늘 탐지된 로그를 시간별로 설정하여 조회가 가능합니다.   
 ※시간 단위로만 조회가 가능합니다.
 
-[![image](/docs/images/Manual/siem/dash/13.png){: width="500" }](/docs/images/Manual/siem/dash/13.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/dash/13.png){: width="400" }](/docs/images/Manual/siem/dash/13.png){: target="_blank"}
 
 <br />
 
