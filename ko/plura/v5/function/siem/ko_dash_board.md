@@ -10,6 +10,13 @@ topnav: topnav
 
 <br />
 
+대시보드에서는 오늘 탐지된 로그를 시간별로 설정하여 조회가 가능합니다.   
+※시간 단위로만 조회가 가능합니다.
+
+[![image](/docs/images/Manual/siem/dash/13.png){: width="500" }](/docs/images/Manual/siem/dash/13.png){: target="_blank"}
+
+<br />
+
 대시보드 상단에서는 총 탐지건수 / 등록 시스템 / 탐지로그 발생 시스템 수 / 로그 미업로드 시스템 수 / 로그 업로드량 / 리소스모니터링을 보여줍니다.
 
 [![image](/docs/images/Manual/siem/dash/1.png){: width="800" }](/docs/images/Manual/siem/dash/1.png){: target="_blank"}
@@ -32,7 +39,7 @@ topnav: topnav
 
 - 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.   
-[![image](/docs/images/Manual/siem/dash/4.png){: width="800" }](/docs/images/Manual/siem/dash/4.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/dash/12.png){: width="800" }](/docs/images/Manual/siem/dash/12.png){: target="_blank"}
 
 - 최근 탐지된 로그
 - 탐지필터 TOP 5
