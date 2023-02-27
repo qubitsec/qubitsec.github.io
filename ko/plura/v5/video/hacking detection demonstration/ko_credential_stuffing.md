@@ -1,5 +1,5 @@
 ---
-title: Credential Stuffing
+title: 크리덴셜 스터핑(Credential Stuffing)
 permalink: ko_credential_stuffing.html
 sidebar: Video_HD_testing
 topnav: topnav

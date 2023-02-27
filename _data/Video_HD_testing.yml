@@ -33,7 +33,7 @@ folders:
 - title: 계정탈취
   folderitems:
 
-  - title: Credential Stuffing
+  - title: 크리덴셜 스터핑(Credential Stuffing)
     url: /ko_credential_stuffing.html
 
   folders:
