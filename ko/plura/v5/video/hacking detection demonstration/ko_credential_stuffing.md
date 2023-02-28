@@ -24,7 +24,7 @@ topnav: topnav
   1) 모의공격을 통해 일정시간 동안 지속적으로 페이지 접속을 시도 (※ 모의공격 사용 도구 : Apache Jmeter)
 
   2) 공격 웹 로그가 PLURA에서 정상적으로 수집되었는지 확인
-
+  
   3) PLURA 계정탈취 필터를 통해 크리덴셜 스터핑(Credential stuffing) 공격 탐지 확인
 
 <br />

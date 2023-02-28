@@ -17,13 +17,13 @@ folders:
 - title: WEB
   folderitems:
 
-  - title: WebShell
+  - title: 웹셸(WebShell)
     url: /ko_webshell.html
 
   - title: XSL Script Processing [T1220]
     url: /ko_xsl_script_processing.html
 
-  - title: XSS
+  - title: 사이트 간 스크립팅(XSS)
     url: /ko_xss.html
 
   - title: Estatik plugin vulnerability
@@ -40,7 +40,7 @@ folders:
 - title: 데이터유출
   folderitems:
 
-  - title: SQL 인젝션
+  - title: SQL 삽입(SQL Injection)
     url: /ko_data_breach_detection.html
 
 # folders:
