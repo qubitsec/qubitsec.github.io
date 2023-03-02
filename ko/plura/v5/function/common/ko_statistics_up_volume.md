@@ -29,3 +29,22 @@ topnav: topnav
 
 월별 통계
 [![image](/docs/images/Manual/common/statistics/upload/006.png){: width="800" }](/docs/images/Manual/common/statistics/upload/006.png){: target="_blank"}
+
+<br />
+
+## 2. 로그업로드 시스템 용량/수 조회
+
+- 에이전트가 설치된 시스템의 로그 용량/수를 정렬을 사용해 조회할 수 있습니다.
+
+[![image](/docs/images/Manual/common/statistics/upload/007.png){: width="800" }](/docs/images/Manual/common/statistics/upload/007.png){: target="_blank"}
+
+<br />
+
+## 3. 채널별 로그수
+
+- 선택한 시스템의 채널별 로그수를 확인할 수 있습니다.   
+※ 윈도우, 리눅스 시스템의 경우에만 버튼이 제공됩니다.
+[![image](/docs/images/Manual/common/statistics/upload/008.png){: width="800" }](/docs/images/Manual/common/statistics/upload/008.png){: target="_blank"}
+
+- 채널별 로그수 아이콘을 선택하면 팝업이 노출됩니다.   
+[![image](/docs/images/Manual/common/statistics/upload/009.png){: width="800" }](/docs/images/Manual/common/statistics/upload/009.png){: target="_blank"}
