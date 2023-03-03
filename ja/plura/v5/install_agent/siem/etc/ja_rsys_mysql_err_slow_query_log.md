@@ -85,7 +85,7 @@ long_query_time = 3
 
 `# ls -aZ /var/log/mysql*`
 
-[![image](/docs/images/Ins_G/rsys_mysql/1.png)](/docs/images/Ins_G/rsys_mysql/1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/rsys_mysql/1.png)](/docs/images/Ins_G/rsys_mysql/1.png){:target="_blank"} -->
 
 <br />
 
@@ -99,7 +99,7 @@ long_query_time = 3
 
 `mysql> show variables like ‘slow_query_%’;`
 
-[![image](/docs/images/Ins_G/rsys_mysql/2.png)](/docs/images/Ins_G/rsys_mysql/2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/rsys_mysql/2.png)](/docs/images/Ins_G/rsys_mysql/2.png){:target="_blank"} -->
 
 <br />
 
@@ -109,7 +109,7 @@ Error又はSlow Query発生後、システムログからMySQLに対するログ
 
 ログ例 : 全ログ > システム
 
-[![image](/docs/images/Ins_G/rsys_mysql/3.png){: width="800" }](/docs/images/Ins_G/rsys_mysql/3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/rsys_mysql/3.png){: width="800" }](/docs/images/Ins_G/rsys_mysql/3.png){:target="_blank"} -->
 
 <br />
 

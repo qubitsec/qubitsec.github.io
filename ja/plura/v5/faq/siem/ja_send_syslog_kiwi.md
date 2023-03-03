@@ -11,7 +11,7 @@ topnav: topnav_ja
 
  ダウンロードURL: [https://www.kiwisyslog.com/free-tools/kiwi-free-syslog-server](https://www.kiwisyslog.com/free-tools/kiwi-free-syslog-server){: target="_blank"}
 
- [![image](/docs/images/Faq/kiwi/05.png){: width="800" }](/docs/images/Faq/kiwi/05.png){: target="_blank"}
+ <!-- [![image](/docs/images/Faq/kiwi/05.png){: width="800" }](/docs/images/Faq/kiwi/05.png){: target="_blank"}-->
 
 <br /> 
 
@@ -19,7 +19,7 @@ topnav: topnav_ja
 
 インストールしたKiwi Syslogを実行すると, 下のような画面が出ます。
 
- [![image](/docs/images/Faq/kiwi/01.png){: width="800" }](/docs/images/Faq/kiwi/01.png){: target="_blank"}
+ <!-- [![image](/docs/images/Faq/kiwi/01.png){: width="800" }](/docs/images/Faq/kiwi/01.png){: target="_blank"}-->
 
 <br />
 
@@ -27,7 +27,7 @@ topnav: topnav_ja
 
 プログラム上段"File" → "Setup"又は"Ctrl+P" ショートカットを実行します。
 
- [![image](/docs/images/Faq/kiwi/02.png){: width="800" }](/docs/images/Faq/kiwi/02.png){: target="_blank"}
+ <!-- [![image](/docs/images/Faq/kiwi/02.png){: width="800" }](/docs/images/Faq/kiwi/02.png){: target="_blank"}-->
 
 <br />
 
@@ -35,7 +35,7 @@ topnav: topnav_ja
 
 Inputsオプション → Source IP Addressを追加します。
 
- [![image](/docs/images/Faq/kiwi/03.png){: width="800" }](/docs/images/Faq/kiwi/03.png){: target="_blank"}
+ <!-- [![image](/docs/images/Faq/kiwi/03.png){: width="800" }](/docs/images/Faq/kiwi/03.png){: target="_blank"}-->
 
 <br />
 

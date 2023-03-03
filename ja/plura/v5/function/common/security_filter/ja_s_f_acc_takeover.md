@@ -21,7 +21,7 @@ topnav: topnav_ja
 
 <br />
 
-[![image](/docs/images/Manual/common/filter2/security/takeover/1.png){: width="800" }](/docs/images/Manual/common/filter2/security/takeover/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/filter2/security/takeover/1.png){: width="800" }](/docs/images/Manual/common/filter2/security/takeover/1.png){: target="_blank"}-->
 
 - 分類 : ボリューム型(固定), ボリューム型(可変), クレデンシャルスタッフィング(固定), クレデンシャルスタッフィング(可変) の中を選択することができます。
 - フィルタ名 : フィルタ名を入力します。 検知ログに表示する情報で簡単に調べられる名前に決めます。
@@ -45,4 +45,4 @@ AND、OR条件を活用できます。
 
 以下は登録例です 
 
-[![image](/docs/images/Manual/common/filter2/security/takeover/2.png){: width="800" }](/docs/images/Manual/common/filter2/security/takeover/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/filter2/security/takeover/2.png){: width="800" }](/docs/images/Manual/common/filter2/security/takeover/2.png){: target="_blank"}-->

@@ -18,14 +18,14 @@ topnav: topnav_ja
 <br />
 
 日別統計
-[![image](/docs/images/Manual/common/statistics/upload/004.png){: width="800" }](/docs/images/Manual/common/statistics/upload/004.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/statistics/upload/004.png){: width="800" }](/docs/images/Manual/common/statistics/upload/004.png){: target="_blank"}-->
 
 <br />
 
 週別統計
-[![image](/docs/images/Manual/common/statistics/upload/005.png){: width="800" }](/docs/images/Manual/common/statistics/upload/005.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/statistics/upload/005.png){: width="800" }](/docs/images/Manual/common/statistics/upload/005.png){: target="_blank"}-->
 
 <br />
 
 月別統計
-[![image](/docs/images/Manual/common/statistics/upload/006.png){: width="800" }](/docs/images/Manual/common/statistics/upload/006.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/statistics/upload/006.png){: width="800" }](/docs/images/Manual/common/statistics/upload/006.png){: target="_blank"}-->

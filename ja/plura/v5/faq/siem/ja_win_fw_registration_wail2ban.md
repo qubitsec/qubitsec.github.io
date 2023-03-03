@@ -23,7 +23,7 @@ PLURA V5ウェブのフィルタ登録設定方法
 
 **サーバグループ選択 > オペレーティングシステムwindows選択 > Securityチャンネル選択 > イベントタイプ選択**
 
-[![image](/docs/images/Additianal/wail/1.png){: width="800" }](/docs/images/Additianal/wail/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/wail/1.png){: width="800" }](/docs/images/Additianal/wail/1.png){: target="_blank"}-->
 
 イベントタイプ選択のファイアウォール例外リスト変更ルール追加(4946)選択
 
@@ -37,7 +37,7 @@ Wail2banによってウィンドウファイアウォールブロック登録さ
 
 ログ例 : フィルタ検出 > システム
 
-[![image](/docs/images/Additianal/wail/2.png){: width="800" }](/docs/images/Additianal/wail/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/wail/2.png){: width="800" }](/docs/images/Additianal/wail/2.png){: target="_blank"}-->
 
 
 

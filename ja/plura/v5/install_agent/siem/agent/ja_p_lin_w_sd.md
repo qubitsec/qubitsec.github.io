@@ -19,9 +19,9 @@ topnav: topnav_ja
 
 <br />
 
-## Linux Web Server – Datosインストール映像
+## Linux Web Server – Datosインストール<!-- 映像 -->
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TqDUR002tt0' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TqDUR002tt0' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -94,4 +94,4 @@ Datosサービスを追加生成する方法は下記のようです。
 
 設定 > ウェブログ収集パスに事前に設定した　__/var/log/plura/weblog2.log__ パス追加
 
-[![image](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png)](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png)](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png){:target="_blank"} -->

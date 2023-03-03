@@ -6,7 +6,7 @@ topnav: topnav_ja
 ---
 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lIFuWAtDVbk' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lIFuWAtDVbk' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -14,7 +14,7 @@ PLURA V5 検知/対応内訳をWebフックシステムを利用して受け取�
 
 - サーポトWebフック: JANDI, Google Chat(旧 ハングアウト), Slack, telegram
 
-- 本映像ではtelegramで行います。
+- 本<!-- 映像 -->ではtelegramで行います。
 
 <br />
 

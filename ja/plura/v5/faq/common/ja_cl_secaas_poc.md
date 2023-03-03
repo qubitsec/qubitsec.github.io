@@ -21,7 +21,7 @@ topnav: topnav_ja
 - 会員登録(Chromeブラウザ推奨)
    - [https://www.plura.io/](https://www.plura.io/){: target="_blank"}
 
-[![image](/docs/images/Additianal/cloud/1.png){: width="800" }](/docs/images/Additianal/cloud/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/cloud/1.png){: width="800" }](/docs/images/Additianal/cloud/1.png){: target="_blank"} -->
 
 <br />
 
@@ -37,7 +37,7 @@ topnav: topnav_ja
    - メニュー位置: 左上 > 管理 > サービス > サポートリクエスト 
    [https://qubitsec.github.io/ja_manage_service.html](https://qubitsec.github.io/ja_manage_service.html){: target="_blank"}
 
-[![image](/docs/images/Additianal/cloud/2.png){: width="800" }](/docs/images/Additianal/cloud/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/cloud/2.png){: width="800" }](/docs/images/Additianal/cloud/2.png){: target="_blank"} -->
 
 <br />
 
@@ -53,7 +53,7 @@ topnav: topnav_ja
 
 ### 2-1. ログイン後、エージェントインストール<Install Agents>
 
-- Install Agentsページ案内及びエージェントインストール映像を参考してエージェントインストール 
+- Install Agentsページ案内及びエージェントインストール<!-- 映像 -->を参考してエージェントインストール 
 - ウィンドウサーバのエージェントインストール例   
 [https://qubitsec.github.io/ja_p_agent_win_srv.html](https://qubitsec.github.io/ja_p_agent_win_srv.html){: target="_blank"}
 

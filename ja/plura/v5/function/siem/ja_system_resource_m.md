@@ -18,8 +18,8 @@ topnav: topnav_ja
 
 - リソースモニタリングカラムは、画面設定を通じて表示するかどうかを設定できます。
 - リソース監視ページの右側の歯車をクリックすると、画面設定ページが表示されます。
-[![image](/docs/images/Manual/siem/resource/1.png){: width="800" }](/docs/images/Manual/siem/resource/1.png){: target="_blank"}   
-[![image](/docs/images/Manual/siem/resource/2.png){: width="800" }](/docs/images/Manual/siem/resource/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/resource/1.png){: width="800" }](/docs/images/Manual/siem/resource/1.png){: target="_blank"}-->   
+<!-- [![image](/docs/images/Manual/siem/resource/2.png){: width="800" }](/docs/images/Manual/siem/resource/2.png){: target="_blank"}-->
 
 <br />
 
@@ -31,4 +31,4 @@ topnav: topnav_ja
 ## 2. リソース収集設定
 
 - リソース収集は、システム管理 > 設定タブで管理できます。
-[![image](/docs/images/Manual/siem/resource/3.png){: width="800" }](/docs/images/Manual/siem/resource/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/resource/3.png){: width="800" }](/docs/images/Manual/siem/resource/3.png){: target="_blank"}-->

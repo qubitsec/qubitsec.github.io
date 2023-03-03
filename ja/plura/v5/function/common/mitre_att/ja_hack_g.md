@@ -13,7 +13,7 @@ topnav: topnav_ja
 
 - マトリックスアイコンをクリックする時、選択したハッキンググループが含まれたマトリックスウィンドウに移動します。
 
-[![image](/docs/images/Manual/common/mitre/hack_g/1.png){: width="800" }](/docs/images/Manual/common/mitre/hack_g/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/mitre/hack_g/1.png){: width="800" }](/docs/images/Manual/common/mitre/hack_g/1.png){: target="_blank"}-->
 
 <br />
 

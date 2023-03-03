@@ -22,7 +22,7 @@ topnav: topnav_ja
 PLURA V5 Log-F Agentのインストール方法です。 順番に進めてください。
 Windows 10 または .NETFramework4.5以上の環境でインストール出来ます。
 
- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/SzMPzaImDwk' frameborder='0' allowfullscreen></iframe></div>
+ <!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/SzMPzaImDwk' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -30,7 +30,7 @@ Windows 10 または .NETFramework4.5以上の環境でインストール出来�
 
 まず、当システムから<font color='dodgerblue'> www.plura.io </font>ログイン(ライセンス : フォレンジック)後、右上の <font color='dodgerblue'> Install Agents </font> をクリックしてダウンロードします。
 
-[![image](/docs/images/Ins_G/Forensic/install_step.png){: width="800" }](/docs/images/Ins_G/Forensic/install_step.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Forensic/install_step.png){: width="800" }](/docs/images/Ins_G/Forensic/install_step.png){: target="_blank"}-->
 
 <br />
 
@@ -39,13 +39,13 @@ Windows 10 または .NETFramework4.5以上の環境でインストール出来�
 
 Administratorアカウントでインストールする必要があります。
 
-[![image](/docs/images/Ins_G/Forensic/install_1.png)](/docs/Images/Ins_G/Forensic/install_1.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Forensic/install_1.png)](/docs/Images/Ins_G/Forensic/install_1.png){: target="_blank"}-->
 
 <br />
 
 インストールパスを選択出来ます。
 
-[![image](/docs/images/Ins_G/Forensic/install_2.png)](/docs/images/Ins_G/Forensic/Install_2.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Forensic/install_2.png)](/docs/images/Ins_G/Forensic/Install_2.png){: target="_blank"}-->
 
 <br />
 
@@ -55,7 +55,7 @@ Administratorアカウントでインストールする必要があります。
 
 (2) ウェブページから確認したライセンスを入力します。
 
-[![image](/docs/images/Ins_G/Forensic/install_3.png)](/docs/images/Ins_G/Forensic/install_3.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Forensic/install_3.png)](/docs/images/Ins_G/Forensic/install_3.png){: target="_blank"}-->
 
 <br />
 
@@ -64,7 +64,7 @@ Administratorアカウントでインストールする必要があります。
 ログインするとPLURA V5 Log-Fのサービスが開始されます。
 * ログアップグレードサポートシステム : Windows, Linux, Android
 
-[![image](/docs/images/Ins_G/Forensic/install_4.png){: width="800" }](/docs/images/Ins_G/Forensic/install_4.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Forensic/install_4.png){: width="800" }](/docs/images/Ins_G/Forensic/install_4.png){: target="_blank"}-->
 
 <br />
 

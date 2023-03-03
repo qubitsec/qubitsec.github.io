@@ -13,31 +13,31 @@ topnav: topnav_ja
 
 ``# useradd Demo``
 
-[![image](/docs/images/Additianal/demoattack/01.png)](/docs/images/Additianal/demoattack/01.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/01.png)](/docs/images/Additianal/demoattack/01.png){: target="_blank"}-->
 
 <br />
 
 PLURA V5フィルタ検出 > システムメニューで検出
 
-[![image](/docs/images/Additianal/demoattack/02.png){: width="800" }](/docs/images/Additianal/demoattack/02.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/02.png){: width="800" }](/docs/images/Additianal/demoattack/02.png){: target="_blank"}-->
 
 <br />
 
 ``# userdel Demo``
 
-[![image](/docs/images/Additianal/demoattack/03.png)](/docs/images/Additianal/demoattack/03.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/03.png)](/docs/images/Additianal/demoattack/03.png){: target="_blank"}-->
 
 <br />
 
 PLURA V5フィルタ検出 > システムメニューで検出
 
-[![image](/docs/images/Additianal/demoattack/04.png){: width="800" }](/docs/images/Additianal/demoattack/04.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/04.png){: width="800" }](/docs/images/Additianal/demoattack/04.png){: target="_blank"}-->
 
 <br />
 
 PLURA V5 セキュリティ検出 > マイターアタック > リストで検出
 
-[![image](/docs/images/Additianal/demoattack/05.png){: width="800" }](/docs/images/Additianal/demoattack/05.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/05.png){: width="800" }](/docs/images/Additianal/demoattack/05.png){: target="_blank"}-->
 
 <br />
 
@@ -55,7 +55,7 @@ PLURA V5 セキュリティ検出 > マイターアタック > リストで検�
 
 下のフィルタの場合, システム単一フィルタ追加 “オペレーション : centos, フィルタ名 : アカウント生成(M5919j9igmyqbg9h)&アカウント削除”
 
-[![image](/docs/images/Additianal/demoattack/06.png){: width="800" }](/docs/images/Additianal/demoattack/06.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/06.png){: width="800" }](/docs/images/Additianal/demoattack/06.png){: target="_blank"}-->
 
 <br />
 
@@ -63,19 +63,19 @@ PLURA V5 セキュリティ検出 > マイターアタック > リストで検�
 
 ``# useradd Demo``
 
-[![image](/docs/images/Additianal/demoattack/07.png)](/docs/images/Additianal/demoattack/07.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/07.png)](/docs/images/Additianal/demoattack/07.png){: target="_blank"}-->
 
 <br />
 
 ``# userdel Demo``
 
-[![image](/docs/images/Additianal/demoattack/08.png)](/docs/images/Additianal/demoattack/08.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/08.png)](/docs/images/Additianal/demoattack/08.png){: target="_blank"}-->
 
 <br />
 
 PLURA V5 セキュリティ検出 > 相関分析メニューで検出
 
-[![image](/docs/images/Additianal/demoattack/09.png){: width="800" }](/docs/images/Additianal/demoattack/09.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/09.png){: width="800" }](/docs/images/Additianal/demoattack/09.png){: target="_blank"}-->
 
 <br /> 
 
@@ -91,13 +91,13 @@ PLURA V5エージェントがインストールされているウェブサーバ
 
 <br />
 
-[![image](/docs/images/Additianal/demoattack/10.png)](/docs/images/Additianal/demoattack/10.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/10.png)](/docs/images/Additianal/demoattack/10.png){: target="_blank"}-->
 
 <br />
 
 PLURA V5 フィルタ検出 > ウェブメニューで検出
 
-[![image](/docs/images/Additianal/demoattack/11.png){: width="800" }](/docs/images/Additianal/demoattack/11.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/11.png){: width="800" }](/docs/images/Additianal/demoattack/11.png){: target="_blank"}-->
 
 <br /> 
 
@@ -109,25 +109,25 @@ PLURA V5 フィルタ検出 > ウェブメニューで検出
 
 1.[エージェントがインストールされているウィンドウ環境] C:\ パスに任意のフォルダ(C:\000)生成
   
-[![image](/docs/images/Additianal/demoattack/12.png)](/docs/images/Additianal/demoattack/12.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/12.png)](/docs/images/Additianal/demoattack/12.png){: target="_blank"}-->
 
 <br />
 
 2.[PLURAページ] フィルタ > セキュリティ > ホームページ偽造 > ウィンドウ > ファイルパス(C:\000)追加
   
-[![image](/docs/images/Additianal/demoattack/13.png){: width="800" }](/docs/images/Additianal/demoattack/13.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/13.png){: width="800" }](/docs/images/Additianal/demoattack/13.png){: target="_blank"}-->
 
 <br />
 
 3.[エージェントがインストールされているウィンドウ環境] 任意で生成したフォルダ内でtxtファイル生成後, 修正及び削除
   
-[![image](/docs/images/Additianal/demoattack/14.png)](/docs/images/Additianal/demoattack/14.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/14.png)](/docs/images/Additianal/demoattack/14.png){: target="_blank"}-->
 
 <br />
 
 4.PLURA V5 セキュリティ検出 > ホームページ偽造メニューで検出
   
-[![image](/docs/images/Additianal/demoattack/15.png){: width="800" }](/docs/images/Additianal/demoattack/15.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/demoattack/15.png){: width="800" }](/docs/images/Additianal/demoattack/15.png){: target="_blank"}-->
 
 <br />
 

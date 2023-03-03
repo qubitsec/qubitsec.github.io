@@ -42,7 +42,7 @@ topnav: topnav_ja
 
 ログ例 : 全ログ > システム
 
-[![image](/docs/images/Ins_G/Postgresql_c/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_c/1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Postgresql_c/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_c/1.png){:target="_blank"} -->
 <br />
 
 上記の内容を活用し、フィルタを登録すると検出ログが確認出来ます。 

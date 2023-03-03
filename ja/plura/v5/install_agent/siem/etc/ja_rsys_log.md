@@ -11,7 +11,7 @@ topnav: topnav_ja
 
 ## 1. 収集されるログ確認
 
-[![image](/docs/images/Ins_G/rsyslog/1.png)](/docs/images/Ins_G/rsyslog/1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/rsyslog/1.png)](/docs/images/Ins_G/rsyslog/1.png){:target="_blank"} -->
 
 <br />
 
@@ -61,7 +61,7 @@ topnav: topnav_ja
 ## 5. PLURA V5収集ログ確認
 
 - 全ログ > システム > 主なオブジェクトでapplication確認
-[![image](/docs/images/Ins_G/rsyslog/2.png){: width="800" }](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/rsyslog/2.png){: width="800" }](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"} -->
 
 <br />
 
@@ -70,7 +70,7 @@ topnav: topnav_ja
 - 2020010100037 キーワードに対するリアルタイムで検出フィルタ
 - フィルタ > 登録フィルタ > システム/ウェブ/ファイアウォール > 登録   
 - フィルタ登録下段 > 情報入力 >  msg >  2020010100037 登録
-[![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"} -->
 
 <br />
 

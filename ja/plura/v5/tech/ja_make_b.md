@@ -28,11 +28,11 @@ Add a README file をチェックします。 // 理由は remote をするた�
 
 [git-scm.com](git-scm.com) に接続して Git をインストール (右下のモニター図に自分のオペレーティングシステムに合うバージョンがわかります。)
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: target="_blank"}
+<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_1.png){: target="_blank"}-->
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: target="_blank"}
+<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_2.png){: target="_blank"}-->
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: target="_blank"}
+<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_3.png){: target="_blank"}-->
 
 **上記の画像3つを除き、残りは基本設定**
 
@@ -41,7 +41,7 @@ Add a README file をチェックします。 // 理由は remote をするた�
 ## [Ruby]
 [https://www.ruby-lang.org/ko/](Ruby ダウンロード)
 
-[![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: target="_blank"}
+<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_4.png){: target="_blank"}-->
 
 最新バージョンをダウンロードします。
 

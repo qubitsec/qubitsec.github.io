@@ -14,7 +14,7 @@ topnav: topnav_ja
 
 <br />
 
-[![image](/docs/images/Additianal/logcol/1.png){: width="800" }](/docs/images/Additianal/logcol/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/logcol/1.png){: width="800" }](/docs/images/Additianal/logcol/1.png){: target="_blank"}-->
 
 <br />
 
@@ -121,7 +121,7 @@ topnav: topnav_ja
 
 パス : システム > システム管理 > ログ取り込みサーバ(親)選択 > 収集環境選択
 
-[![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}-->
 
 <br />
 

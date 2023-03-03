@@ -7,7 +7,7 @@ topnav: topnav_ja
 
 **PLURA V5 > フィルタ > 登録 > システム**
 
-[![image](/docs/images/Additianal/public_key/1.png){: width="800" }](/docs/images/Additianal/public_key/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/public_key/1.png){: width="800" }](/docs/images/Additianal/public_key/1.png){: target="_blank"}-->
 
 - オペレーショングループ : linux
 - オペレーション : ubuntu or centos (該当するオペレーション選択)

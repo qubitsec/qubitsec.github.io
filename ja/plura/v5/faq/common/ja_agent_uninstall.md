@@ -19,7 +19,7 @@ topnav: topnav_ja
 
 #### 1-2. PLURA削除/変更クリック
 
-[![image](/docs/images/Faq/Agent/03.png)](/docs/images/Faq/Agent/03.png){: target="_blank"}
+<!-- [![image](/docs/images/Faq/Agent/03.png)](/docs/images/Faq/Agent/03.png){: target="_blank"} -->
 
 <br />
 
@@ -27,7 +27,7 @@ topnav: topnav_ja
 
 PLURA削除ポップアップが出ると<はい>をクリックしてください。
 
-[![image](/docs/images/Faq/Agent/04.png)](/docs/images/Faq/Agent/04.png){: target="_blank"}
+<!-- [![image](/docs/images/Faq/Agent/04.png)](/docs/images/Faq/Agent/04.png){: target="_blank"} -->
 
 <br />
 
@@ -35,7 +35,7 @@ PLURA削除ポップアップが出ると<はい>をクリックしてくださ�
 
 ウェブログ収集を解除して, ウェブログモジュールを削除したいユーザーの場合は＜ウェブログ設定 > ウェブログモジュール削除＞ ボタンで削除してください。
 
-[![image](/docs/images/Faq/Agent/05.png)](/docs/images/Faq/Agent/05.png){: target="_blank"}
+<!-- [![image](/docs/images/Faq/Agent/05.png)](/docs/images/Faq/Agent/05.png){: target="_blank"} -->
 
 <br />
 

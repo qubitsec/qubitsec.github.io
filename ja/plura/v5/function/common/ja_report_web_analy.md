@@ -11,14 +11,14 @@ topnav: topnav_ja
 <br />
 
 日別報告書
-[![image](/docs/images/Manual/common/report/web/1.png){: width="800" }](/docs/images/Manual/common/report/web/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/report/web/1.png){: width="800" }](/docs/images/Manual/common/report/web/1.png){: target="_blank"}-->
 
 <br />
 
 週別報告書
-[![image](/docs/images/Manual/common/report/web/2.png){: width="800" }](/docs/images/Manual/common/report/web/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/report/web/2.png){: width="800" }](/docs/images/Manual/common/report/web/2.png){: target="_blank"}-->
 
 <br />
 
 月別報告書
-[![image](/docs/images/Manual/common/report/web/3.png){: width="800" }](/docs/images/Manual/common/report/web/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/report/web/3.png){: width="800" }](/docs/images/Manual/common/report/web/3.png){: target="_blank"}-->

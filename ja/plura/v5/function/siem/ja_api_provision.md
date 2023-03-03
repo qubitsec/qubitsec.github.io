@@ -11,7 +11,7 @@ topnav: topnav_ja
 ## 1. API認証キー設定
 - グループ管理 > 連動設定メニューから設定できます。
 - 発行ボタンを押すと、次のようにAPI認証キーが発行されます。
-[![image](/docs/images/Manual/siem/api/1.png)](/docs/images/Manual/siem/api/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/api/1.png)](/docs/images/Manual/siem/api/1.png){: target="_blank"}-->
  
 
 ## 2. 제提供される情報

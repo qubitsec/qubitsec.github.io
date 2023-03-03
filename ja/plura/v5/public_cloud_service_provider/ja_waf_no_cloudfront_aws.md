@@ -10,7 +10,7 @@ topnav: topnav_ja
 
 設定値に応じて自動的にWAFシステムを拡張(Autoscaling)
 
-[![image](/docs/images/Public_Cloud/cloudfront/04.png){: width="800"  }](/docs/images/Public_Cloud/cloudfront/04.png){: target="_blank"}
+<!-- [![image](/docs/images/Public_Cloud/cloudfront/04.png){: width="800"  }](/docs/images/Public_Cloud/cloudfront/04.png){: target="_blank"}-->
 
 上記のような環境でALB(またはウェブサーバ)間にPLURA-WAFを構成することができます。
 

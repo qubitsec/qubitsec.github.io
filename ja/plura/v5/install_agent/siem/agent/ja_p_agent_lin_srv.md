@@ -12,9 +12,9 @@ topnav: topnav_ja
 
 <br />
 
-## Linux Server Agentインストールし映像
+## Linux Server Agentインストールし<!-- 映像 -->
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TW7_NF1gF9g' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TW7_NF1gF9g' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -40,15 +40,15 @@ Version: x.x.x
 
 <br />
 
-__PLURA V5 Agent Linux Srvインストール映像__
+__PLURA V5 Agent Linux Srvインストール<!-- 映像 -->__
 
-– Linux Syslogインストール映像 : [https://qubitsec.github.io/ja_lin_sys.html](https://qubitsec.github.io/ja_lin_sys.html){:target="_blank"}
+– Linux Syslogインストール<!-- 映像 --> : [https://qubitsec.github.io/ja_lin_sys.html](https://qubitsec.github.io/ja_lin_sys.html){:target="_blank"}
 
-– Linux Syslog-Auditインストール映像 : [https://qubitsec.github.io/ja_linu_sys_audit.html](https://qubitsec.github.io/ja_linu_sys_audit.html){:target="_blank"}
+– Linux Syslog-Auditインストール<!-- 映像 --> : [https://qubitsec.github.io/ja_linu_sys_audit.html](https://qubitsec.github.io/ja_linu_sys_audit.html){:target="_blank"}
 
-– Linux Apache / Nginxインストール映像 : [https://qubitsec.github.io/ja_lin_apache_nginx.html](https://qubitsec.github.io/ja_lin_apache_nginx.html){:target="_blank"}
+– Linux Apache / Nginxインストール<!-- 映像 --> : [https://qubitsec.github.io/ja_lin_apache_nginx.html](https://qubitsec.github.io/ja_lin_apache_nginx.html){:target="_blank"}
 
-– Linux Web Server – Datosインストール映像 : [https://qubitsec.github.io/ja_lin_web_server.html](https://qubitsec.github.io/ja_lin_web_server.html){:target="_blank"}
+– Linux Web Server – Datosインストール<!-- 映像 --> : [https://qubitsec.github.io/ja_lin_web_server.html](https://qubitsec.github.io/ja_lin_web_server.html){:target="_blank"}
 
 <br />
 

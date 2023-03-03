@@ -31,19 +31,19 @@ topnav: topnav_ja
 <br />
 
 - アカウント奪取ブロック   
-[![image](/docs/images/Manual/waf/defense/setting/1.png){: width="800" }](/docs/images/Manual/waf/defense/setting/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/defense/setting/1.png){: width="800" }](/docs/images/Manual/waf/defense/setting/1.png){: target="_blank"}-->
 
 <br />
 
 - アカウント奪取制限   
-[![image](/docs/images/Manual/waf/defense/setting/2.png){: width="800" }](/docs/images/Manual/waf/defense/setting/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/defense/setting/2.png){: width="800" }](/docs/images/Manual/waf/defense/setting/2.png){: target="_blank"}-->
 
 <br />
 
 - データ流出ブロック
-[![image](/docs/images/Manual/waf/defense/setting/3.png){: width="800" }](/docs/images/Manual/waf/defense/setting/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/defense/setting/3.png){: width="800" }](/docs/images/Manual/waf/defense/setting/3.png){: target="_blank"}-->
 
 <br />
 
 - OWASPブロック   
-[![image](/docs/images/Manual/waf/defense/setting/4.png){: width="800" }](/docs/images/Manual/waf/defense/setting/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/defense/setting/4.png){: width="800" }](/docs/images/Manual/waf/defense/setting/4.png){: target="_blank"}-->

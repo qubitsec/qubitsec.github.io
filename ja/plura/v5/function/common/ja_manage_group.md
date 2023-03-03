@@ -11,7 +11,7 @@ topnav: topnav_ja
 
 - エージェント中止通知はオンプレミス環境専用機能   
 
-[![image](/docs/images/Manual/common/manage/group/01.png){: width="800" }](/docs/images/Manual/common/manage/group/01.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/manage/group/01.png){: width="800" }](/docs/images/Manual/common/manage/group/01.png){: target="_blank"}-->
 
 <br />
 
@@ -27,7 +27,7 @@ topnav: topnav_ja
 
 ## 3. 通知詳細選択
 
-[![image](/docs/images/Manual/common/manage/group/2.png)](/docs/images/Manual/common/manage/group/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/manage/group/2.png)](/docs/images/Manual/common/manage/group/2.png){: target="_blank"}-->
 
 <br />
 
@@ -39,7 +39,7 @@ topnav: topnav_ja
   - 使用ログ : メンバー、フィルタ、サーバ、防御、顧客サポート、その他   
   - エージェント中止
 
-[![image](/docs/images/Manual/common/manage/group/3.png)](/docs/images/Manual/common/manage/group/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/manage/group/3.png)](/docs/images/Manual/common/manage/group/3.png){: target="_blank"}-->
 
 <br />
 

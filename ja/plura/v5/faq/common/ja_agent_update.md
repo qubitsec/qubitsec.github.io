@@ -13,7 +13,7 @@ topnav: topnav_ja
 
 #### 1-1. <PLURAアイコン>クリック
 
-[![image](/docs/images/Faq/Agent/01.png)](/docs/images/Faq/Agent/01.png){: target="_blank"}
+<!-- [![image](/docs/images/Faq/Agent/01.png)](/docs/images/Faq/Agent/01.png){: target="_blank"}-->
 
 <br />
 
@@ -22,7 +22,7 @@ topnav: topnav_ja
 ウィンドウPLURA V5 Agent自動アップデート機能を使用するには、設定タブの自動アップデートのチェックボックスにチェックしてください。 
 デフォルトはチェックです。
 
-[![image](/docs/images/Faq/Agent/02.png)](/docs/images/Faq/Agent/02.png){: target="_blank"}
+<!-- [![image](/docs/images/Faq/Agent/02.png)](/docs/images/Faq/Agent/02.png){: target="_blank"}-->
 
 <br />
 

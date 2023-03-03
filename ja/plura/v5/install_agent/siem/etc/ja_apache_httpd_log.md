@@ -57,7 +57,7 @@ File = “ログパス”, Tag = “タグ”, Severity = “深刻度”, progr
 
 ログ例 : 全ログ > システム
 
-[![image](/docs/images/Ins_G/apache_httpd_err/1.png){: width="800px"}](/docs/images/Ins_G/apache_httpd_err/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/apache_httpd_err/1.png){: width="800px"}](/docs/images/Ins_G/apache_httpd_err/1.png){: target="_blank"}-->
 
 
 上の内容を活用してフィルタを登録すると検出ログが確認出来ます。

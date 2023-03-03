@@ -5,9 +5,9 @@ sidebar: Install_A_S_ja
 product: Install_A_S_ja
 ---
 
-## Sysmonインストール映像
+## Sysmonインストール<!-- 映像 -->
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/G6crbYg2Mzw' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/G6crbYg2Mzw' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -33,14 +33,14 @@ Sysmonをインストールするにはまず __PLURA V5 Agent__ をインスト
 
 圧縮ファイルを解凍して、Sysmonフォルダーㅏで **[Shift + 右クリック]** をして‘ここでコマンドウィンドウを開く’でcmdウィンドウを起動します.
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_1.png)](/docs/images/Ins_G/Sysmon/sysmon_1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_1.png)](/docs/images/Ins_G/Sysmon/sysmon_1.png){:target="_blank"} -->
 
 **” Sysmon.exe –i [options] ”コマンドでSysmonをインストール出来ます。**
 **” Sysmon.exe -h ”コマンドで[options]のリストが確認出来ます。**
 
 **[options]**
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_2.png)](/docs/images/Ins_G/Sysmon/sysmon_2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_2.png)](/docs/images/Ins_G/Sysmon/sysmon_2.png){:target="_blank"} -->
 
 インストールする時 **-accepteula** オプションを使用するとソフトウェアユーザー同意者 **EULA(End User License Agreement)** を自動にOK状態からインストール出来ます。
 
@@ -74,7 +74,7 @@ Sysmonのオプション関連説明は[ダウンロードページ](https://doc
 
 AgentでSYSMONインストール確認
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"} -->
 
 <br />
 
@@ -84,7 +84,7 @@ Sysmonがインストールされるとウィンドウサービスログパス�
 
 %SystemRoot%\System32\Winevt\Logs\Microsoft-Windows-Sysmon%4Operational.evtx
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_4.png)](/docs/images/Ins_G/Sysmon/sysmon_4.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_4.png)](/docs/images/Ins_G/Sysmon/sysmon_4.png){:target="_blank"} -->
 
 <br />
 
@@ -92,9 +92,9 @@ Sysmonがインストールされるとウィンドウサービスログパス�
 
 イベントビューアで下記の通りアプリケーション及びサービスログ->Microsoft->Windows->Sysmon-> Operationalがクリック出来ます。
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_5.png)](/docs/images/Ins_G/Sysmon/sysmon_5.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_5.png)](/docs/images/Ins_G/Sysmon/sysmon_5.png){:target="_blank"} -->
 
-[![image](/docs/images/Ins_G/Sysmon/sysmon_6.png){: width="800" }](/docs/images/Ins_G/Sysmon/sysmon_6.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_6.png){: width="800" }](/docs/images/Ins_G/Sysmon/sysmon_6.png){:target="_blank"} -->
 
   - Sysmon Event IDの定義は次のURLで確認出来ます。
 

@@ -12,14 +12,14 @@ topnav: topnav_ja
 <br />
 
 日刊報告書   
-[![image](/docs/images/Manual/waf/report/1.png){: width="800" }](/docs/images/Manual/waf/report/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/report/1.png){: width="800" }](/docs/images/Manual/waf/report/1.png){: target="_blank"}-->
  
 <br />
 
 週間報告書   
-[![image](/docs/images/Manual/waf/report/2.png){: width="800" }](/docs/images/Manual/waf/report/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/report/2.png){: width="800" }](/docs/images/Manual/waf/report/2.png){: target="_blank"}-->
 
 <br />
 
 月間報告書   
-[![image](/docs/images/Manual/waf/report/3.png){: width="800" }](/docs/images/Manual/waf/report/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/report/3.png){: width="800" }](/docs/images/Manual/waf/report/3.png){: target="_blank"}-->

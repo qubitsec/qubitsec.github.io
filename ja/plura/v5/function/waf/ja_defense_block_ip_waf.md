@@ -19,7 +19,7 @@ topnav: topnav_ja
 
 ## ブロックIPアドレス > ウェブファイアウォール
 - ウェブファイアウォールフィルタ検出/全ログページで即時防御ボタンをクリックして登録した情報又はIPアドレス登録ボタンをクリックして 　直接登録した情報が表示されます。
-[![image](/docs/images/Manual/waf/defense/ip/3.png){: width="800" }](/docs/images/Manual/waf/defense/ip/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/defense/ip/3.png){: width="800" }](/docs/images/Manual/waf/defense/ip/3.png){: target="_blank"}-->
  
 <br />
 
@@ -27,4 +27,4 @@ topnav: topnav_ja
    - IPアドレス :  ブロックIPアドレス入力
    - ブロック期限 :  ブロック期限設定
    - 説明 : ブロックする理由又は目的入力
-[![image](/docs/images/Manual/waf/defense/ip/2.png)](/docs/images/Manual/waf/defense/ip/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/waf/defense/ip/2.png)](/docs/images/Manual/waf/defense/ip/2.png){: target="_blank"}-->

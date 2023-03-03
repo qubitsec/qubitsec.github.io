@@ -11,32 +11,32 @@ topnav: topnav_ja
 
 <br />
 
-## 1. データ流出実演映像
+## 1. データ流出実演<!-- 映像 -->
 
- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Qp-JbyZ_G1k' frameborder='0' allowfullscreen></iframe></div>
+ <!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Qp-JbyZ_G1k' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
 ## 2. 検出されたログの詳細
 - 検出されたログをクリックすると、それぞれのログに含まれている詳細を確認できます。
 
-[![image](/docs/images/Manual/common/outflow/1.png){: width="800" }](/docs/images/Manual/common/outflow/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/outflow/1.png){: width="800" }](/docs/images/Manual/common/outflow/1.png){: target="_blank"}-->
 
 <br />
 
 - TABで応答本文漏えい領域表示ボタンをクリックすると、実際に漏えいした応答本文の内容を見ることができます。
 
-[![image](/docs/images/Manual/common/outflow/2.png){: width="800" }](/docs/images/Manual/common/outflow/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/outflow/2.png){: width="800" }](/docs/images/Manual/common/outflow/2.png){: target="_blank"}-->
 
 <br />
 
 - 漏えい情報 Tab > 回答本文の漏えい領域を表示ボタンをクリック
 
-[![image](/docs/images/Manual/common/outflow/3.png){: width="800" }](/docs/images/Manual/common/outflow/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/outflow/3.png){: width="800" }](/docs/images/Manual/common/outflow/3.png){: target="_blank"}-->
 
 <br />
 
 - ログ詳細TABで原本ログおよび漏えいしたResp-bodyログを確認することができます。
 
-[![image](/docs/images/Manual/common/outflow/4.png){: width="800" }](/docs/images/Manual/common/outflow/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/outflow/4.png){: width="800" }](/docs/images/Manual/common/outflow/4.png){: target="_blank"}-->
 

@@ -37,7 +37,7 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
     (インスタンスが複数の可用領域で生成される場合、各可用領域ごとにサブネットを作成します。)  
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/01.png)](/docs/images/Public_Cloud/autoscaling_setup/01.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/01.png)](/docs/images/Public_Cloud/autoscaling_setup/01.png){: target="_blank"}-->
 
 <br />
 
@@ -47,7 +47,7 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
     後でこのIPアドレスリストをuser-dataに入力することになります。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/02.png)](/docs/images/Public_Cloud/autoscaling_setup/02.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/02.png)](/docs/images/Public_Cloud/autoscaling_setup/02.png){: target="_blank"}-->
 
     Description項目に"plura-waf"文字列入力→user-dataスクリプトで識別子として使用する）
 
@@ -68,9 +68,9 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
 -   エージェントがインストールされているインスタンスの画像を作成します。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/03.png)](/docs/images/Public_Cloud/autoscaling_setup/03.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/03.png)](/docs/images/Public_Cloud/autoscaling_setup/03.png){: target="_blank"}-->
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/04.png)](/docs/images/Public_Cloud/autoscaling_setup/04.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/04.png)](/docs/images/Public_Cloud/autoscaling_setup/04.png){: target="_blank"}-->
 
 <br />
 
@@ -78,19 +78,19 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
 -   Auto Scaling グループで使用する開始テンプレートを作成します。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/05.png)](/docs/images/Public_Cloud/autoscaling_setup/05.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/05.png)](/docs/images/Public_Cloud/autoscaling_setup/05.png){: target="_blank"}-->
 
 <br />
 
 -   スタートテンプレートコンテンツ項目で、前段階で作成したAMI画像を指定します。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/06.png)](/docs/images/Public_Cloud/autoscaling_setup/06.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/06.png)](/docs/images/Public_Cloud/autoscaling_setup/06.png){: target="_blank"}-->
 
 <br />
 
 -   고高度な詳細 > ユーザー データ項目に固定IP アドレスとホスト名割り当てスクリプトを入力します。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/07.png)](/docs/images/Public_Cloud/autoscaling_setup/07.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/07.png)](/docs/images/Public_Cloud/autoscaling_setup/07.png){: target="_blank"}-->
 
 <br />
 
@@ -98,7 +98,7 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
     (環境に合わせてアクセスキー、秘密キー、IPアドレスの値を修正します。)  
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/08.png)](/docs/images/Public_Cloud/autoscaling_setup/08.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/08.png)](/docs/images/Public_Cloud/autoscaling_setup/08.png){: target="_blank"}-->
 
 <br />
 
@@ -106,9 +106,9 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
 -   Auto Scaling グループを作成し、前の段階で作成した開始テンプレートを指定します。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/09.png)](/docs/images/Public_Cloud/autoscaling_setup/09.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/09.png)](/docs/images/Public_Cloud/autoscaling_setup/09.png){: target="_blank"}-->
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/10.png)](/docs/images/Public_Cloud/autoscaling_setup/10.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/10.png)](/docs/images/Public_Cloud/autoscaling_setup/10.png){: target="_blank"}-->
 
 <br />
 
@@ -116,19 +116,19 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
 -    Auto Scaling グループ > 詳細 情報 タブ > グループ 詳細 [編集] 押して グループ サイズ 調整
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/11.png)](/docs/images/Public_Cloud/autoscaling_setup/11.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/11.png)](/docs/images/Public_Cloud/autoscaling_setup/11.png){: target="_blank"}-->
 
 <br />
 
 -   目的の容量項目に値を指定して、手動でインスタンスの数を変更できます。
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/12.png)](/docs/images/Public_Cloud/autoscaling_setup/12.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/12.png)](/docs/images/Public_Cloud/autoscaling_setup/12.png){: target="_blank"}-->
 
 <br />
 
 -   PLURA V5 ページのシステム > システム管理でエージェントのリストを確認
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/13.png)](/docs/images/Public_Cloud/autoscaling_setup/13.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/13.png)](/docs/images/Public_Cloud/autoscaling_setup/13.png){: target="_blank"}-->
 
 <br />
     
@@ -138,7 +138,7 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
     (アイコンの状態が変更されるまで最大5分かかります。)  
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/14.png)](/docs/images/Public_Cloud/autoscaling_setup/14.png){: target="_blank"}
+    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/14.png)](/docs/images/Public_Cloud/autoscaling_setup/14.png){: target="_blank"}-->
 
 <br />
 
