@@ -52,7 +52,7 @@ topnav: topnav_ja
 
 <br />
 
-**예시 Kaspersky**
+**例Kaspersky**
 
 <!-- [![image](/docs/images/Additianal/anti/5.png)](/docs/images/Additianal/anti/5.png){: target="_blank"}-->
 

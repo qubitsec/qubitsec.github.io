@@ -40,7 +40,7 @@ Syslog転送設定(by root)
 
 `# vi /etc/rsyslog.conf`
 
-     <예>
+     <例>
 
      *.info @ログ取り込みシステムIPアドレス
 

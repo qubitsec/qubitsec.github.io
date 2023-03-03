@@ -23,7 +23,7 @@ Syslogを受け取るLinux系のシステムにPLURA V5 Agentをインストー�
 
 `# vi /etc/syslog.conf`
 
-     <예>
+     <例>
      *.info @ログ取り込みシステムIPアドレス
 
 <br />
