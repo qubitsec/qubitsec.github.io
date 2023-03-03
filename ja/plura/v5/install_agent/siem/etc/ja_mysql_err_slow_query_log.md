@@ -16,26 +16,26 @@ topnav: topnav_ja
 
 システム  > システム管理 > サーバ選択 > 設定メニュー > 設定ボタンをクリックします。
 
-[![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"} -->
 
 <br />
 
 ### 1-2. アプリケーション原本ログ収集設定アクティブ
 
-[![image](/docs/images/Ins_G/mysql_slow/2.png){: width="800" }](/docs/images/Ins_G/mysql_slow/2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/2.png){: width="800" }](/docs/images/Ins_G/mysql_slow/2.png){:target="_blank"} -->
 
 <br />
 
 ### 1-3. パス > 設定ボタンをクリック
 
-[![image](/docs/images/Ins_G/mysql_slow/3.png){: width="800" }](/docs/images/Ins_G/mysql_slow/3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/3.png){: width="800" }](/docs/images/Ins_G/mysql_slow/3.png){:target="_blank"} -->
 
 <br />
 
 ### 1-4. タグ選択及びパス入力
 MySQL ErrorログとSlow-Queryログのパスを入力します。
 
-[![image](/docs/images/Ins_G/mysql_slow/4.png)](/docs/images/Ins_G/mysql_slow/4.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/4.png)](/docs/images/Ins_G/mysql_slow/4.png){:target="_blank"} -->
 
 <br />
 
@@ -43,11 +43,11 @@ MySQL ErrorログとSlow-Queryログのパスを入力します。
 
 タグが正常に登録されたことを確認後、修正ボタンをクリックします。
 
-[![image](/docs/images/Ins_G/mysql_slow/5.png)](/docs/images/Ins_G/mysql_slow/5.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/5.png)](/docs/images/Ins_G/mysql_slow/5.png){:target="_blank"} -->
 
 <br />
 
-[![image](/docs/images/Ins_G/mysql_slow/6.png){: width="800" }](/docs/images/Ins_G/mysql_slow/6.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/6.png){: width="800" }](/docs/images/Ins_G/mysql_slow/6.png){:target="_blank"} -->
 
 <br />
 
@@ -59,13 +59,13 @@ MySQL ErrorログとSlow-Queryログのパスを入力します。
 
 - 設定ボタンをクリックします。
 
-[![image](/docs/images/Ins_G/mysql_slow/7.png){: width="800" }](/docs/images/Ins_G/mysql_slow/7.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/7.png){: width="800" }](/docs/images/Ins_G/mysql_slow/7.png){:target="_blank"} -->
 
 <br />
 
 - 登録ボタンをクリックして、登録しようとするタグを入力します。
 
-[![image](/docs/images/Ins_G/mysql_slow/8.png){: width="800" }](/docs/images/Ins_G/mysql_slow/8.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/8.png){: width="800" }](/docs/images/Ins_G/mysql_slow/8.png){:target="_blank"} -->
 
 <br />
 
@@ -97,7 +97,7 @@ long_query_time = 3
 
 `# ls -aZ /var/log/mysql*`
 
-[![image](/docs/images/Ins_G/mysql_slow/9.png)](/docs/images/Ins_G/mysql_slow/9.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/9.png)](/docs/images/Ins_G/mysql_slow/9.png){:target="_blank"} -->
 
 ### 2.4. mysql restart
 
@@ -108,7 +108,7 @@ long_query_time = 3
 ### 2.5. アクティブ確認
 `mysql> show variables like ‘slow_query_%’;`
 
-[![image](/docs/images/Ins_G/mysql_slow/10.png)](/docs/images/Ins_G/mysql_slow/10.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/mysql_slow/10.png)](/docs/images/Ins_G/mysql_slow/10.png){:target="_blank"} -->
 
 <br />
 

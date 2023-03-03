@@ -5,9 +5,9 @@ sidebar: Install_A_S_ja
 topnav: topnav_ja
 ---
 
-## アプリケーション分析 – Postfix映像
+## アプリケーション分析 – Postfix<!-- 映像 -->
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/YmWLsadlIdM' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/YmWLsadlIdM' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -54,7 +54,7 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 [https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf){:target="_blank"}
 
-[![image](/docs/images/Ins_G/LogCol_Customapp/2.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/2.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/2.png){:target="_blank"} -->
 
 `# mkdir /etc/logstash/patterns.d`
 
@@ -85,14 +85,14 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 ### 2-2. アプリケーションサーバ登録
 
 - システム  > システム管理 > ログ取り込みサーバ(親)選択 > アプリケーションボタンをクリックします。 
-[![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"} -->
 
 <br />
 
 ### 2-3. システム登録ポップアップ > 遠隔地(子)サーバ情報入力
 
 - アプリケーションのカスタマイズログ収集パスに“/var/log/plura/app-logstash-postfix.log”を入力します。
-[![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"} -->
 
 <br />
 
@@ -102,7 +102,7 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 RUN Logstash(foreground)
 
-[![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"} -->
 
 <br />
 
@@ -111,17 +111,17 @@ RUN Logstash(foreground)
 - パス : 全ログ > アプリケーション > カスタマイズ > postfix
 
 - 管理 > 使用 > アプリケーション > カスタマイズ設定がON状態の場合、メニューが出ます。[4]
-[![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"} -->
 
 <br />
 
 - “修正”ボタンをクリックした後, postfix項目にチェックすればカスタマイズアプリケーションでpostfixログが確認出来ます。
-[![image](/docs/images/Ins_G/LogCol_Customapp/7.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/7.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/7.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/7.png){:target="_blank"} -->
 
 <br />
 
 - Postfixログが生成されるとPLURA V5全ログ(アプリケーション)で確認出来ます。
-[![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/8.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/8.png){:target="_blank"} -->
 
 <br />
 

@@ -10,29 +10,29 @@ topnav: topnav_ja
 
 ## ウェブフィルタ登録
 
-[![image](/docs/images/Manual/common/regi/web/1.png){: width="800" }](/docs/images/Manual/common/regi/web/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/web/1.png){: width="800" }](/docs/images/Manual/common/regi/web/1.png){: target="_blank"}-->
 
 <br />
 
 ## カスタマイズフィルタ登録DEMO
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/y9NnH2fjzEU' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/y9NnH2fjzEU' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
 ### 1. メニュー位置
 - PLURA V5ウェブページ左ナビゲーションバーメニューのフィルタ > 登録クリック   
-[![image](/docs/images/Manual/common/regi/web/2.png)](/docs/images/Manual/common/regi/web/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/web/2.png)](/docs/images/Manual/common/regi/web/2.png){: target="_blank"}-->
 
 <br />
 
 ### 2. 登録ボタンクリック
-[![image](/docs/images/Manual/common/regi/web/3.png){: width="800" }](/docs/images/Manual/common/regi/web/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/web/3.png){: width="800" }](/docs/images/Manual/common/regi/web/3.png){: target="_blank"}-->
 
 <br />
 
 ### 3. フィルタ分類選択
-[![image](/docs/images/Manual/common/regi/web/4.png)](/docs/images/Manual/common/regi/web/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/web/4.png)](/docs/images/Manual/common/regi/web/4.png){: target="_blank"}-->
 
 <br />
 
@@ -58,6 +58,6 @@ topnav: topnav_ja
 
 - ウェブフィルタ登録例
 
-[![image](/docs/images/Manual/common/regi/web/5.png){: width="800" }](/docs/images/Manual/common/regi/web/5.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/web/5.png){: width="800" }](/docs/images/Manual/common/regi/web/5.png){: target="_blank"}-->
 
  

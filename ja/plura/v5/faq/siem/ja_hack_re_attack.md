@@ -5,9 +5,9 @@ sidebar: faq_siem_M_ja
 topnav: topnav_ja
 ---
 
-### 1. PLURA V5 Manual – 再送信攻撃映像
+### 1. PLURA V5 Manual – 再送信攻撃<!-- 映像 -->
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_ICFu8Rg5h0' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_ICFu8Rg5h0' frameborder='0' allowfullscreen></iframe></div> -->
 
 <br />
 
@@ -45,7 +45,7 @@ POST | PUT | PATCH | DELETEの場合はパラメータ名が存在し,Content-ty
 
 下のイメージはMethod – GET方式(application/x-www-form-urlencoded)の攻撃で再転送攻撃条件が成立し、再送信攻撃ボタンが表示されることを確認出来ます。
 
- [![image](/docs/images/Additianal/hack/1.png){: width="800" }](/docs/images/Additianal/aws/1.png){: target="_blank"}
+ <!-- [![image](/docs/images/Additianal/hack/1.png){: width="800" }](/docs/images/Additianal/aws/1.png){: target="_blank"}-->
 
 <br />
 
@@ -54,7 +54,7 @@ POST | PUT | PATCH | DELETEの場合はパラメータ名が存在し,Content-ty
 httpsを使用しない場合、http : 80で修正して再送信攻撃データを転送出来ます。
 修正された値は保存されます。
 
- [![image](/docs/images/Additianal/hack/2.png)](/docs/images/Additianal/aws/2.png){: target="_blank"}
+ <!-- [![image](/docs/images/Additianal/hack/2.png)](/docs/images/Additianal/aws/2.png){: target="_blank"}-->
  
  <br />
 

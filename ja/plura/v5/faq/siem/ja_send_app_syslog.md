@@ -16,7 +16,7 @@ topnav: topnav_ja
 
 <br />
 
- [![image](/docs/images/Additianal/send/1.png){: width="800" }](/docs/images/Additianal/send/1.png){: target="_blank"}
+ <!-- [![image](/docs/images/Additianal/send/1.png){: width="800" }](/docs/images/Additianal/send/1.png){: target="_blank"}-->
 
 <br />
 

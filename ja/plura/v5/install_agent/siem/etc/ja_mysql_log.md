@@ -33,7 +33,7 @@ mysql errorログ位置確認
 
 ログ例 : 全ログ > システム
 
-[![image](/docs/images/Ins_G/Mysql(cent)log/1.png){: width="800" }](/docs/images/Ins_G/Mysql(cent)log/1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/Mysql(cent)log/1.png){: width="800" }](/docs/images/Ins_G/Mysql(cent)log/1.png){:target="_blank"} -->
 
 上記の内容を活用し、フィルタを登録すると検出ログが確認出来ます。
 [Syslogフィルタ登録ショートカット](https://qubitsec.github.io/ja_f_regi_syslog.html){:target="_blank"}

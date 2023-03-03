@@ -55,7 +55,7 @@ squid accessログファイルに権限付与
 
 **PLURA V5 > システム > システム管理**でリストのシステムを拡張すると、下記のように確認されます。
 
- [![image](/docs/images/Additianal/proxy/1.png)](/docs/images/Additianal/proxy/1.png){: target="_blank"}
+ <!-- [![image](/docs/images/Additianal/proxy/1.png)](/docs/images/Additianal/proxy/1.png){: target="_blank"}-->
 
 <br />
 

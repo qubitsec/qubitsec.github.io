@@ -15,6 +15,6 @@ topnav: topnav_ja
 
 <br />
 
-[![image](/docs/images/Additianal/agent/1.png){: width="800" }](/docs/images/Additianal/agent/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/agent/1.png){: width="800" }](/docs/images/Additianal/agent/1.png){: target="_blank"}-->
 
 ※ カスタマイズホームページ偽造フィルタの場合、ユーザーが直接削除する必要があります。

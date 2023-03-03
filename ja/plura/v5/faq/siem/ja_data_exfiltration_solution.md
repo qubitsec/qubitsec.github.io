@@ -50,7 +50,7 @@ PLURA V5では下記のタイプに限って動作します。
 
  フィルタ検出は出来されたが応答本文を読めない場合、下のプレートが表示されます。
 
-[![image](/docs/images/Additianal/data/1.png)](/docs/images/Additianal/data/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/data/1.png)](/docs/images/Additianal/data/1.png){: target="_blank"}-->
 
 <br />
 
@@ -67,13 +67,13 @@ PLURA V5では下記のタイプに限って動作します。
 
 **<meta charset=”UTF-8″>**
 
-[![image](/docs/images/Additianal/data/2.png)](/docs/images/Additianal/data/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/data/2.png)](/docs/images/Additianal/data/2.png){: target="_blank"}-->
 
 <br />
 
  ウェブドキュメントを保存する時、エンコーディングをUTF-8にしてください。
 
-[![image](/docs/images/Additianal/data/3.png)](/docs/images/Additianal/data/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/data/3.png)](/docs/images/Additianal/data/3.png){: target="_blank"}-->
 
 <br />
 
@@ -95,7 +95,7 @@ MIMEタイプは個別タイプとマルチタイプで分けられます。
 
  個別タイプはドキュメントのカテゴリーを指し、下記の一つになれます。 
 
-[![image](/docs/images/Additianal/data/4.png){: width="800" }](/docs/images/Additianal/data/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/data/4.png){: width="800" }](/docs/images/Additianal/data/4.png){: target="_blank"}-->
 
 <br />
 

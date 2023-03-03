@@ -18,7 +18,7 @@ topnav: topnav_ja
 - 検出されたIDをクリックする時、該当IDの検出詳細ページに移動します。
 
 - マトリックス右上の新しいウィンドウボタンをクリックすると, マトリックスの新しいウィンドウの移動します。
-[![image](/docs/images/Manual/common/mitre/matrix/1.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/mitre/matrix/1.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/1.png){: target="_blank"}-->
 
 <br />
 
@@ -27,12 +27,12 @@ topnav: topnav_ja
 - 右上のボタンをクリックすると, ライト/ダークモードを提供します。
 
 - ライトモード   
-[![image](/docs/images/Manual/common/mitre/matrix/2.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/mitre/matrix/2.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/2.png){: target="_blank"}-->
 
 <br />
 
 - ダークモード   
-[![image](/docs/images/Manual/common/mitre/matrix/3.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/mitre/matrix/3.png){: width="800" }](/docs/images/Manual/common/mitre/matrix/3.png){: target="_blank"}-->
 
 <br />
 

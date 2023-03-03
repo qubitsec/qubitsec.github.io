@@ -23,7 +23,7 @@ topnav: topnav_ja
 
 - マイター / 相関分析 / システムログ
 - 該当ログを選択すると、以下の項目が表示されます。   
-[![image](/docs/images/Manual/forensic/dash/1.png){: width="800" }](/docs/images/Manual/forensic/dash/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/forensic/dash/1.png){: width="800" }](/docs/images/Manual/forensic/dash/1.png){: target="_blank"}-->
 
 - 年度別ログ発生状況
 - 月別ログ発生状況
@@ -34,26 +34,26 @@ topnav: topnav_ja
 
 ## 2. 年度別ログ発生状況
 - 選択した検知項目に対する年度別発生グラフを確認することができます。   
-[![image](/docs/images/Manual/forensic/dash/2.png){: width="800" }](/docs/images/Manual/forensic/dash/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/forensic/dash/2.png){: width="800" }](/docs/images/Manual/forensic/dash/2.png){: target="_blank"}-->
 
 <br />
 
 ## 3. 月別ログ発生状況
 - 選択した検出項目の月別発生グラフを確認できます。
-[![image](/docs/images/Manual/forensic/dash/3.png){: width="800" }](/docs/images/Manual/forensic/dash/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/forensic/dash/3.png){: width="800" }](/docs/images/Manual/forensic/dash/3.png){: target="_blank"}-->
 
 <br />
 
 ## 4. 日替わり対数発生状況
 - 前日発生グラフと比較して検知ライングラフを確認することができます。   
-[![image](/docs/images/Manual/forensic/dash/4.png){: width="800" }](/docs/images/Manual/forensic/dash/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/forensic/dash/4.png){: width="800" }](/docs/images/Manual/forensic/dash/4.png){: target="_blank"}-->
 
 <br />
 
 ## 5. 画面設定
 - ダッシュボードの右側の歯車をクリックすると、画面設定ページが表示されます。 
-[![image](/docs/images/Manual/forensic/dash/5.png){: width="800" }](/docs/images/Manual/forensic/dash/5.png){: target="_blank"}   
-[![image](/docs/images/Manual/forensic/dash/6.png)](/docs/images/Manual/forensic/dash/6.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/forensic/dash/5.png){: width="800" }](/docs/images/Manual/forensic/dash/5.png){: target="_blank"}-->   
+<!-- [![image](/docs/images/Manual/forensic/dash/6.png)](/docs/images/Manual/forensic/dash/6.png){: target="_blank"}-->
 
 ### 5-1. グループ設定
 

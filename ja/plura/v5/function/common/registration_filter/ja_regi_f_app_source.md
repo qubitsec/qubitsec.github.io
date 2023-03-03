@@ -11,7 +11,7 @@ topnav: topnav_ja
 <br />
 ##  アプリケーション原本フィルタ登録
 
-[![image](/docs/images/Manual/common/regi/source/1.png){: width="800" }](/docs/images/Manual/common/regi/source/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/source/1.png){: width="800" }](/docs/images/Manual/common/regi/source/1.png){: target="_blank"}-->
 
 フィルタ登録 DEMO : [https://qubitsec.github.io/ja_filter_registration.html](https://qubitsec.github.io/ja_filter_registration.html){: target="_blank"}
 
@@ -19,17 +19,17 @@ topnav: topnav_ja
 
 ### 1. メニュー位置
 - PLURA V5ウェブページ左ナビゲーションバーメニューのフィルタ > 登録クリック   
-[![image](/docs/images/Manual/common/regi/source/2.png)](/docs/images/Manual/common/regi/source/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/source/2.png)](/docs/images/Manual/common/regi/source/2.png){: target="_blank"}-->
 
 <br />
 
 ### 2. 登録ボタンクリック
-[![image](/docs/images/Manual/common/regi/source/3.png){: width="800" }](/docs/images/Manual/common/regi/source/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/source/3.png){: width="800" }](/docs/images/Manual/common/regi/source/3.png){: target="_blank"}-->
 
 <br />
 
 ### 3. システムグループ選択
-[![image](/docs/images/Manual/common/regi/source/4.png){: width="800" }](/docs/images/Manual/common/regi/source/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/source/4.png){: width="800" }](/docs/images/Manual/common/regi/source/4.png){: target="_blank"}-->
 
 <br />
 
@@ -50,7 +50,7 @@ topnav: topnav_ja
 <br />
 
 ### 8. フィルタ動作時間(24時間/時間設定)設定
-[![image](/docs/images/Manual/common/regi/source/5.png){: width="800" }](/docs/images/Manual/common/regi/source/5.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/source/5.png){: width="800" }](/docs/images/Manual/common/regi/source/5.png){: target="_blank"}-->
 
 - 例えば退勤以後から出勤までのフィルタ動作を確認したい場合、 “時間設定” 選択後, 確認したい時間を入力します。
 
@@ -64,4 +64,4 @@ topnav: topnav_ja
 
 - アプリケーション原本フィルタ登録例
 
-[![image](/docs/images/Manual/common/regi/source/6.png){: width="800" }](/docs/images/Manual/common/regi/source/6.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/regi/source/6.png){: width="800" }](/docs/images/Manual/common/regi/source/6.png){: target="_blank"}-->

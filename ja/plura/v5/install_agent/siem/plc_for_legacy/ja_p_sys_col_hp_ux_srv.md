@@ -9,7 +9,7 @@ topnav: topnav_ja
 
 <br />
 
-## 1. PLURA V5 Agent 설치
+## 1. PLURA V5 Agent インストール
 
 Syslogを受け取るLinux系のシステムにPLURA V5 Agentをインストールします。
 
@@ -41,4 +41,4 @@ Syslogを受け取るLinux系のシステムにPLURA V5 Agentをインストー�
 ## 3. システム登録
 
 - **システム > システム管理 > 取り込みシステム選択 > システム登録**
- [![image](/docs/images/Ins_G/P_Sys_Collector_HP-UX_Srv/HP_UX.png)](/docs/images/Ins_G/P_Sys_Collector_HP-UX_Srv/HP_UX.png){:target="_blank"}
+ <!-- [![image](/docs/images/Ins_G/P_Sys_Collector_HP-UX_Srv/HP_UX.png)](/docs/images/Ins_G/P_Sys_Collector_HP-UX_Srv/HP_UX.png){:target="_blank"} -->

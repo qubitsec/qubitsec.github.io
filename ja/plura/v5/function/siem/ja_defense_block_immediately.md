@@ -13,26 +13,26 @@ topnav: topnav_ja
 - 防御したいログをクリックし、左下の即時ブロックボタンを押します。
 
 - "即時ブロック" ボタンは、ブロック可能なログから表示されます。   
-[![image](/docs/images/Manual/siem/block_immedia/1.png){: width="800" }](/docs/images/Manual/siem/block_immedia/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/block_immedia/1.png){: width="800" }](/docs/images/Manual/siem/block_immedia/1.png){: target="_blank"}-->
 
 <br />
 
 - ブロックポップアップが表示されたら、IPアドレスの設定と説明を作成し、確認ボタンを押します。   
-[![image](/docs/images/Manual/siem/block_immedia/2.png)](/docs/images/Manual/siem/block_immedia/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/block_immedia/2.png)](/docs/images/Manual/siem/block_immedia/2.png){: target="_blank"}-->
 
 <br />
 
 - ブロックが正常に設定されました。
 
 - "ブロックIPアドレス"ボタンをクリックすると、防御 > ブロックIPアドレスページに移動します。
-[![image](/docs/images/Manual/siem/block_immedia/3.png)](/docs/images/Manual/siem/block_immedia/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/block_immedia/3.png)](/docs/images/Manual/siem/block_immedia/3.png){: target="_blank"}-->
 
  <br />
 
 - ブロックが設定されて以降、そのログ情報から "ブロック実行中" を確認できます。
-[![image](/docs/images/Manual/siem/block_immedia/4.png){: width="800" }](/docs/images/Manual/siem/block_immedia/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/block_immedia/4.png){: width="800" }](/docs/images/Manual/siem/block_immedia/4.png){: target="_blank"}-->
 
 <br />
 
 - 防御 > ブロックIPアドレスページに移動すると、すぐにブロックしたIPが登録されています。
-[![image](/docs/images/Manual/siem/block_immedia/5.png){: width="800" }](/docs/images/Manual/siem/block_immedia/5.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/siem/block_immedia/5.png){: width="800" }](/docs/images/Manual/siem/block_immedia/5.png){: target="_blank"}-->

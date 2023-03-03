@@ -40,11 +40,11 @@ topnav: topnav_ja
 
 ログ例 : 全ログ > システム
 
-[![image](/docs/images/Ins_G/xrdp/1.png){: width="800" }](/docs/images/Ins_G/xrdp/1.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/xrdp/1.png){: width="800" }](/docs/images/Ins_G/xrdp/1.png){:target="_blank"} -->
 
 <br />
 
-[![image](/docs/images/Ins_G/xrdp/2.png){: width="800" }](/docs/images/Ins_G/xrdp/2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/xrdp/2.png){: width="800" }](/docs/images/Ins_G/xrdp/2.png){:target="_blank"} -->
 
 上記の内容を活用し、フィルタを登録すると検出ログが確認出来ます。
 [(Syslogフィルタ登録ショートカット)](https://qubitsec.github.io/ja_f_regi_syslog.html){:target="_blank"}

@@ -12,4 +12,4 @@ topnav: topnav_ja
 
 - ユーザーが表示数または検出数に基づいて表示設定を行うことができます。
 
-[![image](/docs/images/Manual/common/statistics/wordcloud/01.png){: width="800" }](/docs/images/Manual/common/statistics/wordcloud/01.png){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/statistics/wordcloud/01.png){: width="800" }](/docs/images/Manual/common/statistics/wordcloud/01.png){: target="_blank"}-->

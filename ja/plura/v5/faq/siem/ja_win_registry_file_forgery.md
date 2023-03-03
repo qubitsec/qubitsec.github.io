@@ -12,7 +12,7 @@ PLURA V5サービスはレジストリ偽造を検出できます。
 
 ### 1-1. ウィンドウレジストリ偽造試し
 
-[![image](/docs/images/Additianal/win_registry/1.png){: width="800" }](/docs/images/Additianal/win_registry/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/win_registry/1.png){: width="800" }](/docs/images/Additianal/win_registry/1.png){: target="_blank"}-->
 
 <br />
 
@@ -20,11 +20,11 @@ PLURA V5サービスはレジストリ偽造を検出できます。
 
 システムフィルタでレジストリ偽造に対するログを確認出来ます。
 
-[![image](/docs/images/Additianal/win_registry/2.png){: width="800" }](/docs/images/Additianal/win_registry/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/win_registry/2.png){: width="800" }](/docs/images/Additianal/win_registry/2.png){: target="_blank"}-->
 
 <br />
 
-[![image](/docs/images/Additianal/win_registry/3.png){: width="800" }](/docs/images/Additianal/win_registry/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/win_registry/3.png){: width="800" }](/docs/images/Additianal/win_registry/3.png){: target="_blank"}-->
 
 <br />
 
@@ -35,7 +35,7 @@ PLURA V5サービスはファイル偽造を検出出来ます。
 
 ### 2-1. ファイルに接近して偽造試し
 
-[![image](/docs/images/Additianal/win_registry/4.png){: width="800" }](/docs/images/Additianal/win_registry/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/win_registry/4.png){: width="800" }](/docs/images/Additianal/win_registry/4.png){: target="_blank"}-->
 
 <br />
 
@@ -43,8 +43,8 @@ PLURA V5サービスはファイル偽造を検出出来ます。
 
 システムフィルタでファイル偽造に対するログを確認出来ます。
 
-[![image](/docs/images/Additianal/win_registry/5.png){: width="800" }](/docs/images/Additianal/win_registry/5.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/win_registry/5.png){: width="800" }](/docs/images/Additianal/win_registry/5.png){: target="_blank"}-->
 
 <br />
 
-[![image](/docs/images/Additianal/win_registry/6.png){: width="800" }](/docs/images/Additianal/win_registry/6.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/win_registry/6.png){: width="800" }](/docs/images/Additianal/win_registry/6.png){: target="_blank"}-->

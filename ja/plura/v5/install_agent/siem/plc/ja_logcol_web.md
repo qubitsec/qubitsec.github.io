@@ -39,13 +39,13 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 ### 2. ライセンス登録及び実行
 
-[![image](/docs/images/Ins_G/LogCol_web/2.png){: width="800" }](/docs/images/Ins_G/LogCol_web/2.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/2.png){: width="800" }](/docs/images/Ins_G/LogCol_web/2.png){:target="_blank"} -->
 
 <br />
 
 ### 3. ウェブログモジュールインストール
 
-[![image](/docs/images/Ins_G/LogCol_web/3.png){: width="800" }](/docs/images/Ins_G/LogCol_web/3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/3.png){: width="800" }](/docs/images/Ins_G/LogCol_web/3.png){:target="_blank"} -->
 
 <br />
 
@@ -53,7 +53,7 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 `# vi /etc/datos/conf/httplogger.conf`   
 
-[![image](/docs/images/Ins_G/LogCol_web/4.png){: width="800" }](/docs/images/Ins_G/LogCol_web/4.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/4.png){: width="800" }](/docs/images/Ins_G/LogCol_web/4.png){:target="_blank"} -->
 
 <br />
 
@@ -68,21 +68,21 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 #### 6-1. 遠距離(子)登録パス
 
 - システム  > システム管理 > ログ取り込みサーバ(親)選択 > ウェブボタンをクリックします。
-[![image](/docs/images/Ins_G/LogCol_web/5.png){: width="800" }](/docs/images/Ins_G/LogCol_web/5.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/5.png){: width="800" }](/docs/images/Ins_G/LogCol_web/5.png){:target="_blank"} -->
 
 #### 6-2. 情報入力
 
 - システム登録ポップアップ > 遠距離(子)サーバ情報を入力します。
-[![image](/docs/images/Ins_G/LogCol_web/6.png)](/docs/images/Ins_G/LogCol_web/6.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/6.png)](/docs/images/Ins_G/LogCol_web/6.png){:target="_blank"} -->
 
 #### 6-3.登録完了
 
 - システム > システム管理ページで遠距離(子)サーバが登録されました。 
-[![image](/docs/images/Ins_G/LogCol_web/7.png){: width="800" }](/docs/images/Ins_G/LogCol_web/7.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/7.png){: width="800" }](/docs/images/Ins_G/LogCol_web/7.png){:target="_blank"} -->
 
 <br />
 
 ### 7. 収集されたログ確認
 
 - 全ログ > ウェブメニューで収集されたログが確認出来ます。
-[![image](/docs/images/Ins_G/LogCol_web/8.png){: width="800" }](/docs/images/Ins_G/LogCol_web/8.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_web/8.png){: width="800" }](/docs/images/Ins_G/LogCol_web/8.png){:target="_blank"} -->

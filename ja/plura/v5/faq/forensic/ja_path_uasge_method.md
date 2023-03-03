@@ -19,7 +19,7 @@ topnav: topnav_ja
 
 `C:\Windows\System32\winevt\Logs`
 
-[![image](/docs/images/Additianal/path/1.png){: width="800" }](/docs/images/Additianal/path/1.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/1.png){: width="800" }](/docs/images/Additianal/path/1.png){: target="_blank"}-->
 
 <br />
 
@@ -41,13 +41,13 @@ topnav: topnav_ja
 
 ### 2-1. PLURA V5 Forensic エージェントログイン
 
-[![image](/docs/images/Additianal/path/2.png){: width="800" }](/docs/images/Additianal/path/2.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/2.png){: width="800" }](/docs/images/Additianal/path/2.png){: target="_blank"}-->
 
 <br />
 
 ### 2-2. ログアップロードを進行するオペレーティングシステム及びログ年度選択
 
-[![image](/docs/images/Additianal/path/3.png){: width="800" }](/docs/images/Additianal/path/3.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/3.png){: width="800" }](/docs/images/Additianal/path/3.png){: target="_blank"}-->
 
 <br />
 
@@ -55,13 +55,13 @@ topnav: topnav_ja
 
 システム/ホスト名/ニックネームの入力後、“Select”ボタンをクリックしてログがあるパスを選択してください。
 
-[![image](/docs/images/Additianal/path/4.png){: width="800" }](/docs/images/Additianal/path/4.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/4.png){: width="800" }](/docs/images/Additianal/path/4.png){: target="_blank"}-->
 
 <br />
 
 ### 2-4. “Start”ボタンをクリックしてログアップロード進行
 
-[![image](/docs/images/Additianal/path/5.png){: width="800" }](/docs/images/Additianal/path/5.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/5.png){: width="800" }](/docs/images/Additianal/path/5.png){: target="_blank"}-->
 
 <br />
 
@@ -69,7 +69,7 @@ topnav: topnav_ja
 
 ログアップロードの進行中には“START”ボタンが“STOP”ボタンになり, アップロードを中止できます。
 
-[![image](/docs/images/Additianal/path/6.png){: width="800" }](/docs/images/Additianal/path/6.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/6.png){: width="800" }](/docs/images/Additianal/path/6.png){: target="_blank"}-->
 
 <br />
 
@@ -77,7 +77,7 @@ topnav: topnav_ja
 
 PLURA V5で正常にアップロードされたログを確認してください。
 
-[![image](/docs/images/Additianal/path/7.png){: width="800" }](/docs/images/Additianal/path/7.png){: target="_blank"}
+<!-- [![image](/docs/images/Additianal/path/7.png){: width="800" }](/docs/images/Additianal/path/7.png){: target="_blank"}-->
  
 <br />
 

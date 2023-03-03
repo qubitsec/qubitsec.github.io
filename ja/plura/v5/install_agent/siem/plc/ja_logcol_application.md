@@ -32,7 +32,7 @@ PLURA Log Collector (PLC)サポートOSは下記の通りです。
 ### 1. 遠隔地(子)サーバにアプリケーション転送モジュールインストール
 
 
-[![image](/docs/images/Ins_G/LogCol_app/app_1.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_1.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_1.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_1.png){: target="_blank"}-->
 
 <br />
 
@@ -50,53 +50,53 @@ PLURA Log Collector (PLC)サポートOSは下記の通りです。
 
 ### 4. ログ取り込みサーバ(親)でライセンス登録及び実行
 
-[![image](/docs/images/Ins_G/LogCol_app/app_3.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_3.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_3.png){: target="_blank"}-->
 
 <br />
 
 ### 5. 遠隔地(子)サーバ登録
 
 - システム  > システム管理 > ログ取り込みサーバ(親)選択 > アプリケーションボタンをクリックします。
-[![image](/docs/images/Ins_G/LogCol_app/app_4.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_4.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}-->
 
 - システム登録ポップアップ > 遠隔地(子)サーバ情報を入力します。
-[![image](/docs/images/Ins_G/LogCol_app/app_5.png)](/docs/images/Ins_G/LogCol_app/app_5.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_5.png)](/docs/images/Ins_G/LogCol_app/app_5.png){: target="_blank"}-->
 
 <br />
 
 - 登録ポップアップで“パス登録”ボタンをクリックします。
-[![image](/docs/images/Ins_G/LogCol_app/app_6.png)](/docs/images/Ins_G/LogCol_app/app_6.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_6.png)](/docs/images/Ins_G/LogCol_app/app_6.png){: target="_blank"}-->
 
 <br />
 
 - タグ及びパスを登録します。
-[![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}   
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_7.png)](/docs/images/Ins_G/LogCol_app/app_7.png){: target="_blank"}-->   
 
 - タグ登録方法
    - アプリケーションログ取り込みのためのタグを登録出来ます。
    - パス : 管理 > リスト > アプリケーションタグ 
-   [![image](/docs/images/Ins_G/LogCol_app/app_8.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}
+   <!-- [![image](/docs/images/Ins_G/LogCol_app/app_8.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_8.png){: target="_blank"}-->
 
 <br />
 
 - 登録したタグ及び収集しようとするアプリケーションパスを登録します。   
    - 下記の例はApache-errorlogを設定しました。
-   [![image](/docs/images/Ins_G/LogCol_app/app_9.png)](/docs/images/Ins_G/LogCol_app/app_9.png){: target="_blank"}
+   <!-- [![image](/docs/images/Ins_G/LogCol_app/app_9.png)](/docs/images/Ins_G/LogCol_app/app_9.png){: target="_blank"}-->
 
 <br />
 
 - ログ取り込みサーバ(親)を選択して、アプリケーションログ取り込みが正常に設定されているか確認します。   
    - 遠隔地(子)サーバを選択すると設定ポップアップが出ます。
-   [![image](/docs/images/Ins_G/LogCol_app/app_10.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}
+   <!-- [![image](/docs/images/Ins_G/LogCol_app/app_10.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_10.png){: target="_blank"}-->
 
 <br />
 
 - アプリケーションログ設定ボタンをOFF → ONにアクティブさせます。 
-[![image](/docs/images/Ins_G/LogCol_app/app_11.png)](/docs/images/Ins_G/LogCol_app/app_11.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_11.png)](/docs/images/Ins_G/LogCol_app/app_11.png){: target="_blank"}-->
 
 <br />
 
 ### 6. 収集されたログ確認
 
 - 全ログ > アプリケーションメニューで収集したログが確認出来ます。
-[![image](/docs/images/Ins_G/LogCol_app/app_12.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_12.png){: target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_app/app_12.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_12.png){: target="_blank"}-->

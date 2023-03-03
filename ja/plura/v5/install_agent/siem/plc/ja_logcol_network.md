@@ -63,17 +63,17 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 ### 4. 遠距離(子)サーバ登録
 
 - システム  > システム管理 > ログ取り込みサーバ(親)選択 > ネットワークボタンをクリックします。
-[![image](/docs/images/Ins_G/LogCol_Net/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/3.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Net/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/3.png){:target="_blank"} -->
 
 - システム登録ポップアップ > 遠距離(子)デバイス情報を入力します。
-[![image](/docs/images/Ins_G/LogCol_Net/4.png)](/docs/images/Ins_G/LogCol_Net/4.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Net/4.png)](/docs/images/Ins_G/LogCol_Net/4.png){:target="_blank"} -->
 
 - システム > システム管理ページで遠距離(子)デバイスが登録されました。
-[![image](/docs/images/Ins_G/LogCol_Net/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/5.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Net/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/5.png){:target="_blank"} -->
 
 <br />
 
 ### 5. 収集されたログ確認
 
 - 全ログ > システムメニューで収集されたログが確認出来ます。
-[![image](/docs/images/Ins_G/LogCol_Net/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/6.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/LogCol_Net/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/6.png){:target="_blank"} -->

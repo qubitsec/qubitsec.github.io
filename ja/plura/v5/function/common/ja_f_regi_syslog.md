@@ -25,7 +25,7 @@ topnav: topnav_ja
 
 以下は登録例です。
 
-[![image](/docs/images/Manual/common/filter2/syslog/1.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/1.png){: target="_blank"}  
+<!-- [![image](/docs/images/Manual/common/filter2/syslog/1.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/1.png){: target="_blank"}-->  
 
 <br />
 
@@ -33,16 +33,16 @@ topnav: topnav_ja
 
 **2-1.** 以下のように2つ以上のデータグループがあるとき、グループ同士はAND条件です。
 
-[![image](/docs/images/Manual/common/filter2/syslog/2.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/2.png){: target="_blank"}  
+<!-- [![image](/docs/images/Manual/common/filter2/syslog/2.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/2.png){: target="_blank"}-->  
 
 <br />
 
-[![image](/docs/images/Manual/common/filter2/syslog/3.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/3.png){: target="_blank"}  
+<!-- [![image](/docs/images/Manual/common/filter2/syslog/3.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/3.png){: target="_blank"}-->  
 
 <br />
 
 **2-2.** 以下のように1つのグループに複数のデータ値があるとき、グループ内の値同士はOR条件です
-[![image](/docs/images/Manual/common/filter2/syslog/4.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/4.png){: target="_blank"}  
+<!-- [![image](/docs/images/Manual/common/filter2/syslog/4.png){: width="800" }](/docs/images/Manual/common/filter2/syslog/4.png){: target="_blank"}-->  
 
 
 ユーザー定義フィルタ登録 DEMO : [https://qubitsec.github.io/ja_system_weblog.html](https://qubitsec.github.io/ja_system_weblog.html){: target="_blank"} 

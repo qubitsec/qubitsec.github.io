@@ -70,4 +70,4 @@ Syslogを受け取るLinux系のシステムにPLURA V5 Agentをインストー�
 ## 4. システム登録
 
 - **システム > システム管理 > 取り込みシステム選択 > システム登録**
-[![image](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/システム登録.png)](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/システム登録.png){:target="_blank"}
+<!-- [![image](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/システム登録.png)](/docs/images/Ins_G/P_Sys_Collector_AIX_Srv/システム登録.png){:target="_blank"} -->
