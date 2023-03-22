@@ -30,7 +30,7 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 1. 遠距離(子)サーバにSyslog転送設定
+### 1. リモート(子)サーバーにSyslog転送設定
 
 <br />
 
@@ -52,7 +52,7 @@ Syslogリブート
 
 <br />
 
-### 2. ログ取り込みサーバ(親)にPLCインストール(by root)
+### 2. ログ取り込みサーバー(親)にPLCインストール(by root)
 
 
 `# sudo -s`
@@ -67,24 +67,24 @@ Syslogリブート
 
 <br />
 
-### 4. 遠距離(子)サーバ登録
+### 4. リモート(子)サーバー登録
 
-- システム  > システム管理 > ログ取り込みサーバ(親)選択 > システムボタンをクリックします。
-<!-- [![image](/docs/images/Ins_G/logCol_system/sys_3.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_3.png){:target="_blank"} -->
-
-<br />
-
-- システム登録ポップアップ > 遠距離(子)サーバ情報を入力します。
-<!-- [![image](/docs/images/Ins_G/logCol_system/sys_4.png)](/docs/images/Ins_G/logCol_system/sys_4.png){:target="_blank"} -->
+- システム  > システム管理 > ログ取り込みサーバー(親)選択 > システムボタンをクリックします。
+[![image](/docs/images/Ins_G/logCol_system/ja_sys_3.png){: width="800" }](/docs/images/Ins_G/logCol_system/ja_sys_3.png){:target="_blank"}
 
 <br />
 
-- システム > システム管理ページで遠距離(子)サーバが登録されました。
-<!-- [![image](/docs/images/Ins_G/logCol_system/sys_5.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_5.png){:target="_blank"} -->
+- システム登録ポップアップ > リモート(子)サーバー情報を入力します。
+[![image](/docs/images/Ins_G/logCol_system/ja_sys_4.png)](/docs/images/Ins_G/logCol_system/ja_sys_4.png){:target="_blank"}
+
+<br />
+
+- システム > システム管理ページでリモート(子)サーバーが登録されました。
+[![image](/docs/images/Ins_G/logCol_system/ja_sys_5.png){: width="800" }](/docs/images/Ins_G/logCol_system/ja_sys_5.png){:target="_blank"}
 
 <br />
 
 ### 5. 収集されたログ確認
 
 - 全ログ > システムメニューで収集されたログが確認出来ます。
-<!-- [![image](/docs/images/Ins_G/logCol_system/sys_6.png){: width="800" }](/docs/images/Ins_G/logCol_system/sys_6.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/logCol_system/ja_sys_6.png){: width="800" }](/docs/images/Ins_G/logCol_system/ja_sys_6.png){:target="_blank"}

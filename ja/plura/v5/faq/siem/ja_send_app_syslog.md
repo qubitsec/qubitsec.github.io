@@ -7,11 +7,11 @@ topnav: topnav_ja
 
 シナリオは下記の通りです。
 
-     クライアントのアプリケーションログを“PLURA V5 Log Collectorサーバ”を使用して転送する方法
+     クライアントのアプリケーションログを“PLURA V5 Log Collectorサーバー”を使用して転送する方法
 
      アプリケーションログの中、この例ではTomcat8のcatalina.outを使用します。
 
-     PLURA V5 Log Collectorサーバ使用の利点はクライアント(Web Server)に別のログを生成せずにsyslogにすぐ転送するので、リソース使用量
+     PLURA V5 Log Collectorサーバー使用の利点はクライアント(Web Server)に別のログを生成せずにsyslogにすぐ転送するので、リソース使用量
      （CPU、メモリなど）を最小限に抑えることができます。 
 
 <br />
@@ -34,7 +34,7 @@ topnav: topnav_ja
 
 <br />
 
-### 1-2. rsyslog.conf remote rsyslogサーバに転送修正
+### 1-2. rsyslog.conf remote rsyslogサーバーに転送修正
 
 `# vi /etc/rsyslog.d/80-tomcat.conf`
 
@@ -61,7 +61,7 @@ topnav: topnav_ja
 
 <br />
 
-### 1-4. サーバ接続debug
+### 1-4. サーバー接続debug
 
 `# nc -zu PLURA_Log_Collector_Server 514`
 
@@ -69,13 +69,13 @@ topnav: topnav_ja
 
 <br />
 
-## 2. サーバ
+## 2. サーバー
 
  환경 : CentOS 7, Rsyslog 8.2010.0
 
 <br />
 
-### 2-1. [PLURA V5 Log Collector サーバインストール](https://qubitsec.github.io/ja_logcol_application.html){: target="_blank"}
+### 2-1. [PLURA V5 Log Collector サーバーインストール](https://qubitsec.github.io/ja_logcol_application.html){: target="_blank"}
 
 <br />
 

@@ -13,7 +13,7 @@ topnav: topnav_ja
 
 次のような環境で使用出来ます。
 
-1) ウェブサーバにApache HTTPD, Nginxではない環境、例えば,Apache Tomcatの単独使用の場合
+1) ウェブサーバーにApache HTTPD, Nginxではない環境、例えば,Apache Tomcatの単独使用の場合
 
 2) コンテナ環境で、ホストに複数のウェブPOD使用する場合
 
@@ -94,4 +94,4 @@ Datosサービスを追加生成する方法は下記のようです。
 
 設定 > ウェブログ収集パスに事前に設定した　__/var/log/plura/weblog2.log__ パス追加
 
-<!-- [![image](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png)](/docs/images/Ins_G/Linux_WebServer_Datos/webserver_datos.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Linux_WebServer_Datos/ja_webserver_datos.png)](/docs/images/Ins_G/Linux_WebServer_Datos/ja_webserver_datos.png){:target="_blank"}

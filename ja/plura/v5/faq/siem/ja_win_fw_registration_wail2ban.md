@@ -21,7 +21,7 @@ PLURA V5ウェブのフィルタ登録設定方法
 
 **フィルタ > 登録 > システム > 登録する**
 
-**サーバグループ選択 > オペレーティングシステムwindows選択 > Securityチャンネル選択 > イベントタイプ選択**
+**サーバーグループ選択 > オペレーティングシステムwindows選択 > Securityチャンネル選択 > イベントタイプ選択**
 
 <!-- [![image](/docs/images/Additianal/wail/1.png){: width="800" }](/docs/images/Additianal/wail/1.png){: target="_blank"}-->
 

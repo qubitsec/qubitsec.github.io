@@ -14,7 +14,7 @@ product: Install_A_S_ja
      Sysmonはデフォルトウィンドウイベントログでは限界があるプロセス生成、ネットワーク制限などをイベント化出来ます。
      事故対応の観点から生成されたプロセスリストとネットワーク接続ログは事故を再構成することに非常に役立ちます
      Sysmonは別のモニタリングツールがなくてもドライバーのインストールだけで上記のログをイベント化させます。
-     サーバ管理者はサービス中のサーバで使用されているドライバーとSysmonドライバーの競合可否を確認する必要があります。
+     サーバー管理者はサービス中のサーバーで使用されているドライバーとSysmonドライバーの競合可否を確認する必要があります。
 
 <br />
 
@@ -33,14 +33,14 @@ Sysmonをインストールするにはまず __PLURA V5 Agent__ をインスト
 
 圧縮ファイルを解凍して、Sysmonフォルダーㅏで **[Shift + 右クリック]** をして‘ここでコマンドウィンドウを開く’でcmdウィンドウを起動します.
 
-<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_1.png)](/docs/images/Ins_G/Sysmon/sysmon_1.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Sysmon/ja_sysmon_1.png)](/docs/images/Ins_G/Sysmon/ja_sysmon_1.png){:target="_blank"}
 
 **” Sysmon.exe –i [options] ”コマンドでSysmonをインストール出来ます。**
 **” Sysmon.exe -h ”コマンドで[options]のリストが確認出来ます。**
 
 **[options]**
 
-<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_2.png)](/docs/images/Ins_G/Sysmon/sysmon_2.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Sysmon/ja_sysmon_2.png)](/docs/images/Ins_G/Sysmon/ja_sysmon_2.png){:target="_blank"}
 
 インストールする時 **-accepteula** オプションを使用するとソフトウェアユーザー同意者 **EULA(End User License Agreement)** を自動にOK状態からインストール出来ます。
 
@@ -74,7 +74,7 @@ Sysmonのオプション関連説明は[ダウンロードページ](https://doc
 
 AgentでSYSMONインストール確認
 
-<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Sysmon/ja_sysmon_3.png)](/docs/images/Ins_G/Sysmon/ja_sysmon_3.png){:target="_blank"}
 
 <br />
 
@@ -84,7 +84,7 @@ Sysmonがインストールされるとウィンドウサービスログパス�
 
 %SystemRoot%\System32\Winevt\Logs\Microsoft-Windows-Sysmon%4Operational.evtx
 
-<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_4.png)](/docs/images/Ins_G/Sysmon/sysmon_4.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Sysmon/ja_sysmon_4.png)](/docs/images/Ins_G/Sysmon/ja_sysmon_4.png){:target="_blank"}
 
 <br />
 
@@ -92,9 +92,9 @@ Sysmonがインストールされるとウィンドウサービスログパス�
 
 イベントビューアで下記の通りアプリケーション及びサービスログ->Microsoft->Windows->Sysmon-> Operationalがクリック出来ます。
 
-<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_5.png)](/docs/images/Ins_G/Sysmon/sysmon_5.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Sysmon/ja_sysmon_5.png)](/docs/images/Ins_G/Sysmon/ja_sysmon_5.png){:target="_blank"}
 
-<!-- [![image](/docs/images/Ins_G/Sysmon/sysmon_6.png){: width="800" }](/docs/images/Ins_G/Sysmon/sysmon_6.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Sysmon/ja_sysmon_6.png){: width="800" }](/docs/images/Ins_G/Sysmon/ja_sysmon_6.png){:target="_blank"}
 
   - Sysmon Event IDの定義は次のURLで確認出来ます。
 

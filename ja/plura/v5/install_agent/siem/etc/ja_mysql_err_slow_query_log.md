@@ -14,7 +14,7 @@ topnav: topnav_ja
 
 ### 1-1. 設定パス
 
-システム  > システム管理 > サーバ選択 > 設定メニュー > 設定ボタンをクリックします。
+システム  > システム管理 > サーバー選択 > 設定メニュー > 設定ボタンをクリックします。
 
 <!-- [![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"} -->
 

@@ -19,7 +19,7 @@ topnav: topnav_ja
 
 <br />
 
-2-2. サーバグループ選択 > オペレーティングシステムWindows選択 > Securityチャンネル選択 > 詳細追跡分類選択 > イベントタイプ選択
+2-2. サーバーグループ選択 > オペレーティングシステムWindows選択 > Securityチャンネル選択 > 詳細追跡分類選択 > イベントタイプ選択
 
 
 <!-- [![image](/docs/images/Additianal/anti/1.png){: width="800" }](/docs/images/Additianal/anti/1.png){: target="_blank"}-->

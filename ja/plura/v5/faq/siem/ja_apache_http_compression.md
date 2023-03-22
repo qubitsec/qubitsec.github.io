@@ -1,22 +1,22 @@
 ---
-title: ApacheサーバでHTTP圧縮非活性化
+title: ApacheサーバーでHTTP圧縮非活性化
 permalink: ja_apache_http_compression.html
 sidebar: faq_siem_M_ja
 topnav: topnav_ja
 ---
 
-     ウェブサーバでHTTP圧縮を非活性化して動作するとPLURA V5からデータ流出行為を検出出来ます。
-     次はApacheサーバでHTTPが圧縮されているか確認して圧縮を非活性化する方法です。
+     ウェブサーバーでHTTP圧縮を非活性化して動作するとPLURA V5からデータ流出行為を検出出来ます。
+     次はApacheサーバーでHTTPが圧縮されているか確認して圧縮を非活性化する方法です。
 
 <br />
 
-## 1. HTTP圧縮のためサーバテスト
+## 1. HTTP圧縮のためサーバーテスト
 
  ヘッダーに下記の通り要請を追加してHTTP圧縮を確認します。
 
      Accept-Encoding:compress,gzip
 
- 圧縮が活性化されているとサーバは圧縮されているページを応答し, 圧縮をサポートしない場合は一般テキストに応答します。
+ 圧縮が活性化されているとサーバーは圧縮されているページを応答し, 圧縮をサポートしない場合は一般テキストに応答します。
 
  <br />
 

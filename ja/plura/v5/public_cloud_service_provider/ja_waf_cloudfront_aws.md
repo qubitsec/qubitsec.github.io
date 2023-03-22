@@ -19,4 +19,4 @@ topnav: topnav_ja
 
 <!-- [![image](/docs/images/Public_Cloud/cloudfront/03.png){: width="800"  }](/docs/images/Public_Cloud/cloudfront/03.png){: target="_blank"}-->
 
-上記のような環境でALB(またはウェブサーバ)間にPLURA-WAFを構成することができます。
+上記のような環境でALB(またはウェブサーバー)間にPLURA-WAFを構成することができます。

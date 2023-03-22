@@ -54,17 +54,17 @@ topnav: topnav_ja
 4-2. 通知詳細選択   
  <!-- [![image](/docs/images/Manual/common/manage/peristalsis/11.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/11.png){: target="_blank"}-->
 
-- 追加、削除ボタンを利用してsyslog通知を受けるサーバ編集をすることができます。
+- 追加、削除ボタンを利用してsyslog通知を受けるサーバー編集をすることができます。
 - タブ移動（検知、防御、使用ログ）をして設定を変更できます。
 - 編集ボタンをクリックすると、詳細な通知を選択できるポップアップ ウィンドウが表示されます。
    - 検出:相関分析、システム、Web、ネットワーク、アカウント乗っ取り、データ流出、マイターアタック、Webファイアウォール、アプリケーション
    - 防御:相関分析、システム、Web、ネットワーク、アカウント乗っ取り、データ流出、Webファイアウォール
-   - 使用ログ: メンバー、フィルタ、サーバ、防御、顧客サポート、その他
+   - 使用ログ: メンバー、フィルタ、サーバー、防御、顧客サポート、その他
 
 <br />
 
-4-3. syslog通知を受けようとするサーバの環境情報入力
-- プロトコル、Syslogフォーマット、サーバIPアドレス、ポート番号、改行タイプを入力します。
+4-3. syslog通知を受けようとするサーバーの環境情報入力
+- プロトコル、Syslogフォーマット、サーバーIPアドレス、ポート番号、改行タイプを入力します。
 - 例_Syslog 設定
 
  <!-- [![image](/docs/images/Manual/common/manage/peristalsis/13.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/13.png){: target="_blank"}-->

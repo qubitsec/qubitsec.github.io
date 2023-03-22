@@ -29,7 +29,7 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 1. 遠距離(子)デバイスにSyslog転送設定。
+### 1. リモート(子)デバイスにSyslog転送設定。
 **※ 下位システム設定**
 
 - Syslog転送設定(by root)
@@ -47,7 +47,7 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 2. ログ取り込みサーバ(親)にPLCインストール(by root)
+### 2. ログ取り込みサーバー(親)にPLCインストール(by root)
 
 `# sudo -s`
 `# curl https://repo.plura.io/v5/PLC/install.sh | bash`
@@ -60,16 +60,16 @@ PLURA Log Collector (PLC)サポートOSは次の通りです.
 
 <br />
 
-### 4. 遠距離(子)サーバ登録
+### 4. リモート(子)サーバー登録
 
-- システム  > システム管理 > ログ取り込みサーバ(親)選択 > ネットワークボタンをクリックします。
-<!-- [![image](/docs/images/Ins_G/LogCol_Net/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/3.png){:target="_blank"} -->
+- システム  > システム管理 > ログ取り込みサーバー(親)選択 > ネットワークボタンをクリックします。
+[![image](/docs/images/Ins_G/LogCol_Net/ja_3.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/ja_3.png){:target="_blank"}
 
-- システム登録ポップアップ > 遠距離(子)デバイス情報を入力します。
-<!-- [![image](/docs/images/Ins_G/LogCol_Net/4.png)](/docs/images/Ins_G/LogCol_Net/4.png){:target="_blank"} -->
+- システム登録ポップアップ > リモート(子)デバイス情報を入力します。
+[![image](/docs/images/Ins_G/LogCol_Net/ja_4.png)](/docs/images/Ins_G/LogCol_Net/ja_4.png){:target="_blank"}
 
-- システム > システム管理ページで遠距離(子)デバイスが登録されました。
-<!-- [![image](/docs/images/Ins_G/LogCol_Net/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/5.png){:target="_blank"} -->
+- システム > システム管理ページでリモート(子)デバイスが登録されました。
+[![image](/docs/images/Ins_G/LogCol_Net/ja_5.png){: width="800" }](/docs/images/Ins_G/LogCol_Net/ja_5.png){:target="_blank"}
 
 <br />
 

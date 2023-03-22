@@ -54,13 +54,13 @@ topnav: topnav_ja
 ### 2-1. ログイン後、エージェントインストール<Install Agents>
 
 - Install Agentsページ案内及びエージェントインストール<!-- 映像 -->を参考してエージェントインストール 
-- ウィンドウサーバのエージェントインストール例   
+- ウィンドウサーバーのエージェントインストール例   
 [https://qubitsec.github.io/ja_p_agent_win_srv.html](https://qubitsec.github.io/ja_p_agent_win_srv.html){: target="_blank"}
 
 <br />
 
 ### 2-2. 事前環境確認
-- Install Agentsでシステム環境に合わせるテキストを見つけるのが難しい場合、対象サーバのOSバージョン, ウェブサーバApp, ウェブサービスポート情報確認 
+- Install Agentsでシステム環境に合わせるテキストを見つけるのが難しい場合、対象サーバーのOSバージョン, ウェブサーバーApp, ウェブサービスポート情報確認 
 - 該当履歴に応じて正確なインストールページにご案内いたします。
 
 <br />
@@ -69,8 +69,8 @@ topnav: topnav_ja
 
 - 必要なし事前情報   
 
-  - 対象サーバの接続情報(root権限必要)   
-  - 対象サーバのOSバージョン,ウェブサーバApp, ウェブサービスポート情報(例 : CentOS 7 / Apache 2.4 / TCP 80)
+  - 対象サーバーの接続情報(root権限必要)   
+  - 対象サーバーのOSバージョン,ウェブサーバーApp, ウェブサービスポート情報(例 : CentOS 7 / Apache 2.4 / TCP 80)
   - Windowsの場合、Sysmonをインストールするとより詳細なログを確認出来るのでインストール推奨  
 Sysmonインストールガイド : [https://qubitsec.github.io/ja_sysmon.html](https://qubitsec.github.io/ja_sysmon.html){: target="_blank"}
 

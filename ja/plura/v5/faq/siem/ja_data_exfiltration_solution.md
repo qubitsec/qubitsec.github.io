@@ -123,4 +123,4 @@ MIMEタイプは個別タイプとマルチタイプで分けられます。
 
  3. charset=UTF-8 [https://theqoop.tistory.com/266](https://theqoop.tistory.com/266){: target="_blank"}
 
- 4. ApacheサーバでHTTP圧縮非活性化[https://qubitsec.github.io/ja_apache_http_compression.html](https://qubitsec.github.io/ja_apache_http_compression.html){: target="_blank"}
+ 4. ApacheサーバーでHTTP圧縮非活性化[https://qubitsec.github.io/ja_apache_http_compression.html](https://qubitsec.github.io/ja_apache_http_compression.html){: target="_blank"}

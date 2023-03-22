@@ -13,6 +13,6 @@ Datosはウェブ上のトラフィックを監視するためのツールです
 
 次のような環境で使用できます。
 
-- ウェブサーバでApache HTTPD、Nginx ではない環境で例えば、Apache Tomcat単独使用の場合
+- ウェブサーバーでApache HTTPD、Nginx ではない環境で例えば、Apache Tomcat単独使用の場合
 
 - コンテナ環境で、ホストに複数のウェブPODを使用する場合

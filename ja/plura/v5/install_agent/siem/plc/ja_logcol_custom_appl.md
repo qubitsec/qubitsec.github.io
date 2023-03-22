@@ -26,9 +26,9 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 **アプリケーションログは“LogStash”を使用してカラムを分離出来ます。**
 
-- Logstashには多様なソースからデータを収集、転換して目標の腕先へ転送出来るようにする軽量のオープンソースサーバ側のデータ処理パイプラインです。
+- Logstashには多様なソースからデータを収集、転換して目標の腕先へ転送出来るようにする軽量のオープンソースサーバー側のデータ処理パイプラインです。
 
-- Logstashを使用するとシステムログ, ウェブサイトログ, アプリケーションサーバログなど多様なデータ原本から非定型データを簡単に収集出来ます。[2]
+- Logstashを使用するとシステムログ, ウェブサイトログ, アプリケーションサーバーログなど多様なデータ原本から非定型データを簡単に収集出来ます。[2]
 
 <br />
 
@@ -54,7 +54,7 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 [https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf](https://github.com/QubitSecurity/Logstash/blob/main/conf.d/70-postfix-plura.conf){:target="_blank"}
 
-<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/2.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/2.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/LogCol_Customapp/ja_2.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/ja_2.png){:target="_blank"} 
 
 `# mkdir /etc/logstash/patterns.d`
 
@@ -69,8 +69,8 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 上記から説明したLogstashを使用してLinux : PostfixログをPLURA V5で収集します。
 
 - テスト環境
-   - 遠距離サーバ(子) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstashインストール
-   - ログ取り込みサーバ(親) : CentOS Linux release 7.9.2009 (Core),ライセンス登録及び実行
+   - リモートサーバー(子) : CentOS Linux release 7.9.2009 (Core), Postfix, Logstashインストール
+   - ログ取り込みサーバー(親) : CentOS Linux release 7.9.2009 (Core),ライセンス登録及び実行
 
 <br />
 
@@ -78,21 +78,21 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 <br />
 
-### 2-1. Logstashが設定された遠距離(子)サーバ登録
+### 2-1. Logstashが設定されたリモート(子)サーバー登録
 
 <br />
 
-### 2-2. アプリケーションサーバ登録
+### 2-2. アプリケーションサーバー登録
 
-- システム  > システム管理 > ログ取り込みサーバ(親)選択 > アプリケーションボタンをクリックします。 
-<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/3.png){:target="_blank"} -->
+- システム  > システム管理 > ログ取り込みサーバー(親)選択 > アプリケーションボタンをクリックします。 
+[![image](/docs/images/Ins_G/LogCol_Customapp/ja_3.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/ja_3.png){:target="_blank"}
 
 <br />
 
-### 2-3. システム登録ポップアップ > 遠隔地(子)サーバ情報入力
+### 2-3. システム登録ポップアップ > リモート(子)サーバー情報入力
 
 - アプリケーションのカスタマイズログ収集パスに“/var/log/plura/app-logstash-postfix.log”を入力します。
-<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/4.png)](/docs/images/Ins_G/LogCol_Customapp/4.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/LogCol_Customapp/ja_4.png)](/docs/images/Ins_G/LogCol_Customapp/ja_4.png){:target="_blank"} -->
 
 <br />
 
@@ -102,7 +102,7 @@ PLURA V5はアプリケーションに対するログをアップロード設定
 
 RUN Logstash(foreground)
 
-<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/5.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/LogCol_Customapp/ja_5.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/ja_5.png){:target="_blank"}
 
 <br />
 
@@ -111,12 +111,12 @@ RUN Logstash(foreground)
 - パス : 全ログ > アプリケーション > カスタマイズ > postfix
 
 - 管理 > 使用 > アプリケーション > カスタマイズ設定がON状態の場合、メニューが出ます。[4]
-<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/6.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/LogCol_Customapp/ja_6.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/ja_6.png){:target="_blank"}
 
 <br />
 
 - “修正”ボタンをクリックした後, postfix項目にチェックすればカスタマイズアプリケーションでpostfixログが確認出来ます。
-<!-- [![image](/docs/images/Ins_G/LogCol_Customapp/7.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/7.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/LogCol_Customapp/ja_7.png){: width="800" }](/docs/images/Ins_G/LogCol_Customapp/ja_7.png){:target="_blank"}
 
 <br />
 

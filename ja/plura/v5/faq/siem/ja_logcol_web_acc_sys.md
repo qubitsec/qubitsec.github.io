@@ -7,9 +7,9 @@ topnav: topnav_ja
 
 シナリオは下記の通りです。
 
-     クライアントウェブアクセス(access)ログを“PLURA V5 Log Collectorサーバ”使用して転送する方法
+     クライアントウェブアクセス(access)ログを“PLURA V5 Log Collectorサーバー”使用して転送する方法
 
-     PLURA V5 Log Collectorサーバ利点はクライアント(Web Server)で暗号化, 圧縮せずにsyslogにすぐ転送するためリソース使用量
+     PLURA V5 Log Collectorサーバー利点はクライアント(Web Server)で暗号化, 圧縮せずにsyslogにすぐ転送するためリソース使用量
      （CPU、メモリなど）を最小限に抑えることができます。 
 
 <br />
@@ -24,7 +24,7 @@ topnav: topnav_ja
 
 <br />
 
-**1-1. rsyslog.conf生成及びremote rsyslogサーバで転送修正**
+**1-1. rsyslog.conf生成及びremote rsyslogサーバーで転送修正**
 
 `# vi /etc/rsyslog.d/80-httpd-remote.conf`
 
@@ -58,7 +58,7 @@ topnav: topnav_ja
 
 <br />
 
-**1-3. サーバ接続debug**
+**1-3. サーバー接続debug**
 
 `# nc -zu PLURA_Log_Collector_Server 514`
 
@@ -66,13 +66,13 @@ topnav: topnav_ja
 
  <br />
 
-## 2. サーバLog Collector
+## 2. サーバーLog Collector
 
  環境 : CentOS 7, Rsyslog 8.2010.0
 
 <br />
 
-**2-1. [PLURA V5 Log Collectorサーバインストール](https://qubitsec.github.io/ja_logcol_application.html){: target="_blank"}**
+**2-1. [PLURA V5 Log Collectorサーバーインストール](https://qubitsec.github.io/ja_logcol_application.html){: target="_blank"}**
 
 <br />
 
@@ -119,7 +119,7 @@ topnav: topnav_ja
 
 **2-7. Log Collector登録**
 
-パス : システム > システム管理 > ログ取り込みサーバ(親)選択 > 収集環境選択
+パス : システム > システム管理 > ログ取り込みサーバー(親)選択 > 収集環境選択
 
 <!-- [![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}-->
 

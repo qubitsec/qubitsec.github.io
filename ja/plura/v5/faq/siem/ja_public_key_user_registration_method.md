@@ -31,4 +31,4 @@ topnav: topnav_ja
 
 - 情報入力 > msg > 直接入力 : Accepted publickey for > 含め
 - 情報入力 > msg > 選択入力 : default > 除外
-- default: サーバグループに, defaultへ登録されているIPアドレス検出除外処理
+- default: サーバーグループに, defaultへ登録されているIPアドレス検出除外処理
