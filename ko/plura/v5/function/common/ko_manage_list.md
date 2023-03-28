@@ -7,7 +7,7 @@ topnav: topnav
 
 ## 1. 호스트
 
-- 목록 > 호스트 : 계정탈취 필터 호스트 정보 등록에 사용할 목록 관리를 할 수 있습니다.
+- 목록 > 호스트 : 계정탈취 필터 호스트 정보 및 보고서에 사용할 목록 관리를 할 수 있습니다.
 
  [![image](/docs/images/Manual/common/manage/list/13.png){: width="800" }](/docs/images/Manual/common/manage/list/13.png){: target="_blank"}
 

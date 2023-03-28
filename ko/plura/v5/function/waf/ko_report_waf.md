@@ -12,14 +12,20 @@ topnav: topnav
 <br />
 
 일일 보고서   
-[![image](/docs/images/Manual/waf/report/1.png){: width="800" }](/docs/images/Manual/waf/report/1.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/01.png){: width="800" }](/docs/images/Manual/waf/report/01.png){: target="_blank"}
  
 <br />
 
 주별 보고서   
-[![image](/docs/images/Manual/waf/report/2.png){: width="800" }](/docs/images/Manual/waf/report/2.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/02.png){: width="800" }](/docs/images/Manual/waf/report/02.png){: target="_blank"}
 
 <br />
 
 월별 보고서   
-[![image](/docs/images/Manual/waf/report/3.png){: width="800" }](/docs/images/Manual/waf/report/3.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/03.png){: width="800" }](/docs/images/Manual/waf/report/03.png){: target="_blank"}
+
+<br />
+
+보고서 하단 호스트 정보는 아래 경로에서 등록해야 확인할 수 있습니다.
+- [경로 : 관리 > 목록 > 호스트](https://qubitsec.github.io/ko_manage_list.html){: target="_blank"}
+[![image](/docs/images/Manual/waf/report/04.png){: width="800" }](/docs/images/Manual/waf/report/04.png){: target="_blank"}
