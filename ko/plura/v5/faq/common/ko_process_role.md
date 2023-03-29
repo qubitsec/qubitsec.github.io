@@ -18,9 +18,9 @@ topnav: topnav
      - PluraSelfUninstall.exe : UI 없이 PLURA V5 제거 (서버에서 삭제 시 처리)
 
 <!--
-     - PluraService.exe : 로그 취합 및 업로드, 방어 백그라운드 서비스
-     - Plura.exe : PLURA 에이전트 상태 표시 및 설정 UI 앱
-     - PluraUninstall.exe : PLURA 에이전트 삭제
+     - PluraService.exe : 로그 취합 및 업로드, 패치 및 서버와의 통신
+     - Plura.exe : PLURA V5 에이전트 상태 표시 및 설정 UI 앱
+     - PluraUninstall.exe : PLURA V5 에이전트 삭제
 -->
 
 <br />
