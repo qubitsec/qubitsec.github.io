@@ -13,6 +13,8 @@ navbar_dropdowns:
 
     - title: Install Agents
       folderitems:
+        - title: EDR
+          url: /ko_Ins_edr.html
         - title: SIEM
           url: /ko_Ins_siem.html
         - title: WAF

@@ -1,0 +1,8 @@
+sidebarTitle: Install Agents > EDR
+
+folders:
+- title: Agent 
+  folderitems:
+
+  - title: Windows 
+    url: /ko_p_agent_edr_win.html
