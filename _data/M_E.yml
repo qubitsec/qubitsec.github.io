@@ -1,0 +1,23 @@
+sidebarTitle: Function > EDR
+
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+folders:
+- title: 필터탐지
+  folderitems:
+
+  - title: 호스트 보안
+    url: /ko_f_hostsec.html
+
+  folders:
+- title: 전체로그
+  folderitems:
+
+  - title: 호스트 보안
+    url: /ko_full_log_hostsec.html

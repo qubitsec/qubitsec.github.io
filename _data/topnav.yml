@@ -24,6 +24,8 @@ navbar_dropdowns:
       folderitems:
         - title: Common
           url: ko_manual_common.html
+        - title: EDR
+          url: ko_manual_edr.html          
         - title: SIEM
           url: ko_manual_siem.html
         - title: WAF

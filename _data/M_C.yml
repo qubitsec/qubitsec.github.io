@@ -166,6 +166,9 @@ folders:
   - title: 메인
     url: /ko_report_main.html
 
+  - title: 호스트보안 분석
+    url: /ko_report_edr_analy.html
+
   - title: 마이터어택 분석
     url: /ko_report_m_analy.html
 
