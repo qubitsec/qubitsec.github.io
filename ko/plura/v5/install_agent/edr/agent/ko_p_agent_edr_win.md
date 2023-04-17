@@ -58,7 +58,32 @@ __1.3 서비스 시작__
 
 <br />
 
-__1.4 서비스 중지__
+__1.4 Sysmon 설치__
+
+(1) Sysmon 다운로드
+
+- 최신버전 다운로드 링크 : [ Sysmon ](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon){:target="_blank"}
+
+<br />
+
+(2) 설치
+
+- 관리자 권한으로 cmd 실행하여 Sysmon.exe 파일의 경로로 이동
+
+- 아래 명령어 실행   
+`# sysmon.exe -accepteula -i “C:\Program Files\PLURA\sysmon-plura.xml”`
+
+<br />
+
+(3) 확인
+
+Agent 에서 Sysmon 설치 확인
+
+[![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"}
+
+<br />
+
+__1.5 서비스 중지__
 
 (1) 활성화 되어있는 ‘에이전트 상태’ 버튼을 누르면 PLURA V5 서비스가 중지됩니다.
 
@@ -129,3 +154,4 @@ PLURA V5 Agent의 업데이트 버전은 C:\Program Files\PLURA 경로에서 확
 ## 웹로그 수집 설정 영상
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/kKLL_sP9w9c' frameborder='0' allowfullscreen></iframe></div>
 -->
+
