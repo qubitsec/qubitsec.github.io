@@ -26,7 +26,7 @@ Windows Agent 설치방법입니다. 순서대로 진행해 주세요
 
 셋업파일 작업
 
-[다운로드](https://s-repo.plura.io/v5/agent/win/PluraSetup.exe)
+[다운로드](https://repo.plura.io/v5/agent/win/PluraSetup.exe)
 
 __1.1 설치를 시작합니다.__
 
