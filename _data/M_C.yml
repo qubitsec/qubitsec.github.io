@@ -253,6 +253,9 @@ folders:
   - title: 사용로그
     url: /ko_manage_usage_log.html
 
+  - title: 복원서비스
+    url: /ko_restore.html
+
   folders:
 - title: 개인화
   folderitems: 
