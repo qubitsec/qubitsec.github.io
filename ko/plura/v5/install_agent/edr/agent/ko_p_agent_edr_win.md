@@ -5,14 +5,9 @@ sidebar: Install_A_E
 product: Install_A_E
 ---
 
-
 <br />
 
-[![image](/docs/images\Manual\edr\001.jpg){: width="800" }](/docs/images\Manual\edr\001.jpg){: target="_blank"}
-
-<!--
-
-Windows Agent 설치방법입니다. 순서대로 진행해 주세요
+호스트보안 Windows Agent 설치방법입니다. 순서대로 진행해 주세요
 
 
       제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
@@ -22,23 +17,27 @@ Windows Agent 설치방법입니다. 순서대로 진행해 주세요
 
 ## Step 1
 
-먼저 해당 시스템에서 <font color='dodgerblue'> www.plura.io </font> 로그인 후 우측상단 <font color='dodgerblue'> Install Agents </font> 를 클릭하여 다운로드합니다.
+__1.1 파일 다운로드__
 
-셋업파일 작업
+먼저 아래 링크를 클릭하여 호스트보안 에이전트 설치 파일을 다운로드 합니다.   
 
 [다운로드](https://repo.plura.io/v5/agent/win/PluraSetup.exe)
 
-__1.1 설치를 시작합니다.__
+<br />
+
+__1.2 설치를 시작합니다.__
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_1.png)](/docs/images/Ins_G/Agent_W/Agent_W_1.png){:target="_blank"}
 
-설치 경로를 선택할 수 있습니다.
+<br />
+
+__1.3 설치 경로 선택__
 
 [![image](/docs/images/Ins_G/Ins_EDR/006.png)](/docs/images/Ins_G/Ins_EDR/006.png){:target="_blank"}
 
 <br />
 
-__1.2 로그인 하기.__
+__1.4 로그인 하기.__
 
 (1) 설치가 완료되면 로그인 창이 자동 실행 됩니다.
 
@@ -48,7 +47,7 @@ __1.2 로그인 하기.__
 
 <br />
 
-__1.3 서비스 시작__
+__1.5 서비스 시작__
 
 (1) 로그인 되면 PLURA V5 서비스가 시작됩니다.
 
@@ -58,7 +57,7 @@ __1.3 서비스 시작__
 
 <br />
 
-__1.4 Sysmon 설치__
+__1.6 Sysmon 설치__
 
 (1) Sysmon 다운로드
 
@@ -83,7 +82,7 @@ Agent 에서 Sysmon 설치 확인
 
 <br />
 
-__1.5 서비스 중지__
+__1.7 서비스 중지__
 
 (1) 활성화 되어있는 ‘에이전트 상태’ 버튼을 누르면 PLURA V5 서비스가 중지됩니다.
 
@@ -141,6 +140,10 @@ PLURA V5 Agent의 업데이트 버전은 C:\Program Files\PLURA 경로에서 확
 [![image](/docs/images/Ins_G/Ins_EDR/004.png)](/docs/images/Ins_G/Ins_EDR/004.png){:target="_blank"}
 
 <br />
+
+
+
+<!-- 주석 Sample
 -->
 
 

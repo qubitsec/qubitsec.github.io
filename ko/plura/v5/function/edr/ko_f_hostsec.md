@@ -7,12 +7,7 @@ topnav: topnav
 
 <br />
 
-[![image](/docs/images\Manual\edr\001.jpg){: width="800" }](/docs/images\Manual\edr\001.jpg){: target="_blank"}
-
-<!--
-
-
-     실시간으로 해킹/관리 로그를 탐지하여 리스트를 보여주는 페이지입니다.
+     호스트보안 에이전트에서 실시간으로 해킹/관리 로그를 탐지하여 리스트를 보여주는 페이지입니다.
      필터탐지에서 보이는 모든 로그들은 먼저 필터 페이지에서 필터등록을 해야 합니다.
 
 <br />
@@ -114,4 +109,3 @@ topnav: topnav
 
 [![image](/docs/images\Manual\edr\filter\hostsec\014.png){: width="800" }](/docs/images\Manual\edr\filter\hostsec\014.png){: target="_blank"}
 
--->

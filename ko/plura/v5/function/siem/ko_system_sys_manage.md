@@ -53,6 +53,11 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 <br />
 
+- 호스트보안 에이전트인 경우, 아래 이미지와 같이 분석 설정(서버/에이전트)을 변경할 수 있습니다.
+[![image](/docs/images/Manual/siem/system/016.png){: width="800" }](/docs/images/Manual/siem/system/016.png){: target="_blank"}
+
+<br />
+
 ## 4. 히스토리
 
 - 여러 필터 설정에 따라 수집된 명령어 및 업데이트 히스토리를 볼 수 있습니다.   

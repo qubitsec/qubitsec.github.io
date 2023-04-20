@@ -8,12 +8,6 @@ topnav: topnav
 
 <br />
 
-[![image](/docs/images\Manual\edr\001.jpg){: width="800" }](/docs/images\Manual\edr\001.jpg){: target="_blank"}
-
-<!--
-
-<br />
-
      PLURA V5 서비스에 등록된 시스템에서 발생되는 모든 이벤트 로그가 전체 로그 페이지에 기록됩니다.
      전체 로그에 있는 데이터를 기반으로 필터 등록을 하며 실시간 탐지가 이루어집니다.
 
@@ -102,4 +96,3 @@ topnav: topnav
 
 [![image](/docs/images\Manual\edr\fulllog\012.png){: width="800" }](/docs/images\Manual\edr\fulllog\012.png){: target="_blank"}
 
--->

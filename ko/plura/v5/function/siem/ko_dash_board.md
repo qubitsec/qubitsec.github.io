@@ -31,13 +31,13 @@ topnav: topnav
 
 <br />
 
-그 아래에는 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크 에서 탐지된 로그의 수를 보여줍니다.
+그 아래에는 호스트보안 / 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크 에서 탐지된 로그의 수를 보여줍니다.
 
 <br />
 
 ## 1. 실시간 탐지 항목
 
-- 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
+- 호스트보안 / 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.   
 [![image](/docs/images/Manual/siem/dash/12.png){: width="800" }](/docs/images/Manual/siem/dash/12.png){: target="_blank"}
 
@@ -51,7 +51,7 @@ topnav: topnav
 <br />
 
 - 최근 탐지된 로그의 ‘더보기’를 클릭하면 해당 탐지로그 페이지로 이동합니다.
-[![image](/docs/images/Manual/siem/dash/5.png)](/docs/images/Manual/siem/dash/5.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/dash/5.png)](/docs/images/Manual/siem/dash/5.png){: target="_blank"}   
 [![image](/docs/images/Manual/siem/dash/6.png){: width="800" }](/docs/images/Manual/siem/dash/6.png){: target="_blank"}
 
 <br />
@@ -66,8 +66,8 @@ topnav: topnav
 ## 3. 화면 설정
 
 - 대시보드 우측 톱니바퀴를 클릭하면 화면설정 페이지가 노출됩니다.   
-[![image](/docs/images/Manual/siem/dash/8.png){: width="800" }](/docs/images/Manual/siem/dash/8.png){: target="_blank"}   
-[![image](/docs/images/Manual/siem/dash/9.png){: width="800" }](/docs/images/Manual/siem/dash/9.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/dash/14.png){: width="800" }](/docs/images/Manual/siem/dash/14.png){: target="_blank"}   
+[![image](/docs/images/Manual/siem/dash/15.png){: width="800" }](/docs/images/Manual/siem/dash/15.png){: target="_blank"}
 
  <br />
 

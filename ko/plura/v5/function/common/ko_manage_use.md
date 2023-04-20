@@ -67,6 +67,8 @@ topnav: topnav
 - 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/9.png){: width="600" }](/docs/images/Manual/common/manage/use/9.png){: target="_blank"}
 
+
+<!--
 <br />
 
 ## 2. 윈도우 에이전트 이벤트 채널에 대한 로그 수집을 ON/OFF 할 수 있습니다.
@@ -98,14 +100,16 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 - SECURITY Channel : Security log
 - ETC : DEFAULT, SECURITY Channel 로그를 제외한 모든 로그
 
+-->
+
 <br /> 
 
-## 3. 응용프로그램 업로드 예외
+## 2. 응용프로그램 업로드 예외
 
 - 응용프로그램 원본 업로드 : 사용자가 원하는 응용프로그램 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/12.png){: width="600" }](/docs/images/Manual/common/manage/use/12.png){: target="_blank"}
 
-### 3-1. 응용프로그램 업로드 예외
+### 2-1. 응용프로그램 업로드 예외
 
 - 원본 로그 중 공백을 예외하고 싶은 경우   
 { “timegenerated”: “2022-05-21T13:20:45.098193+09:00”, “tag”: “top”, “path”: “/var/log/pluraagent.txt”, “msg”: “” }
@@ -122,7 +126,7 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 
 <br />
 
-### 3-2. 응용프로그램 사용자 정의 예외
+### 2-2. 응용프로그램 사용자 정의 예외
 - 노출하고 싶은 사용자 정의 항목을 설정합니다.
 - 선택한 항목만 대시보드, 전체로그, 필터탐지, 보고서 메뉴에서 노출됩니다.
 
@@ -130,7 +134,7 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 
 <br />
 
-## 4. 네트워크 업로드 예외
+## 3. 네트워크 업로드 예외
 - 사용자가 원하는 네트워크 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/15.png){: width="600" }](/docs/images/Manual/common/manage/use/15.png){: target="_blank"}
 

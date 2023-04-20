@@ -15,21 +15,21 @@ topnav: topnav
 <br />
 
 ### 2. 페이지 상단의 탐지 수 클릭 시 해당 보고서 페이지로 이동합니다.
-[![image](/docs/images/Manual/common/report/main/2.png){: width="800" }](/docs/images/Manual/common/report/main/2.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/report/main/006.png){: width="800" }](/docs/images/Manual/common/report/main/006.png){: target="_blank"} 
 
 <br />
 
 ### 3. 서비스별 탐지 발생 현황 그래프
 
 - 각각의 데이터를 선택하면 해당 탐지 페이지로 이동합니다.
-[![image](/docs/images/Manual/common/report/main/3.png)](/docs/images/Manual/common/report/main/3.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/report/main/007.png){: width="800" }](/docs/images/Manual/common/report/main/007.png){: target="_blank"} 
 
 <br />
 
 ### 4. 서비스별 탐지 분포
 
 - 해당 그래프는 chart context menu 버튼을 클릭하여 CSV, PNG Image로 다운로드 받을 수 있습니다.
-[![image](/docs/images/Manual/common/report/main/4.png)](/docs/images/Manual/common/report/main/4.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/report/main/008.png)](/docs/images/Manual/common/report/main/008.png){: target="_blank"} 
 
 <br />
 
