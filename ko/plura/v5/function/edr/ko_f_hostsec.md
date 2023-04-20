@@ -101,11 +101,17 @@ topnav: topnav
 - 탐지된 로그를 클릭하면 각각의 로그에 담긴 자세한 내용들을 볼 수 있습니다.
 
 [![image](/docs/images\Manual\edr\filter\hostsec\013.png){: width="800" }](/docs/images\Manual\edr\filter\hostsec\013.png){: target="_blank"}
- 
- <br />
- 
+
+<br />
+
+- 수동차단 : 사용자가 탐지된 로그를 분석하여 직접 차단을 할 수 있습니다.
+
+[![image](/docs/images\Manual\edr\filter\hostsec\015.png){: width="800" }](/docs/images\Manual\edr\filter\hostsec\014.png){: target="_blank"}
+
+
+<br />
+
 ## 14. 탐지된 로그 원본 내용
 - ‘로그상세’ 버튼을 클릭하면 발생된 원본 내용을 확인할 수 있습니다.
 
 [![image](/docs/images\Manual\edr\filter\hostsec\014.png){: width="800" }](/docs/images\Manual\edr\filter\hostsec\014.png){: target="_blank"}
-
