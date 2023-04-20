@@ -7,7 +7,7 @@ product: Install_A_E
 
 <br />
 
-호스트보안 Windows Agent 설치방법입니다. 순서대로 진행해 주세요
+호스트보안 Windows Agent 설치방법입니다. 순서대로 진행해 주세요.
 
 
       제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
