@@ -15,9 +15,11 @@ product: Install_A_E
       제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.
       해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
-## Step 1
+## 설치 안내
 
-__1.1 파일 다운로드__
+<!-- 샘플 : __1.1 파일 다운로드__ -->
+
+### 1. 파일 다운로드
 
 먼저 아래 링크를 클릭하여 호스트보안 에이전트 설치 파일을 다운로드 합니다.   
 
@@ -25,19 +27,19 @@ __1.1 파일 다운로드__
 
 <br />
 
-__1.2 설치를 시작합니다.__
+### 2. 설치 시작
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_1.png)](/docs/images/Ins_G/Agent_W/Agent_W_1.png){:target="_blank"}
 
 <br />
 
-__1.3 설치 경로 선택__
+### 3. 설치 경로 선택
 
 [![image](/docs/images/Ins_G/Ins_EDR/006.png)](/docs/images/Ins_G/Ins_EDR/006.png){:target="_blank"}
 
 <br />
 
-__1.4 로그인 하기.__
+### 4. 로그인
 
 (1) 설치가 완료되면 로그인 창이 자동 실행 됩니다.
 
@@ -47,7 +49,7 @@ __1.4 로그인 하기.__
 
 <br />
 
-__1.5 서비스 시작__
+### 5. 서비스 시작
 
 (1) 로그인 되면 PLURA V5 서비스가 시작됩니다.
 
@@ -57,7 +59,7 @@ __1.5 서비스 시작__
 
 <br />
 
-__1.6 Sysmon 설치__
+### 6. Sysmon 설치
 
 (1) Sysmon 다운로드
 
@@ -82,7 +84,7 @@ Agent 에서 Sysmon 설치 확인
 
 <br />
 
-__1.7 서비스 중지__
+### 7. 서비스 중지
 
 (1) 활성화 되어있는 ‘에이전트 상태’ 버튼을 누르면 PLURA V5 서비스가 중지됩니다.
 
@@ -91,6 +93,8 @@ __1.7 서비스 중지__
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_6.png)](/docs/images/Ins_G/Agent_W/Agent_W_6.png){:target="_blank"}
 
 <br />
+
+<!--
 
 ## Step 2
 __IIS 서버 웹 로그 사용법__
@@ -125,6 +129,8 @@ PLURA V5 Agent 자동 업데이트 기능을 사용하시려면 환경설정 탭
 
 <br />
 
+<!--
+
 ## Step 4
 
 __업데이트 확인__
@@ -141,6 +147,7 @@ PLURA V5 Agent의 업데이트 버전은 C:\Program Files\PLURA 경로에서 확
 
 <br />
 
+-->
 
 
 <!-- 주석 Sample
