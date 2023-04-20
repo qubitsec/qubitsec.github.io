@@ -91,7 +91,7 @@ topnav: topnav
  
  <br />
  
-## 14. 탐지된 로그 원본 내용
+## 12. 탐지된 로그 원본 내용
 - ‘로그상세’ 버튼을 클릭하면 발생된 원본 내용을 확인할 수 있습니다.
 
 [![image](/docs/images\Manual\edr\fulllog\012.png){: width="800" }](/docs/images\Manual\edr\fulllog\012.png){: target="_blank"}
