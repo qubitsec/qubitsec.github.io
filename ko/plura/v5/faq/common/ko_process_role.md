@@ -17,14 +17,16 @@ topnav: topnav
      - PLURA_UNINSTALL.exe : PLURA V5 제거 (UI 제공)
      - PluraSelfUninstall.exe : UI 없이 PLURA V5 제거 (서버에서 삭제 시 처리)
 
-<!--
+<br />
+
+### 2. Windows 호스트보안
+
      - PluraService.exe : 로그 취합 및 업로드, 패치 및 서버와의 통신
      - Plura.exe : PLURA V5 에이전트 상태 표시 및 설정 UI 앱
      - PluraUninstall.exe : PLURA V5 에이전트 삭제
--->
 
 <br />
 
-### 2. Linux
+### 3. Linux
 
      - pluraagent : 로그 취합 및 업로드
