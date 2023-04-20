@@ -72,7 +72,7 @@ product: Install_A_E
 - 관리자 권한으로 cmd 실행하여 Sysmon.exe 파일의 경로로 이동
 
 - 아래 명령어 실행   
-`# sysmon.exe -accepteula -i “C:\Program Files\PLURA\sysmon-plura.xml”`
+`sysmon.exe -accepteula -i “C:\Program Files\PLURA\sysmon-plura.xml”`
 
 <br />
 
