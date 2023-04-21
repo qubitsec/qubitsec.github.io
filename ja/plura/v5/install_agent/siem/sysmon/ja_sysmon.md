@@ -72,7 +72,7 @@ Sysmonのオプション関連説明は[ダウンロードページ](https://doc
 
 ### 1-3. 確認
 
-AgentでSYSMONインストール確認
+AgentでSysmonインストール確認
 
 [![image](/docs/images/Ins_G/Sysmon/ja_sysmon_3.png)](/docs/images/Ins_G/Sysmon/ja_sysmon_3.png){:target="_blank"}
 

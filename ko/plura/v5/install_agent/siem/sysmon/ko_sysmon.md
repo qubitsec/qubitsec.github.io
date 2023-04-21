@@ -72,7 +72,7 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 ### 1-3. 확인
 
-Agent 에서 SYSMON 설치 확인
+Agent 에서 Sysmon 설치 확인
 
 [![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"}
 
