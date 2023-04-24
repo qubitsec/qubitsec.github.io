@@ -53,9 +53,13 @@ topnav: topnav
 
 ### 2-1. 로그인 後 에이전트 설치 “Install Agents”
 
-- Install Agents 페이지 안내 또는 에이전트 설치 영상을 참고하여 에이전트 설치 
+- Install Agents 페이지 안내 또는 에이전트 설치 영상을 참고하여 에이전트 설치   
+
 - 윈도우 서버에 에이전트 설치 예시   
 [https://qubitsec.github.io/ko_p_agent_win_srv.html](https://qubitsec.github.io/ko_p_agent_win_srv.html){: target="_blank"}
+
+- 호스트보안(EDR) 에이전트 설치 예시   
+[https://qubitsec.github.io/ko_p_agent_edr_win.html](https://qubitsec.github.io/ko_p_agent_edr_win.html){: target="_blank"}
 
 <br />
 
