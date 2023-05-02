@@ -34,12 +34,12 @@ topnav: topnav
 - 추가, 삭제 버튼을 이용하여 웹훅 알림을 받을 서버 편집을 할 수 있습니다.
 
 - 편집 버튼을 클릭하면 상세 알림을 선택할 수 있는 팝업창이 노출됩니다.   
-  - 탐지 : 마이터, 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 네트워크로그   
-  - 방어 : 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 네트워크로그   
-  - 사용로그 : 멤버, 필터, 서버, 방어, 고객지원, 기타   
+  - 탐지 : 마이터, 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 웹방화벽, 네트워크로그, 응용프로그램, 호스트보안
+  - 방어 : 상관분석, 데이터유출, 계정탈취, 시스템로그, 웹로그, 웹방화벽, 네트워크로그, 호스트보안
+  - 사용로그 : 멤버, 필터, 시스템, 방어, 고객지원, 기타   
   - 에이전트 중지
 
-[![image](/docs/images/Manual/common/manage/group/3.png)](/docs/images/Manual/common/manage/group/3.png){: target="_blank"}
+[![image](/docs/images/Manual/common/manage/group/04.png)](/docs/images/Manual/common/manage/group/04.png){: target="_blank"}
 
 <br />
 

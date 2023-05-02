@@ -29,11 +29,11 @@ topnav: topnav
   
   ※ 최근 설정 간격은 이전 알림 설정 간격 이후부터 적용됩니다.   
 
-- 탐지/방어 알림 : 마이터, 상관분석, 데이터 유출, 계정탈취 시스템로그, 웹로그, 네트워크 로그의 실시간 탐지와 방어에 대한 알림을 받을 수 있습니다.
+- 탐지/방어 알림 : 웹방화벽, 호스트보안, 마이터어택, 상관분석, 데이터유출, 계정탈취, 시스템, 웹, 네트워크 로그의 실시간 탐지와 방어에 대한 알림을 받을 수 있습니다.
 
 - 리소스모니터링 : 리소스 항목에 대한 알림을 받을 수 있습니다.   
 
-[![image](/docs/images/Manual/common/personal/3.png){: width="800" }](/docs/images/Manual/common/personal/3.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/personal/07.png){: width="800" }](/docs/images/Manual/common/personal/07.png){: target="_blank"} 
 
 <br />
 
@@ -42,7 +42,7 @@ topnav: topnav
 
 <br />
 
-[![image](/docs/images/Manual/common/personal/5.png){: width="800" }](/docs/images/Manual/common/personal/5.png){: target="_blank"}
+[![image](/docs/images/Manual/common/personal/08.png){: width="800" }](/docs/images/Manual/common/personal/08.png){: target="_blank"}
 
 <br />
 

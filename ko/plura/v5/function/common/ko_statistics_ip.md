@@ -11,14 +11,14 @@ topnav: topnav
 <br />
 
 일일 통계
-[![image](/docs/images/Manual/common/statistics/ip/1.png){: width="800" }](/docs/images/Manual/common/statistics/ip/1.png){: target="_blank"}
+[![image](/docs/images/Manual/common/statistics/ip/04.png){: width="800" }](/docs/images/Manual/common/statistics/ip/04.png){: target="_blank"}
  
 <br />
 
 주별 통계
-[![image](/docs/images/Manual/common/statistics/ip/2.png){: width="800" }](/docs/images/Manual/common/statistics/ip/2.png){: target="_blank"}
+[![image](/docs/images/Manual/common/statistics/ip/05.png){: width="800" }](/docs/images/Manual/common/statistics/ip/05.png){: target="_blank"}
 
 <br />
 
 월별 통계
-[![image](/docs/images/Manual/common/statistics/ip/3.png){: width="800" }](/docs/images/Manual/common/statistics/ip/3.png){: target="_blank"}
+[![image](/docs/images/Manual/common/statistics/ip/06.png){: width="800" }](/docs/images/Manual/common/statistics/ip/06.png){: target="_blank"}
