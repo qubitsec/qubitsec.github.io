@@ -1,7 +1,7 @@
 ---
 title: 리소스모니터링
 permalink: ko_system_resource_m.html
-sidebar: M_SIEM
+sidebar: M_C
 topnav: topnav
 ---
 

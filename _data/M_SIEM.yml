@@ -15,23 +15,6 @@ folders:
     #     url: /P_Agent_Win_Srv.html
 
   folders:
-- title: 시스템
-  folderitems:
-
-  - title: 시스템 관리
-    url: /ko_system_sys_manage.html
-
-  - title: 그룹관리
-    url: /ko_system_g_manage.html
-
-  - title: 리소스모니터링
-    url: /ko_system_resource_m.html
-
-  - title: 웹로그 사용 설정 방법
-    url: /ko_system_weblog.html
-  
-
-  folders:
 - title: 방어
   folderitems: 
 

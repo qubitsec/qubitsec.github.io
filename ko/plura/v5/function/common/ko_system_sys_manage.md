@@ -1,7 +1,7 @@
 ---
 title: 시스템 관리
 permalink: ko_system_sys_manage.html
-sidebar: M_SIEM
+sidebar: M_C
 topnav: topnav
 ---
 
@@ -50,6 +50,17 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 - 해당 시스템의 웹로그 수집, 전체로그 저장, 리소스 수집 설정을 할 수 있습니다.
 - 변경사항을 수정하려면 해당 시스템을 클릭한 후 ON/OFF 상태를 변경하고 수정 버튼을 클릭합니다.   
 [![image](/docs/images/Manual/siem/system/011.png){: width="800" }](/docs/images/Manual/siem/system/011.png){: target="_blank"}
+
+<br />
+
+- 응용프로그램 원본 로그 설정은 아래 표시된 설정 아이콘을 클릭해서 진행할 수 있습니다.
+[![image](/docs/images/Manual/siem/system/017.png)](/docs/images/Manual/siem/system/017.png){: target="_blank"}
+
+- 태그와 경로를 입력 후, 등록 버튼을 클릭합니다.
+[![image](/docs/images/Manual/siem/system/018.png)](/docs/images/Manual/siem/system/018.png){: target="_blank"}
+
+- 자세한 설명은 PLURA 블로그에서 확인할 수 있습니다.   
+[응용프로그램 로그 분석](http://blog.plura.io/?p=17820){: target="_blank"}
 
 <br />
 

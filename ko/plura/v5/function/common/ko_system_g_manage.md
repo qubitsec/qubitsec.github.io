@@ -1,7 +1,7 @@
 ---
 title: 그룹관리
 permalink: ko_system_g_manage.html
-sidebar: M_SIEM
+sidebar: M_C
 topnav: topnav
 ---
 

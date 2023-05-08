@@ -1,7 +1,7 @@
 ---
 title: 웹로그 사용 설정 방법
 permalink: ko_system_weblog.html
-sidebar: M_SIEM
+sidebar: M_C
 topnav: topnav
 ---
 
