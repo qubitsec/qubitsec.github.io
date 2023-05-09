@@ -23,6 +23,11 @@ Windows Server Agent 설치방법입니다. 순서대로 진행해 주세요
       제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.
       해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
 
+<br />
+
+아래 링크를 클릭하여 에이전트 설치 파일을 다운로드 합니다.   
+[설치파일 다운로드](https://repo.plura.io/v4/agent/win/installer/PLURA_SETUP.exe)
+
 ## Step 1
 
 PLURA V5 Agent 는 Microsoft .NET Framework 3.5 이상이 설치된 환경에서 사용 가능합니다.
