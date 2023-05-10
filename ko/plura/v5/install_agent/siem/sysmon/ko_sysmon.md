@@ -23,8 +23,6 @@ product: Install_A_S
 Sysmon 을 설치하려면 먼저 __PLURA V5 Agent__ 를 설치해야합니다.   
 PLURA V5 Agent 설치 완료 후 아래의 내용을 참고하여 Sysmon 을 설치합니다.
 
-[Agent 설치 페이지](https://qubitsec.github.io/ko_p_agent_win_srv.html){:target="_blank"}
-
 <br />
 
 ### 1-1. 옵션
@@ -58,7 +56,7 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
      PLURA V5 에이전트를 설치하면 PLURA 폴더에서 확인할 수 있습니다.
 
-     - **경로 : C:\Program Files (x86)\PLURA**
+     - **경로 : C:\Program Files\PLURA**
 
 <br />
 
@@ -66,7 +64,7 @@ Sysmon의 옵션 관련 설명은 [다운로드 페이지](https://docs.microsof
 
 - 다운로드 한 Sysmon 파일의 경로에서 CMD창(관리자권한)을 실행 후 아래의 명령어를 입력합니다.
 
-`# sysmon.exe -accepteula -i “C:\Program Files (x86)\PLURA\sysmon-plura.xml”`
+`# sysmon.exe -accepteula -i “C:\Program Files\PLURA\sysmon-plura.xml”`
 
 <br />
 
