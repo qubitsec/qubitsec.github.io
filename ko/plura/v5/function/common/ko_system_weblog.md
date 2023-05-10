@@ -24,6 +24,8 @@ topnav: topnav
 
 <br />
 
+<!--
+
 - 웹로그 수집에 체크한 뒤, 잠시 기다리시면 [Visual C++ 재배포 가능 패키지] 설치 알림 창이 뜨게 됩니다.   
 [![image](/docs/images/Manual/siem/weblog/3.png)](/docs/images/Manual/siem/weblog/3.png){: target="_blank"}
 
@@ -31,3 +33,5 @@ topnav: topnav
 
 - [확인]을 클릭해 두 번째 하단의 이미지와 같이 재배포 가능 패키지를 설치하시면 웹 로그 취합기능을 정상적으로 사용하실 수 있습니다. x64와 x86을 각각 설치하게 됩니다.   
 [![image](/docs/images/Manual/siem/weblog/5.png)](/docs/images/Manual/siem/weblog/5.png){: target="_blank"}
+
+-->
