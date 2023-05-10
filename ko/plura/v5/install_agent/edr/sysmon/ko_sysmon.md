@@ -1,8 +1,8 @@
 ---
 title: Sysmon (Windows Sysinternals)
 permalink: ko_sysmon.html
-sidebar: Install_A_S
-product: Install_A_S
+sidebar: Install_A_E
+product: Install_A_E
 ---
 
 ## Sysmon 설치 영상

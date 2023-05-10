@@ -16,13 +16,6 @@ folders:
   - title: Linux Syslog-Audit
     url: /ko_lin_sys_audit.html
 
-  folders:
-- title: Sysmon
-  folderitems:
-
-  - title: Sysmon (Windows Sysinternals)
-    url: /ko_sysmon.html
-
 
   folders:
 - title: PLC

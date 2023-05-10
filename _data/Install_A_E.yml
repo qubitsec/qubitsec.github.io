@@ -6,3 +6,10 @@ folders:
 
   - title: Windows 
     url: /ko_p_agent_edr_win.html
+
+  folders:
+- title: Sysmon
+  folderitems:
+
+  - title: Sysmon (Windows Sysinternals)
+    url: /ko_sysmon.html
