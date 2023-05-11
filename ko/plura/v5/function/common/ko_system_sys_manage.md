@@ -69,6 +69,14 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 <br />
 
+- "S분석" 검색 옵션은 수집 방식에 따라 "에이전트" 또는 "서버"로 검색할 수 있습니다.
+[![image](/docs/images/Manual/siem/system/019.png)](/docs/images/Manual/siem/system/019.png){: target="_blank"}
+
+- "S유형" 검색 옵션은 탐지 방식에 따라 "탐지" 또는 "차단"으로 검색할 수 있습니다.
+[![image](/docs/images/Manual/siem/system/020.png)](/docs/images/Manual/siem/system/020.png){: target="_blank"}
+
+<br />
+
 ## 4. 히스토리
 
 - 여러 필터 설정에 따라 수집된 명령어 및 업데이트 히스토리를 볼 수 있습니다.   
