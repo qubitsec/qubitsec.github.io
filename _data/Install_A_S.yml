@@ -4,9 +4,6 @@ folders:
 - title: Agent 
   folderitems:
 
-  - title: Windows Server
-    url: /ko_p_agent_win_srv.html
-
   - title: Linux Server
     url: /ko_p_agent_lin_srv.html
 
