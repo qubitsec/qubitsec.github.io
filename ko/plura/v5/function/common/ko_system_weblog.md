@@ -12,7 +12,7 @@ topnav: topnav
 - 시스템 목록 중 사용자의 시스템 IP 주소에 해당하는 목록을 클릭합니다.
 
 - 설정 탭으로 이동하여 우측 톱니바퀴 아이콘을 눌러 웹로그 수집에 체크한 뒤, 수정 > 확인 버튼을 클릭합니다.   
-[![image](/docs/images/Manual/siem/weblog/1.png){: width="800" }](/docs/images/Manual/siem/weblog/1.png){: target="_blank"}
+[![image](/docs/images/Ins_G/Ins_EDR/005.png){: width="800" }](/docs/images/Ins_G/Ins_EDR/005.png){:target="_blank"}
 
  
 <br />
@@ -20,7 +20,7 @@ topnav: topnav
 ## 2. Windows Agent 의 경우 IIS(웹로그) : 사용 시
 
 - 위의 방법 외에 Agent UI 에서도 설정할 수 있습니다.   
-[![image](/docs/images/Manual/siem/weblog/2.png)](/docs/images/Manual/siem/weblog/2.png){: target="_blank"}
+[![image](/docs/images/Ins_G/Ins_EDR/001.png)](/docs/images/Ins_G/Ins_EDR/001.png){:target="_blank"}
 
 <br />
 
