@@ -64,7 +64,12 @@ topnav: topnav
 <br />
 
 4-3. syslog 알림을 받고자 하는 서버의 환경 정보 입력
-- 프로토콜, Syslog 포맷 형식, 서버 IP 주소, 포트번호, 개행타입을 입력합니다.
+- 프로토콜, Syslog 포맷, 서버 IP 주소, 포트번호, 개행타입을 입력합니다.
+   - Syslog 포맷 : RFC3164, RFC5424, CEF 지원   
+   ※ CEF : ArcSight CEF 포맷임.
+
+<br />
+
 - 예시_Syslog 설정
 
  [![image](/docs/images/Manual/common/manage/peristalsis/13.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/13.png){: target="_blank"}
