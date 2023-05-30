@@ -5,7 +5,7 @@ sidebar: Install_A_W
 product: Install_A_W
 ---
      
-     PLURA WAF는 알려지지 않은(Unknown) 공격에 대응하기 위한 기능을 제공합니다.
+     PLURA WAF는 알려지지 않는(Unknown) 공격에 대응하기 위한 기능을 제공합니다.
 
      - 전체 로그 + 상세한 탐지 내역 제공 
      - 요청본문과 응답값 분석으로 크리덴셜스터핑 공격 대응 
