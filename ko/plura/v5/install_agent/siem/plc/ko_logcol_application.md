@@ -98,4 +98,6 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 ### 6. 수집된 로그 확인
 
 - 전체로그 > 응용프로그램 메뉴에서 수집된 로그를 확인할 수 있습니다.
+<!--
 [![image](/docs/images/Ins_G/LogCol_app/app_12.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_12.png){: target="_blank"}
+-->
