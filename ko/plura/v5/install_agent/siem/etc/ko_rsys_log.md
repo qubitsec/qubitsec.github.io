@@ -60,7 +60,7 @@ product: Install_A_S
 
 ## 5. PLURA V5 수집 로그 확인
 
-- 전체로그 > 시스템 > 주요개체 컬럼에서 application 확인
+- 전체로그 > 호스트 > 주요개체 컬럼에서 application 확인
 [![image](/docs/images/Ins_G/rsyslog/2.png){: width="800" }](/docs/images/Ins_G/rsyslog/2.png){:target="_blank"}
 
 <br />
@@ -68,7 +68,7 @@ product: Install_A_S
 ## 6. PLURA V5 실시간 탐지 필터 등록하기
 
 - 2020010100037 키워드에 대한 실시간 탐지 등록 필터   
-- 필터 > 등록필터 > 시스템/웹/웹방화벽 > 등록   
+- 필터 > 등록필터 > 호스트/웹/웹방화벽 > 등록   
 - 필터등록 하단 > 정보입력 >  msg >  2020010100037 등록
 [![image](/docs/images/Ins_G/rsyslog/3.png){: width="800" }](/docs/images/Ins_G/rsyslog/3.png){:target="_blank"}
 
