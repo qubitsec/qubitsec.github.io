@@ -14,7 +14,7 @@ product: Install_A_S
 
 ### 1-1. 설정 경로
 
-시스템  > 시스템 관리 > 서버 선택 > 설정 탭 이동 > 설정 버튼을 클릭합니다.
+시스템  > 시스템 관리 > 대상 선택 > 설정 탭 이동 > 설정 버튼을 클릭합니다.
 
 [![image](/docs/images/Ins_G/mysql_slow/1.png){: width="800" }](/docs/images/Ins_G/mysql_slow/1.png){:target="_blank"}
 

@@ -107,7 +107,7 @@ long_query_time = 3
 
 Error 또는 Slow Query 발생 후 시스템 로그에서 MySQL 관련 로그를 확인
 
-로그 예시 : 전체로그 > 시스템
+로그 예시 : 전체로그 > 호스트
 
 [![image](/docs/images/Ins_G/rsys_mysql/3.png){: width="800" }](/docs/images/Ins_G/rsys_mysql/3.png){:target="_blank"}
 
