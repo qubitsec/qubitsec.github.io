@@ -17,27 +17,27 @@ topnav: topnav
 
 <br />
 
-대시보드 상단에서는 총 탐지건수 / 등록 시스템 / 탐지로그 발생 시스템 수 / 로그 미업로드 시스템 수 / 로그 업로드량 / 리소스모니터링을 보여줍니다.
+대시보드 상단에서는 총 탐지건수 / 등록 호스트 / 탐지로그 발생 호스트 / 로그 미업로드 호스트 / 로그 업로드량 / 리소스모니터링을 보여줍니다.
 
 [![image](/docs/images/Manual/siem/dash/1.png){: width="800" }](/docs/images/Manual/siem/dash/1.png){: target="_blank"}
 
 <br />
 
-- 해당 시스템 수를 클릭하면 시스템 관리 페이지로 이동합니다.   
+- 해당 호스트 수를 클릭하면 시스템 관리 페이지로 이동합니다.   
 [![image](/docs/images/Manual/siem/dash/2.png)](/docs/images/Manual/siem/dash/2.png){: target="_blank"}
 
-- 1시간 이내에 로그 발생이 없는 경우, 시스로그/웹로그 미업로드 시스템 항목에 표시됩니다.
+- 1시간 이내에 로그 발생이 없는 경우, 시스로그/웹로그 미업로드 호스트 항목에 표시됩니다.
 [![image](/docs/images/Manual/siem/dash/3.png){: width="800" }](/docs/images/Manual/siem/dash/3.png){: target="_blank"}
 
 <br />
 
-그 아래에는 호스트보안 / 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크 에서 탐지된 로그의 수를 보여줍니다.
+그 아래에는 호스트보안 / 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 호스트 / 응용프로그램 / 웹 / 네트워크 에서 탐지된 로그의 수를 보여줍니다.
 
 <br />
 
 ## 1. 실시간 탐지 항목
 
-- 호스트보안 / 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 시스템 / 응용프로그램 / 웹 / 네트워크
+- 호스트보안 / 마이터 어택 / 상관분석 / 데이터 유출 / 계정 탈취 / 호스트 / 응용프로그램 / 웹 / 네트워크
 - 해당 로그를 선택하면 아래 항목들이 보여집니다.   
 [![image](/docs/images/Manual/siem/dash/12.png){: width="800" }](/docs/images/Manual/siem/dash/12.png){: target="_blank"}
 
@@ -46,7 +46,7 @@ topnav: topnav
 - 위험도별 로그발생 현황
 - 시간별 로그발생 현황
 - 접속 IP TOP5
-- 탐지로그 서버 TOP5
+- 탐지로그 호스트 TOP5
 
 <br />
 

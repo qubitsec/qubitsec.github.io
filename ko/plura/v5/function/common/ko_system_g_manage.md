@@ -5,12 +5,12 @@ sidebar: M_C
 topnav: topnav
 ---
 
-     시스템을 그룹별로 등록하여 관리할 수 있습니다.
+     호스트를 그룹별로 등록하여 관리할 수 있습니다.
 
 <br />
 
 ## 1. 그룹등록
-- 그룹을 추가하려면 ‘그룹등록’을 클릭한 후 시스템명을 입력한 후 추가버튼을 눌러 추가하고싶은 시스템을 선택합니다.
+- 그룹을 추가하려면 ‘그룹등록’을 클릭한 후 호스트명을 입력한 후 추가버튼을 눌러 추가하고싶은 호스트를 선택합니다.
 - 등록완료 팝업창이 나타나면 확인 버튼을 누르면 그룹 등록이 완료됩니다.   
 [![image](/docs/images/Manual/siem/group/1.png){: width="800" }](/docs/images/Manual/siem/group/1.png){: target="_blank"}
 
@@ -22,19 +22,19 @@ topnav: topnav
 
 <br />
 
-- 그룹명 수정 및 리스트에 있는 시스템 목록을 추가, 이동, 삭제할 수 있습니다.   
+- 그룹명 수정 및 리스트에 있는 호스트 목록을 추가, 이동, 삭제할 수 있습니다.   
 [![image](/docs/images/Manual/siem/group/3.png){: width="800" }](/docs/images/Manual/siem/group/3.png){: target="_blank"}
 
 <br />
 
 ## 3. 그룹 삭제
-- 필요 시 그룹 삭제도 가능합니다. 서버 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’버튼을 클릭하면 해당 그룹이 삭제됩니다.   
+- 필요 시 그룹 삭제도 가능합니다. 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’버튼을 클릭하면 해당 그룹이 삭제됩니다.   
 [![image](/docs/images/Manual/siem/group/4.png){: width="800" }](/docs/images/Manual/siem/group/4.png){: target="_blank"}
  
 <br />
 
-## 4. 등록된 시스템 리스트
-- “등록된 시스템 수” 정보를 클릭하면 해당 시스템 리스트가 노출됩니다.   
+## 4. 등록된 호스트 리스트
+- “등록된 호스트 수” 정보를 클릭하면 해당 리스트가 노출됩니다.   
 [![image](/docs/images/Manual/siem/group/5.png){: width="800" }](/docs/images/Manual/siem/group/5.png){: target="_blank"}
 
 <br />
