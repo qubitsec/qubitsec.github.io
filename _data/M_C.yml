@@ -43,7 +43,7 @@ folders:
 - title: 필터탐지
   folderitems:
 
-  - title: 시스템
+  - title: 호스트
     url: /ko_f_system.html
 
   - title: 응용프로그램>원본
@@ -69,7 +69,7 @@ folders:
 - title: 전체로그
   folderitems:
 
-  - title: 시스템
+  - title: 호스트
     url: /ko_full_log_system.html
 
   - title: 응용프로그램>원본
@@ -130,7 +130,7 @@ folders:
     - title: 등록
       subfolderitems: 
 
-      - title: 시스템
+      - title: 호스트
         url: /ko_regi_f_system.html
 
       - title: 응용프로그램>원본
@@ -196,7 +196,7 @@ folders:
   - title: 계정탈취 분석
     url: /ko_report_a_takeover.analy.html
 
-  - title: 시스템 분석
+  - title: 호스트 분석
     url: /ko_report_sys_analy.html
 
   - title: 응용프로그램 분석
