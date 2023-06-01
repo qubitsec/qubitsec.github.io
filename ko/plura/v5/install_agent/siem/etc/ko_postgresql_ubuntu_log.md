@@ -33,9 +33,9 @@ product: Install_A_S
 
 ## 3. PLURA V5에서 확인
 
-로그 예시 : 전체로그 > 시스템
+로그 예시 : 전체로그 > 호스트
 
 [![image](/docs/images/Ins_G/Postgresql_u/1.png){: width="800" }](/docs/images/Ins_G/Postgresql_u/1.png){:target="_blank"}
 
 위 내용을 활용해서 필터를 등록하면 탐지로그를 확인할 수 있습니다.   
-[(Syslog 필터등록 바로가기)](https://qubitsec.github.io/ko_f_regi_syslog.html){:target="_blank"}
+[(필터등록 바로가기)](https://qubitsec.github.io/ko_f_regi_syslog.html){:target="_blank"}
