@@ -118,9 +118,9 @@ topnav: topnav
 
 **2-7. Log Collector 등록**
 
-경로 : 시스템 > 시스템 관리 > 로그 취합서버(부모) 선택 > 수집 환경 선택
+경로 : 시스템 > 시스템 관리 > 로그 취합 호스트(부모) 선택 > 수집 환경 선택
 
-[![image](/docs/images/Additianal/logcol/2.png)](/docs/images/Additianal/logcol/2.png){: target="_blank"}
+[![image](/docs/images/Additianal/logcol/03.png)](/docs/images/Additianal/logcol/03.png){: target="_blank"}
 
 <br />
 

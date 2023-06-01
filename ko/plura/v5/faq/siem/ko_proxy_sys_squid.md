@@ -33,7 +33,7 @@ json 으로 PLURA V5 로깅 형태로 저장하는 방법은 다음과 같습니
 
 ▶ Git source, [https://github.com/QubitSecurity/ModPlura/tree/main/squid](https://github.com/QubitSecurity/ModPlura/tree/main/squid){: target="_blank"}
 
-squid 를 웹 시스템으로 인식하게 하는 명령어
+squid 를 웹 호스트로 인식하게 하는 명령어
 
 `# echo “ModPlura-squid” > /etc/modplura`
 
@@ -53,9 +53,9 @@ squid access 로그 파일에 권한 부여하기
 
  <br />
 
-**PLURA V5 > 시스템 > 시스템 관리**에서 리스트의 시스템을 확장하면 다음과 같이 확인됩니다.
+**PLURA V5 > 시스템 > 시스템 관리**에서 리스트의 호스트를 확장하면 다음과 같이 확인됩니다.
 
- [![image](/docs/images/Additianal/proxy/1.png)](/docs/images/Additianal/proxy/1.png){: target="_blank"}
+ [![image](/docs/images/Additianal/proxy/02.png)](/docs/images/Additianal/proxy/02.png){: target="_blank"}
 
 <br />
 

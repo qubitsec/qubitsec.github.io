@@ -5,9 +5,9 @@ sidebar: faq_siem_M
 topnav: topnav
 ---
 
-**PLURA V5 > 필터 > 등록 > 시스템**
+**PLURA V5 > 필터 > 등록 > 호스트**
 
-[![image](/docs/images/Additianal/public_key/1.png){: width="800" }](/docs/images/Additianal/public_key/1.png){: target="_blank"}
+[![image](/docs/images/Additianal/public_key/02.png){: width="800" }](/docs/images/Additianal/public_key/02.png){: target="_blank"}
 
 - 운영체제 그룹 : linux
 - 운영체제 : ubuntu or centos (해당되는 운영체제 선택)
@@ -31,4 +31,4 @@ topnav: topnav
 
 - 정보입력 > msg > 직접입력 : Accepted publickey for > 포함
 - 정보입력 > msg > 선택입력 : default > 제외
-- default: 서버그룹으로, default 에 등록되어 있는 IP 주소 탐지 제외 처리
+- default: default 에 등록되어 있는 IP 주소 탐지 제외 처리

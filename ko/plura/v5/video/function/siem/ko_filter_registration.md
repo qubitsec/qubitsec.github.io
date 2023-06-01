@@ -14,7 +14,7 @@ topnav: topnav
 - 등록필터 > 웹방화벽   
 [https://qubitsec.github.io/ko_filter_waf.html](https://qubitsec.github.io/ko_filter_waf.html){:target="_blank"}
 
-- 등록필터 > 시스템   
+- 등록필터 > 호스트   
 [https://qubitsec.github.io/ko_regi_f_system.html](https://qubitsec.github.io/ko_regi_f_system.html){:target="_blank"}
 
 - 등록필터 > 응용프로그램 > 원본   

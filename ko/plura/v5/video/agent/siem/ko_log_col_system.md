@@ -15,6 +15,13 @@ topnav: topnav
 
 <br />
 
+※ PLURA V5 업데이트로 일부 용어가 아래와 같이 변경되었습니다.
+
+     (2023-05-25) 업데이트
+     - 용어 변경 : 시스템 → 호스트
+
+<br />
+
 PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 
 [https://qubitsec.github.io/ko_support_os.html](https://qubitsec.github.io/ko_support_os.html){:target="_blank"}

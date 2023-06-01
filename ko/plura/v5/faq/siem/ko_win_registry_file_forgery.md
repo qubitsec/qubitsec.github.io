@@ -18,13 +18,13 @@ PLURA V5 서비스는 레지스트리 위변조를 탐지할 수 있습니다.
 
 ### 1-2. 수집된 로그 확인
 
-시스템 필터 탐지에서 레지스트리 위변조에 대한 로그를 확인할 수 있습니다.
+호스트 필터 탐지에서 레지스트리 위변조에 대한 로그를 확인할 수 있습니다.
 
-[![image](/docs/images/Additianal/win_registry/2.png){: width="800" }](/docs/images/Additianal/win_registry/2.png){: target="_blank"}
+[![image](/docs/images/Additianal/win_registry/07.png){: width="800" }](/docs/images/Additianal/win_registry/07.png){: target="_blank"}
 
 <br />
 
-[![image](/docs/images/Additianal/win_registry/3.png){: width="800" }](/docs/images/Additianal/win_registry/3.png){: target="_blank"}
+[![image](/docs/images/Additianal/win_registry/08.png){: width="800" }](/docs/images/Additianal/win_registry/08.png){: target="_blank"}
 
 <br />
 
@@ -41,10 +41,10 @@ PLURA V5 서비스는 파일 위변조 탐지를 할 수 있습니다.
 
 ### 2-2. 수집된 로그 확인
 
-시스템 필터 탐지에서 파일 위변조에 대한 로그를 확인할 수 있습니다.
+호스트 필터 탐지에서 파일 위변조에 대한 로그를 확인할 수 있습니다.
 
-[![image](/docs/images/Additianal/win_registry/5.png){: width="800" }](/docs/images/Additianal/win_registry/5.png){: target="_blank"}
+[![image](/docs/images/Additianal/win_registry/09.png){: width="800" }](/docs/images/Additianal/win_registry/09.png){: target="_blank"}
 
 <br />
 
-[![image](/docs/images/Additianal/win_registry/6.png){: width="800" }](/docs/images/Additianal/win_registry/6.png){: target="_blank"}
+[![image](/docs/images/Additianal/win_registry/10.png){: width="800" }](/docs/images/Additianal/win_registry/10.png){: target="_blank"}

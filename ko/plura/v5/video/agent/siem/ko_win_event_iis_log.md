@@ -19,3 +19,12 @@ topnav: topnav
 **※ PLURA V5 시스템 관리 메뉴에서 Web Log 수집 설정 방법**
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/-S9GXYO_taY' frameborder='0' allowfullscreen></iframe></div>
+
+<br />
+
+※ PLURA V5 업데이트로 일부 용어가 아래와 같이 변경되었습니다.
+
+     (2023-05-25) 업데이트
+     - 용어 변경 : 시스템 → 호스트
+
+<br />

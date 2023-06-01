@@ -128,7 +128,7 @@ PLURA V5는 IP주소와 호스트명을 기준으로 에이전트를 식별하�
 
 -   PLURA V5 페이지의 시스템 > 시스템관리에서 에이전트 목록을 확인  
 
-    [![image](/docs/images/Public_Cloud/autoscaling_setup/13.png)](/docs/images/Public_Cloud/autoscaling_setup/13.png){: target="_blank"}
+    [![image](/docs/images/Public_Cloud/autoscaling_setup/15.png){: width="800" }](/docs/images/Public_Cloud/autoscaling_setup/15.png){: target="_blank"}
 
 <br />
     

@@ -19,11 +19,11 @@ Wail2ban 이란?
 
 PLURA V5 웹에서 필터 등록으로 설정 방법
 
-**필터 > 등록 > 시스템 > 등록하기**
+**필터 > 등록 > 호스트 > 등록하기**
 
-**서버그룹 선택 > 운영체제 windows 선택 > Security 채널 선택 > 이벤트타입 선택**
+**그룹 선택 > 운영체제 windows 선택 > Security 채널 선택 > 이벤트타입 선택**
 
-[![image](/docs/images/Additianal/wail/1.png){: width="800" }](/docs/images/Additianal/wail/1.png){: target="_blank"}
+[![image](/docs/images/Additianal/wail/03.png){: width="800" }](/docs/images/Additianal/wail/03.png){: target="_blank"}
 
 이벤트 타입에서 방화벽 예외 목록 변경 규칙 추가(4946) 선택
 

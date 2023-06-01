@@ -7,9 +7,9 @@ topnav: topnav
 
      PLURA V5를 이용하시는 고객 또는 파트너사가 간단한 명령어 수행으로 탐지 로그를 발생시킬 수 있습니다.
 
-### 마이터 어택 & 상관분석 & 시스템
+### 마이터 어택 & 상관분석 & 호스트
 
-**PLURA V5 에이전트가 설치된 리눅스 환경에서 아래의 명령어를 입력하면 마이터 어택과 시스템 탐지 로그를 확인할 수 있습니다.**
+**PLURA V5 에이전트가 설치된 리눅스 환경에서 아래의 명령어를 입력하면 마이터 어택과 호스트 탐지 로그를 확인할 수 있습니다.**
 
 ``# useradd Demo``
 
@@ -17,9 +17,9 @@ topnav: topnav
 
 <br />
 
-PLURA V5 필터탐지 > 시스템 메뉴에서 탐지
+PLURA V5 필터탐지 > 호스트 메뉴에서 탐지
 
-[![image](/docs/images/Additianal/demoattack/02.png){: width="800" }](/docs/images/Additianal/demoattack/02.png){: target="_blank"}
+[![image](/docs/images/Additianal/demoattack/16.png){: width="800" }](/docs/images/Additianal/demoattack/16.png){: target="_blank"}
 
 <br />
 
@@ -29,15 +29,15 @@ PLURA V5 필터탐지 > 시스템 메뉴에서 탐지
 
 <br />
 
-PLURA V5 필터탐지 > 시스템 메뉴에서 탐지
+PLURA V5 필터탐지 > 호스트 메뉴에서 탐지
 
-[![image](/docs/images/Additianal/demoattack/04.png){: width="800" }](/docs/images/Additianal/demoattack/04.png){: target="_blank"}
+[![image](/docs/images/Additianal/demoattack/17.png){: width="800" }](/docs/images/Additianal/demoattack/17.png){: target="_blank"}
 
 <br />
 
 PLURA V5 보안탐지 > 마이터어택 > 리스트 메뉴에서 탐지
 
-[![image](/docs/images/Additianal/demoattack/05.png){: width="800" }](/docs/images/Additianal/demoattack/05.png){: target="_blank"}
+[![image](/docs/images/Additianal/demoattack/18.png){: width="800" }](/docs/images/Additianal/demoattack/18.png){: target="_blank"}
 
 <br />
 
@@ -53,9 +53,9 @@ PLURA V5 보안탐지 > 마이터어택 > 리스트 메뉴에서 탐지
 
 - 시스템/웹 필터 추가 버튼 클릭
 
-아래 필터의 경우, 시스템 단일 필터 추가 “운영체제 : centos, 필터명 : 계정 생성(M5919j9igmyqbg9h)&계정 삭제”
+아래 필터의 경우, 호스트 단일 필터 추가 “운영체제 : centos, 필터명 : 계정 생성(M5919j9igmyqbg9h)&계정 삭제”
 
-[![image](/docs/images/Additianal/demoattack/06.png){: width="800" }](/docs/images/Additianal/demoattack/06.png){: target="_blank"}
+[![image](/docs/images/Additianal/demoattack/19.png){: width="800" }](/docs/images/Additianal/demoattack/19.png){: target="_blank"}
 
 <br />
 
@@ -97,7 +97,7 @@ PLURA V5 에이전트가 설치된 웹 서버 환경에 Wordpress를 설치한 �
 
 PLURA V5 필터탐지 > 웹 메뉴에서 탐지
 
-[![image](/docs/images/Additianal/demoattack/11.png){: width="800" }](/docs/images/Additianal/demoattack/11.png){: target="_blank"}
+[![image](/docs/images/Additianal/demoattack/20.png){: width="800" }](/docs/images/Additianal/demoattack/20.png){: target="_blank"}
 
 <br /> 
 
@@ -127,7 +127,7 @@ PLURA V5 필터탐지 > 웹 메뉴에서 탐지
 
 4.PLURA V5 보안탐지 > 홈페이지 위변조 메뉴에서 탐지
   
-[![image](/docs/images/Additianal/demoattack/15.png){: width="800" }](/docs/images/Additianal/demoattack/15.png){: target="_blank"}
+[![image](/docs/images/Additianal/demoattack/21.png){: width="800" }](/docs/images/Additianal/demoattack/21.png){: target="_blank"}
 
 <br />
 
