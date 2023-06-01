@@ -21,7 +21,7 @@ topnav: topnav
 
 ## 2. 페이지당 로그 수
 
-- 한 페이지당 보이는 로그의 수를 20개, 30개, 40개, 50개로 설정할 수 있습니다.
+- 한 페이지당 보이는 로그의 수를 설정할 수 있습니다.
 
 [![image](/docs/images/Manual/common/filter/network/2.png){: width="800" }](/docs/images/Manual/common/filter/network/2.png){: target="_blank"}
  
@@ -51,11 +51,11 @@ topnav: topnav
 
 <br />
 
-## 6. 시스템 IP주소 선택
+## 6. 호스트 선택
 
-- 원하는 시스템 IP주소를 선택해서 볼 수 있습니다.
+- 원하는 호스트를 선택해서 볼 수 있습니다.
 
-[![image](/docs/images/Manual/common/filter/network/6.png){: width="800" }](/docs/images/Manual/common/filter/network/6.png){: target="_blank"}
+[![image](/docs/images/Manual/common/filter/network/6.png)](/docs/images/Manual/common/filter/network/6.png){: target="_blank"}
 
 <br />
 
