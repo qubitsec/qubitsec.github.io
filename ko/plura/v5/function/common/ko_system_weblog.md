@@ -9,7 +9,7 @@ topnav: topnav
 
 - 시스템 > 시스템 관리에 들어갑니다.
 
-- 시스템 목록 중 사용자의 시스템 IP 주소에 해당하는 목록을 클릭합니다.
+- 사용자의 호스트 IP 주소에 해당하는 목록을 클릭합니다.
 
 - 설정 탭으로 이동하여 우측 톱니바퀴 아이콘을 눌러 웹로그 수집에 체크한 뒤, 수정 > 확인 버튼을 클릭합니다.   
 [![image](/docs/images/Ins_G/Ins_EDR/005.png){: width="800" }](/docs/images/Ins_G/Ins_EDR/005.png){:target="_blank"}

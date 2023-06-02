@@ -12,58 +12,70 @@ topnav: topnav
 
 ## 1. 시간순 정렬
 - 생성일 기준으로 최신순과 오래된순으로 정렬할 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/1.png)](/docs/images/Manual/waf/all/1.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/01.png)](/docs/images/Manual/waf/all/01.png){: target="_blank"}
 
 <br />
 
 ## 2. 페이지당 로그 수
 - 한 페이지당 보이는 로그의 수를 20개, 30개, 40개, 50개 로 설정할 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/2.png)](/docs/images/Manual/waf/all/2.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/02.png)](/docs/images/Manual/waf/all/02.png){: target="_blank"}
 
 <br />
 
 ## 3. 날짜/시간 선택
 - 지난 날짜와 시간을 선택하여 로그를 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/3.png)](/docs/images/Manual/waf/all/3.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/03.png)](/docs/images/Manual/waf/all/03.png){: target="_blank"}
 
 <br />
 
 ## 4. 그룹 선택
 - 사용자가 등록한 시스템 그룹을 선택해서 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/4.png)](/docs/images/Manual/waf/all/4.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/04.png)](/docs/images/Manual/waf/all/04.png){: target="_blank"}
 
 <br />
 
 ## 5. 운영체제 선택
 - 운영체제를 선택해서 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/5.png)](/docs/images/Manual/waf/all/5.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/05.png)](/docs/images/Manual/waf/all/05.png){: target="_blank"}
 
 <br />
 
-## 6. 시스템 IP주소 선택
-- 원하는 시스템 IP주소를 선택해서 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/6.png)](/docs/images/Manual/waf/all/6.png){: target="_blank"}
+## 6. 호스트 IP주소 선택
+- 원하는 호스트 IP주소를 선택해서 볼 수 있습니다.   
+[![image](/docs/images/Manual/waf/all/06.png)](/docs/images/Manual/waf/all/06.png){: target="_blank"}
  
 <br />
 
-## 7. Status 선택
+## 7. 호스트(도메인) 선택
+- 호스트(도메인) 별로 로그를 선택하여 볼 수 있습니다.   
+[![image](/docs/images/Manual/waf/all/07.png)](/docs/images/Manual/waf/all/07.png){: target="_blank"}
+
+<br />
+
+## 8. Status 선택
 - Status 별로 로그를 선택하여 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/7.png)](/docs/images/Manual/waf/all/7.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/all/08.png)](/docs/images/Manual/waf/all/08.png){: target="_blank"}
 
 <br />
 
-## 8. 유형 선택
+## 9. 메소드
+- 메소드별로 선택하여 볼 수 있습니다.   
+[![image](/docs/images/Manual/waf/all/09.png){: width="800" }](/docs/images/Manual/waf/all/09.png){: target="_blank"}
+
+<br />
+
+## 10. 유형 선택
 - 유형별로 로그를 선택하여 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/8.png){: width="800" }](/docs/images/Manual/waf/all/8.png){: target="_blank"}
-
-<br />
-
-## 9. 로그 분석 정보
-- 로그 목록을 클릭하면 각각의 로그에 담긴 자세한 내용들을 볼 수 있습니다.   
-[![image](/docs/images/Manual/waf/all/9.png){: width="800" }](/docs/images/Manual/waf/all/9.png){: target="_blank"}
-
-<br />
-
-## 10. 로그 원본 내용
-- ‘로그상세’ 버튼을 클릭하면 발생된 원본 내용을 확인할 수 있습니다.   
 [![image](/docs/images/Manual/waf/all/10.png){: width="800" }](/docs/images/Manual/waf/all/10.png){: target="_blank"}
+
+<br />
+
+## 11. 로그 분석 정보
+- 로그 목록을 클릭하면 각각의 로그에 담긴 자세한 내용들을 볼 수 있습니다.   
+[![image](/docs/images/Manual/waf/all/11.png){: width="800" }](/docs/images/Manual/waf/all/11.png){: target="_blank"}
+
+<br />
+
+## 12. 로그 원본 내용
+- ‘로그상세’ 버튼을 클릭하면 발생된 원본 내용을 확인할 수 있습니다.   
+[![image](/docs/images/Manual/waf/all/12.png){: width="800" }](/docs/images/Manual/waf/all/12.png){: target="_blank"}
