@@ -72,7 +72,7 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
    
 #### 6-2. 정보 입력
 
-- 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
+- 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 [![image](/docs/images/Ins_G/LogCol_web/6.png)](/docs/images/Ins_G/LogCol_web/6.png){:target="_blank"}
 
    

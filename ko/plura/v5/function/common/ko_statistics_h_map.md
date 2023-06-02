@@ -10,6 +10,6 @@ topnav: topnav
 
 - 탐지 건이 많은 순으로 각 필터별 탐지내용을 조회할 수 있습니다.
 
-- 시스템 로그에 대해서 확인할 수 있습니다.
+- 호스트/네트워크 로그에 대해서 확인할 수 있습니다.
 
 [![image](/docs/images/Manual/common/statistics/hitmap/01.png){: width="800" }](/docs/images/Manual/common/statistics/hitmap/01.png){: target="_blank"}
