@@ -17,7 +17,7 @@ topnav: topnav
 <br />
 
 ## 2. 페이지당 로그 수
-- 한 페이지당 보이는 로그의 수를 20개, 30개, 40개, 50개로 설정할 수 있습니다.
+- 한 페이지당 보이는 로그의 수를 설정할 수 있습니다.
 
 [![image](/docs/images/Manual/common/acc_take/2.png){: width="800" }](/docs/images/Manual/common/acc_take/2.png){: target="_blank"}
  
