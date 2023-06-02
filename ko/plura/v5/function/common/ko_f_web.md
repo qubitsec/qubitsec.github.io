@@ -119,8 +119,8 @@ topnav: topnav
 
 <br />
 
-## 11. 시스템 IP주소 선택
-- 원하는 시스템 IP주소를 선택해서 볼 수 있습니다.
+## 11. 호스트 IP주소 선택
+- 원하는 호스트 IP주소를 선택해서 볼 수 있습니다.
 
 [![image](/docs/images/Manual/common/filter/web/14.png){: width="800" }](/docs/images/Manual/common/filter/web/14.png){: target="_blank"}
  
