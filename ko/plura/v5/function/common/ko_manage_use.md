@@ -7,8 +7,8 @@ topnav: topnav
 
 <br />
 
-- 사용 : 데이터 유출 설정, 웹 개인 정보 숨김, 웹 탐지 예외 설정, 계정탈취 예외 설정, 웹/시스템/응용프로그램/네트워크 업로드 설정을 할 수 있습니다.
-- PLURA V5 Forensic 제품에서는 데이터 유출 설정, 웹/시스템 업로드 설정 기능을 지원하지 않습니다.
+- 사용 : 데이터 유출 설정, 웹 개인 정보 숨김, 웹 탐지 예외 설정, 계정탈취 예외 설정, 웹/호스트/응용프로그램/네트워크 업로드 설정을 할 수 있습니다.
+- PLURA V5 Forensic 제품에서는 데이터 유출 설정, 웹/호스트 업로드 설정 기능을 지원하지 않습니다.
 [![image](/docs/images/Manual/common/manage/use/16.png){: width="600" }](/docs/images/Manual/common/manage/use/16.png){: target="_blank"}
 
 <br />
@@ -64,7 +64,7 @@ topnav: topnav
 
 <br />
 
-- 시스템 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
+- 호스트 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/9.png){: width="600" }](/docs/images/Manual/common/manage/use/9.png){: target="_blank"}
 
 

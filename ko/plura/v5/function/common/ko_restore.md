@@ -59,9 +59,9 @@ topnav: topnav
 
 <br />
 
-## 4. 복원 시스템 관리
+## 4. 복원 호스트 관리
 
-- 복원된 시스템 정보를 확인할 수 있습니다.
+- 복원된 호스트 정보를 확인할 수 있습니다.
 [![image](/docs/images/Manual/common/manage/restore/004.png){: width="600" }](/docs/images/Manual/common/manage/restore/004.png){: target="_blank"}
 
 <br />
