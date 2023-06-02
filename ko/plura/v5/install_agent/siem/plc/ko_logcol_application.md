@@ -58,7 +58,7 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 - 시스템  > 시스템 관리 > 로그 취합서버(부모) 선택 > 응용프로그램 버튼을 클릭합니다.
 [![image](/docs/images/Ins_G/LogCol_app/app_4.png){: width="800" }](/docs/images/Ins_G/LogCol_app/app_4.png){: target="_blank"}
 
-- 시스템 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
+- 등록 팝업 > 원격지(자식) 서버 정보를 입력합니다.
 [![image](/docs/images/Ins_G/LogCol_app/app_5.png)](/docs/images/Ins_G/LogCol_app/app_5.png){: target="_blank"}
 
 <br />
