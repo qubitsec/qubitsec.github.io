@@ -5,13 +5,13 @@ sidebar: M_C
 topnav: topnav
 ---
 
-     PLURA V5 서비스를 설치하면 시스템 관리 페이지에 시스템의 상세 정보가 남게 되며, 그룹 생성 및 호스트의 상태를 변경할 수 있습니다.
+     PLURA V5 서비스를 설치하면 시스템 관리 페이지에 호스트의 상세 정보가 남게 되며, 그룹 생성 및 호스트의 상태를 변경할 수 있습니다.
 
 <br />
 
-## 1. 시스템 Summary
+## 1. Summary
 
-- 시스템 Summary에서는 등록된 호스트, 동작중인 호스트, 정상적으로 동작 중인 에이전트, 윈도우/리눅스 등 OS별 호스트 수 현황을 제공합니다.
+- Summary에서는 등록된 호스트, 동작중인 호스트, 정상적으로 동작 중인 에이전트, 윈도우/리눅스 등 OS별 호스트 수 현황을 제공합니다.
 
 - 각각의 Summary 숫자를 클릭하는 경우, 해당 정보로 필터된 정보가 노출됩니다.   
 [![image](/docs/images/Manual/siem/system/1.png){: width="800" }](/docs/images/Manual/siem/system/1.png){: target="_blank"}
@@ -87,7 +87,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 ## 5. 채널별 로그수
 
 - 선택한 시스템의 채널별 로그수를 확인할 수 있습니다.   
-※ 윈도우, 리눅스 시스템의 경우에만 버튼이 제공됩니다.
+※ 윈도우, 리눅스의 경우에만 버튼이 제공됩니다.
 [![image](/docs/images/Manual/siem/system/014.png){: width="800" }](/docs/images/Manual/siem/system/014.png){: target="_blank"}
 
 <br />

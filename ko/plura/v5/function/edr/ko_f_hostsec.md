@@ -34,7 +34,7 @@ topnav: topnav
 <br />
 
 ## 4. 그룹 선택
-- 사용자가 등록한 시스템 그룹을 선택해서 볼 수 있습니다.
+- 사용자가 등록한 호스트 그룹을 선택해서 볼 수 있습니다.
 
 [![image](/docs/images\Manual\edr\filter\hostsec\004.png){: width="800" }](/docs/images\Manual\edr\filter\hostsec\004.png){: target="_blank"}
 
@@ -54,8 +54,8 @@ topnav: topnav
 
 <br />
 
-## 7. 시스템 IP주소 선택
-- 원하는 시스템 IP주소를 선택해서 볼 수 있습니다.
+## 7. 호스트 IP주소 선택
+- 원하는 호스트 IP주소를 선택해서 볼 수 있습니다.
 
 [![image](/docs/images\Manual\edr\filter\hostsec\007.png){: width="800" }](/docs/images\Manual\edr\filter\hostsec\007.png){: target="_blank"}
 

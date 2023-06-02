@@ -105,8 +105,8 @@ topnav: topnav
 
 <br />
 
-## 15. 매소드 선택
-- 매소드별로 선택하여 볼 수 있습니다.   
+## 15. 메소드 선택
+- 메소드별로 선택하여 볼 수 있습니다.   
 [![image](/docs/images/Manual/waf/filter_detec/15.png){: width="800" }](/docs/images/Manual/waf/filter_detec/15.png){: target="_blank"}
 
 <br />

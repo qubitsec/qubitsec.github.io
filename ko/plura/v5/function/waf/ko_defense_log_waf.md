@@ -14,7 +14,7 @@ topnav: topnav
 
 <br />
 
-- “설정” 버튼을 클릭하면 방어 > 설정 페이지로 이동합니다.
+- “설정” 버튼을 클릭하면 방어 > 설정 페이지로 이동합니다.   
 [![image](/docs/images/Manual/waf/defense/log/2.png)](/docs/images/Manual/waf/defense/log/2.png){: target="_blank"}
 
 <br />

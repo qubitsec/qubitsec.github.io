@@ -19,7 +19,7 @@ topnav: topnav
 
 <br />
 
-- 마우스 우측 버튼 또는 “링크” 컬럼 하단의 아이콘을 클릭하여 해당 방어로그에 대한 탐지로그/전체로그 페이지로 이동할 수 있습니다.   
+- 마우스 우측 버튼 또는 “링크” 컬럼 하단의 아이콘을 클릭하여 해당 방어로그에 대한 전체로그 페이지로 이동할 수 있습니다.   
  [![image](/docs/images/Manual/siem/log/3.png){: width="800" }](/docs/images/Manual/siem/log/3.png){: target="_blank"}
 
 <br />

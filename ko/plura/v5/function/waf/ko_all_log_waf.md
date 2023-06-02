@@ -29,7 +29,7 @@ topnav: topnav
 <br />
 
 ## 4. 그룹 선택
-- 사용자가 등록한 시스템 그룹을 선택해서 볼 수 있습니다.   
+- 사용자가 등록한 호스트 그룹을 선택해서 볼 수 있습니다.   
 [![image](/docs/images/Manual/waf/all/04.png)](/docs/images/Manual/waf/all/04.png){: target="_blank"}
 
 <br />

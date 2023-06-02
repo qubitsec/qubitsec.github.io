@@ -9,7 +9,7 @@ topnav: topnav
 
 <br />
 
-## 1. 그룹등록
+## 1. 그룹 등록
 - 그룹을 추가하려면 ‘그룹등록’을 클릭한 후 호스트명을 입력한 후 추가버튼을 눌러 추가하고싶은 호스트를 선택합니다.
 - 등록완료 팝업창이 나타나면 확인 버튼을 누르면 그룹 등록이 완료됩니다.   
 [![image](/docs/images/Manual/siem/group/1.png){: width="800" }](/docs/images/Manual/siem/group/1.png){: target="_blank"}

@@ -35,7 +35,7 @@ PLURA V5 웹에서 필터 등록으로 설정 방법
 
 Wail2ban 에 의해 윈도우 방화벽에 차단 등록이 되면 아래와 같이 탐지됩니다.
 
-로그 예시 : 필터탐지 > 시스템
+로그 예시 : 필터탐지 > 호스트
 
 [![image](/docs/images/Additianal/wail/2.png){: width="800" }](/docs/images/Additianal/wail/2.png){: target="_blank"}
 

@@ -47,9 +47,9 @@ topnav: topnav
 
 <br />
 
-## 2. 탐지필터 TOP5 / 위험도별 로그발생 현황
+## 2. 탐지필터 TOP5 / Status별 로그발생 현황
 
-- 탐지필터 TOP5와 위험도별 로그발생 현황 그래프를 확인할 수 있습니다.   
+- 탐지필터 TOP5와 Status별 로그발생 현황 그래프를 확인할 수 있습니다.   
 [![image](/docs/images/Manual/waf/manual/05.png){: width="800" }](/docs/images/Manual/waf/manual/05.png){: target="_blank"}
 
 <br />
