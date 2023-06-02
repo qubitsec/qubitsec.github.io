@@ -1,5 +1,5 @@
 ---
-title: 시스템 분석
+title: 호스트 분석
 permalink: ko_report_sys_analy.html
 sidebar: M_C
 topnav: topnav

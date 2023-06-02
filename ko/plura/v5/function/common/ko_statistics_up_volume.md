@@ -13,7 +13,7 @@ topnav: topnav
 
 - 월별의 경우 당월 포함 4개월치의 로그업로드량을 확인할 수 있습니다.
 
-- 하단의 시스템별 로그업로드 용량 및 총 로그업로드 수를 파악할 수 있습니다.
+- 하단에서 호스트별 로그업로드 용량 및 총 로그업로드 수를 파악할 수 있습니다.
 
 <br />
 
@@ -32,17 +32,17 @@ topnav: topnav
 
 <br />
 
-## 2. 로그업로드 시스템 용량/수 조회
+## 2. 로그업로드 용량/수 조회
 
-- 에이전트가 설치된 시스템의 로그 용량/수를 정렬을 사용해 조회할 수 있습니다.
+- 에이전트가 설치된 호스트의 로그 용량/수를 정렬을 사용해 조회할 수 있습니다.
 
-[![image](/docs/images/Manual/common/statistics/upload/007.png){: width="800" }](/docs/images/Manual/common/statistics/upload/007.png){: target="_blank"}
+[![image](/docs/images/Manual/common/statistics/upload/007.png)](/docs/images/Manual/common/statistics/upload/007.png){: target="_blank"}
 
 <br />
 
 ## 3. 채널별 로그수
 
-- 선택한 시스템의 채널별 로그수를 확인할 수 있습니다.   
+- 선택한 시스템의 채널별 로그수를 하단에서 확인할 수 있습니다.   
 ※ 윈도우, 리눅스 시스템의 경우에만 버튼이 제공됩니다.
 [![image](/docs/images/Manual/common/statistics/upload/008.png){: width="800" }](/docs/images/Manual/common/statistics/upload/008.png){: target="_blank"}
 

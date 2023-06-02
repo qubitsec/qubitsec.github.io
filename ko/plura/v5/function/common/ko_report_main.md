@@ -9,7 +9,7 @@ topnav: topnav
 
 <br />
 
-### 1. 날짜별, 그룹별, 시스템별로 선택할 수 있습니다.
+### 1. 날짜별, 그룹별, 호스트별로 선택할 수 있습니다.
 [![image](/docs/images/Manual/common/report/main/1.png)](/docs/images/Manual/common/report/main/1.png){: target="_blank"} 
 
 <br />
