@@ -48,6 +48,6 @@ topnav: topnav
  
 <br />
 
-## 5. 시스템 선택
-- 원하는 시스템을 선택해서 볼 수 있습니다.   
+## 5. 호스트 선택
+- 원하는 호스트를 선택해서 볼 수 있습니다.   
 [![image](/docs/images/Manual/siem/log/8.png){: width="800" }](/docs/images/Manual/siem/log/8.png){: target="_blank"}

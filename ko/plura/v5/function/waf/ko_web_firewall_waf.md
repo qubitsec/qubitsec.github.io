@@ -7,17 +7,17 @@ topnav: topnav
 
 <br />
 
-- 시스템 그룹 별로 웹방화벽 설정을 진행할 수 있습니다.   
+- 그룹 별로 웹방화벽 설정을 진행할 수 있습니다.   
  [![image](/docs/images/Manual/waf/firewall/1.png){: width="800" }](/docs/images/Manual/waf/firewall/1.png){: target="_blank"}
 
 <br />
 
-- “그룹추가” 버튼을 클릭하여, 시스템 그룹을 추가할 수 있습니다.   
+- “그룹추가” 버튼을 클릭하여, 호스트 그룹을 추가할 수 있습니다.   
  [![image](/docs/images/Manual/waf/firewall/2.png)](/docs/images/Manual/waf/firewall/2.png){: target="_blank"}
 
 <br />
 
-- 시스템 그룹 별로 웹방화벽 공지 설정을 진행할 수 있습니다.   
+- 그룹 별로 웹방화벽 공지 설정을 진행할 수 있습니다.   
   - 접속예외 설정을 통해 점검 중 예외처리(IP주소 등록)가 가능합니다.
 
   [![image](/docs/images/Manual/waf/firewall/9.png){: width="800" }](/docs/images/Manual/waf/firewall/9.png){: target="_blank"}
@@ -29,7 +29,7 @@ topnav: topnav
 
 <br />
 
-- 시스템 그룹 별로 웹방화벽 차단 안내 설정을 진행할 수 있습니다.   
+- 그룹 별로 웹방화벽 차단 안내 설정을 진행할 수 있습니다.   
  [![image](/docs/images/Manual/waf/firewall/11.png){: width="800" }](/docs/images/Manual/waf/firewall/11.png){: target="_blank"}
 
 <br />

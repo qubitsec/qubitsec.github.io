@@ -32,7 +32,7 @@ topnav: topnav
 
 <br />
 
-1-2. 등록필터 페이지(시스템/웹/웹방화벽)에서 필터등록 버튼을 클릭합니다.
+1-2. 등록필터 페이지(웹방화벽/호스트/응용프로그램/웹/네트워크)에서 필터등록 버튼을 클릭합니다.
 
 [![image](/docs/images/Manual/waf/filter/3.png){: width="800" }](/docs/images/Manual/waf/filter/3.png){: target="_blank"}
 
@@ -82,25 +82,29 @@ topnav: topnav
 ## 3. 조건별로 필터 검색
 분류, 위험도, 동작 옵션을 선택하여 원하는 필터를 볼 수 있습니다.
 
-- 필터분류별
-[![image](/docs/images/Manual/waf/filter/7.png)](/docs/images/Manual/waf/filter/7.png){: target="_blank"}
-
 <br /> 
 
-- 위험도별
-[![image](/docs/images/Manual/waf/filter/8.png)](/docs/images/Manual/waf/filter/8.png){: target="_blank"}
+- 페이지당 로그 수     
+[![image](/docs/images/Manual/waf/filter/7.png)](/docs/images/Manual/waf/filter/7.png){: target="_blank"}
  
  <br />
 
-- 그룹별
+- 필터분류별   
+[![image](/docs/images/Manual/waf/filter/8.png)](/docs/images/Manual/waf/filter/8.png){: target="_blank"}
+
+<br /> 
+
+- 그룹별   
 [![image](/docs/images/Manual/waf/filter/9.png)](/docs/images/Manual/waf/filter/9.png){: target="_blank"}
+  
+ <br />
+
+- 위험도별   
+[![image](/docs/images/Manual/waf/filter/10.png)](/docs/images/Manual/waf/filter/10.png){: target="_blank"}
  
 <br />
 
-- 동작
-[![image](/docs/images/Manual/waf/filter/10.png)](/docs/images/Manual/waf/filter/10.png){: target="_blank"}
- 
-<br /> 
-
-- 유형별
+- 동작   
 [![image](/docs/images/Manual/waf/filter/11.png)](/docs/images/Manual/waf/filter/11.png){: target="_blank"}
+
+<br /> 

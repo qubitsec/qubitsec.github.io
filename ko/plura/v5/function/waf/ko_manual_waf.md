@@ -18,7 +18,7 @@ topnav: topnav
 
 <br />
 
-대시보드 상단에서는 총 탐지건수 / 등록 시스템 / 탐지로그 발생 시스템 수 / 로그 미업로드 시스템 수 / 로그 업로드량 / 리소스모니터링을 보여줍니다.
+대시보드 상단에서는 총 탐지건수 / 등록 호스트 / 탐지로그 발생 호스트 수 / 로그 미업로드 호스트 수 / 로그 업로드량 / 리소스모니터링을 보여줍니다.
 
 [![image](/docs/images/Manual/siem/dash/1.png){: width="800" }](/docs/images/Manual/siem/dash/1.png){: target="_blank"}
 
@@ -30,14 +30,14 @@ topnav: topnav
 
 - Status별, 차단/탐지별 조회가 가능합니다.
 
-[![image](/docs/images/Manual/waf/manual/07.png){: width="800" }](/docs/images/Manual/waf/manual/07.png){: target="_blank"}
+[![image](/docs/images/Manual/waf/manual/08.png){: width="800" }](/docs/images/Manual/waf/manual/08.png){: target="_blank"}
 
 - 최근 탐지된 로그
 - 탐지필터 TOP 5
 - Status별 로그발생 현황
 - 시간별 로그발생 현황
 - 접속 IP TOP5
-- 탐지로그 시스템 TOP5
+- 탐지로그 호스트 TOP5
 
 <br />
 
@@ -61,7 +61,7 @@ topnav: topnav
 
 <br />
 
-## 4. 접속 IP TOP5 / 탐지로그 시스템 TOP5
+## 4. 접속 IP TOP5 / 탐지로그 호스트 TOP5
 
-- 접속 IP TOP5와 탐지로그 시스템 TOP5 현황을 확인할 수 있습니다.   
-[![image](/docs/images/Manual/waf/manual/06.png){: width="800" }](/docs/images/Manual/waf/manual/06.png){: target="_blank"}
+- 접속 IP TOP5와 탐지로그 호스트 TOP5 현황을 확인할 수 있습니다.   
+[![image](/docs/images/Manual/waf/manual/09.png){: width="800" }](/docs/images/Manual/waf/manual/09.png){: target="_blank"}
