@@ -1,15 +1,15 @@
 ---
-title: 시스템
+title: 호스트
 permalink: ko_regi_f_system.html
 sidebar: M_C
 topnav: topnav
 ---
 
-     수집하고 있는 시스템 전체로그를 활용하여 사용자가 직접 원하는 시스템 필터를 만들 수 있습니다.
+     수집하고 있는 호스트 전체로그를 활용하여 사용자가 직접 원하는 호스트 필터를 만들 수 있습니다.
 
 <br />
  
-## 시스템 필터 등록
+## 호스트 필터 등록
 
 [![image](/docs/images/Manual/common/regi/system/1.png){: width="800" }](/docs/images/Manual/common/regi/system/1.png){: target="_blank"}
 
@@ -33,7 +33,7 @@ topnav: topnav
 
 <br />
 
-### 4. 시스템 그룹 선택
+### 4. 그룹 선택
 
 <br />
 
@@ -78,7 +78,7 @@ topnav: topnav
 
 - 네트워크 필터를 등록 할 때에는 분류를 etc. 로 선택하셔야 합니다.
 
-- 시스템 필터 등록 예시
+- 필터 등록 예시
 
 [![image](/docs/images/Manual/common/regi/system/8.png){: width="800" }](/docs/images/Manual/common/regi/system/8.png){: target="_blank"}
 

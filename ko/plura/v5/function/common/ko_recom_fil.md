@@ -11,7 +11,7 @@ topnav: topnav
 <br />
 
 ## 1. 추천 필터
-- 시스템 그룹을 추가하게 되면 직접 추천필터(시스템/응용프로그램/네트워크)에서 원하는 필터를 등록할 수 있습니다.
+- 사용자는 직접 추천필터(호스트/응용프로그램/네트워크)에서 원하는 필터를 등록할 수 있습니다.
 - 등록된 필터는 언제든지 추가, 삭제 할 수 있습니다.
 
 [![image](/docs/images/Manual/common/filter2/recom/1.png){: width="800" }](/docs/images/Manual/common/filter2/recom/1.png){: target="_blank"}

@@ -92,7 +92,7 @@ folders:
     url: 
 
     subfolders:
-    - title: system
+    - title: System
       subfolderitems:
 
       - title: Syslog

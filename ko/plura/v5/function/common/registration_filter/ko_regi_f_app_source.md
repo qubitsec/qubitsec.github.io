@@ -6,7 +6,7 @@ topnav: topnav
 ---
 
      PLURA V5에서 수집하고 있는 응용프로그램 원본 전체로그를 활용하여
-     사용자가 직접 원하는 시스템 필터를 만들 수 있습니다.
+     사용자가 직접 원하는 필터를 만들 수 있습니다.
 
 <br />
 ##  응용프로그램 원본 필터 등록
@@ -28,7 +28,7 @@ topnav: topnav
 
 <br />
 
-### 3. 시스템 그룹 선택
+### 3. 그룹 선택
 [![image](/docs/images/Manual/common/regi/source/4.png){: width="800" }](/docs/images/Manual/common/regi/source/4.png){: target="_blank"}
 
 <br />
