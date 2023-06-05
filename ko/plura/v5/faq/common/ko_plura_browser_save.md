@@ -34,5 +34,5 @@ topnav: topnav
 
 각각의 페이지별 라인 수 노출 설정이 유지됩니다.
 
-(적용 영역 : 보안탐지, 필터탐지, 전체로그, 필터, 방어, 서버, 추출로그)
+(적용 영역 : 보안탐지, 필터탐지, 전체로그, 필터, 방어, 시스템, 추출로그)
 [![image](/docs/images/Additianal/plura_b/3.png)](/docs/images/Additianal/plura_b/3.png){: target="_blank"}
