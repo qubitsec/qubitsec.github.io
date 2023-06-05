@@ -16,23 +16,23 @@ topnav: topnav
 
 <br />
 
-### 1-1. PLURA 회원 가입
+### 1-1. PLURA 계정 생성
 
-- 회원가입(크롬 브라우저 권장)
-   - [https://www.plura.io/](https://www.plura.io/){: target="_blank"}
+- 무료 평가판 시작(크롬 브라우저 권장)
+   - [https://www.plura.io/signup/](https://www.plura.io/signup/){: target="_blank"}
 
+<!--
 [![image](/docs/images/Additianal/cloud/1.png){: width="800" }](/docs/images/Additianal/cloud/1.png){: target="_blank"}
-
-<br />
+-->
 
 - 이메일 승인 > 가입 완료 (체험 라이선스 14일)
 - 체험 라이선스 연장 필요
 
 <br />
 
-### 1-2. 회원 가입 후 고객지원 요청
+### 1-2. 고객지원 요청
 
-- 로그 분석 지원을 위해 회원가입 완료 後 다음과 같이 “고객지원 요청하기” 선택
+- 로그 분석 지원을 위해 계정생성 완료 後 다음과 같이 “고객지원 요청하기” 선택
    - 요청 사유 작성, 예) PoC 로그 분석 요청
    - 메뉴위치: 좌측 상단 > 관리 > 서비스 > 고객지원 요청하기   
    [https://qubitsec.github.io/ko_manage_service.html](https://qubitsec.github.io/ko_manage_service.html){: target="_blank"}
@@ -41,7 +41,7 @@ topnav: topnav
 
 <br />
 
-### 1-3. 회원 가입 後 동료 초대
+### 1-3. 동료 초대
 - PoC에 함께 참여하는 동료 초대
 - 분석하는 시스템에 대한 통합 관리 제공
 - 메뉴 위치: 좌측 상단 > 관리 > 멤버 > 멤버 추가
