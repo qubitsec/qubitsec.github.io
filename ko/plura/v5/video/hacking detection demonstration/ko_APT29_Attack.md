@@ -21,7 +21,7 @@ APT29는 Advanced Persistent Threat(지능형 지속 공격)을 사용한 해킹
 
   1) APT29 모의 공격 시연
 
-  2) PLURA에서 APT29 공격 로그 확인 - 마이어어택, 시스템탐지
+  2) PLURA에서 APT29 공격 로그 확인 - 마이어어택, 호스트 탐지
 
 <br />
 
