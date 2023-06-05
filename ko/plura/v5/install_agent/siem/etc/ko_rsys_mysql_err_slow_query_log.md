@@ -105,7 +105,7 @@ long_query_time = 3
 
 ## 3. 로그 확인
 
-Error 또는 Slow Query 발생 후 시스템 로그에서 MySQL 관련 로그를 확인
+Error 또는 Slow Query 발생 후 호스트 로그에서 MySQL 관련 로그를 확인
 
 로그 예시 : 전체로그 > 호스트
 

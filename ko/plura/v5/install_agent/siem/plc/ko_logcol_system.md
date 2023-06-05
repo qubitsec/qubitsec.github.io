@@ -33,7 +33,7 @@ PLURA Log Collector (PLC) 지원 OS는 다음과 같습니다.
 
 <br />
 
-__※ 자식 시스템 설정하기__
+__※ 자식 호스트 설정하기__
 
 Syslog 전송 설정 (by root)
 
@@ -41,7 +41,7 @@ Syslog 전송 설정 (by root)
 
      <예>
 
-     *.info @로그취합시스템IP
+     *.info @로그취합호스트IP
 
 <br />
 

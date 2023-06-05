@@ -24,7 +24,7 @@ Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합
 `# vi /etc/syslog.conf`
 
      <예>
-     *.info @로그취합 시스템 IP주소
+     *.info @로그취합 호스트 IP주소
 
 <br />
 
@@ -36,7 +36,7 @@ Syslog 를 전달받을 Linux 계열의 시스템에 PLURA V5 Agent를 설치합
 
 <br />
 
-## 3. 시스템 등록
+## 3. 호스트 등록
 
-- **시스템 > 시스템 관리 > 취합 시스템 선택 > 등록**
+- **시스템 > 시스템 관리 > 취합 호스트 선택 > 등록**
  [![image](/docs/images/Ins_G/FreeBSD/freebsd.png)](/docs/images/Ins_G/FreeBSD/freebsd.png){:target="_blank"}
