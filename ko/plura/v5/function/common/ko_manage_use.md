@@ -48,7 +48,7 @@ topnav: topnav
 
 <br />
 
-- 웹 업로드 : 사용자가 원하는 웹 업로드 형식을 선별 또는 예외처리할  수 있습니다.   
+- 웹 업로드 : 사용자가 원하는 웹 로그를 선별/예외처리할 수 있습니다.   
 - 웹 업로드 설정의 경우, 기본적인 이미지 등의 디폴트 설정이 되어있으며 사용자에 의해 수정이 가능합니다.   
 [![image](/docs/images/Manual/common/manage/use/8.png){: width="600" }](/docs/images/Manual/common/manage/use/8.png){: target="_blank"}
 
@@ -64,7 +64,7 @@ topnav: topnav
 
 <br />
 
-- 호스트 업로드 : 사용자가 원하는 시스템 업로드 형식을 OS 별로 선별 또는 예외처리할 수 있습니다.   
+- 호스트 업로드 : 사용자가 원하는 호스트 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/9.png){: width="600" }](/docs/images/Manual/common/manage/use/9.png){: target="_blank"}
 
 
