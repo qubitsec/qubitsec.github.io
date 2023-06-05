@@ -9,7 +9,7 @@ topnav: topnav
 
 <br />
 
-> 회원 가입   
+> 계정 생성   
 > 로그인 後 고객지원 요청 신청   
 > 동료 초대   
 > 에이전트 설치 (Install Agents)
