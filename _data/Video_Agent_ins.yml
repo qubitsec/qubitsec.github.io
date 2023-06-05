@@ -1,7 +1,8 @@
 sidebarTitle: Video > 에이전트 설치
 
 folders:
-- title: SIEM
+
+- title: EDR
   folderitems:
 
   - title: Windows Event & IIS Log
@@ -9,6 +10,11 @@ folders:
 
   - title: Windows Sysmon Log (sysinternals)
     url: /ko_win_sysmon_log.html
+
+  folders:
+
+- title: SIEM
+  folderitems:
 
   - title: Linux Syslog
     url: /ko_lin_sys.html
