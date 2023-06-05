@@ -104,6 +104,7 @@ topnav: topnav
 
 <br />
 
+<!--
 ### 10. 다음은 필터탐지 로그 검색에 관한 예제 입니다.
 
      - 로그인에 대한  탐지만 보기를 원할 때 “로그인” 이라는 단어를 입력합니다.
@@ -112,6 +113,6 @@ topnav: topnav
 <br />
 
 [![image](/docs/images/Manual/common/search/8.png){: width="800" }](/docs/images/Manual/common/search/8.png){: target="_blank"}
-
+-->
 
  
