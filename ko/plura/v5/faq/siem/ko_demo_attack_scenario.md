@@ -103,7 +103,7 @@ PLURA V5 필터탐지 > 웹 메뉴에서 탐지
 
 ### 홈페이지 위변조
 
-**아래의 설명을 참고하여 다양한 운영체제(CentOS, ubuntu, Windows)에서 사용자의 홈페이지 파일명(경로)을 추가 후, 홈페이지 위변조를 탐지할 수 있습니다.**
+**아래의 설명을 참고하여 다양한 운영체제(CentOS, Ubuntu, Windows)에서 사용자의 홈페이지 파일명(경로)을 추가 후, 홈페이지 위변조를 탐지할 수 있습니다.**
 
 내부 블로그 : [홈페이지 위변조](https://qubitsec.github.io/ko_s_f_h_forgery.html){: target="_blank"}
 
