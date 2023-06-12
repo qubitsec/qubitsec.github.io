@@ -26,6 +26,6 @@ topnav: topnav
 
 <br />
 
-보고서 하단 호스트 정보는 아래 경로에서 등록 후, 확인할 수 있습니다.
+보고서 하단 호스트(도메인) 정보는 아래 경로에서 등록 후, 확인할 수 있습니다.
 - [경로 : 관리 > 목록 > 호스트](https://qubitsec.github.io/ko_manage_list.html){: target="_blank"}
 [![image](/docs/images/Manual/waf/report/04.png){: width="800" }](/docs/images/Manual/waf/report/04.png){: target="_blank"}
