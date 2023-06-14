@@ -43,7 +43,7 @@ topnav: topnav
 
 - IP주소 추가 버튼을 클릭하면, 로그인허용 IP주소 추가 팝업이 노출됩니다.
 
-[![image](/docs/images/Manual/common/manage/security/5.png)](/docs/images/Manual/common/manage/security/5.png){: target="_blank"}
+[![image](/docs/images/Manual/common/manage/security/012.png)](/docs/images/Manual/common/manage/security/012.png){: target="_blank"}
 
 <br />
 
