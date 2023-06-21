@@ -145,6 +145,21 @@ folders:
       - title: ネットワーク
         url: /ja_regi_f_network.html
 
+  folders:
+- title: システム
+  folderitems:
+
+  - title: システム管理
+    url: /ja_system_sys_manage.html
+
+  - title: グループ管理
+    url: /ja_system_g_manage.html
+
+  - title: リソース監視
+    url: /ja_system_resource_m.html
+
+  - title: ウェブログ使用設定方法
+    url: /ja_system_weblog.html
 
   folders:
 - title: 抽出ログ
@@ -176,10 +191,10 @@ folders:
     url: /ja_report_d_breach_analy.html
 
   - title: アカウント乗っ取り分析
-    url: /ja_report_a_takeover.analy.html
+    url: /ja_report_d_breach_analy.html
 
   - title: システム分析
-    url: /ja_report_sys_analy.html
+    url: /ja_report_a_takeover.analy.html
 
   - title: アプリケーション分析
     url: /ja_report_app_analy.html
@@ -249,6 +264,9 @@ folders:
 
   - title: 使用ログ
     url: /ja_manage_usage_log.html
+
+  - title: 復元サービス
+    url: /ja_restore.html
 
   folders:
 - title: パーソナライズ化

@@ -1,5 +1,5 @@
 ---
-title: リソースモニタリング
+title: リソース監視
 permalink: ja_system_resource_m.html
 sidebar: M_SIEM_ja
 topnav: topnav_ja
@@ -16,7 +16,7 @@ topnav: topnav_ja
 
 ## 1. 画面設定
 
-- リソースモニタリングカラムは、画面設定を通じて表示するかどうかを設定できます。
+- リソース監視カラムは、画面設定を通じて表示するかどうかを設定できます。
 - リソース監視ページの右側の歯車をクリックすると、画面設定ページが表示されます。
 <!-- [![image](/docs/images/Manual/siem/resource/1.png){: width="800" }](/docs/images/Manual/siem/resource/1.png){: target="_blank"}-->   
 <!-- [![image](/docs/images/Manual/siem/resource/2.png){: width="800" }](/docs/images/Manual/siem/resource/2.png){: target="_blank"}-->

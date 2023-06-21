@@ -40,7 +40,7 @@ topnav: topnav_ja
 
 - **その他情報** 
   - 情報（マーケティング）メール:マーケティングメールを受け取ることができます
-  - 言語設定:個人通知(検知/防御、リソースモニタリング)に対する言語設定ができます。
+  - 言語設定:個人通知(検知/防御、リソース監視)に対する言語設定ができます。
 
 <!-- [![image](/docs/images/Manual/common/etc/06.png){: width="800" }](/docs/images/Manual/common/etc/06.png){: target="_blank"}-->
 

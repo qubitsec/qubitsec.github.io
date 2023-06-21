@@ -32,9 +32,9 @@ PLURAエージェントで次のようにAutoScalingで活用する機能を設�
      2. AWS環境でAuto Scalingを使用する場合、インスタンス固有の識別子をPLURA V5システムに転送する設定(値が1のときに転送)
      login_with_machine_id = 0
 
-     3. 複数のネットワークインターフェイスを使用する場合、PLURAV5ウェブに表示されるIPアドレス設定 
+     3. 複数のネットワークインターフェイスを使用する場合、PLURA V5ウェブに表示されるIPアドレス設定 
      interface = eth1 (システム > システム管理リストに表示される代表IP アドレスを指定)  
-     interface_mon = eth1 (システム > リソースモニタリング > ネットワークトラフィックを収集するインターフェース設定)
+     interface_mon = eth1 (システム > リソース監視 > ネットワークトラフィックを収集するインターフェース設定)
       
      4. システム起動時のhostname変更によるログイン遅延設定
      login_hostname_check=0 (default = 0)  
