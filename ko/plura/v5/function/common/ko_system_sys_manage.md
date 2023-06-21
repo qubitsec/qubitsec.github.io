@@ -41,7 +41,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 - 해당 호스트를 클릭하면 호스트IP주소, 운영체제 버전, 업데이트 버전, 에이전트 설치시간을 확인할 수 있습니다.
 - 업데이트(빌드) 버전 마우스 오버 시, 해당 HotFix 정보를 확인할 수 있습니다.
 - 업데이트 정보가 없는 경우, HotFix 정보는 노출되지 않습니다.   
-[![image](/docs/images/Manual/siem/system/010.png){: width="800" }](/docs/images/Manual/siem/system/010.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/021.png){: width="800" }](/docs/images/Manual/siem/system/021.png){: target="_blank"}
 
 <br />
 
@@ -49,7 +49,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 - 해당 호스트의 웹로그 수집, 전체로그 저장, 리소스 수집 설정을 할 수 있습니다.
 - 변경사항을 수정하려면 해당 호스트를 클릭한 후 ON/OFF 상태를 변경하고 수정 버튼을 클릭합니다.   
-[![image](/docs/images/Manual/siem/system/011.png){: width="800" }](/docs/images/Manual/siem/system/011.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/022.png){: width="800" }](/docs/images/Manual/siem/system/022.png){: target="_blank"}
 
 <br />
 
@@ -64,23 +64,20 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 <br />
 
-- 호스트보안 에이전트인 경우, 아래 이미지와 같이 분석 설정(서버/에이전트)을 변경할 수 있습니다.
-[![image](/docs/images/Manual/siem/system/016.png){: width="800" }](/docs/images/Manual/siem/system/016.png){: target="_blank"}
+- 호스트보안 에이전트인 경우, 아래 이미지와 같이 분석 설정(탐지/차단/전체로그 수집)을 변경할 수 있습니다.
+[![image](/docs/images/Manual/siem/system/022.png){: width="800" }](/docs/images/Manual/siem/system/022.png){: target="_blank"}
 
 <br />
 
-- "H분석" 검색 옵션은 수집 방식에 따라 "에이전트" 또는 "서버"로 검색할 수 있습니다.
-[![image](/docs/images/Manual/siem/system/019.png)](/docs/images/Manual/siem/system/019.png){: target="_blank"}
-
 - "H유형" 검색 옵션은 탐지 방식에 따라 "탐지" 또는 "차단"으로 검색할 수 있습니다.
-[![image](/docs/images/Manual/siem/system/020.png)](/docs/images/Manual/siem/system/020.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/023.png)](/docs/images/Manual/siem/system/023.png){: target="_blank"}
 
 <br />
 
 ## 4. 히스토리
 
 - 여러 필터 설정에 따라 수집된 명령어 및 업데이트 히스토리를 볼 수 있습니다.   
-[![image](/docs/images/Manual/siem/system/012.png){: width="800" }](/docs/images/Manual/siem/system/012.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/024.png){: width="800" }](/docs/images/Manual/siem/system/024.png){: target="_blank"}
 
 <br />
 
@@ -88,7 +85,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 - 선택한 시스템의 채널별 로그수를 확인할 수 있습니다.   
 ※ 윈도우, 리눅스의 경우에만 버튼이 제공됩니다.
-[![image](/docs/images/Manual/siem/system/014.png){: width="800" }](/docs/images/Manual/siem/system/014.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/025.png){: width="800" }](/docs/images/Manual/siem/system/025.png){: target="_blank"}
 
 <br />
 
@@ -113,14 +110,14 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 - 필요 시 호스트 삭제도 가능합니다. 호스트 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’버튼을 클릭하면 해당 호스트가 삭제됩니다.
 - PLURA V5 서버와 통신이 정상일 때 삭제하면 해당 호스트에 설치된 에이전트도 삭제됩니다.   
-[![image](/docs/images/Manual/siem/system/013.png){: width="800" }](/docs/images/Manual/siem/system/013.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/026.png){: width="800" }](/docs/images/Manual/siem/system/026.png){: target="_blank"}
 
 <br />
 
 ## 8. 협의된 네트워크 로그 수집 등록
 
 - 협의된 네트워크 로그 수집 등록은 Public-Syslog 서비스로서, 에이전트를 설치할 수 없는 환경의 Syslog를 수집할 수 있는 서비스입니다.
-[![image](/docs/images/Manual/siem/system/09.png){: width="800" }](/docs/images/Manual/siem/system/09.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/027.png){: width="800" }](/docs/images/Manual/siem/system/027.png){: target="_blank"}
 
 - IP주소 입력의 경우, 외부로 통신하는 IP주소를 입력해주세요.
 - 정렬코드 : 업로드되는 로그의 programname이 없는 경우, 정렬코드 여부 설정으로 임의의 programname을 생성하여 msg정렬을 할 수 있습니다. 기본값은 OFF 이며 필요 시 호스트 환경에 따라 큐비트시큐리티와 협의하여 수정이 필요합니다.
