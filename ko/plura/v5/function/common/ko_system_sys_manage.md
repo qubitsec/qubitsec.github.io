@@ -9,9 +9,9 @@ topnav: topnav
 
 <br />
 
-## 1. Summary
+## 1. Summary 
 
-- Summary에서는 등록된 호스트, 동작중인 호스트, 정상적으로 동작 중인 에이전트, 윈도우/리눅스 등 OS별 호스트 수 현황을 제공합니다.
+- Summary에서는 등록된 호스트, 동작중인 호스트, 정상적으로 동작 중인 에이전트, 윈도우/리눅스 등 OS별 호스트 수 현황을 제공합니다. 
 
 - 각각의 Summary 숫자를 클릭하는 경우, 해당 정보로 필터된 정보가 노출됩니다.   
 [![image](/docs/images/Manual/siem/system/1.png){: width="800" }](/docs/images/Manual/siem/system/1.png){: target="_blank"}
