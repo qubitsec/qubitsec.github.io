@@ -7,7 +7,7 @@ product: Install_A_E
 
 <br />
 
-MS Windows EDR Agent 설치 방법
+MS Windows 용 EDR Agent 설치 방법을 안내해 드립니다.
 
       호스트 보안 용 윈도우 에이전트로 Windows Server와 Desktop (PC) 모두 지원합니다.
       마이터 어택 (MITRE ATT&CK) 기반 APT 해킹 공격에 대응합니다.
