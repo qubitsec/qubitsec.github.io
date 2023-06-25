@@ -7,33 +7,35 @@ product: Install_A_E
 
 <br />
 
-호스트보안 Windows Agent 설치방법입니다. 순서대로 진행해 주세요.
+MS Windows EDR Agent 설치 방법
 
-
-      제조사가 지원을 종료한 제품에 대하여 PLURA V5에서도 지원을 종료합니다.
-      PLURA V5에서 지원하지 않는 운영체제 버전을 사용한다면 문제가 발생할 수 있습니다.
-      제조사가 지원 종료한 버전을 사용 중이라면 업그레이드에 대하여 보다 적극적인 검토가 필요합니다.
-      해킹과 장애 등 다양한 문제에 직면하고 심각한 문제로 발전할 수 있기 때문입니다.
+      호스트 보안 용 윈도우 에이전트로 Windows Server와 Desktop (PC) 모두 지원합니다.
+      마이터 어택 (MITRE ATT&CK) 기반 APT 해킹 공격에 대응합니다.
+      사용자 행위 로그를 분석하여 이상행위 탐지 시 공격을 탐지 또는 차단을 제공합니다.
 
 ## 설치 안내
 
 <!-- 샘플 : __1.1 파일 다운로드__ -->
 
-### 1. 파일 다운로드
+### 1. EDR 에이전트 다운로드
 
-먼저 아래 링크를 클릭하여 호스트보안 에이전트 설치 파일을 다운로드 합니다.   
+아래에서 EDR 에이전트 설치 파일 다운로드
 
 [다운로드](https://repo.plura.io/v5/agent/win/PluraSetup.exe)
 
 <br />
 
-### 2. 설치 시작
+### 2. EDR 에이전트 설치 시작
+
+설치 지원 언어를 선택해 주십시오.
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_1.png)](/docs/images/Ins_G/Agent_W/Agent_W_1.png){:target="_blank"}
 
 <br />
 
 ### 3. 설치 경로 선택
+
+기본 경로 외에 사용자가 설치 경로를 수정할 수 있습니다.
 
 [![image](/docs/images/Ins_G/Ins_EDR/006.png)](/docs/images/Ins_G/Ins_EDR/006.png){:target="_blank"}
 
@@ -43,7 +45,8 @@ product: Install_A_E
 
 (1) 설치가 완료되면 로그인 창이 자동 실행 됩니다.
 
-(2) 웹페이지에서 확인한 라이센스를 입력합니다.
+(2) 웹페이지에서 확인한 라이선스를 입력합니다.
+- 라이선스는 프루라 웹 로그인 후 상단 > 관리 > 라이선스입니다.
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_3.png)](/docs/images/Ins_G/Agent_W/Agent_W_3.png){:target="_blank"}
 
@@ -51,7 +54,7 @@ product: Install_A_E
 
 ### 5. 서비스 시작
 
-(1) 로그인 되면 PLURA V5 서비스가 시작됩니다.
+(1) 로그인 되면 EDR 에이전트는 자동 시작됩니다.
 
 (2) 마지막 로그 업로드 시간이 보인다면 로그가 정상적으로 업로드 되고있는 것입니다.
 
@@ -60,6 +63,9 @@ product: Install_A_E
 <br />
 
 ### 6. Sysmon 설치
+
+Sysmon 에이전트는 MS Windows Internal 에서 제공하고 있는 소프트웨어입니다.
+Windows 시스템의 행위를 이해하기 위하여 강력하게 설치를 추천드립니다.
 
 (1) Sysmon 다운로드
 
@@ -78,7 +84,7 @@ product: Install_A_E
 
 (3) 확인
 
-Agent 에서 Sysmon 설치 확인
+EDR Agent 에서 Sysmon 설치 확인
 
 [![image](/docs/images/Ins_G/Sysmon/sysmon_3.png)](/docs/images/Ins_G/Sysmon/sysmon_3.png){:target="_blank"}
 
@@ -86,7 +92,7 @@ Agent 에서 Sysmon 설치 확인
 
 ### 7. 서비스 중지
 
-(1) 활성화 되어있는 ‘에이전트 상태’ 버튼을 누르면 PLURA V5 서비스가 중지됩니다.
+(1) 활성화 되어있는 ‘에이전트 상태’ 버튼을 누르면 EDR 에이전트 서비스가 중지됩니다.
 
 [![image](/docs/images/Ins_G/Agent_W/Agent_W_5.png)](/docs/images/Ins_G/Agent_W/Agent_W_5.png){:target="_blank"}
 
@@ -97,15 +103,14 @@ Agent 에서 Sysmon 설치 확인
 ### 8. 웹 로그 수집 설정
 
 웹 로그를 수집하는 기능을 추가하는 내용입니다.
-웹 로그 취합을 진행하시려면 아래 내용대로 따라해 주세요.
 
-(1) <font color='dodgerblue'> www.plura.io </font> 에 접속하여 해당 시스템의 웹 로그 수집 기능을 활성화 시킵니다.
+(1) <font color='dodgerblue'> https://plura.io </font> 에 접속하여 해당 시스템의 웹 로그 수집 기능을 활성화 시킵니다.
 
-* 시스템 > 시스템 관리에 들어갑니다.
+* 왼쪽 메뉴 하단 부분에, 시스템 > 시스템 관리
 
-* 목록 중 변경하고자 하는 항목을 클릭합니다.
+* 목록 중 변경하고자 하는 항목 선택
 
-(2-1) 웹로그 수집 ON 후 수정 버튼을 클릭합니다. 해제를 원하시면 OFF 합니다.
+(2-1) 웹로그 수집 ON 후 수정 버튼 선택, 해제를 원하시면 OFF 합니다.
 
 [![image](/docs/images/Ins_G/Ins_EDR/005.png){: width="800" }](/docs/images/Ins_G/Ins_EDR/005.png){:target="_blank"}
 
