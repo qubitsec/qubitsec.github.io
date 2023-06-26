@@ -9,22 +9,22 @@ topnav: topnav
      PLURA V5 사용을 위한 진행 안내입니다.
      회원 가입 > 로그인 > EDR 에이전트 설치로 진행되며 3分 내로 완료됩니다.
 
-<br>
+<br />
 
 
 ## 1. PLURA PoC 진행 개요
 
-<br>
+<br />
 
-(1) 회원 가입에 따른 계정 생성 <br>
-(2) 로그인 後 고객지원 요청 신청 <br>
+(1) 회원 가입에 따른 계정 생성 
+(2) 로그인 後 고객지원 요청 신청 
 (3) 에이전트 설치 (Install Agents)
 
-<br>
+<br />
 
 ### 1-1. PLURA 계정 생성
 
-- 무료 평가판 시작 <br>
+- 무료 평가판 시작 
    - [https://www.plura.io/signup/](https://www.plura.io/signup/){: target="_blank"}
 
 <!--
@@ -34,7 +34,7 @@ topnav: topnav
 - 이메일 승인 > 가입 완료 (무료 평가판 라이선스 14일)
 - 요청 시 평가판 라이선스 연장 제공
 
-<br>
+<br />
 
 ### 1-2. 고객지원 요청
 
@@ -45,7 +45,7 @@ topnav: topnav
 
 [![image](/docs/images/Additianal/cloud/2.png){: width="800" }](/docs/images/Additianal/cloud/2.png){: target="_blank"}
 
-<br>
+<br />
 
 ### 1-3. 동료 초대
 - 로그인 계정에 동료 초대
@@ -53,7 +53,7 @@ topnav: topnav
 - 메뉴 위치: 좌측 상단 > 관리 > 멤버 > 멤버 추가
 [https://qubitsec.github.io/ko_manage_member.html](https://qubitsec.github.io/ko_manage_member.html){: target="_blank"}
 
-<br>
+<br />
 
 ## 2. 에이전트 설치
 
@@ -69,13 +69,13 @@ topnav: topnav
 - 윈도우 에이전트 설치 예시   
 [https://qubitsec.github.io/ko_p_agent_edr_win.html](https://qubitsec.github.io/ko_p_agent_edr_win.html){: target="_blank"}
 
-<br>
+<br />
 
 ### 2-2. 사전 환경 확인
 - "Install Agents" 에서 시스템 환경에 맞는 문서를 찾기 어렵다면 대상 서버들의 OS 버전, 웹서버 종류 및 버전, 웹서비스 포트 정보 확인   
 - 해당 내역에 따라 정확한 설치 페이지를 안내해 드립니다.
 
-<br>
+<br />
 
 ### 2-3. 에이전트 설치 – 원격지원
 
@@ -86,7 +86,7 @@ topnav: topnav
   - Windows 의 경우 Sysmon 설치해야 보다 정확하고 충분한 이상징후 탐지가 가능합니다.
 Sysmon 설치 가이드 : [https://qubitsec.github.io/ko_sysmon.html](https://qubitsec.github.io/ko_sysmon.html){: target="_blank"}
 
-<br>
+<br />
  
 ## 3. PLURA V5 매뉴얼
 - [https://qubitsec.github.io/](https://qubitsec.github.io/){: target="_blank"}
