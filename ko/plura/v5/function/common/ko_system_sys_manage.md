@@ -14,7 +14,7 @@ topnav: topnav
 - Summary에서는 등록된 호스트, 동작중인 호스트, 정상적으로 동작 중인 에이전트, 윈도우/리눅스 등 OS별 호스트 수 현황을 제공합니다. 
 
 - 각각의 Summary 숫자를 클릭하는 경우, 해당 정보로 필터된 정보가 노출됩니다.   
-[![image](/docs/images/Manual/siem/system/1.png){: width="800" }](/docs/images/Manual/siem/system/1.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/028.png){: width="800" }](/docs/images/Manual/siem/system/028.png){: target="_blank"}
 
 <br />
 
@@ -41,7 +41,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 - 해당 호스트를 클릭하면 호스트IP주소, 운영체제 버전, 업데이트 버전, 에이전트 설치시간을 확인할 수 있습니다.
 - 업데이트(빌드) 버전 마우스 오버 시, 해당 HotFix 정보를 확인할 수 있습니다.
 - 업데이트 정보가 없는 경우, HotFix 정보는 노출되지 않습니다.   
-[![image](/docs/images/Manual/siem/system/021.png){: width="800" }](/docs/images/Manual/siem/system/021.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/029.png){: width="800" }](/docs/images/Manual/siem/system/029.png){: target="_blank"}
 
 <br />
 
@@ -49,7 +49,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 - 해당 호스트의 웹로그 수집, 전체로그 저장, 리소스 수집 설정을 할 수 있습니다.
 - 변경사항을 수정하려면 해당 호스트를 클릭한 후 ON/OFF 상태를 변경하고 수정 버튼을 클릭합니다.   
-[![image](/docs/images/Manual/siem/system/022.png){: width="800" }](/docs/images/Manual/siem/system/022.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/030.png){: width="800" }](/docs/images/Manual/siem/system/030.png){: target="_blank"}
 
 <br />
 
@@ -65,7 +65,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 <br />
 
 - 호스트보안 에이전트인 경우, 아래 이미지와 같이 분석 설정(탐지/차단/전체로그 수집)을 변경할 수 있습니다.
-[![image](/docs/images/Manual/siem/system/022.png){: width="800" }](/docs/images/Manual/siem/system/022.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/031.png){: width="800" }](/docs/images/Manual/siem/system/031.png){: target="_blank"}
 
 <br />
 
@@ -74,18 +74,31 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 <br />
 
-## 4. 히스토리
+## 4. 보안
 
-- 여러 필터 설정에 따라 수집된 명령어 및 업데이트 히스토리를 볼 수 있습니다.   
-[![image](/docs/images/Manual/siem/system/024.png){: width="800" }](/docs/images/Manual/siem/system/024.png){: target="_blank"}
+- 호스트 종료 또는 네트워크 격리 설정을 할 수 있습니다.
+※ 중복 사용 불가(호스트 종료 or 네트워크 격리 둘 중의 하나만 사용)
+  - 네트워크 격리의 경우, PLURA 에이전트를 제외한 모든 네트워크를 차단합니다.
+  - 로그업로드, 탐지, 차단 등 PLURA 에이전트는 정상 동작합니다.
+[![image](/docs/images/Manual/siem/system/032.png){: width="800" }](/docs/images/Manual/siem/system/032.png){: target="_blank"}
+
+- 보안 탭은 아래의 경로에서 메뉴 노출 설정을 할 수 있습니다.
+  - 관리 > 사용 > 호스트 > 사용자 설정
 
 <br />
 
-## 5. 채널별 로그수
+## 5. 히스토리
+
+- 여러 필터 설정에 따라 수집된 명령어 및 업데이트 히스토리를 볼 수 있습니다.   
+[![image](/docs/images/Manual/siem/system/033.png){: width="800" }](/docs/images/Manual/siem/system/033.png){: target="_blank"}
+
+<br />
+
+## 6. 채널별 로그수
 
 - 선택한 시스템의 채널별 로그수를 확인할 수 있습니다.   
 ※ 윈도우, 리눅스의 경우에만 버튼이 제공됩니다.
-[![image](/docs/images/Manual/siem/system/025.png){: width="800" }](/docs/images/Manual/siem/system/025.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/034.png){: width="800" }](/docs/images/Manual/siem/system/034.png){: target="_blank"}
 
 <br />
 
@@ -94,7 +107,7 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
 
 <br />
 
-## 6. 그룹등록
+## 7. 그룹등록
 
 - 그룹을 추가하려면 ‘그룹등록’을 클릭한 후 그룹명을 입력한 후 추가 버튼을 눌러 추가하고 싶은 호스트를 선택합니다.   
 [![image](/docs/images/Manual/siem/system/6.png){: width="800" }](/docs/images/Manual/siem/system/6.png){: target="_blank"}
@@ -106,18 +119,21 @@ PLURA Log Collector (PLC) 에 대한 자세한 내용은 아래의 링크를 참
  
 <br />
 
-## 7. 호스트 삭제
+## 8. 호스트 삭제, 종료, 네트워크 격리/해제
 
 - 필요 시 호스트 삭제도 가능합니다. 호스트 리스트 왼쪽의 체크박스에 체크하면 나타나는 ‘삭제’버튼을 클릭하면 해당 호스트가 삭제됩니다.
 - PLURA V5 서버와 통신이 정상일 때 삭제하면 해당 호스트에 설치된 에이전트도 삭제됩니다.   
-[![image](/docs/images/Manual/siem/system/026.png){: width="800" }](/docs/images/Manual/siem/system/026.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/035.png){: width="800" }](/docs/images/Manual/siem/system/035.png){: target="_blank"}
+
+- 체크박스 선택 후, 호스트를 종료 또는 네트워크 격리/해제를 할 수 있습니다.
+[![image](/docs/images/Manual/siem/system/037.png){: width="800" }](/docs/images/Manual/siem/system/037.png){: target="_blank"}
 
 <br />
 
-## 8. 협의된 네트워크 로그 수집 등록
+## 9. 협의된 네트워크 로그 수집 등록
 
 - 협의된 네트워크 로그 수집 등록은 Public-Syslog 서비스로서, 에이전트를 설치할 수 없는 환경의 Syslog를 수집할 수 있는 서비스입니다.
-[![image](/docs/images/Manual/siem/system/027.png){: width="800" }](/docs/images/Manual/siem/system/027.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/system/036.png){: width="800" }](/docs/images/Manual/siem/system/036.png){: target="_blank"}
 
 - IP주소 입력의 경우, 외부로 통신하는 IP주소를 입력해주세요.
 - 정렬코드 : 업로드되는 로그의 programname이 없는 경우, 정렬코드 여부 설정으로 임의의 programname을 생성하여 msg정렬을 할 수 있습니다. 기본값은 OFF 이며 필요 시 호스트 환경에 따라 큐비트시큐리티와 협의하여 수정이 필요합니다.

@@ -13,7 +13,7 @@ topnav: topnav
 
 <br />
 
-## 1. 예시) pwd에 대한 값을 숨김 설정하기
+## 1. 웹 업로드 예외
 - 웹 개인정보 숨김 : 웹로그 사용 시 개인정보 숨김 설정이 가능하며 설정하면 해당 정보를 *로 표시합니다.
 - 아래와 같이 pwd 값이 그대로 노출되고 있는 웹로그를 예로 들어 숨김 설정을 해보도록 하겠습니다.
 [![image](/docs/images/Manual/common/manage/use/2.png){: width="600" }](/docs/images/Manual/common/manage/use/2.png){: target="_blank"}
@@ -64,10 +64,6 @@ topnav: topnav
 
 <br />
 
-- 호스트 업로드 : 사용자가 원하는 호스트 로그를 선별/예외처리할 수 있습니다.   
-[![image](/docs/images/Manual/common/manage/use/9.png){: width="600" }](/docs/images/Manual/common/manage/use/9.png){: target="_blank"}
-
-
 <!--
 <br />
 
@@ -102,14 +98,31 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 
 -->
 
+## 2. 호스트 업로드 예외
+
+### 2-1. 호스트 종료/네트워크 격리
+
+- 호스트 종료, 네트워크 격리 메뉴 노출 설정을 할 수 있습니다.
+[![image](/docs/images/Manual/common/manage/use/17.png){: width="600" }](/docs/images/Manual/common/manage/use/17.png){: target="_blank"}
+
+  - 메뉴 노출 설정을 한 경우, 시스템 > 시스템 관리 > 호스트 선택 > 보안 탭에서 확인할 수 있습니다.
+
 <br /> 
 
-## 2. 응용프로그램 업로드 예외
+### 2-2. 호스트 업로드 예외
+
+- 호스트 업로드 : 사용자가 원하는 호스트 로그를 선별/예외처리할 수 있습니다.   
+[![image](/docs/images/Manual/common/manage/use/9.png){: width="600" }](/docs/images/Manual/common/manage/use/9.png){: target="_blank"}
+
+
+<br /> 
+
+## 3. 응용프로그램 업로드 예외
 
 - 응용프로그램 원본 업로드 : 사용자가 원하는 응용프로그램 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/12.png){: width="600" }](/docs/images/Manual/common/manage/use/12.png){: target="_blank"}
 
-### 2-1. 응용프로그램 업로드 예외
+### 3-1. 응용프로그램 업로드 예외
 
 - 원본 로그 중 공백을 예외하고 싶은 경우   
 { “timegenerated”: “2022-05-21T13:20:45.098193+09:00”, “tag”: “top”, “path”: “/var/log/pluraagent.txt”, “msg”: “” }
@@ -126,7 +139,7 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 
 <br />
 
-### 2-2. 응용프로그램 사용자 정의 예외
+### 3-2. 응용프로그램 사용자 정의 예외
 - 노출하고 싶은 사용자 정의 항목을 설정합니다.
 - 선택한 항목만 대시보드, 전체로그, 필터탐지, 보고서 메뉴에서 노출됩니다.
 
@@ -134,7 +147,7 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 
 <br />
 
-## 3. 네트워크 업로드 예외
+## 4. 네트워크 업로드 예외
 - 사용자가 원하는 네트워크 로그를 선별/예외처리할 수 있습니다.   
 [![image](/docs/images/Manual/common/manage/use/15.png){: width="600" }](/docs/images/Manual/common/manage/use/15.png){: target="_blank"}
 
