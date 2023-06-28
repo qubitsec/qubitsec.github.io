@@ -106,6 +106,8 @@ C:\ → Program Files(x86) → PLURA → 메모장(또는 Notepad++)에서 @ELC_
 [![image](/docs/images/Manual/common/manage/use/17.png){: width="600" }](/docs/images/Manual/common/manage/use/17.png){: target="_blank"}
 
   - 메뉴 노출 설정을 한 경우, 시스템 > 시스템 관리 > 호스트 선택 > 보안 탭에서 확인할 수 있습니다.
+    - 호스트 종료 : 호스트 종료를 실행합니다.
+    - 네트워크 격리 : PLURA 에이전트를 제외한 모든 네트워크를 차단합니다.
 
 <br /> 
 
