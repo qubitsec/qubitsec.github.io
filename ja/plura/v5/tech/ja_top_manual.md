@@ -13,32 +13,31 @@
 
 <br /> 
 
-パス: <code>_data/topnav.yml (上段メニューバー)</code>
+パス: <code>_data/topnav.yml (トップメニューバー)</code>
 
-以下のコードのように追加すると、上段のナビゲーションバーにメニューが新たに生成されます。
-* 注意：間隔をよく合わせなければなりません。
+以下のコードのように追加すると、上段のナビゲーションバーにメニューが新たに作成されます。
+* 間隔注意
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_1.PNG){: width="800" }](/docs/images/Tech/Top/top_menu_1.png){: target="_blank"}-->
+[![image](/docs/images/Tech/Top/ja_top_menu_1.PNG){: width="" }](/docs/images/Tech/Top/ja_top_menu_1.PNG){: target="_blank"}
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_2.PNG){: width="800" }](/docs/images/Tech/Toptop_menu_2.png){: target="_blank"}-->
-
+[![image](/docs/images/Tech/Top/ja_top_menu_2.PNG){: width="" }](/docs/images/Tech/Top/ja_top_menu_2.PNG){: target="_blank"}
 <br />
 
-test1というページを作るには、ページを集めておいたフォルダパスに新しいフォルダを作成する。
+test1というページを作るには、ページを集めておいたフォルダパスに新しいフォルダを作成します。
 
-パス: <code>ko/plura/v5/tech</code>
+경로: <code>ja/plura/v5/tech</code>
 
 tech 下に test.mdファイルを作成
 
 <br />
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_3.PNG){: width="400" }](/docs/images/Tech/Top/top_menu_3.png){: target="_blank"}-->
+[![image](/docs/images/Tech/Top/top_menu_3.PNG){: width="" }](/docs/images/Tech/Top/top_menu_3.PNG){: target="_blank"}
 
 <br />
 
-test.md 파일을 아래와 같이 기본적으로 작성해줘야 페이지가 노출이 된다.
+test.md ファイルを下記のように作成したらページが表示されます。
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_4.PNG){: width="800" }](/docs/images/Tech/Top/top_menu_4.png){: target="_blank"}-->
+[![image](/docs/images/Tech/Top/ja_top_menu_4.PNG){: width="" }](/docs/images/Tech/Top/ja_top_menu_4.PNG){: target="_blank"}
 
 <br />
 
@@ -48,17 +47,17 @@ test.md 파일을 아래와 같이 기본적으로 작성해줘야 페이지가 
 
 パス: <code>_data/(ファイル名.yml)</code>
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_5.PNG){: width="400" }](/docs/images/Tech/Top/top_menu_5.png){: target="_blank"}-->
+[![image](/docs/images/Tech/Top/top_menu_5.PNG){: width="" }](/docs/images/Tech/Top/top_menu_5.PNG){: target="_blank"}
 
-生成したymlファイルの内容は以下のように作成されます。
+作成したymlファイルの内容は下記のように作成します。
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_6.PNG){: width="800" }](/docs/images/Tech/Top/top_menu_6.png){: target="_blank"}-->
+[![image](/docs/images/Tech/Top/ja_top_menu_6.PNG){: width="" }](/docs/images/Tech/Top/ja_top_menu_6.PNG){: target="_blank"}
 
 <br />
 
-すべて終わると、写真のようにページが表示されます。
+適用すると、下記のようにページが表示されます。
 
-<!-- [![image](/docs/images/Tech/Top/top_menu_7.PNG){: width="800" }](/docs/images/Tech/Top/top_menu_7.png){: target="_blank"}-->
+[![image](/docs/images/Tech/Top/top_menu_7.PNG){: width="750" }](/docs/images/Tech/Top/top_menu_7.PNG){: target="_blank"}
 
 <br />
 

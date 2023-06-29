@@ -7,48 +7,52 @@
 
 
 
-## [vscode]
+## 1. VSCode
 
-[vscode ダウンロード](https://code.visualstudio.com/download)します。
-
-<br />
-
-## [Git]
-
-
-[Git サインイン](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)を行います。
-
-新しい Repository 作成
-
-Repository 名前は ex) username.github.io
-
-Add a README file をチェックします。 // 理由は remote をするためです。
+[VSCode ダウンロード](https://code.visualstudio.com/download){:target="_blank"}
+をします。
 
 <br />
 
-[git-scm.com](git-scm.com) に接続して Git をインストール (右下のモニター図に自分のオペレーティングシステムに合うバージョンがわかります。)
+## 2. Git
 
-<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_1.png){: target="_blank"}-->
 
-<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_2.png){: target="_blank"}-->
+[Git 新規登録](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home){:target="_blank"}
+を行います。
 
-<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_3.png){: target="_blank"}-->
+新しいRepositoryを作成します。
+
+Repositoryの名前は ex) username.github.io
+
+リモート接続をするためにAdd a README fileをチェックする必要があります。
+
+<br />
+
+[https://git-scm.com](https://git-scm.com/){:target="_blank"}
+ に接続して、自分のオペレーティング システムに合ったバージョンのGitをインストールします。
+
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_1.PNG){: target="_blank"}
+
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_2.PNG){: target="_blank"}
+
+[![image](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/Blog_3.PNG){: target="_blank"}
 
 **上記の画像3つを除き、残りは基本設定**
 
 <br />
 
-## [Ruby]
-[https://www.ruby-lang.org/ko/](Ruby ダウンロード)
+## 3. Ruby
+[Rubyダウンロード](https://www.ruby-lang.org/ja/){:target="_blank"}
 
-<!-- [![image](/docs/images/Tech/Jekyll_Blog/Blog_4.PNG){: width="600" }](/docs/images/Tech/Jekyll_Blog/Blog_4.png){: target="_blank"}-->
 
-最新バージョンをダウンロードします。
+[![image](/docs/images/Tech/Jekyll_Blog/ja_Blog_4.PNG){: width="" }](/docs/images/Tech/Jekyll_Blog/ja_Blog_4.PNG){: target="_blank"}
 
-すべて進むとするとcmdウィンドウが出てくるが、3回押します。
+
+すべて進行するとcmdウィンドウが表示されますが、3番を選択してください。
+
 <br />
 
-## [Git 連動] cmd or VSC(terminal)
+## 4. Git連動 cmd or VSC(terminal)
 
  git config –global user.name [github アカウント]
 
@@ -56,33 +60,33 @@ Add a README file をチェックします。 // 理由は remote をするた�
 
  <br />
 
- デスクトップフォルダの作成or保存したいパス
+ デスクトップにフォルダを作成または保存したいパスに作成します。
 
- 作成したフォルダに移動/cdコマンドに移動
- git clone (git repository HTTPS アドレス貼り付け)
-   - 成功すれば You appear to have cloned an empty repository とメッセージが出ます。
-   - 作成したフォルダに行くとフォルダがもう一つ作成されている。
+ 作成したフォルダへ移動 / cdコマンドで移動
+ git clone (git repository HTTPSアドレス を貼り付け)
+   - 成功したら You appear to have cloned an empty repository メッセージが表示
+   - 作成したフォルダの中に、フォルダがもう1つ作成されています。
 
 <br />
 
-### Git アップロード(適用)
+### 4-1. Git アップロード(適用)
 
 **1. cmd**
    - git add [filename]
-   - git commit -m “name(スナップショットの概念なので、ご自身がやりたい名前に設定。)”
-   - git push // gitに載せたいファイルが載っております。
+   - git commit -m “name(スナップショットの概念なので、自分がやりたい名前に設定します。)”
+   - git push // gitにアップしたいファイルが載っています。
 
 **2. vsc**
 
-   - ctrl + s (保存) = ターミナルに完了表示が出れば、まずローカル環境で確認できる。
-   - 拡大鏡アイコンをクリック
-   - 入れる名前を入力
+   - ctrl + s (保存) = ターミナルに完了表示が出たら、まずローカル環境で確認できます。
+   - 虫眼鏡アイコンクリック
+   - 入れるタイトル入力
    - ctrl + enter
    - sync ~~ クリック
 
 <br />
 
-## [Jekyll Install]
+## 5. Jekyll Install
 cmd 実行
 
 gem install jekyll
@@ -91,12 +95,12 @@ bundle install
 
 
 cd C:\(~~~)
-   - ご自身のブログフォルダへ移動
+   - ご自身のブログフォルダに移動
 
 
 jekyll new .
 
 bundle exec jekyll serve
-   - cmdにローカルパスが表示されます。(仮想環境がスタート)
+   - cmdにローカルアドレス表示(仮想環境開始)
    
    ex) 127.0.0.1~~~
