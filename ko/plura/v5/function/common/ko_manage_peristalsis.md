@@ -52,7 +52,7 @@ topnav: topnav
 <br />
 
 4-2. 알림 상세 선택   
- [![image](/docs/images/Manual/common/manage/peristalsis/11.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/11.png){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/peristalsis/14.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/14.png){: target="_blank"}
 
 - 추가, 삭제 버튼을 이용하여 Syslog 알림을 받을 서버 편집을 할 수 있습니다.
 - 탭 이동(탐지, 방어, 사용로그)을 하여 설정을 변경할 수 있습니다.
