@@ -71,3 +71,4 @@ topnav: topnav
 - 예시_Syslog 설정
 
  [![image](/docs/images/Manual/common/manage/peristalsis/13.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/13.png){: target="_blank"}
+###
