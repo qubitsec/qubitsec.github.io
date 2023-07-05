@@ -68,8 +68,6 @@ topnav: topnav
    - Syslog 포맷 : RFC3164, RFC5424, CEF 지원   
    ※ CEF : ArcSight CEF 포맷임.
 
-<br />
-
 - 예시_Syslog 설정
 
  [![image](/docs/images/Manual/common/manage/peristalsis/13.png){: width="800" }](/docs/images/Manual/common/manage/peristalsis/13.png){: target="_blank"}
