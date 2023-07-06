@@ -9,4 +9,30 @@ topnav: topnav_ja
 
 <br />
 
-<!-- [![image](/docs/images/Video\hacking\databreachdetection/01.png){: width="800" }](/docs/images/Video\hacking\databreachdetection/01.png){: target="_blank"}-->
+## 1. SQLインジェクション(SQL Injection)
+
+アプリケーションセキュリティ上の抜け穴を意図的に利用し、悪意のあるSQL文を実行させることでデータベースを異常に操作するコードインジェクション攻撃方法です。
+
+<br />
+
+## 2. 模擬攻撃シナリオ
+  
+  1) Sqlmapを使った模擬攻撃
+
+  2) PLURAデータ流出フィルタ検知 : 脆弱性を把握
+  
+  3) PLURAデータ流出フィルタ検知 : DB名奪取
+  
+  4) PLURAデータ流出フィルタ検知 : テーブル名奪取
+
+<br />
+
+## 3. 参考サイト
+
+  [1] SQLインジェクション [http://blog.plura.io/?p=17903](http://blog.plura.io/?p=17903){: target="_blank"}
+  
+  [2] ウェブによるデータ流出ハッキング対応概論 [http://blog.plura.io/?p=12219](http://blog.plura.io/?p=12219){: target="_blank"}
+  
+  [3] データ流出マニュアル [https://qubitsec.github.io/ja_data_outflow.html](https://qubitsec.github.io/ja_data_outflow.html){: target="_blank"}
+
+  

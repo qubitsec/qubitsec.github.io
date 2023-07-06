@@ -16,6 +16,15 @@ topnav: topnav_ja
 
 <br />
 
-**※ PLURA V5 システム管理メニューからWeb Log収集設定方法**
+**※ PLURA V5 システム管理メニューから Web Log 収集設定方法**
 
 <!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/-S9GXYO_taY' frameborder='0' allowfullscreen></iframe></div> -->
+
+<br />
+
+※ PLURA V5 アップデートで一部の用語が以下のように変更されました。
+
+     (2023-05-25) アップデート
+     - 用語変更 : システム → ホスト
+
+<br />

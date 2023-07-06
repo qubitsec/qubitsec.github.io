@@ -4,7 +4,7 @@ folders:
 - title: 機能
   folderitems:
 
-  - title: ユーザ別ブラウザ保存機能
+  - title: ユーザー別ブラウザ保存機能
     url: /ja_plura_browser_save.html
   
   folders:

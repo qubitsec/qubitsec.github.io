@@ -1,4 +1,4 @@
-sidebarTitle: Video > ハッキング検知支援 試演
+sidebarTitle: Video > ハッキング検知試演
 
 folders:
 - title: System
@@ -10,11 +10,14 @@ folders:
   - title: Wannacry Ransomware
     url: /ja_wannacry_ransomware.html
 
+  - title: APT29 (MITRE ATT&CK)
+    url: /ja_APT29_Attack.html
+
   folders:
 - title: WEB
   folderitems:
 
-  - title: WebShell
+  - title: ウェブシェル(WebShell)
     url: /ja_webshell.html
 
   - title: XSL Script Processing [T1220]
@@ -22,6 +25,9 @@ folders:
 
   - title: XSS
     url: /ja_xss.html
+
+  - title: Estatik plugin vulnerability
+    url: /ja_Estatik_plugin.html
 
   folders:
 - title: アカウント乗っ取り
@@ -34,7 +40,7 @@ folders:
 - title: データ流出
   folderitems:
 
-  - title: SQLインジェクション
+  - title: SQL Injection
     url: /ja_data_breach_detection.html
 
 # folders:
@@ -53,7 +59,7 @@ folders:
 #   - title: APT29 (MITRE ATT&CK)
 #     url: /apt.html
 
-#   - title: データ流出検知 (SQLインジェクション)
+#   - title: 데이터 유출 탐지 (SQL 인젝션)
 #     url: /data_breach_detection.html
 
 #   - title: XSL Script Processing [T1220]

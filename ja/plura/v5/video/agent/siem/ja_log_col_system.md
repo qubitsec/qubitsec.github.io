@@ -5,13 +5,20 @@ sidebar: Video_Agent_ins_ja
 topnav: topnav_ja
 ---
 
-<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/hcpCi-caysQ' frameborder='0' allowfullscreen></iframe></div> -->
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/SHR1kh0iRt4' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
 
      PLURA Log Collector (PLC) - Systemの役割
      - 他のシステムのsyslog を収集
      - 収集したsyslog を圧縮して暗号化し、PLURA V5 クラウドに転送
+
+<br />
+
+※ PLURA V5 アップデートで一部の用語が以下のように変更されました。
+
+     (2023-05-25) アップデート
+     - 用語変更 : システム → ホスト
 
 <br />
 

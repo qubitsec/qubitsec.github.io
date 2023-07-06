@@ -1,7 +1,8 @@
-sidebarTitle: Video > エージェントのインストール
+sidebarTitle: Video > エージェントインストール
 
 folders:
-- title: SIEM
+
+- title: EDR
   folderitems:
 
   - title: Windows Event & IIS Log
@@ -9,6 +10,11 @@ folders:
 
   - title: Windows Sysmon Log (sysinternals)
     url: /ja_win_sysmon_log.html
+
+  folders:
+
+- title: SIEM
+  folderitems:
 
   - title: Linux Syslog
     url: /ja_lin_sys.html
