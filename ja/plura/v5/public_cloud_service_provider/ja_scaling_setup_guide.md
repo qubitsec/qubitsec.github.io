@@ -98,7 +98,7 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
     (環境に合わせてアクセスキー、秘密キー、IPアドレスの値を修正します。)  
 
-    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/08.png)](/docs/images/Public_Cloud/autoscaling_setup/08.png){: target="_blank"}-->
+    [![image](/docs/images/Public_Cloud/autoscaling_setup/08.png)](/docs/images/Public_Cloud/autoscaling_setup/08.png){: target="_blank"}
 
 <br />
 
@@ -138,10 +138,10 @@ PLURA V5はIPアドレスとホスト名を基準にエージェントを識別�
 
     (アイコンの状態が変更されるまで最大5分かかります。)  
 
-    <!-- [![image](/docs/images/Public_Cloud/autoscaling_setup/14.png)](/docs/images/Public_Cloud/autoscaling_setup/14.png){: target="_blank"}-->
+    [![image](/docs/images/Public_Cloud/autoscaling_setup/14.png)](/docs/images/Public_Cloud/autoscaling_setup/14.png){: target="_blank"}
 
 <br />
 
 -   新しく生成されたインスタンスが既に登録されたエージェントのIPアドレス/ホスト名と同じであれば、システム管理画面にエージェントが新たに追加される代わりにステータスだけが変更されます。
  
-    (アイコンの状態を直ちに変更태 즉시 변경)
+    (アイコンの状態を直ちに変更)

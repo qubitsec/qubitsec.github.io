@@ -12,7 +12,7 @@ topnav: topnav_ja
 
 ## 2. Amazon EC2 Auto Scaling 環境の構成例
 
-<!-- [![image](/docs/images/Public_Cloud/ec2_autoscaling/01.png)](/docs/images/Public_Cloud/ec2_autoscaling/01.png){: target="_blank"}-->  
+[![image](/docs/images/Public_Cloud/ec2_autoscaling/01.png)](/docs/images/Public_Cloud/ec2_autoscaling/01.png){: target="_blank"}  
 画像引用 : https://docs.aws.amazon.com
 
 上記のような環境で、それぞれのインスタンスにPLURAエージェントをインストールして使用できます。

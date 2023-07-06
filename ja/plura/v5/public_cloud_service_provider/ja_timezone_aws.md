@@ -28,7 +28,7 @@ rsyslogを再起動しないと、収集ログの時間が変更適用されま�
 **シナリオ1_現在 Local time 確認**
 
 `# date`
-<!-- [![image](/docs/images/Public_Cloud/timezone/01.png){: width="800" }](/docs/images/Public_Cloud/timezone/01.png){: target="_blank"}-->  
+[![image](/docs/images/Public_Cloud/timezone/01.png){: width="800" }](/docs/images/Public_Cloud/timezone/01.png){: target="_blank"}  
 
 LocaltimeがMon Jul 602:16:00 UTC 2020に設定されています。
 
@@ -37,7 +37,7 @@ LocaltimeがMon Jul 602:16:00 UTC 2020に設定されています。
 **シナリオ2_現在のLocal timeをAsia/seoulに設定変更**
 
 `# ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime`
-<!-- [![image](/docs/images/Public_Cloud/timezone/02.png){: width="800" }](/docs/images/Public_Cloud/timezone/02.png){: target="_blank"}-->
+[![image](/docs/images/Public_Cloud/timezone/02.png){: width="800" }](/docs/images/Public_Cloud/timezone/02.png){: target="_blank"}
 
 LocaltimeがMon Jul 6 11:16:42 KST 2020に変更されました。
 
