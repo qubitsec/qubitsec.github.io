@@ -19,15 +19,15 @@ topnav: topnav_ja
 
 ログ例 : 全ログ > ウェブ
 
-<!-- [![image](/docs/images/Faq/Agent/06.png){: width="800" }](/docs/images/Faq/Agent/06.png){: target="_blank"}-->
+[![image](/docs/images/Faq/Agent/ja_06.png){: width="800" }](/docs/images/Faq/Agent/ja_06.png){: target="_blank"}
 
 <br />
 
 ### 1. パス移動
 
-管理 > 使用 > ウェブ個人情報保護 > 設定ボタンをクリックします。
+管理 > 使用 > ウェブ 個人情報非表示 > 設定ボタンをクリックします。
 
-<!-- [![image](/docs/images/Faq/Agent/07.png){: width="800" }](/docs/images/Faq/Agent/07.png){: target="_blank"}-->
+[![image](/docs/images/Faq/Agent/ja_07.png){: width="800" }](/docs/images/Faq/Agent/ja_07.png){: target="_blank"}
 
 <br />
 
@@ -35,7 +35,7 @@ topnav: topnav_ja
 
 保護しようとする個人情報を追加します。
 
-<!-- [![image](/docs/images/Faq/Agent/08.png)](/docs/images/Faq/Agent/08.png){: target="_blank"}-->
+[![image](/docs/images/Faq/Agent/ja_08.png)](/docs/images/Faq/Agent/ja_08.png){: target="_blank"}
 
 <br />
 
@@ -45,7 +45,7 @@ topnav: topnav_ja
 
 ログ例 : 全ログ > ウェブ
 
-<!-- [![image](/docs/images/Faq/Agent/09.png){: width="800" }](/docs/images/Faq/Agent/09.png){: target="_blank"}-->
+[![image](/docs/images/Faq/Agent/ja_09.png){: width="800" }](/docs/images/Faq/Agent/ja_09.png){: target="_blank"}
 
 <br />
 

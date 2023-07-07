@@ -30,7 +30,7 @@ topnav: topnav_ja
 
 ## 2. 本人のIPアドレス確認
 
- <!-- [![image](/docs/images/Additianal/publicIP/2.png)](/docs/images/Additianal/publicIP/2.png){: target="_blank"}-->
+ [![image](/docs/images/Additianal/publicIP/ja_2.png)](/docs/images/Additianal/publicIP/ja_2.png){: target="_blank"}
 
 <br />
 
@@ -38,7 +38,7 @@ topnav: topnav_ja
 
 トップメニューの管理 > セキュリティ > <ログイン許可IPアドレス>
 
- <!-- [![image](/docs/images/Additianal/publicIP/3.png){: width="800" }](/docs/images/Additianal/publicIP/3.png){: target="_blank"}-->
+ [![image](/docs/images/Additianal/publicIP/ja_3.png)](/docs/images/Additianal/publicIP/ja_3.png){: target="_blank"}
 
 
 <br />

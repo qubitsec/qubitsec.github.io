@@ -7,28 +7,28 @@ topnav: topnav_ja
 
 <br />
 
-### 1. Windowエージェント
+### 1. Windowsエージェント
 
 <br />
 
-#### 1-1. <PLURAアイコン>クリック
+#### 1-1. 「PLURAアイコン」クリック
 
-<!-- [![image](/docs/images/Faq/Agent/01.png)](/docs/images/Faq/Agent/01.png){: target="_blank"}-->
+[![image](/docs/images/Faq/Agent/01.png)](/docs/images/Faq/Agent/01.png){: target="_blank"}
 
 <br />
 
 #### 1-2. 自動アップデート機能チェック
 
-ウィンドウPLURA V5 Agent自動アップデート機能を使用するには、設定タブの自動アップデートのチェックボックスにチェックしてください。 
+Windows PLURA V5 Agent自動アップデート機能を使用するには、設定タブの自動アップデートのチェックボックスにチェックしてください。 
 デフォルトはチェックです。
 
-<!-- [![image](/docs/images/Faq/Agent/02.png)](/docs/images/Faq/Agent/02.png){: target="_blank"}-->
+[![image](/docs/images/Faq/Agent/ja_02.png)](/docs/images/Faq/Agent/ja_02.png){: target="_blank"}
 
 <br />
 
 ### 2. Linuxエージェント
 
-Linuxエージェンは毎日の夜明けに自動アップデートされます。
+Linuxエージェントは毎日の夜明けに自動アップデートされます。
 
 <br />
 

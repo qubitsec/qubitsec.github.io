@@ -1,11 +1,11 @@
 ---
-title: サポートOS
+title: サポートオペレーティングシステム
 permalink: ja_support_os.html
 sidebar: faq_common_M_ja
 topnav: topnav_ja
 ---
 
-## PLURA V5がサポートするOSは下記の通りです。
+## PLURA V5がサポートするオペレーティングシステムは下記の通りです。
 
 <br />
 
@@ -37,7 +37,7 @@ topnav: topnav_ja
 
 **Ubuntu**
 
-     18.04 (64bit)方法
+     18.04 (64bit)
      20.04 (64bit) 
      22.04 (64bit) 
 

@@ -14,6 +14,6 @@ PLURAサービス利用中にお問い合わせがある場合は、カスタマ
 
 内容確認後、7日以内にお答えします。
 
-- 右上の「顧客支援要請」ボタンをクリック→利用約款に同意した後、顧客支援要請事由の作成
+- 右上の「カスタマーサポートリクエスト」ボタンをクリック→利用約款に同意した後、カスタマーサポートリクエスト事由の作成
 
 <!-- [![image](/docs/images/Manual/common/manage/service/2.png)](/docs/images/Manual/common/manage/service/2.png){: target="_blank"}-->

@@ -7,6 +7,7 @@ topnav: topnav_ja
 
 <br />
 
+<!-- 
 ### 1. Windows
 
      - PLURASControl.exe : パッチ及びサーバーとの通信処理
@@ -18,7 +19,16 @@ topnav: topnav_ja
      - PluraSelfUninstall.exe : UI無しにPLURA V5削除(サーバーで削除する時、処理)
 
 <br />
+ -->
+
+### 1. Windows
+
+     - PluraService.exe : ログ収集およびアップロード、パッチおよびサーバーとの通信
+     - Plura.exe : PLURA V5 エージェントステータス表示及び設定UIアプリ
+     - PluraUninstall.exe : PLURA V5 エージェント削除
+
+<br />
 
 ### 2. Linux
 
-     - pluraagent : ログ取り込みとアップロード
+     - pluraagent : ログ収集およびアップロード

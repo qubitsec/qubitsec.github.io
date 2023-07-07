@@ -73,15 +73,15 @@ folders:
   - title: ウェブ検知例外をしたいです
     url: /ja_web_detect_exception.html
 
-  folders:
-- title: 料金
-  folderitems:
+#   folders:
+# - title: 料金
+#   folderitems:
 
-  - title: 利用料金
-    url: /ja_service_price.html
+#   - title: 利用料金
+#     url: /ja_service_price.html
 
-  - title: 料金のお支払い
-    url: /ja_servicep_payment.html
+#   - title: 料金のお支払い
+#     url: /ja_servicep_payment.html
 
   folders:
 - title: その他

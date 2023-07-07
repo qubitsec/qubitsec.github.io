@@ -18,7 +18,7 @@ topnav: topnav_ja
 
 ### 1-1. メニュー表示クリック
 
-<!-- [![image](/docs/images/Additianal/plura_b/1.png)](/docs/images/Additianal/plura_b/1.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/plura_b/ja_1.png)](/docs/images/Additianal/plura_b/ja_1.png){: target="_blank"}
 
 <br />
 
@@ -26,7 +26,7 @@ topnav: topnav_ja
 
 メニューが非表示状態で設定が維持されます。
 
-<!-- [![image](/docs/images/Additianal/plura_b/2.png){: width="800" }](/docs/images/Additianal/plura_b/2.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/plura_b/ja_2.png)](/docs/images/Additianal/plura_b/ja_2.png){: target="_blank"}
 
 <br />
 
@@ -35,4 +35,4 @@ topnav: topnav_ja
 それぞれのページ別のライン数の表示設定が維持されます。
 
 (適用領域 : セキュリティ検出, フィルタ検出, 全ログ, フィルタ, 防御, サーバー, 収集ログ)
-<!-- [![image](/docs/images/Additianal/plura_b/3.png){: width="800" }](/docs/images/Additianal/plura_b/3.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/plura_b/ja_3.png)](/docs/images/Additianal/plura_b/ja_3.png){: target="_blank"}

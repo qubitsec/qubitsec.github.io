@@ -1,5 +1,5 @@
 ---
-title: ウィンドウエージェントインストール権限
+title: Windowsエージェントのインストール権限
 permalink: ja_window_agent_install_authority.html
 sidebar: faq_common_M_ja
 topnav: topnav_ja

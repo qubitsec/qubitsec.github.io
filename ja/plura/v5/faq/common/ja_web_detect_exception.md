@@ -27,7 +27,7 @@ topnav: topnav_ja
 
 管理 > 使用 > ウェブ検知例外 > 例外設定の追加設定
 
-<!-- [![image](/docs/images/Faq/Agent/10.png){: width="800" }](/docs/images/Faq/Agent/10.png){: target="_blank"} -->
+[![image](/docs/images/Faq/Agent/ja_10.png){: width="800" }](/docs/images/Faq/Agent/ja_10.png){: target="_blank"}
 
 <br />
 
@@ -35,7 +35,7 @@ topnav: topnav_ja
 
 グループで+として追加する項目はAND条件、グループ間はOR条件です。
 
-<!-- [![image](/docs/images/Faq/Agent/11.png)](/docs/images/Faq/Agent/11.png){: target="_blank"} -->
+[![image](/docs/images/Faq/Agent/ja_11.png)](/docs/images/Faq/Agent/ja_11.png){: target="_blank"}
 
 <br />
 
