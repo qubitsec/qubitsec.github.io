@@ -7,7 +7,7 @@ topnav: topnav
 
 <br />
 
-## PLURA V5 agent는 TCP 아웃바운드 커넥션만을 사용하며 타겟 서버 address와 포트는 다음과 같습니다.
+## PLURA V5 Agents는 TCP 아웃바운드 커넥션만을 사용하며 타겟 서버 address와 포트는 다음과 같습니다.
 
 <br />
 

@@ -12,7 +12,7 @@ topnav: topnav
      Administrator 그룹에 속한 사용자 계정(관리자 계정) 으로 PLURA V5 설치 이후 
      로그 오프 또는 시스템 재시작시 시작프로그램에 등록된 Tray 프로그램이 UAC 영향으로 
      실행되지 않을 수 있습니다.
-     반면 윈도우 서비스에 등록된 PLURAService.exe 는 system 권한으로 실행되기 때문에 
+     반면 윈도우 서비스에 등록된 PLURAService.exe 는 System 권한으로 실행되기 때문에 
      영향을 받지 않고 정상 작동하게 됩니다.
 
 <br />
