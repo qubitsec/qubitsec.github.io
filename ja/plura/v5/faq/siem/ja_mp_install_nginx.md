@@ -55,7 +55,7 @@ topnav: topnav_ja
 
 ## 3. カスタマイズインストール
 
-⭐注意 : server {}ブラックにaccess_log指示語がある場合, 親ブロックhttp {} ブロックのaccess_log
+⭐注意 : server {}ブロックにaccess_log指示語がある場合, 親ブロックhttp {} ブロックのaccess_log
 指示語が無視されます。よって下記の通り, 手動でaccess_log指示語ラインを追加する必要があります。
 
      server {

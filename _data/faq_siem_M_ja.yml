@@ -10,7 +10,7 @@ folders:
   - title: WGETエージェントのインストール
     url: /ja_onpremise_agent_inst_wget.html
 
-  - title: プライベートルート証明書の登録
+  - title: プライベートRoot証明書の登録
     url: /ja_plura_root_ca.html
 
   folders:

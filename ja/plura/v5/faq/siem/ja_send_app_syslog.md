@@ -16,13 +16,13 @@ topnav: topnav_ja
 
 <br />
 
- <!-- [![image](/docs/images/Additianal/send/1.png){: width="800" }](/docs/images/Additianal/send/1.png){: target="_blank"}-->
+ [![image](/docs/images/Additianal/send/ja_1.png){: width="800" }](/docs/images/Additianal/send/ja_1.png){: target="_blank"}
 
 <br />
 
 ## 1. クライアント: Tomcat8のcatalina.out
 
- 환경: CentOS 6 (64ビット), Rsyslog 5.8.10
+ 環境: CentOS 6 (64ビット), Rsyslog 5.8.10
 
 <br /> 
 
