@@ -21,7 +21,7 @@ MS Windows 용 EDR Agent 설치 방법을 안내해 드립니다.
 
 아래에서 EDR 에이전트 설치 파일 다운로드
 
-[다운로드](https://repo.plura.io/v5/agent/win/PluraSetup.exe)
+[다운로드](https://repo.plura.io/v4/agent/win/PluraSetup.exe)
 
 <br />
 
