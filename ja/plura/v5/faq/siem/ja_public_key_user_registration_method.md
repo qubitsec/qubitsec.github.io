@@ -22,13 +22,13 @@ topnav: topnav_ja
 
 **デフォルト登録情報**
 
-- 情報入力 > msg > 直接入力 : Accepted publickey for > 含め
+- 情報入力 > msg > 直接入力 : Accepted publickey for > 含む
 
  
 <br />
 
 **内部IPアドレス除外処理に必要な情報**
 
-- 情報入力 > msg > 直接入力 : Accepted publickey for > 含め
+- 情報入力 > msg > 直接入力 : Accepted publickey for > 含む
 - 情報入力 > msg > 選択入力 : default > 除外
 - default: サーバーグループに, defaultへ登録されているIPアドレス検出除外処理

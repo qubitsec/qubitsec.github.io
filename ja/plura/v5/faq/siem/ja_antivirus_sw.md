@@ -22,20 +22,20 @@ topnav: topnav_ja
 2-2. サーバーグループ選択 > オペレーティングシステムWindows選択 > Securityチャンネル選択 > 詳細追跡分類選択 > イベントタイプ選択
 
 
-<!-- [![image](/docs/images/Additianal/anti/1.png){: width="800" }](/docs/images/Additianal/anti/1.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/anti/ja_07.png){: width="800" }](/docs/images/Additianal/anti/ja_07.png){: target="_blank"}
  
 <br />
 
 イベントタイプでプロセス終了(4689)選択
 
-<!-- [![image](/docs/images/Additianal/anti/2.png)](/docs/images/Additianal/anti/2.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/anti/ja_08.png)](/docs/images/Additianal/anti/ja_08.png){: target="_blank"}
 
 絵のように選択後、‘データ値’に使用するワクチンの必修プロセス名を入れて下段の‘登録’ボタンをクリック
 
 <br />
 
 **例Alyac**
-<!-- [![image](/docs/images/Additianal/anti/3.png){: width="800" }](/docs/images/Additianal/anti/3.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/anti/ja_09.png){: width="800" }](/docs/images/Additianal/anti/ja_09.png){: target="_blank"}
 
 <br />
 
@@ -44,7 +44,7 @@ topnav: topnav_ja
 <br />
 
 **例V3**
-<!-- [![image](/docs/images/Additianal/anti/4.png){: width="800" }](/docs/images/Additianal/anti/4.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/anti/ja_10.png){: width="800" }](/docs/images/Additianal/anti/ja_10.png){: target="_blank"}
 
 <br />
 
@@ -54,7 +54,7 @@ topnav: topnav_ja
 
 **例Kaspersky**
 
-<!-- [![image](/docs/images/Additianal/anti/5.png)](/docs/images/Additianal/anti/5.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/anti/ja_11.png)](/docs/images/Additianal/anti/ja_11.png){: target="_blank"}
 
 <br />
 
@@ -64,7 +64,7 @@ topnav: topnav_ja
 
 **例Symantec Norton**
 
-<!-- [![image](/docs/images/Additianal/anti/6.png){: width="800" }](/docs/images/Additianal/anti/6.png){: target="_blank"}-->
+[![image](/docs/images/Additianal/anti/ja_12.png){: width="800" }](/docs/images/Additianal/anti/ja_12.png){: target="_blank"}
 
 <br />
 

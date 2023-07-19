@@ -19,7 +19,7 @@ RHELシステムでPLURA V5クラウドサービス接続のためProxyシステ
 
 **例**
 
- <!-- [![image](/docs/images/Additianal/aws/1.png)](/docs/images/Additianal/aws/1.png){: target="_blank"}-->
+ [![image](/docs/images/Additianal/aws/1.png)](/docs/images/Additianal/aws/1.png){: target="_blank"}
 
  <br />
 
