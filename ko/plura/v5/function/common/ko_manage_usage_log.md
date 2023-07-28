@@ -11,7 +11,7 @@ topnav: topnav
 
 <br />
 
-  - 날짜검색, 로그유형그룹, 로그유형을 선택할 수 있습니다.
+  - 그룹, 분류, 유형을 선택할 수 있습니다.
   
   [![image](/docs/images/Manual/common/manage/usage_log/2.png)](/docs/images/Manual/common/manage/usage_log/2.png){: target="_blank"}
 
