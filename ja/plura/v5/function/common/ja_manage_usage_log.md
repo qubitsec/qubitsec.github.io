@@ -11,7 +11,7 @@ topnav: topnav_ja
 
 <br />
 
-  - 日付検索、ログ タイプ グループ、ログ タイプを選択できます。
+  - グループ、分類、タイプを選択できます。
   
   <!-- [![image](/docs/images/Manual/common/manage/usage_log/2.png)](/docs/images/Manual/common/manage/usage_log/2.png){: target="_blank"}-->
 

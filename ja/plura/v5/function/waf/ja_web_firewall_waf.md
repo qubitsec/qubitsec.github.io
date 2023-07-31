@@ -34,7 +34,7 @@ topnav: topnav_ja
 
 <br />
 
-- 運用方式:該当グループのウェブファイアウォールの運用方式を検知/遮断中に設定することができます。
+- 運用方式:該当グループのウェブファイアウォールの運用方式を検知/ブロック中に設定することができます。
  <!-- [![image](/docs/images/Manual/waf/firewall/3.png)](/docs/images/Manual/waf/firewall/3.png){: target="_blank"}-->
 
 <br />
@@ -60,7 +60,7 @@ topnav: topnav_ja
 
 <br />
 
-- アクセス制限 > IPアドレス > "登録" ボタンをクリックすると、特定のIP接続に対する許可/遮断設定ができます。  
+- アクセス制限 > IPアドレス > "登録" ボタンをクリックすると、特定のIP接続に対する許可/ブロック設定ができます。  
   <!-- [![image](/docs/images/Manual/waf/firewall/7.png)](/docs/images/Manual/waf/firewall/7.png){: target="_blank"}-->
 
 <br />

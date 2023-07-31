@@ -25,7 +25,7 @@ topnav: topnav_ja
 
   3) PLURAウェブファイアウォールログを活用した分析方法
 
-  4) PLURAウェブファイアウォール(WAF)- Estatik plugin脆弱性攻撃に対する遮断試演
+  4) PLURAウェブファイアウォール(WAF)- Estatik plugin脆弱性攻撃に対するブロック試演
 
 <br />
 

@@ -21,7 +21,7 @@ topnav: topnav_ja
 
 ## 1. リアルタイム検出項目
 
-- Status別、遮断/検知別の照会が可能です。
+- Status別、ブロック/検知別の照会が可能です。
 
 <!-- [![image](/docs/images/Manual/waf/manual/01.png){: width="800" }](/docs/images/Manual/waf/manual/01.png){: target="_blank"}-->
 

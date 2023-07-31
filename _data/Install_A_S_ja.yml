@@ -4,9 +4,6 @@ folders:
 - title: Agent 
   folderitems:
 
-  - title: Windows Server
-    url: /ja_p_agent_win_srv.html
-
   - title: Linux Server
     url: /ja_p_agent_lin_srv.html
 
@@ -15,13 +12,6 @@ folders:
 
   - title: Linux Syslog-Audit
     url: /ja_lin_sys_audit.html
-
-  folders:
-- title: Sysmon
-  folderitems:
-
-  - title: Sysmon (Windows Sysinternals)
-    url: /ja_sysmon.html
 
 
   folders:

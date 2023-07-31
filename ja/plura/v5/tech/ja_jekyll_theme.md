@@ -37,7 +37,7 @@
 <br />
 
 ### 2-4. bundle コマンド実行
-- cmd または vsc terminal から username.github.io 経路を移動して下記のコマンドを実行
+- cmd または vsc terminal から username.github.io パスを移動して下記のコマンドを実行
 
 <code>bundle install</code>
 

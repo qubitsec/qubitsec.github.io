@@ -13,24 +13,7 @@ folders:
 
     #   - title: Log Collector > System
     #     url: /P_Agent_Win_Srv.html
-
-  folders:
-- title: システム
-  folderitems:
-
-  - title: システム管理
-    url: /ja_system_sys_manage.html
-
-  - title: グループ管理
-    url: /ja_system_g_manage.html
-
-  - title: リソース監視
-    url: /ja_system_resource_m.html
-
-  - title: ウェブログの使用設定方法
-    url: /ja_system_weblog.html
   
-
   folders:
 - title: 防御
   folderitems: 

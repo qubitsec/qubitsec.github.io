@@ -1,0 +1,15 @@
+sidebarTitle: Install Agents > EDR
+
+folders:
+- title: Agent 
+  folderitems:
+
+  - title: Windows 
+    url: /ja_p_agent_edr_win.html
+
+  folders:
+- title: Sysmon
+  folderitems:
+
+  - title: Sysmon (Windows Sysinternals)
+    url: /ja_sysmon.html

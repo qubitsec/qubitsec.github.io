@@ -17,7 +17,7 @@ topnav: topnav_ja
 - 登録フィルタ > システム   
 [https://qubitsec.github.io/ja_regi_f_system.html](https://qubitsec.github.io/ja_regi_f_system.html){:target="_blank"}
 
-- 登録フィルタ > アプリケーション > 元本   
+- 登録フィルタ > アプリケーション > ソース  
 [https://qubitsec.github.io/ja_regi_f_app_source.html](https://qubitsec.github.io/ja_regi_f_app_source.html){:target="_blank"}
 
 - 登録フィルタ > アプリケーション > ユーザー定義   

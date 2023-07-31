@@ -102,14 +102,14 @@ topnav: topnav_ja
 
 <!-- [![image](/docs/images/Manual/common/search/7.png){: width="800" }](/docs/images/Manual/common/search/7.png){: target="_blank"}-->
 
-<br />
+<!-- <br />
 
 ### 10. 次に、フィルタ検出ログ検索の例です。
 
      - ログインに対する検出のみを表示したい場合は、「ログイン」という単語を入力します。
      ログインに関連するフィルタ検出内容を見ることができます。
 
-<br />
+<br /> -->
 
 <!-- [![image](/docs/images/Manual/common/search/8.png){: width="800" }](/docs/images/Manual/common/search/8.png){: target="_blank"}-->
 

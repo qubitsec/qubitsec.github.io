@@ -22,3 +22,9 @@ topnav: topnav_ja
 
 月別報告書
 <!-- [![image](/docs/images/Manual/common/report/web/3.png){: width="800" }](/docs/images/Manual/common/report/web/3.png){: target="_blank"}-->
+
+<br />
+
+レポート下段ホスト(ドメイン)情報は、以下のパスから登録後、確認できます。
+- [パス : 管理 > リスト > ホスト](https://qubitsec.github.io/ja_manage_list.html){: target="_blank"}
+<!-- [![image](/docs/images/Manual/common/report/web/04.png){: width="800" }](/docs/images/Manual/common/report/web/04.png){: target="_blank"} -->

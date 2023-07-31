@@ -4,7 +4,7 @@ folders:
 - title: セキュリティ検知
   folderitems:
 
-  - title: 相関分析(correlation analysis)
+  - title: 相関分析
     url: /ja_correlation_analysis.html
 
   - title: データ流出
@@ -43,10 +43,10 @@ folders:
 - title: フィルタ検知
   folderitems:
 
-  - title: システム
+  - title: ホスト
     url: /ja_f_system.html
 
-  - title: アプリケーション>元本
+  - title: アプリケーション>ソース
     url: /ja_f_app_source.html
 
   - title: アプリケーション>ユーザー定義
@@ -69,10 +69,10 @@ folders:
 - title: 全体ログ
   folderitems:
 
-  - title: システム
+  - title: ホスト
     url: /ja_full_log_system.html
 
-  - title: アプリケーション>元本
+  - title: アプリケーション>ソース
     url: /ja_full_log_app_source.html
 
   - title: アプリケーション>ユーザー定義
@@ -111,7 +111,7 @@ folders:
     - title: セキュリティ
       subfolderitems: 
 
-      - title: 相関分析(correlation analysis)
+      - title: 相関分析
         url: /ja_s_f_cor_analysis.html
 
       - title: データ流出
@@ -130,10 +130,10 @@ folders:
     - title: 登録
       subfolderitems: 
 
-      - title: システム
+      - title: ホスト
         url: /ja_regi_f_system.html
 
-      - title: アプリケーション>元本
+      - title: アプリケーション>ソース
         url: /ja_regi_f_app_source.html
 
       - title: アプリケーション>ユーザー定義
@@ -181,20 +181,23 @@ folders:
   - title: メイン
     url: /ja_report_main.html
 
-  - title: マイターアタック(MITRE ATT&CK)分析
+  - title: EDR分析
+    url: /ja_report_edr_analy.html
+
+  - title: マイターアタック分析
     url: /ja_report_m_analy.html
 
-  - title: 相関分析(correlation analysis)
+  - title: 相関分析
     url: /ja_report_c_analy.html
 
   - title: データ流出分析
     url: /ja_report_d_breach_analy.html
 
   - title: アカウント乗っ取り分析
-    url: /ja_report_d_breach_analy.html
-
-  - title: システム分析
     url: /ja_report_a_takeover.analy.html
+
+  - title: ホスト分析
+    url: /ja_report_sys_analy.html
 
   - title: アプリケーション分析
     url: /ja_report_app_analy.html
@@ -253,7 +256,7 @@ folders:
   - title: 連動
     url: /ja_manage_peristalsis.html
 
-  - title: 使用管理
+  - title: 使用
     url: /ja_manage_use.html
 
   - title: システム

@@ -1,5 +1,5 @@
 ---
-title: アプリケーション>元本
+title: アプリケーション>ソース
 permalink: ja_regi_f_app_source.html
 sidebar: M_C_ja
 topnav: topnav_ja

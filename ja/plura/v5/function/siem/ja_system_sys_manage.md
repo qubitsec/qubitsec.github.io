@@ -1,70 +1,116 @@
 ---
 title: システム管理
 permalink: ja_system_sys_manage.html
-sidebar: M_SIEM_ja
+sidebar: M_C_ja
 topnav: topnav_ja
 ---
 
-     PLURA V5 サービスをインストールすると、システム管理ページにシステムの詳細情報が残され、グループの作成およびシステムの状態を変更することができます。
+     PLURA V5 サービスをインストールすると、システム管理ページにホストの詳細情報が残され、グループ作成およびホストの状態を変更できます。
 
 <br />
 
-## 1. システム Summary
+## 1. Summary 
 
-- システムSummaryでは、登録されたシステム、動作中のシステム、正常に動作中のエージェント、Windows/LinuxなどのOS別システム数の現状を提供します。
+- Summaryでは登録されたホスト、動作中のホスト、正常に動作しているエージェント、Windows/LinuxなどOS別ホスト数の現況を提供します。
 
-- それぞれのSummary数字をクリックすると、その情報でフィルタされた情報が表示されます。 
-<!-- [![image](/docs/images/Manual/siem/system/1.png){: width="800" }](/docs/images/Manual/siem/system/1.png){: target="_blank"}-->
+- それぞれのSummary数字をクリックすると、その情報でフィルタされた情報が表示されます。   
+<!-- [![image](/docs/images/Manual/siem/system/028.png){: width="800" }](/docs/images/Manual/siem/system/028.png){: target="_blank"} -->
 
 <br />
 
 - PLURA Log Collector (PLC) で表示される情報の意味は以下の通りです。
-<!-- [![image](/docs/images/Manual/siem/system/2.png)](/docs/images/Manual/siem/system/2.png){: target="_blank"}-->   
+<!-- [![image](/docs/images/Manual/siem/system/2.png)](/docs/images/Manual/siem/system/2.png){: target="_blank"}    -->
 P : Parent(親), C : Child(子)
 
 <br />
 
-- PLURA Log Collector (PLC)(親)の役割
-     - 子(システム、アプリケーション、ウェブ、ネットワーク)システムのsyslogを収集
-     - 収集したsyslog を圧縮して暗号化し、PLURA V5 クラウドに転送
+- PLURA Log Collector (PLC) (親)の役割
+     - 子(ホスト、アプリケーション、ウェブ、ネットワーク)システムのsyslogを収集
+     - 収集したsyslogを圧縮して暗号化し、PLURA V5 クラウドに転送
 
 <br />
 
 PLURA Log Collector (PLC) の詳細については、以下のリンクをご参照ください。
 
-- Install Agents > SIEM > PLC > System : [https://qubitsec.github.io/ja_logcol_system.html](https://qubitsec.github.io/ja_logcol_system.html){:target="_blank"}
+<!-- - Install Agents > SIEM > PLC > System : [https://qubitsec.github.io/ko_logcol_system.html](https://qubitsec.github.io/ko_logcol_system.html){:target="_blank"} -->
 
 <br />
 
-## 2. システム情報
+## 2. ホスト情報
 
-- このシステムをクリックすると、システムIPアドレス、オペレーティングシステムバージョン、アップデートバージョン、エージェントのインストール時間を確認できます。
-- アップデート(ビルド)バージョンのマウスオーバー時、該当するHotFix情報を確認することができます。
-- アップデート情報がない場合、HotFix情報は表示されません。  
-<!-- [![image](/docs/images/Manual/siem/system/3.png){: width="800" }](/docs/images/Manual/siem/system/3.png){: target="_blank"}-->
+- 該当するホストをクリックすると、ホストIPアドレス、オペレーティングシステムバージョン、更新バージョン、エージェントのインストール時間を確認できます。
+- アップデート(ビルド)バージョンのマウスオーバー時、該当するHotFix情報を確認できます。
+- アップデート情報がない場合、HotFix情報は表示されません。
+<!-- [![image](/docs/images/Manual/siem/system/029.png){: width="800" }](/docs/images/Manual/siem/system/029.png){: target="_blank"} -->
 
 <br />
 
 ## 3. 設定
 
-- そのシステムのウェブログ収集、フルログ保存、リソース収集の設定ができます。
-- 変更点を修正するには、そのシステムをクリックし、ON/OFFの状態を変更し、修正ボタンをクリックします。 
-<!-- [![image](/docs/images/Manual/siem/system/4.png){: width="800" }](/docs/images/Manual/siem/system/4.png){: target="_blank"}-->
+- 該当するホストのウェブログ収集、全体ログ保存、リソース収集設定ができます。
+- 変更点を修正するには、そのホストをクリックし、ON/OFFの状態を変更して修正ボタンをクリックします。
+<!-- [![image](/docs/images/Manual/siem/system/030.png){: width="800" }](/docs/images/Manual/siem/system/030.png){: target="_blank"} -->
 
 <br />
 
-## 4. ヒストリー
+- アプリケーションの元のログ設定は、以下に表示されている設定アイコンをクリックして行うことができます。
+<!-- [![image](/docs/images/Manual/siem/system/017.png)](/docs/images/Manual/siem/system/017.png){: target="_blank"} -->
 
-- 複数のフィルタ設定により、収集されたコマンドおよび更新ヒストリーを表示できます。 
-<!-- [![image](/docs/images/Manual/siem/system/5.png){: width="800" }](/docs/images/Manual/siem/system/5.png){: target="_blank"}-->
+- タグとパスを入力したら、登録ボタンをクリックします。
+<!-- [![image](/docs/images/Manual/siem/system/018.png)](/docs/images/Manual/siem/system/018.png){: target="_blank"} -->
 
- 
+- 詳しい説明はPLURAブログで確認できます。
+[アプリケーションログ分析](http://blog.plura.io/?p=17820){: target="_blank"}
+
 <br />
 
-## 5. グループ登録
+- EDRエージェントの場合、以下の画像のように分析設定（検知/ブロック/全体ログ収集）を変更することができます。
+<!-- [![image](/docs/images/Manual/siem/system/031.png){: width="800" }](/docs/images/Manual/siem/system/031.png){: target="_blank"} -->
 
-- グループを追加するには、<グループ登録> をクリックし、グループ名を入力し、追加ボタンを押して追加したいシステムを選択します。
-<!-- [![image](/docs/images/Manual/siem/system/6.png){: width="800" }](/docs/images/Manual/siem/system/6.png){: target="_blank"}-->
+<br />
+
+- 「Hタイプ」検索オプションは検知方式によって「検知」または「ブロック」で検索できます。
+<!-- [![image](/docs/images/Manual/siem/system/023.png)](/docs/images/Manual/siem/system/023.png){: target="_blank"} -->
+
+<br />
+
+## 4. セキュリティ
+
+- ホストの終了またはネットワーク隔離設定を行うことができます。
+※ 重複使用不可（ホスト終了orネットワーク隔離のいずれか1つのみ使用）
+  - ネットワーク隔離の場合、PLURAエージェントを除くすべてのネットワークをブロックします。
+  - ログアップロード、検知、ブロックなどPLURAエージェントは正常に動作します。
+<!-- [![image](/docs/images/Manual/siem/system/032.png){: width="800" }](/docs/images/Manual/siem/system/032.png){: target="_blank"} -->
+
+- セキュリティタブは、以下のパスからメニュー表示設定を行うことができます。
+  - 管理 > 使用 > ホスト > ユーザー設定
+
+<br />
+
+## 5. ヒストリー
+
+- 複数のフィルタ設定により、収集されたコマンドおよび更新ヒストリーを表示できます。
+<!-- [![image](/docs/images/Manual/siem/system/033.png){: width="800" }](/docs/images/Manual/siem/system/033.png){: target="_blank"} -->
+
+<br />
+
+## 6. チャンネル別ログ数
+
+- 選択したシステムのチャネルごとのログ数を確認できます。
+※ Windows、Linuxの場合にのみボタンが提供されます。
+<!-- [![image](/docs/images/Manual/siem/system/034.png){: width="800" }](/docs/images/Manual/siem/system/034.png){: target="_blank"} -->
+
+<br />
+
+- チャネルごとのログ数アイコンを選択すると、ポップアップが表示されます。
+<!-- [![image](/docs/images/Manual/siem/system/015.png){: width="800" }](/docs/images/Manual/siem/system/015.png){: target="_blank"} -->
+
+<br />
+
+## 7. グループ登録
+
+- グループを追加するには、[グループ登録] をクリックし、グループ名を入力し、追加ボタンを押して追加したいホストを選択します。
+<!-- [![image](/docs/images/Manual/siem/system/6.png){: width="800" }](/docs/images/Manual/siem/system/6.png){: target="_blank"} -->
 
 <br />
 
@@ -73,8 +119,22 @@ PLURA Log Collector (PLC) の詳細については、以下のリンクをご参
  
 <br />
 
-## 6. システム削除
+## 8. ホストの削除、終了、ネットワーク隔離/解除
 
-- 必要に応じてシステムの削除も可能です。 システムリストの左側にあるチェックボックスにチェックすると表示される '削除' ボタンをクリックすると、そのシステムが削除されます。
-- PLURA V5サーバーとの通信が正常な時に削除すると、そのシステムにインストールされたエージェントも削除されます。.   
-<!-- [![image](/docs/images/Manual/siem/system/7.png)](/docs/images/Manual/siem/system/7.png){: target="_blank"}-->
+- 必要に応じてホストの削除も可能です。 ホストリストの左側にあるチェックボックスにチェックすると現れる '削除' ボタンをクリックすると、そのホストが削除されます。
+- PLURA V5 サーバーとの通信が正常な時に削除すると、そのホストにインストールされたエージェントも削除されます。  
+<!-- [![image](/docs/images/Manual/siem/system/035.png){: width="800" }](/docs/images/Manual/siem/system/035.png){: target="_blank"} -->
+
+- チェックボックスを選択した後、ホストを終了またはネットワーク隔離/解除することができます。
+<!-- [![image](/docs/images/Manual/siem/system/037.png){: width="800" }](/docs/images/Manual/siem/system/037.png){: target="_blank"} -->
+
+<br />
+
+## 9. 協議されたネットワークログ収集登録
+
+- 協議されたネットワークログ収集登録はPublic-Syslogサービスで、エージェントをインストールできない環境のSyslogを収集できるサービスです。
+<!-- [![image](/docs/images/Manual/siem/system/036.png){: width="800" }](/docs/images/Manual/siem/system/036.png){: target="_blank"} -->
+
+- IPアドレス入力の場合、外部に通信するIPアドレスを入力してください。
+- 整列コード : アップロードされるログのプログラム名がない場合、整列コード可否設定で任意のプログラム名を生成してmsg整列することができます。デフォルトはOFFであり、必要に応じてキュービットセキュリティと協議して修正が必要です。
+- すべての情報を登録した後、キュービットセキュリティにご連絡いただければ対応させて頂きます。

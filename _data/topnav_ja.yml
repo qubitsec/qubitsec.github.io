@@ -1,13 +1,20 @@
+## Topnav single links
+## if you want to list an external url, use url instead of url. the theme will apply a different link base.
 navbar_singleitems:
 - items:
     - title:  
       url: https://qubitsec.github.io/ja_index.html
 
+
+
+#Topnav dropdowns
 navbar_dropdowns:
 - folders:
 
     - title: Install Agents
       folderitems:
+        - title: EDR
+          url: /ja_Ins_edr.html
         - title: SIEM
           url: /ja_Ins_siem.html
         - title: WAF
@@ -19,6 +26,8 @@ navbar_dropdowns:
       folderitems:
         - title: Common
           url: ja_manual_common.html
+        - title: EDR
+          url: ja_manual_edr.html          
         - title: SIEM
           url: ja_manual_siem.html
         - title: WAF
@@ -45,6 +54,9 @@ navbar_dropdowns:
         - title: 会社&製品紹介
           url: ja_video_company.html
 
+        # - title: 제품소개
+        #   url: video_product.html
+
         - title: 機能紹介
           url: ja_video_f_introduc.html
 
@@ -54,6 +66,9 @@ navbar_dropdowns:
         - title: ハッキング検知試演
           url: ja_video_hd_t.html
 
+        # - title: 방송/발표
+        #   url: video_bc.html
+
         - title: 顧客事例
           url: ja_video_c.html
 
@@ -62,14 +77,11 @@ navbar_dropdowns:
         - title: Jekyll Manual
           url: ja_jekyll.html
 
-    - title: Lang
+    - title: 日本語
       folderitems:
 
-        - title: KR
-          url: ko_index.html
-
-        - title: JA
-          url: ja_index.html
+        - title: 韓国語
+          url: index.html
 
     #     - title: EN
     #       url: en_index.html

@@ -13,19 +13,38 @@ topnav: topnav_ja
 
 - 月別の場合、当月を含めて4ヶ月分のログアップロード量を確認できます。
 
-- 下部のシステムごとのログアップロード容量とログアップロード総数を把握できます
+- 下部からホストごとのログアップロード容量とログアップロード総数を把握できます。
 
 <br />
 
 日別統計
-<!-- [![image](/docs/images/Manual/common/statistics/upload/004.png){: width="800" }](/docs/images/Manual/common/statistics/upload/004.png){: target="_blank"}-->
+<!-- [![image](/docs/images/Manual/common/statistics/upload/004.png){: width="800" }](/docs/images/Manual/common/statistics/upload/004.png){: target="_blank"} -->
 
 <br />
 
 週別統計
-<!-- [![image](/docs/images/Manual/common/statistics/upload/005.png){: width="800" }](/docs/images/Manual/common/statistics/upload/005.png){: target="_blank"}-->
+<!-- [![image](/docs/images/Manual/common/statistics/upload/005.png){: width="800" }](/docs/images/Manual/common/statistics/upload/005.png){: target="_blank"} -->
 
 <br />
 
 月別統計
-<!-- [![image](/docs/images/Manual/common/statistics/upload/006.png){: width="800" }](/docs/images/Manual/common/statistics/upload/006.png){: target="_blank"}-->
+<!-- [![image](/docs/images/Manual/common/statistics/upload/006.png){: width="800" }](/docs/images/Manual/common/statistics/upload/006.png){: target="_blank"} -->
+
+<br />
+
+## 2. ログアップロード容量/数　照会
+
+- エージェントがインストールされているホストのログ容量/数がソートを使用して照会できます。
+
+<!-- [![image](/docs/images/Manual/common/statistics/upload/007.png)](/docs/images/Manual/common/statistics/upload/007.png){: target="_blank"} -->
+
+<br />
+
+## 3. チャンネル別ログ数
+
+- 選択したシステムのチャンネルごとのログ数を下段から確認できます。
+※ ウィンドウ、Linuxシステムの場合にのみボタンが提供されます。
+<!-- [![image](/docs/images/Manual/common/statistics/upload/008.png){: width="800" }](/docs/images/Manual/common/statistics/upload/008.png){: target="_blank"} -->
+
+- チャネル別のログ数アイコンを選択すると、ポップアップが表示されます。
+<!-- [![image](/docs/images/Manual/common/statistics/upload/009.png){: width="800" }](/docs/images/Manual/common/statistics/upload/009.png){: target="_blank"} -->

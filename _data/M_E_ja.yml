@@ -1,0 +1,23 @@
+sidebarTitle: Function > EDR
+
+
+    # subfolders:
+    # - title: PLURA V5 Syslog Collector Srv
+    #   subfolderitems:
+
+    #   - title: Log Collector > System
+    #     url: /P_Agent_Win_Srv.html
+
+folders:
+- title: フィルタ検知
+  folderitems:
+
+  - title: EDR
+    url: /ja_f_hostsec.html
+
+  folders:
+- title: 全体ログ
+  folderitems:
+
+  - title: EDR
+    url: /ja_full_log_hostsec.html
