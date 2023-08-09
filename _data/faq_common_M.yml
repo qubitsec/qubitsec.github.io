@@ -63,6 +63,9 @@ folders:
   - title: 에이전트 삭제
     url: /ko_agent_uninstall.html
 
+  - title: 리눅스 에이전트 로깅 설정
+    url: /ko_agent_linux_logging.html
+
   folders:
 - title: 서비스
   folderitems:
