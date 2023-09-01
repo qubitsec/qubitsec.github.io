@@ -80,7 +80,7 @@ navbar_dropdowns:
     - title: 日本語
       folderitems:
 
-        - title: 韓国語
+        - title: 한국어
           url: index.html
 
     #     - title: EN
