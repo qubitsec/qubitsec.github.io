@@ -66,14 +66,14 @@ navbar_dropdowns:
         - title: Jekyll Manual
           url: ja_jekyll.html
 
-    - title: Lang
+    - title: 日本語
       folderitems:
 
-        - title: KR
+        - title: 韓国語
           url: ko_index.html
 
-        - title: JA
-          url: ja_index.html
+#        - title: JA
+#          url: ja_index.html
 
     #     - title: EN
     #       url: en_index.html
