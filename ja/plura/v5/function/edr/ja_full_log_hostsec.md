@@ -16,14 +16,14 @@ topnav: topnav_ja
 ## 1. 時間順整列
 - 作成日基準で最新順と過去順に並べ替えることができます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host1.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host1.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host1.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host1.PNG){: target="_blank"}
 
 <br />
 
 ## 2. ページあたりのログ数
 - 1ページあたりに表示されるログの数を設定できます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host2.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host2.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host2.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host2.PNG){: target="_blank"}
 
 
 <br />
@@ -31,7 +31,7 @@ topnav: topnav_ja
 ## 3. 日付/時間の選択
 - 過去の日付と時刻を選択してログを見ることができます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host3.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host3.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host3.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host3.PNG){: target="_blank"}
 
 
 <br />
@@ -39,7 +39,7 @@ topnav: topnav_ja
 ## 4. グループ選択
 - ユーザーが登録したホストグループを選択して表示できます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host4.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host4.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host4.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host4.PNG){: target="_blank"}
 
 
 <br />
@@ -47,7 +47,7 @@ topnav: topnav_ja
 ## 5. オペレーティングシステムの選択
 - オペレーティング システムを選択して表示できます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host5.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host5.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host5.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host5.PNG){: target="_blank"}
 
 
 <br />
@@ -55,7 +55,7 @@ topnav: topnav_ja
 ## 6. ホスト名を選択
 - ホスト名を選択して見ることができます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host6.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host6.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host6.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host6.PNG){: target="_blank"}
 
 
 <br />
@@ -63,7 +63,7 @@ topnav: topnav_ja
 ## 7. ホストIPアドレスの選択
 - 希望するホストIPアドレスを選択して見ることができます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host7.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host7.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host7.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host7.PNG){: target="_blank"}
 
 
 <br />
@@ -71,7 +71,7 @@ topnav: topnav_ja
 ## 8. 深刻度選択
 - 深刻度を選択して見ることができます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host8.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host8.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host8.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host8.PNG){: target="_blank"}
 
 
 <br />
@@ -79,7 +79,7 @@ topnav: topnav_ja
 ## 9. チャンネル選択
 - チャネルリストをクリックして、必要なログのみを選択して表示できます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host9.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host9.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host9.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host9.PNG){: target="_blank"}
 
 
 <br />
@@ -87,7 +87,7 @@ topnav: topnav_ja
 ## 10. タイプ選択
 - タイプ別に選択し、必要なログだけを選択して表示できます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host10.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host10.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host10.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host10.PNG){: target="_blank"}
 
 
 <br />
@@ -96,7 +96,7 @@ topnav: topnav_ja
 ## 11. 検知されたログの詳細
 - 検知されたログをクリックすると、それぞれのログに含まれている詳細が表示されます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host11.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host11.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host11.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host11.PNG){: target="_blank"}
 
  
  <br />
@@ -104,5 +104,5 @@ topnav: topnav_ja
 ## 12. 検知されたログ原本の内容
 - ‘ログ詳細’ ボタンをクリックすると、発生した原本の内容を確認できます。
 
-[![image](/docs/images\ja\Function\EDR\all\a_host\host12.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\host12.PNG){: target="_blank"}
+[![image](/docs/images\ja\Function\EDR\all\a_host\a_host12.PNG){: width="800" }](/docs/images\ja\Function\EDR\all\a_host\a_host12.PNG){: target="_blank"}
 
