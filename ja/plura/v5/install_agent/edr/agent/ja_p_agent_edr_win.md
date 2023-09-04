@@ -29,7 +29,7 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 
 インストール対応言語を選択してください。
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install1.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install1.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install1.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install1.PNG){:target="_blank"}
 
 <br />
 
@@ -39,7 +39,7 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 
 <br />
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install2.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install2.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install2.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install2.PNG){:target="_blank"}
 
 <br />
 
@@ -50,7 +50,7 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 (2) ウェブページで確認したライセンスを入力します。
 - ライセンス確認場所 : PLURAウェブログイン後、上段 > 管理 > ライセンスです。
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install3.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install3.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install3.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install3.PNG){:target="_blank"}
 
 <br />
 
@@ -60,7 +60,7 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 
 (2) 最後のログアップロード時間が表示されたら、ログが正常にアップロードされていることになります。
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install4.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install4.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install4.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install4.PNG){:target="_blank"}
 
 <br />
 
@@ -90,7 +90,7 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 
 * EDR Agentで Sysmonインストール確認
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install5.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install5.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install5.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install5.PNG){:target="_blank"}
 
 <br />
 
@@ -100,7 +100,7 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 
 <!-- [![image](/docs/images/Ins_G/Agent_W/Agent_W_5.png)](/docs/images/Ins_G/Agent_W/Agent_W_5.png){:target="_blank"} -->
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install6.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install6.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install6.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install6.PNG){:target="_blank"}
 
 <br />
 
@@ -118,13 +118,13 @@ MS Windows用EDR Agentのインストール方法をご案内します。
 
 (2-1) ウェブログ収集ON後、修正ボタンの選択、解除をご希望の場合はOFFにします。
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install7.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install7.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install7.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install7.PNG){:target="_blank"}
 
 <br />
 
 (2-2) または、エージェントのウェブログ設定メニューからウェブログ収集チェックをします。 解除をご希望の場合は、OFFしてください。
 
-[![image](/docs/images/ja/EDR/Install_Agents/Agent/install8.PNG)](/docs/images/ja/EDR/Install_Agents/Agent/install8.PNG){:target="_blank"}
+[![image](/docs/images/ja/Install_Agents/EDR/Agent/install8.PNG)](/docs/images/ja/Install_Agents/EDR/Agent/install8.PNG){:target="_blank"}
 
 <br />
 
