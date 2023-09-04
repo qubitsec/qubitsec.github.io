@@ -12,6 +12,8 @@ navbar_dropdowns:
 
     - title: Install Agents
       folderitems:
+        - title: EDR
+          url: /ja_Ins_edr.html
         - title: SIEM
           url: /ja_Ins_siem.html
         - title: WAF
@@ -23,6 +25,8 @@ navbar_dropdowns:
       folderitems:
         - title: Common
           url: ja_manual_common.html
+        - title: EDR
+          url: ja_manual_edr.html   
         - title: SIEM
           url: ja_manual_siem.html
         - title: WAF
