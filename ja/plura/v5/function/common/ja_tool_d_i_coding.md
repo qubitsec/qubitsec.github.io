@@ -15,7 +15,7 @@ topnav: topnav_ja
 
 - PLURA V5ホームページ左側のメニュー下段にあるTOOLツールをクリックします。
 
-<!-- [![image](/docs/images/Manual/common/tool/1.png){: width="800" }](/docs/images/Manual/common/tool/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/tool/ja/1.PNG){: width="800" }](/docs/images/Manual/common/tool/ja/1.PNG){: target="_blank"}
 
 <br />
 
@@ -23,27 +23,27 @@ topnav: topnav_ja
 
 - 入力フィールドにデコードまたはエンコードしたい文字列を入力し、<変換> ボタンをクリックします。
 
-<!-- [![image](/docs/images/Manual/common/tool/2.png){: width="800" }](/docs/images/Manual/common/etc/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/tool/ja/2.PNG){: width="800" }](/docs/images/Manual/common/etc/ja/2.PNG){: target="_blank"}
 
 <br />
 
 - 変換された値を確認できます。
 
-<!-- [![image](/docs/images/Manual/common/tool/3.png){: width="800" }](/docs/images/Manual/common/etc/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/tool/ja/3.PNG){: width="800" }](/docs/images/Manual/common/etc/ja/3.PNG){: target="_blank"}
 
 <br />
 
 - 上部の "ハッシュ" タブに移動して、変換されたハッシュ値を確認できます。  
 
-<!-- [![image](/docs/images/Manual/common/tool/4.png){: width="800" }](/docs/images/Manual/common/etc/4.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/tool/ja/4.PNG){: width="800" }](/docs/images/Manual/common/etc/ja/4.PNG){: target="_blank"}
 
 <br />
 
 - ウェブ検知ログ/全体ログページでもTOOLツールの使用が可能です。
 
-<!-- [![image](/docs/images/Manual/common/tool/5.png){: width="800" }](/docs/images/Manual/common/etc/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/tool/ja/5.PNG){: width="800" }](/docs/images/Manual/common/etc/ja/5.PNG){: target="_blank"}
 
 <br />
 
 - ツールボタンをクリックすると、デコード/エンコーディングポップアップウィンドウが表示されます。  
-<!-- [![image](/docs/images/Manual/common/tool/6.png)](/docs/images/Manual/common/etc/6.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/tool/ja/6.PNG)](/docs/images/Manual/common/etc/ja/6.PNG){: target="_blank"}
