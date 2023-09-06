@@ -16,7 +16,7 @@ topnav: topnav_ja
 
 - 総ログ数, 発行チケットボタン, CSVダウンロード提供
 
-<!-- [![image](/docs/images/Manual/common/mitre/list/1.png){: width="800" }](/docs/images/Manual/common/mitre/list/1.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/mitre/list/ja/1.png){: width="800" }](/docs/images/Manual/common/mitre/list/ja/1.png){: target="_blank"}
 
  <br />
 
@@ -24,7 +24,7 @@ topnav: topnav_ja
 
 - ハッキンググループ, ソフトウェア情報提供(検出されたIDにマッピングされたハッキン​​ググループ, ソフトウェアの中検出数に応じて最大10個のリスト提供)
 
-<!-- [![image](/docs/images/Manual/common/mitre/list/2.png){: width="800" }](/docs/images/Manual/common/mitre/list/2.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/mitre/list/ja/2.png){: width="800" }](/docs/images/Manual/common/mitre/list/ja/2.png){: target="_blank"}
 
 <br />
 
@@ -34,6 +34,6 @@ topnav: topnav_ja
 
 - フィルタショートカットボタン提供
 
-<!-- [![image](/docs/images/Manual/common/mitre/list/3.png){: width="800" }](/docs/images/Manual/common/mitre/list/3.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/mitre/list/ja/3.png){: width="800" }](/docs/images/Manual/common/mitre/list/ja/3.png){: target="_blank"}
 
  

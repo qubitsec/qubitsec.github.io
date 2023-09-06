@@ -20,23 +20,23 @@ topnav: topnav_ja
 ## 2. 検出されたログの詳細
 - 検出されたログをクリックすると、それぞれのログに含まれている詳細を確認できます。
 
-<!-- [![image](/docs/images/Manual/common/outflow/1.png){: width="800" }](/docs/images/Manual/common/outflow/1.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/outflow/ja/1.PNG){: width="800" }](/docs/images/Manual/common/outflow/ja/1.PNG){: target="_blank"}
 
 <br />
 
 - TABで応答本文漏えい領域表示ボタンをクリックすると、実際に漏えいした応答本文の内容を見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/outflow/2.png){: width="800" }](/docs/images/Manual/common/outflow/2.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/outflow/ja/2.PNG){: width="800" }](/docs/images/Manual/common/outflow/ja/2.PNG){: target="_blank"}
 
 <br />
 
 - 漏えい情報 Tab > 回答本文の漏えい領域を表示ボタンをクリック
 
-<!-- [![image](/docs/images/Manual/common/outflow/3.png){: width="800" }](/docs/images/Manual/common/outflow/3.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/outflow/ja/3.PNG){: width="800" }](/docs/images/Manual/common/outflow/ja/3.PNG){: target="_blank"}
 
 <br />
 
 - ログ詳細TABで原本ログおよび漏えいしたResp-bodyログを確認することができます。
 
-<!-- [![image](/docs/images/Manual/common/outflow/4.png){: width="800" }](/docs/images/Manual/common/outflow/4.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/outflow/ja/4.PNG){: width="800" }](/docs/images/Manual/common/outflow/ja/4.PNG){: target="_blank"}
 
