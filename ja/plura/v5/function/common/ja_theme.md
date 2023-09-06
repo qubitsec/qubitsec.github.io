@@ -9,4 +9,4 @@ topnav: topnav_ja
 
 - テーマ設定機能で自分だけのテーマを設定できます。(右上段)
 
-<!-- [![image](/docs/images/Manual/common/etc/5.png){: width="800" }](/docs/images/Manual/common/etc/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/etc/ja/1.PNG){: width="800" }](/docs/images/Manual/common/etc/ja/1.PNG){: target="_blank"}
