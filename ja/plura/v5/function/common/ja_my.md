@@ -14,11 +14,11 @@ topnav: topnav_ja
 
 - ユーザーの情報を修正できます。(右上段)
 
-<!-- [![image](/docs/images/Manual/common/etc/02.png)](/docs/images/Manual/common/etc/02.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/etc/ja/2.png)](/docs/images/Manual/common/etc/ja/2.png){: target="_blank"}
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/etc/01.png){: width="800" }](/docs/images/Manual/common/etc/01.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/etc/ja/3.png){: width="800" }](/docs/images/Manual/common/etc/ja/3.png){: target="_blank"}
 
 <br />
 
@@ -28,13 +28,13 @@ topnav: topnav_ja
   - ログインメール:ログイン通知メールを受け取ることができます。
   - 2次認証:PIN番号を修正することができます。 PIN設定をすると表示されるメニューです。
 
-<!-- [![image](/docs/images/Manual/common/etc/04.png){: width="800" }](/docs/images/Manual/common/etc/04.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/etc/ja/4.png){: width="800" }](/docs/images/Manual/common/etc/ja/4.png){: target="_blank"}
 
 <br />
 
 -**パスワードの変更**:パスワードを変更することができます。
 
-<!-- [![image](/docs/images/Manual/common/etc/05.png){: width="800" }](/docs/images/Manual/common/etc/05.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/etc/ja/5.png){: width="800" }](/docs/images/Manual/common/etc/ja/5.png){: target="_blank"}
 
 <br />
 
@@ -42,5 +42,5 @@ topnav: topnav_ja
   - 情報（マーケティング）メール:マーケティングメールを受け取ることができます
   - 言語設定:個人通知(検知/防御、リソース監視)に対する言語設定ができます。
 
-<!-- [![image](/docs/images/Manual/common/etc/06.png){: width="800" }](/docs/images/Manual/common/etc/06.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/etc/ja/6.png){: width="800" }](/docs/images/Manual/common/etc/ja/6.png){: target="_blank"}
 

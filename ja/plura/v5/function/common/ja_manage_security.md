@@ -5,18 +5,18 @@ sidebar: M_C_ja
 topnav: topnav_ja
 ---
 
-- 管理 > セキュリティ設定マニュアル<!-- 映像 -->です。   
+- 管理 > セキュリティ設定マニュアル <!--映像 -->です。   
 セキュリティ DEMO : [https://qubitsec.github.io/ja_security.html](https://qubitsec.github.io/ja_security.html){: target="_blank"}
 - セキュリティ : パスワードの変更、認証とセッション時間の設定、ログイン許可IPアドレス、2次認証PIN番号を設定できます。   
 - 管理者アカウントでのみ表示されるページです。(運営者はセキュリティタブ未表示)
 
- <!-- [![image](/docs/images/Manual/common/manage/security/7.png){: width="800" }](/docs/images/Manual/common/manage/security/7.png){: target="_blank"}-->
+  [![image](/docs/images/Manual/common/manage/security/ja/1.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/1.PNG){: target="_blank"}
 
 <br />
 
 - パスワードの変更: パスワードの変更時点を設定できます。
 
-<!-- [![image](/docs/images/Manual/common/manage/security/8.png){: width="800" }](/docs/images/Manual/common/manage/security/8.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/manage/security/ja/2.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/2.PNG){: target="_blank"}
 
 <br />
 
@@ -24,7 +24,7 @@ topnav: topnav_ja
 - ログイン時の失敗回数やロック時間の設定ができます。
 - ログイン失敗によりロックされたメンバーは、メンバーから確認でき、ロックを解除できます。
  
-<!-- [![image](/docs/images/Manual/common/manage/security/2.png){: width="800" }](/docs/images/Manual/common/manage/security/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/manage/security/ja/3.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/3.PNG){: target="_blank"}
 
 <br />
 
@@ -32,18 +32,18 @@ topnav: topnav_ja
 - サイトの特性に応じてセッション時間を設定できます。
 - セッション設定により、アクティビティがない場合はセッションを終了させ、セキュリティを強化できます。
  
-<!-- [![image](/docs/images/Manual/common/manage/security/3.png){: width="800" }](/docs/images/Manual/common/manage/security/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/manage/security/ja/4.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/4.PNG){: target="_blank"}
 
 <br />
 
 - ログイン許可IPアドレス:PLURA V5ウェブにログインしたいIPアドレス、国(GeoIP)設定を直接追加することができます。
 - 検索では、ユーザー名、ユーザーメール、ユーザー電話番号、IPアドレスCCLASSまでが検索語に該当すると検索されます。
 
- <!-- [![image](/docs/images/Manual/common/manage/security/011.png){: width="800" }](/docs/images/Manual/common/manage/security/011.png){: target="_blank"}-->   
+  [![image](/docs/images/Manual/common/manage/security/ja/5.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/5.PNG){: target="_blank"}   
 
 - IPアドレス追加ボタンをクリックすると、ログイン許可IPアドレス追加ポップアップが表示されます。
 
-<!-- [![image](/docs/images/Manual/common/manage/security/5.png)](/docs/images/Manual/common/manage/security/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/manage/security/ja/6.PNG)](/docs/images/Manual/common/manage/security/ja/6.PNG){: target="_blank"}
 
 <br />
 
@@ -53,6 +53,6 @@ topnav: topnav_ja
 - PIN番号/OTPメールログイン時、失敗回数およびロック時間設定ができます。
 - PIN番号/OTPメールログイン時に失敗によりロック処理された会員は「管理>メンバー」で確認でき、ロックを解除することができます。
 
- <!-- [![image](/docs/images/Manual/common/manage/security/6.png){: width="800" }](/docs/images/Manual/common/manage/security/6.png){: target="_blank"}-->
+  [![image](/docs/images/Manual/common/manage/security/ja/7.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/7.PNG){: target="_blank"}
 
- <!-- [![image](/docs/images/Manual/common/manage/security/10.png){: width="800" }](/docs/images/Manual/common/manage/security/10.png){: target="_blank"}-->
+  [![image](/docs/images/Manual/common/manage/security/ja/8.PNG){: width="800" }](/docs/images/Manual/common/manage/security/ja/8.PNG){: target="_blank"}
