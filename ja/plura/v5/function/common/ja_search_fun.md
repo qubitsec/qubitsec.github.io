@@ -33,13 +33,13 @@ topnav: topnav_ja
 
 ### 3. 文字列検索時、"含む"、"一致"、"除く"、"含む"項目を選択できます。
 
-<!-- [![image](/docs/images/Manual/common/search/1.png){: width="800" }](/docs/images/Manual/common/search/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/1.PNG){: width="800" }](/docs/images/Manual/common/search/ja/1.PNG){: target="_blank"}
 
 <br />
 
 ### 4. 数字検索項目選択時、演算記号選択が可能です。
 
-<!-- [![image](/docs/images/Manual/common/search/2.png){: width="800" }](/docs/images/Manual/common/search/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/2.PNG){: width="800" }](/docs/images/Manual/common/search/ja/2.PNG){: target="_blank"}
 
 <br />
 
@@ -50,19 +50,19 @@ topnav: topnav_ja
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/search/3.png){: width="800" }](/docs/images/Manual/common/search/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/3.PNG){: width="800" }](/docs/images/Manual/common/search/ja/3.PNG){: target="_blank"}
 
 <br />
 
 ### 6. ログ照会時、右マウス動作でリンクを提供
 
-<!-- [![image](/docs/images/Manual/common/search/4.png){: width="800" }](/docs/images/Manual/common/search/4.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/4.PNG){: width="800" }](/docs/images/Manual/common/search/ja/4.PNG){: target="_blank"}
 
 <br />
 
 ### 7. タイマー機能:検索条件が追加される場合、右上にタイマーが表示
 
-<!-- [![image](/docs/images/Manual/common/search/5.png){: width="800" }](/docs/images/Manual/common/search/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/5.PNG){: width="800" }](/docs/images/Manual/common/search/ja/5.PNG){: target="_blank"}
 
      - 対象ライセンス:Enterprise(On-Prem)、Platinum、Premiumに提供
      - 全体ログ、フィルタ検知、ML検知ページに表示
@@ -72,7 +72,7 @@ topnav: topnav_ja
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/search/6.png)](/docs/images/Manual/common/search/6.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/6.PNG)](/docs/images/Manual/common/search/ja/6.PNG){: target="_blank"}
 
 <br />
 
@@ -80,13 +80,13 @@ topnav: topnav_ja
 
 - セキュリティ検知、フィルタ検知ページで検索対象が「フィルタ名」の場合、自動完成機能を使用することができます。
 
-<!-- [![image](/docs/images/Manual/common/search/09.png){: width="600" }](/docs/images/Manual/common/search/09.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/7.PNG){: width="600" }](/docs/images/Manual/common/search/ja/7.PNG){: target="_blank"}
 
 <br /> 
 
 - フィルタ検知、全体ログ > システムページで検索対象が"チャンネル"の場合、自動完成機能を使用することができます。
 
-<!-- [![image](/docs/images/Manual/common/search/10.png){: width="600" }](/docs/images/Manual/common/search/10.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/8.PNG){: width="600" }](/docs/images/Manual/common/search/ja/8.PNG){: target="_blank"}
 
 <br />
 
@@ -100,18 +100,10 @@ topnav: topnav_ja
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/search/7.png){: width="800" }](/docs/images/Manual/common/search/7.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/search/ja/9.PNG){: width="800" }](/docs/images/Manual/common/search/ja/9.PNG){: target="_blank"}
 
-<!-- <br />
+ <br />
 
-### 10. 次に、フィルタ検出ログ検索の例です。
-
-     - ログインに対する検出のみを表示したい場合は、「ログイン」という単語を入力します。
-     ログインに関連するフィルタ検出内容を見ることができます。
-
-<br /> -->
-
-<!-- [![image](/docs/images/Manual/common/search/8.png){: width="800" }](/docs/images/Manual/common/search/8.png){: target="_blank"}-->
 
 
  
