@@ -100,7 +100,7 @@ topnav: topnav_ja
 
 <br />
 
- [![image](/docs/images/Manual/common/search/ja/9.PNG){: width="800" }](/docs/images/Manual/common/search/ja/9.PNG){: target="_blank"}
+ <!--[![image](/docs/images/Manual/common/search/ja/9.PNG){: width="800" }](/docs/images/Manual/common/search/ja/9.PNG){: target="_blank"}
 
  <br />
 
