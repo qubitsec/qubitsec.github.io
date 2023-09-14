@@ -12,4 +12,4 @@ topnav: topnav_ja
 
 - システム ログについて確認できます。
 
-<!-- [![image](/docs/images/Manual/common/statistics/hitmap/01.png){: width="800" }](/docs/images/Manual/common/statistics/hitmap/01.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/statistics/hitmap/ja/1.PNG){: width="800" }](/docs/images/Manual/common/statistics/hitmap/ja/1.PNG){: target="_blank"}

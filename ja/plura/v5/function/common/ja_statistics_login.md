@@ -13,25 +13,25 @@ topnav: topnav_ja
 <br />
 
 日別統計
-<!-- [![image](/docs/images/Manual/common/statistics/login/1.png){: width="800" }](/docs/images/Manual/common/statistics/login/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/login/ja/1.PNG){: width="800" }](/docs/images/Manual/common/statistics/login/ja/1.PNG){: target="_blank"}
 
 <br />
 
 週別統計
-<!-- [![image](/docs/images/Manual/common/statistics/login/2.png){: width="800" }](/docs/images/Manual/common/statistics/login/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/login/ja/2.PNG){: width="800" }](/docs/images/Manual/common/statistics/login/ja/2.PNG){: target="_blank"}
 
 <br />
 
 月別統計
-<!-- [![image](/docs/images/Manual/common/statistics/login/3.png){: width="800" }](/docs/images/Manual/common/statistics/login/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/login/ja/3.PNG){: width="800" }](/docs/images/Manual/common/statistics/login/ja/3.PNG){: target="_blank"}
 
 <br />
 
 - HOST、Pathが選択されていない場合は、以下のように時間帯別のLogin分析が未表示されます。
-<!-- [![image](/docs/images/Manual/common/statistics/login/4.png)](/docs/images/Manual/common/statistics/login/4.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/login/ja/4.PNG)](/docs/images/Manual/common/statistics/login/ja/4.PNG){: target="_blank"}
 
 <br />
 
 - 統計 > ログインページ上部のHost、Pathを選択すると、時間帯別のLogin分析統計が確認できます。
-<!-- [![image](/docs/images/Manual/common/statistics/login/5.png){: width="800" }](/docs/images/Manual/common/statistics/login/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/login/ja/5.PNG){: width="800" }](/docs/images/Manual/common/statistics/login/ja/5.PNG){: target="_blank"}
 

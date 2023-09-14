@@ -14,12 +14,12 @@ topnav: topnav_ja
 
 - システム ログについて確認できます。
 
-<!-- [![image](/docs/images/Manual/common/statistics/boxplot/01.png){: width="800" }](/docs/images/Manual/common/statistics/boxplot/01.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/boxplot/ja/1.PNG){: width="800" }](/docs/images/Manual/common/statistics/boxplot/ja/1.PNG){: target="_blank"}
 
 <br />
 
 統計を除く
 
-<!-- [![image](/docs/images/Manual/common/statistics/box/1.png)](/docs/images/Manual/common/statistics/box/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/statistics/boxplot/ja/2.PNG)](/docs/images/Manual/common/statistics/boxplot/ja/2.PNG){: target="_blank"}
 
 ※ PLURA V5 Forensic 製品では対応していない機能です。

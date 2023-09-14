@@ -18,17 +18,17 @@ topnav: topnav_ja
 <br />
 
 日別統計
-<!-- [![image](/docs/images/Manual/common/statistics/upload/004.png){: width="800" }](/docs/images/Manual/common/statistics/upload/004.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/statistics/upload/ja/1.PNG){: width="800" }](/docs/images/Manual/common/statistics/upload/ja/1.PNG){: target="_blank"} 
 
 <br />
 
 週別統計
-<!-- [![image](/docs/images/Manual/common/statistics/upload/005.png){: width="800" }](/docs/images/Manual/common/statistics/upload/005.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/statistics/upload/ja/2.PNG){: width="800" }](/docs/images/Manual/common/statistics/upload/ja/2.PNG){: target="_blank"} 
 
 <br />
 
 月別統計
-<!-- [![image](/docs/images/Manual/common/statistics/upload/006.png){: width="800" }](/docs/images/Manual/common/statistics/upload/006.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/statistics/upload/ja/3.PNG){: width="800" }](/docs/images/Manual/common/statistics/upload/ja/3.PNG){: target="_blank"} 
 
 <br />
 
@@ -36,7 +36,7 @@ topnav: topnav_ja
 
 - エージェントがインストールされているホストのログ容量/数がソートを使用して照会できます。
 
-<!-- [![image](/docs/images/Manual/common/statistics/upload/007.png)](/docs/images/Manual/common/statistics/upload/007.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/statistics/upload/ja/4.PNG)](/docs/images/Manual/common/statistics/upload/ja/4.PNG){: target="_blank"} 
 
 <br />
 
@@ -44,7 +44,7 @@ topnav: topnav_ja
 
 - 選択したシステムのチャンネルごとのログ数を下段から確認できます。
 ※ ウィンドウ、Linuxシステムの場合にのみボタンが提供されます。
-<!-- [![image](/docs/images/Manual/common/statistics/upload/008.png){: width="800" }](/docs/images/Manual/common/statistics/upload/008.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/statistics/upload/ja/5.PNG){: width="800" }](/docs/images/Manual/common/statistics/upload/ja/5.PNG){: target="_blank"} 
 
 - チャネル別のログ数アイコンを選択すると、ポップアップが表示されます。
-<!-- [![image](/docs/images/Manual/common/statistics/upload/009.png){: width="800" }](/docs/images/Manual/common/statistics/upload/009.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/statistics/upload/ja/6.PNG){: width="800" }](/docs/images/Manual/common/statistics/upload/ja/6.PNG){: target="_blank"} 
