@@ -11,16 +11,16 @@ topnav: topnav_ja
 <br />
 
 日別報告書
-<!-- [![image](/docs/images/Manual/common/report/acc/1.png){: width="800" }](/docs/images/Manual/common/report/acc/1.png){: target="_blank"}--> 
+PNG [![image](/docs/images/Manual/common/report/acc/ja/1.PNG){: width="800" }](/docs/images/Manual/common/report/acc/ja/1.PNG){: target="_blank"}PNG 
 
 <br />
 
 週別報告書
-<!-- [![image](/docs/images/Manual/common/report/acc/2.png){: width="800" }](/docs/images/Manual/common/report/acc/2.png){: target="_blank"}--> 
+PNG [![image](/docs/images/Manual/common/report/acc/ja/2.PNG){: width="800" }](/docs/images/Manual/common/report/acc/ja/2.PNG){: target="_blank"}PNG 
 
 <br />
 
 月別報告書
-<!-- [![image](/docs/images/Manual/common/report/acc/3.png){: width="800" }](/docs/images/Manual/common/report/acc/3.png){: target="_blank"}--> 
+PNG [![image](/docs/images/Manual/common/report/acc/ja/3.PNG){: width="800" }](/docs/images/Manual/common/report/acc/ja/3.PNG){: target="_blank"}PNG 
 
  

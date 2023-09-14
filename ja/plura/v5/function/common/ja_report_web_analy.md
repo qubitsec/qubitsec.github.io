@@ -11,20 +11,20 @@ topnav: topnav_ja
 <br />
 
 日別報告書
-<!-- [![image](/docs/images/Manual/common/report/web/1.png){: width="800" }](/docs/images/Manual/common/report/web/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/report/web/ja/1.PNG){: width="800" }](/docs/images/Manual/common/report/web/ja/1.PNG){: target="_blank"}
 
 <br />
 
 週別報告書
-<!-- [![image](/docs/images/Manual/common/report/web/2.png){: width="800" }](/docs/images/Manual/common/report/web/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/report/web/ja/2.PNG){: width="800" }](/docs/images/Manual/common/report/web/ja/2.PNG){: target="_blank"}
 
 <br />
 
 月別報告書
-<!-- [![image](/docs/images/Manual/common/report/web/3.png){: width="800" }](/docs/images/Manual/common/report/web/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/report/web/ja/3.PNG){: width="800" }](/docs/images/Manual/common/report/web/ja/3.PNG){: target="_blank"}
 
 <br />
 
 レポート下段ホスト(ドメイン)情報は、以下のパスから登録後、確認できます。
 - [パス : 管理 > リスト > ホスト](https://qubitsec.github.io/ja_manage_list.html){: target="_blank"}
-<!-- [![image](/docs/images/Manual/common/report/web/04.png){: width="800" }](/docs/images/Manual/common/report/web/04.png){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/report/web/ja/4.PNG){: width="800" }](/docs/images/Manual/common/report/web/ja/4.PNG){: target="_blank"} 

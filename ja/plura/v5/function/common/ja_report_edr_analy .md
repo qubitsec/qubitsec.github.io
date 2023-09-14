@@ -13,16 +13,16 @@ topnav: topnav_ja
 <br />
 
 日別報告書
-<!-- [![image](/docs/images\Manual\edr\report\001.png){: width="800" }](/docs/images\Manual\edr\report\001.png){: target="_blank"}  -->
+ [![image](/docs/images/Manual/edr/report/ja/1.PNG){: width="800" }](/docs/images/Manual/edr/report/ja/1.PNG){: target="_blank"}  
 
 
 <br />
 
 週別報告書
-<!-- [![image](/docs/images\Manual\edr\report\002.png){: width="800" }](/docs/images\Manual\edr\report\002.png){: target="_blank"}  -->
+ [![image](/docs/images/Manual/edr/report/ja/2.PNG){: width="800" }](/docs/images/Manual/edr/report/ja/2.PNG){: target="_blank"}  
 
 
 <br />
 
 月別報告書
-<!-- [![image](/docs/images\Manual\edr\report\003.png){: width="800" }](/docs/images\Manual\edr\report\003.png){: target="_blank"}  -->
+ [![image](/docs/images/Manual/edr/report/ja/3.PNG){: width="800" }](/docs/images/Manual/edr/report/ja/3.PNG){: target="_blank"}  
