@@ -1,7 +1,7 @@
 ---
 title: リソース監視
 permalink: ja_system_resource_m.html
-sidebar: M_SIEM_ja
+sidebar: M_C_ja
 topnav: topnav_ja
 ---
 
@@ -18,8 +18,8 @@ topnav: topnav_ja
 
 - リソース監視カラムは、画面設定を通じて表示するかどうかを設定できます。
 - リソース監視ページの右側の歯車をクリックすると、画面設定ページが表示されます。
-<!-- [![image](/docs/images/Manual/siem/resource/1.png){: width="800" }](/docs/images/Manual/siem/resource/1.png){: target="_blank"}-->   
-<!-- [![image](/docs/images/Manual/siem/resource/2.png){: width="800" }](/docs/images/Manual/siem/resource/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/siem/resource/ja/1.PNG){: width="800" }](/docs/images/Manual/siem/resource/ja/1.PNG){: target="_blank"}   
+ [![image](/docs/images/Manual/siem/resource/ja/2.PNG){: width="800" }](/docs/images/Manual/siem/resource/ja/2.PNG){: target="_blank"}
 
 <br />
 
@@ -31,4 +31,4 @@ topnav: topnav_ja
 ## 2. リソース収集設定
 
 - リソース収集は、システム管理 > 設定タブで管理できます。
-<!-- [![image](/docs/images/Manual/siem/resource/3.png){: width="800" }](/docs/images/Manual/siem/resource/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/siem/resource/ja/3.PNG){: width="800" }](/docs/images/Manual/siem/resource/ja/3.PNG){: target="_blank"}
