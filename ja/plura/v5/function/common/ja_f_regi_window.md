@@ -31,7 +31,7 @@ topnav: topnav_ja
 
  **2-1.** イベントログ <詳細を表示>をクリックし、目的のデータを見つけ、データ値の追加に必要なデータを選択します。
 
-<!-- [![image](/docs/images/Manual/common/filter2/windows/1.png){: width="800" }](/docs/images/Manual/common/filter2/windows/1.png){: target="_blank"}-->  
+ [![image](/docs/images/Manual/common/filter2/windows/ja/1.PNG){: width="800" }](/docs/images/Manual/common/filter2/windows/ja/1.PNG){: target="_blank"}  
 
 <br />
 
@@ -52,5 +52,5 @@ topnav: topnav_ja
 
  **2-5.** データ値を含めるか除外することができます。
 
-<!-- [![image](/docs/images/Manual/common/filter2/windows/2.png){: width="800" }](/docs/images/Manual/common/filter2/windows/2.png){: target="_blank"}-->  
+ [![image](/docs/images/Manual/common/filter2/windows/ja/2.PNG){: width="800" }](/docs/images/Manual/common/filter2/windows/ja/2.PNG){: target="_blank"}  
 

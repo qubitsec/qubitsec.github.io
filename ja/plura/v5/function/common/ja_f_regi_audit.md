@@ -23,7 +23,7 @@ topnav: topnav_ja
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/filter2/audit/1.png){: width="800" }](/docs/images/Manual/common/filter2/audit/1.png){: target="_blank"}--> 
+ [![image](/docs/images/Manual/common/filter2/audit/ja/1.PNG){: width="800" }](/docs/images/Manual/common/filter2/audit/ja/1.PNG){: target="_blank"} 
 
  
 <br />
@@ -32,7 +32,7 @@ topnav: topnav_ja
 
 **2-1.** イベントログ [詳細を表示] をクリックし、目的のデータを見つけ、データ値の追加に必要なデータを選択します。
 
-<!-- [![image](/docs/images/Manual/common/filter2/audit/2.png){: width="800" }](/docs/images/Manual/common/filter2/audit/2.png){: target="_blank"}--> 
+ [![image](/docs/images/Manual/common/filter2/audit/ja/2.PNG){: width="800" }](/docs/images/Manual/common/filter2/audit/ja/2.PNG){: target="_blank"} 
 
 <br />
 
@@ -47,4 +47,4 @@ topnav: topnav_ja
 
 **2-3.** データ値を含めるか除外することができます。
 
-<!-- [![image](/docs/images/Manual/common/filter2/audit/3.png){: width="800" }](/docs/images/Manual/common/filter2/audit/3.png){: target="_blank"}--> 
+ [![image](/docs/images/Manual/common/filter2/audit/ja/3.PNG){: width="800" }](/docs/images/Manual/common/filter2/audit/ja/3.PNG){: target="_blank"} 
