@@ -11,7 +11,7 @@ topnav: topnav_ja
  
 ## システムフィルタ登録
 
-<!-- [![image](/docs/images/Manual/common/regi/system/1.png){: width="800" }](/docs/images/Manual/common/regi/system/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/1.PNG){: width="800" }](/docs/images/Manual/common/regi/system/ja/1.PNG){: target="_blank"}
 
 カスタマイズフィルタ登録DEMO : [https://qubitsec.github.io/ja_filter_registration.html](https://qubitsec.github.io/ja_filter_registration.html){: target="_blank"}
 
@@ -19,17 +19,17 @@ topnav: topnav_ja
 
 ### 1. メニュー位置
 - PLURA V5ウェブページ左ナビゲーションバーメニューのフィルタ > 登録クリック  
-<!-- [![image](/docs/images/Manual/common/regi/system/2.png)](/docs/images/Manual/common/regi/system/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/2.PNG)](/docs/images/Manual/common/regi/system/ja/2.PNG){: target="_blank"}
 
 <br />
 
 ### 2. 登録ボタンクリック
-<!-- [![image](/docs/images/Manual/common/regi/system/3.png)](/docs/images/Manual/common/regi/system/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/3.PNG)](/docs/images/Manual/common/regi/system/ja/3.PNG){: target="_blank"}
 
 <br />
 
 ### 3. フィルタ分類選択
-<!-- [![image](/docs/images/Manual/common/regi/system/4.png){: width="800" }](/docs/images/Manual/common/regi/system/4.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/4.PNG){: width="800" }](/docs/images/Manual/common/regi/system/ja/4.PNG){: target="_blank"}
 
 <br />
 
@@ -42,12 +42,12 @@ topnav: topnav_ja
 <br />
 
 ### 6. チャンネル選択
-<!-- [![image](/docs/images/Manual/common/regi/system/5.png){: width="800" }](/docs/images/Manual/common/regi/system/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/5.PNG){: width="800" }](/docs/images/Manual/common/regi/system/ja/5.PNG){: target="_blank"}
 
 <br />
 
 ### 7. イベントタイプ選択
-<!-- [![image](/docs/images/Manual/common/regi/system/6.png){: width="800" }](/docs/images/Manual/common/regi/system/6.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/6.PNG){: width="800" }](/docs/images/Manual/common/regi/system/ja/6.PNG){: target="_blank"}
 
 <br />
 
@@ -64,7 +64,7 @@ topnav: topnav_ja
 <br />
 
 ### 11. フィルタ動作時間(24時間/時間設定)設定
-<!-- [![image](/docs/images/Manual/common/regi/system/7.png)](/docs/images/Manual/common/regi/system/7.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/7.PNG)](/docs/images/Manual/common/regi/system/ja/7.PNG){: target="_blank"}
 
 - 例えば退勤以後から出勤までのフィルタ動作を確認したい場合、 “時間設定” 選択後, 確認したい時間を入力します。
 
@@ -80,7 +80,7 @@ topnav: topnav_ja
 
 - システムグループ登録例
 
-<!-- [![image](/docs/images/Manual/common/regi/system/8.png){: width="800" }](/docs/images/Manual/common/regi/system/8.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/system/ja/8.PNG){: width="800" }](/docs/images/Manual/common/regi/system/ja/8.PNG){: target="_blank"}
 
 
  

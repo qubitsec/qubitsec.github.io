@@ -9,7 +9,7 @@ topnav: topnav_ja
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/filter2/security/data/1.png){: width="800" }](/docs/images/Manual/common/filter2/security/data/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter2/security/data/ja/1.PNG){: width="800" }](/docs/images/Manual/common/filter2/security/data/ja/1.PNG){: target="_blank"}
 
 <br />
 
@@ -19,12 +19,12 @@ PLURA V5が提供するデータ流出フィルタの他、ユーザーが直接
 
 <br />
 
-<!-- [![image](/docs/images/Manual/common/filter2/security/data/2.png){: width="800" }](/docs/images/Manual/common/filter2/security/data/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter2/security/data/ja/2.PNG){: width="800" }](/docs/images/Manual/common/filter2/security/data/ja/2.PNG){: target="_blank"}
 
 <br />
 
 以下は登録例です。
 
-<!-- [![image](/docs/images/Manual/common/filter2/security/data/3.png){: width="800" }](/docs/images/Manual/common/filter2/security/data/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter2/security/data/ja/3.PNG){: width="800" }](/docs/images/Manual/common/filter2/security/data/ja/3.PNG){: target="_blank"}
 
  

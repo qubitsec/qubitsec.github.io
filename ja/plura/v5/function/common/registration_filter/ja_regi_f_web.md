@@ -10,7 +10,7 @@ topnav: topnav_ja
 
 ## ウェブフィルタ登録
 
-<!-- [![image](/docs/images/Manual/common/regi/web/1.png){: width="800" }](/docs/images/Manual/common/regi/web/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/web/ja/1.PNG){: width="800" }](/docs/images/Manual/common/regi/web/ja/1.PNG){: target="_blank"}
 
 <br />
 
@@ -22,17 +22,17 @@ topnav: topnav_ja
 
 ### 1. メニュー位置
 - PLURA V5ウェブページ左ナビゲーションバーメニューのフィルタ > 登録クリック   
-<!-- [![image](/docs/images/Manual/common/regi/web/2.png)](/docs/images/Manual/common/regi/web/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/regi/web/ja/2.PNG)](/docs/images/Manual/common/regi/web/ja/2.PNG){: target="_blank"}
 
 <br />
 
 ### 2. 登録ボタンクリック
-<!-- [![image](/docs/images/Manual/common/regi/web/3.png){: width="800" }](/docs/images/Manual/common/regi/web/3.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/regi/web/ja/3.PNG){: width="800" }](/docs/images/Manual/common/regi/web/ja/3.PNG){: target="_blank"}
 
 <br />
 
 ### 3. フィルタ分類選択
-<!-- [![image](/docs/images/Manual/common/regi/web/4.png)](/docs/images/Manual/common/regi/web/4.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/regi/web/ja/4.PNG)](/docs/images/Manual/common/regi/web/ja/4.PNG){: target="_blank"}
 
 <br />
 
@@ -58,6 +58,6 @@ topnav: topnav_ja
 
 - ウェブフィルタ登録例
 
-<!-- [![image](/docs/images/Manual/common/regi/web/5.png){: width="800" }](/docs/images/Manual/common/regi/web/5.png){: target="_blank"}-->
+[![image](/docs/images/Manual/common/regi/web/ja/5.PNG){: width="800" }](/docs/images/Manual/common/regi/web/ja/5.PNG){: target="_blank"}
 
  
