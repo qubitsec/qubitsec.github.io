@@ -13,35 +13,35 @@ topnav: topnav_ja
 ## 1. 時間順整列
 - 作成日を基準に最新順と過去順に並べ替えることができます。
 
-[![image](/docs/images/Manual/common/forgery/ja/1.PNG){: width="800" }](/docs/images/Manual/common/forgery/ja/1.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/forgery/ja/1.PNG)](/docs/images/Manual/common/forgery/ja/1.PNG){: target="_blank"}
  
 <br />
 
 ## 2. ページあたりのログ数
 - 1 ページあたりの見えるログの数を 20 個、30 個、40 個、50 個に設定できます。
 
-[![image](/docs/images/Manual/common/forgery/ja/2.PNG){: width="800" }](/docs/images/Manual/common/forgery/ja/2.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/forgery/ja/2.PNG)](/docs/images/Manual/common/forgery/ja/2.PNG){: target="_blank"}
  
 <br />
 
 ## 3. 日付/時間選択
 - 過去の日付と時刻を選択してログを表示できます。
 
-[![image](/docs/images/Manual/common/forgery/ja/3.PNG){: width="800" }](/docs/images/Manual/common/forgery/ja/3.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/forgery/ja/3.PNG)](/docs/images/Manual/common/forgery/ja/3.PNG){: target="_blank"}
  
 <br />
 
 ## 4. オペレーティングシステムの選択
 - オペレーティング システムを選択して表示できます。
 
-[![image](/docs/images/Manual/common/forgery/ja/4.PNG){: width="800" }](/docs/images/Manual/common/forgery/ja/4.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/forgery/ja/4.PNG)](/docs/images/Manual/common/forgery/ja/4.PNG){: target="_blank"}
  
 <br />
 
 ## 5. システムIPアドレス選択
 - 希望するシステムIPアドレスを選択して見ることができます。
 
-[![image](/docs/images/Manual/common/forgery/ja/5.PNG){: width="800" }](/docs/images/Manual/common/forgery/ja/5.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/forgery/ja/5.PNG)](/docs/images/Manual/common/forgery/ja/5.PNG){: target="_blank"}
  
 <br />
 

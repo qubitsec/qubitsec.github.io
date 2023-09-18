@@ -23,13 +23,13 @@ topnav: topnav_ja
 
 ## 3. 日付/時間選択
 - 過去の日付と時刻を選択してログを見ることができます。   
-[![image](/docs/images/Manual/common/analysis/ja/3.PNG){: width="800" }](/docs/images/Manual/common/analysis/ja/3.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/analysis/ja/3.PNG){: width="600" }](/docs/images/Manual/common/analysis/ja/3.PNG){: target="_blank"}
 
 <br />
 
 ## 4. 分類選択
 - 分類別に選択して見ることができます。  
-[![image](/docs/images/Manual/common/analysis/ja/4.PNG){: width="800" }](/docs/images/Manual/common/analysis/ja/4.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/analysis/ja/4.PNG){: width="600" }](/docs/images/Manual/common/analysis/ja/4.PNG){: target="_blank"}
 
 <br />
 
@@ -64,4 +64,4 @@ topnav: topnav_ja
 <br />
 
 - 相関分析検出ケースのうち、マイターフィルタの場合、マイタータブが表示されます。   
-<!-- [![image](/docs/images/Manual/common/analysis/10.PNG){: width="800" }](/docs/images/Manual/common/analysis/10.PNG){: target="_blank"}-->
+[![image](/docs/images/Manual/common/analysis/ja/10.PNG){: width="800" }](/docs/images/Manual/common/analysis/ja/10.PNG){: target="_blank"}

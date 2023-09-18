@@ -62,14 +62,14 @@ topnav: topnav_ja
 ## 8. 検出されたログの詳細
 - 検出されたログをクリックすると、それぞれのログに含まれている詳細が表示されます。
 
- [![image](/docs/images/Manual/common/filter/source/9.PNG){: width="800" }](/docs/images/Manual/common/filter/source/9.PNG){: target="_blank"} 
+ [![image](/docs/images/Manual/common/filter/source/ja/9.PNG){: width="800" }](/docs/images/Manual/common/filter/source/ja/9.PNG){: target="_blank"} 
  
 <br />
 
 ## 9. 検出されたログソースの内容
 - ‘ログ詳細’ ボタンをクリックすると、発生した原本の内容を確認できます。
 
- [![image](/docs/images/Manual/common/filter/source/10.PNG){: width="800" }](/docs/images/Manual/common/filter/source/10.PNG){: target="_blank"} 
+ [![image](/docs/images/Manual/common/filter/source/ja/10.PNG){: width="800" }](/docs/images/Manual/common/filter/source/ja/10.PNG){: target="_blank"} 
 
 
  **内部ブログ**

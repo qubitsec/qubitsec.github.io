@@ -12,7 +12,7 @@ topnav: topnav_ja
 ## 1. 時間順整列
 - 生成日基準で最新順/過去順、回数基準で多い順/少ない順に並べ替えることができます。
 
-[![image](/docs/images/Manual/common/acc_take/ja/1.PNG){: width="800" }](/docs/images/Manual/common/acc_take/ja/1.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/acc_take/ja/1.PNG)](/docs/images/Manual/common/acc_take/ja/1.PNG){: target="_blank"}
  
 <br />
 
@@ -26,11 +26,11 @@ topnav: topnav_ja
 ## 3. 日付/時間選択
 - 過去の日付と時刻を選択してログを表示できます。
 
-[![image](/docs/images/Manual/common/acc_take/ja/3.PNG){: width="800" }](/docs/images/Manual/common/acc_take/ja/3.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/acc_take/ja/3.PNG)](/docs/images/Manual/common/acc_take/ja/3.PNG){: target="_blank"}
 
 <br />
 
 ## 4. 分類選択
 - 分類を選択してログを表示できます。
 
-[![image](/docs/images/Manual/common/acc_take/ja/4.PNG){: width="800" }](/docs/images/Manual/common/acc_take/ja/4.PNG){: target="_blank"}
+[![image](/docs/images/Manual/common/acc_take/ja/4.PNG)](/docs/images/Manual/common/acc_take/ja/4.PNG){: target="_blank"}
