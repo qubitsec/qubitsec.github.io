@@ -14,11 +14,13 @@ topnav: topnav_ja
 <br />
 
 - <登録>ボタンをクリックすると、ホスト登録ポップアップが表示されます。   
+
   [![image](/docs/images/Manual/common/manage/list/ja/2.PNG)](/docs/images/Manual/common/manage/list/ja/2.PNG){: target="_blank"}
 
 <br />
 
 - <修正>ボタンをクリックすると、ホスト修正ポップアップが表示されます。  
+
   [![image](/docs/images/Manual/common/manage/list/ja/3.PNG)](/docs/images/Manual/common/manage/list/ja/3.PNG){: target="_blank"}
 
 <br />
