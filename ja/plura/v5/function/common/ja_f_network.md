@@ -14,7 +14,7 @@ topnav: topnav_ja
 
 - 作成日を基準に最新順と過去順に並べ替えることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/1.png){: width="800" }](/docs/images/Manual/common/filter/network/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/1.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/1.PNG){: target="_blank"}
  
  <br />
 
@@ -22,7 +22,7 @@ topnav: topnav_ja
 
 - 1 ページあたりの見えるログの数を 20 個、30 個、40 個、50 個に設定できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/2.png){: width="800" }](/docs/images/Manual/common/filter/network/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/2.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/2.PNG){: target="_blank"}
  
  <br />
 
@@ -30,7 +30,7 @@ topnav: topnav_ja
 
 - 過去の日付と時刻を選択してログを表示できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/3.png){: width="800" }](/docs/images/Manual/common/filter/network/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/3.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/3.PNG){: target="_blank"}
  
 <br />
 
@@ -38,7 +38,7 @@ topnav: topnav_ja
 
 - ユーザーが登録したシステムグループを選択して表示できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/4.png){: width="800" }](/docs/images/Manual/common/filter/network/4.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/4.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/4.PNG){: target="_blank"}
  
  <br />
 
@@ -46,7 +46,7 @@ topnav: topnav_ja
 
 - オペレーティングシステムを選択して表示できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/5.png){: width="800" }](/docs/images/Manual/common/filter/network/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/5.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/5.PNG){: target="_blank"}
 
 <br />
 
@@ -54,7 +54,7 @@ topnav: topnav_ja
 
 - 希望するシステムIPアドレスを選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/6.png){: width="800" }](/docs/images/Manual/common/filter/network/6.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/6.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/6.PNG){: target="_blank"}
 
 <br />
 
@@ -62,7 +62,7 @@ topnav: topnav_ja
 
 - 分類別に選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/7.png){: width="800" }](/docs/images/Manual/common/filter/network/7.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/7.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/7.PNG){: target="_blank"}
 
 <br />
 
@@ -70,7 +70,7 @@ topnav: topnav_ja
 
 - 危険度を選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/8.png){: width="800" }](/docs/images/Manual/common/filter/network/8.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/8.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/8.PNG){: target="_blank"}
 
 <br />
 
@@ -78,7 +78,7 @@ topnav: topnav_ja
 
 - 検出されたログリストをクリックすると、それぞれのログに含まれている詳細が表示されます。
 
-<!-- [![image](/docs/images/Manual/common/filter/network/9.png){: width="800" }](/docs/images/Manual/common/filter/network/9.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/9.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/9.PNG){: target="_blank"}
 
 <br />
 
@@ -86,4 +86,4 @@ topnav: topnav_ja
 
 - 検出されたログソースの内容
 
-<!-- [![image](/docs/images/Manual/common/filter/network/10.png){: width="800" }](/docs/images/Manual/common/filter/network/10.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/network/ja/10.PNG){: width="800" }](/docs/images/Manual/common/filter/network/ja/10.PNG){: target="_blank"}
