@@ -12,7 +12,7 @@ topnav: topnav_ja
 - ユーザーのホストIPアドレスに対応するリストをクリックします。
 
 - 設定タブに移動し、右側の歯車アイコンを押してウェブログ収集にチェックし、修正 > 確認ボタンをクリックします。
-<!-- [![image](/docs/images/Ins_G/Ins_EDR/005.png){: width="800" }](/docs/images/Ins_G/Ins_EDR/005.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Ins_EDR/ja/1.PNG){: width="800" }](/docs/images/Ins_G/Ins_EDR/ja/1.PNG){:target="_blank"}
 
  
 <br />
@@ -20,18 +20,18 @@ topnav: topnav_ja
 ## 2. Windows Agent の場合、IIS(ウェブログ) : 使用時に
 
 - 上記の方法のほか、Agent UI でも設定できます。   
-<!-- [![image](/docs/images/Ins_G/Ins_EDR/001.png)](/docs/images/Ins_G/Ins_EDR/001.png){:target="_blank"} -->
+[![image](/docs/images/Ins_G/Ins_EDR/ja/2.PNG)](/docs/images/Ins_G/Ins_EDR/ja/2.PNG){:target="_blank"} 
 
 <br />
 
 <!--
 
 - 웹로그 수집에 체크한 뒤, 잠시 기다리시면 [Visual C++ 재배포 가능 패키지] 설치 알림 창이 뜨게 됩니다.   
-[![image](/docs/images/Manual/siem/weblog/3.png)](/docs/images/Manual/siem/weblog/3.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/weblog/3.PNG)](/docs/images/Manual/siem/weblog/3.PNG){: target="_blank"}
 
 <br />
 
 - [확인]을 클릭해 두 번째 하단의 이미지와 같이 재배포 가능 패키지를 설치하시면 웹 로그 취합기능을 정상적으로 사용하실 수 있습니다. x64와 x86을 각각 설치하게 됩니다.   
-[![image](/docs/images/Manual/siem/weblog/5.png)](/docs/images/Manual/siem/weblog/5.png){: target="_blank"}
+[![image](/docs/images/Manual/siem/weblog/5.PNG)](/docs/images/Manual/siem/weblog/5.PNG){: target="_blank"}
 
 -->
