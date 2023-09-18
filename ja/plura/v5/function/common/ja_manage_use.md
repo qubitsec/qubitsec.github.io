@@ -122,7 +122,7 @@ topnav: topnav_ja
 ## 4. ネットワークアップロード例外
 - ユーザーが希望するネットワークログを選別/例外処理することができます。   
  
- [![image](/docs/images/Manual/common/manage/use/14.PNG){: width="800" }](/docs/images/Manual/common/manage/use/14.PNG){: target="_blank"}
+ [![image](/docs/images/Manual/common/manage/use/ja/14.PNG){: width="800" }](/docs/images/Manual/common/manage/use/ja/14.PNG){: target="_blank"}
 
 <br />
 
