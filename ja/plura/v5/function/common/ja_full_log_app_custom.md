@@ -69,14 +69,14 @@ topnav: topnav_ja
 ## 9. ログ詳細
 - ログをクリックすると、それぞれのログに含まれている詳細が表示されます。
 
- [![image](/docs/images/Manual/common/full_log/custom/9.PNG){: width="800" }](/docs/images/Manual/common/full_log/custom/9.PNG){: target="_blank"}
+ [![image](/docs/images/Manual/common/full_log/custom/ja/9.PNG){: width="800" }](/docs/images/Manual/common/full_log/custom/ja/9.PNG){: target="_blank"}
  
 <br />
 
 ## 10. ログ原本の内容
 - <ログの詳細> ボタンをクリックすると、発生したユーザー定義のログの詳細を確認できます。
 
- [![image](/docs/images/Manual/common/full_log/custom/10.PNG){: width="800" }](/docs/images/Manual/common/full_log/custom/10.PNG){: target="_blank"}
+ [![image](/docs/images/Manual/common/full_log/custom/ja/10.PNG){: width="800" }](/docs/images/Manual/common/full_log/custom/ja/10.PNG){: target="_blank"}
 
  **内部ブログ**
 - Log Collector > Custom Application : [https://qubitsec.github.io/ja_logcol_custom_appl.html](https://qubitsec.github.io/ja_logcol_custom_appl.html){: target="_blank"} 
