@@ -18,7 +18,7 @@ topnav: topnav_ja
 ## 1. 検出されたログの詳細
 - 検出されたログリストをクリックすると、それぞれのログに含まれている詳細が表示されます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/1.png){: width="800" }](/docs/images/Manual/common/filter/web/1.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/1.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/1.PNG){: target="_blank"}
 
 <br />
 
@@ -27,7 +27,7 @@ topnav: topnav_ja
 - 編集ボタンをクリックしてプロトコル&ポートを変更することができます。（基本設定はhttps:443）
 - httpsを使用しない場合、http:80に修正して再送信攻撃データを送信することができます。 修正された値は保存されます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/2.png)](/docs/images/Manual/common/filter/web/2.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/2.PNG)](/docs/images/Manual/common/filter/web/ja/2.PNG){: target="_blank"}
 
 <br />
 
@@ -39,21 +39,21 @@ topnav: topnav_ja
 ## 2. 検出されたログソースの内容
 - <ログ詳細> ボタンをクリックすると、発生した原本の内容を確認できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/3.png){: width="800" }](/docs/images/Manual/common/filter/web/3.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/3.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/3.PNG){: target="_blank"}
 
 <br />
 
 ## 3. コンプライアンス[label](https://gw.namutech.co.kr/gw/userMain.do)
 - ‘コンプライアンス’ ボタンをクリックすると、発生したログにマッチングされるコンプライアンス項目を確認できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/4.png){: width="800" }](/docs/images/Manual/common/filter/web/4.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/4.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/4.PNG){: target="_blank"}
 
 
 <br />
 
 **データ流出** : データ流出が発生した場合、漏えい情報項目に表示されます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/5.png){: width="800" }](/docs/images/Manual/common/filter/web/5.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/5.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/5.PNG){: target="_blank"}
 
 <font color='dodgerblue'> ※ データ流出情報がある場合は、以下のように漏えい情報TABが追加され、その内容を確認することができます。 </font>
 
@@ -62,14 +62,14 @@ topnav: topnav_ja
 ## 4. データ流出情報の確認
 - 検出されたログリストをクリック > 流出情報 Tab > 検出されたログの流出情報の詳細を見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/6.png){: width="800" }](/docs/images/Manual/common/filter/web/6.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/6.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/6.PNG){: target="_blank"}
 
 <br />
 
 - 検出されたログリストをクリック > 流出情報 Tab > 応答本文流出領域を表示ボタンをクリック
 - 漏えいした応答本文の内容を確認できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/7.png){: width="800" }](/docs/images/Manual/common/filter/web/7.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/7.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/7.PNG){: target="_blank"}
 
 <br />
 
@@ -80,70 +80,70 @@ topnav: topnav_ja
 - 全体ログ(±5s) : 検出されたフィルタ検出履歴 **“5초”** 前後の時間帯に全体ログページに移動
 - 全体ログ(±60s) : 検出されたフィルタ検出履歴 **“60초”** 前後の時間帯に全体ログページに移動
 
-<!-- [![image](/docs/images/Manual/common/filter/web/8.png){: width="800" }](/docs/images/Manual/common/filter/web/8.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/8.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/8.PNG){: target="_blank"}
 
 <br />
 
 ## 6. 項目別整列
 - 日付/リクエストサイズ/応答サイズ/同一ログを基準に並べ替えることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/9.png){: width="800" }](/docs/images/Manual/common/filter/web/9.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/9.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/9.PNG){: target="_blank"}
  
 <br />
 
 ## 7. ページあたりのログ数
 - 1 ページあたりの見えるログの数を 20 個、30 個、40 個、50 個に設定できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/10.png){: width="800" }](/docs/images/Manual/common/filter/web/10.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/10.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/10.PNG){: target="_blank"}
 
 <br />
 
 ## 8. 日付/時間選択
 - 過去の日付と時刻を選択してログを表示できます。
 
- <!-- [![image](/docs/images/Manual/common/filter/web/11.png){: width="800" }](/docs/images/Manual/common/filter/web/11.png){: target="_blank"}-->
+  [![image](/docs/images/Manual/common/filter/web/ja/11.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/11.PNG){: target="_blank"}
 
 <br />
 
 ## 9. グループ選択
 - ユーザーが登録したシステム グループを選択して表示できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/12.png){: width="800" }](/docs/images/Manual/common/filter/web/12.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/12.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/12.PNG){: target="_blank"}
 
 <br />
 
 ## 10. オペレーティングシステムの選択
 - オペレーティング システムを選択して表示できます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/13.png){: width="800" }](/docs/images/Manual/common/filter/web/13.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/13.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/13.PNG){: target="_blank"}
 
 <br />
 
 ## 11. システムIPアドレス選択
 - 希望するシステムIPアドレスを選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/14.png){: width="800" }](/docs/images/Manual/common/filter/web/14.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/14.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/14.PNG){: target="_blank"}
  
 <br />
 
 ## 12. 分類選択
 - 分類別に選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/15.png){: width="800" }](/docs/images/Manual/common/filter/web/15.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/15.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/15.PNG){: target="_blank"}
  
 <br />
 
 ## 13. コード選択
 - OWASP TOP10に選定された脆弱性別に選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/16.png){: width="800" }](/docs/images/Manual/common/filter/web/16.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/16.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/16.PNG){: target="_blank"}
  
 <br />
 
 ## 14. 危険度選択
 - 危険度を選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/17.png){: width="800" }](/docs/images/Manual/common/filter/web/17.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/17.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/17.PNG){: target="_blank"}
  
 <br />
 
@@ -151,12 +151,12 @@ topnav: topnav_ja
 - ステータス値を選択して表示できます。
 
 
- <!-- [![image](/docs/images/Manual/common/filter/web/18.png){: width="800" }](/docs/images/Manual/common/filter/web/18.png){: target="_blank"}-->
+  [![image](/docs/images/Manual/common/filter/web/ja/18.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/18.PNG){: target="_blank"}
 
 <br />
 
 ## 16. 漏えい情報の選択
 - 漏えい情報の有無別にログを選択して見ることができます。
 
-<!-- [![image](/docs/images/Manual/common/filter/web/19.png){: width="800" }](/docs/images/Manual/common/filter/web/19.png){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/web/ja/19.PNG){: width="800" }](/docs/images/Manual/common/filter/web/ja/19.PNG){: target="_blank"}
  
