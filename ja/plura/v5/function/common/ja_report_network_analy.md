@@ -1,4 +1,4 @@
----g
+---
 title: ネットワーク分析
 permalink: ja_report_network_analy.html
 sidebar: M_C_ja
