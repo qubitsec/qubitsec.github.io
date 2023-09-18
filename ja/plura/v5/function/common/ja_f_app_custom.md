@@ -69,14 +69,14 @@ topnav: topnav_ja
 ## 9. 検出されたログの詳細
 - 検出されたログをクリックすると、それぞれのログに含まれている詳細が表示されます。
 
-  <!--[![image](/docs/images/Manual/common/filter/custom/9.PNG){: width="800" }](/docs/images/Manual/common/filter/custom/9.PNG){: target="_blank"}-->
+  [![image](/docs/images/Manual/common/filter/custom/ja/9.PNG){: width="800" }](/docs/images/Manual/common/filter/custom/ja/9.PNG){: target="_blank"}
  
 <br />
 
 ## 10. 検出されたログソースの内容
 - [ログ詳細] ボタンをクリックすると、発生した原本の内容を確認できます。
 
- <!--[![image](/docs/images/Manual/common/filter/custom/10.PNG){: width="800" }](/docs/images/Manual/common/filter/custom/10.PNG){: target="_blank"}-->
+ [![image](/docs/images/Manual/common/filter/custom/ja/10.PNG){: width="800" }](/docs/images/Manual/common/filter/custom/ja/10.PNG){: target="_blank"}
 
  **内部 ブログ**
 - Log Collector > Custom Application : [https://qubitsec.github.io/ja_logcol_custom_appl.html](https://qubitsec.github.io/ja_logcol_custom_appl.html){: target="_blank"}
