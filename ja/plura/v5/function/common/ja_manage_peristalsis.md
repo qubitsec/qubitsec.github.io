@@ -25,7 +25,7 @@ topnav: topnav_ja
 <br />
 
 - 修正完了後、右下のチケット発行テストボタンで正常連動可否を確認できます。   
-  [![image](/docs/images/Manual/common/manage/peristalsis/ja/3.PNG){: width="800" }](/docs/images/Manual/common/manage/peristalsis/ja/3.PNG){: target="_blank"}
+  [![image](/docs/images/Manual/common/manage/peristalsis/ja/3.PNG){: width="700" }](/docs/images/Manual/common/manage/peristalsis/ja/3.PNG){: target="_blank"}
 
 <br />
 
@@ -37,10 +37,10 @@ topnav: topnav_ja
 <br />
 
 - チケットが発行されると、連動したシステムで内容を確認できます。   
-  [![image](/docs/images/Manual/common/manage/peristalsis/ja/5.PNG){: width="800" }](/docs/images/Manual/common/manage/peristalsis/ja/5.PNG){: target="_blank"}
+  <!--[![image](/docs/images/Manual/common/manage/peristalsis/ja/5.PNG){: width="800" }](/docs/images/Manual/common/manage/peristalsis/ja/5.PNG){: target="_blank"}-->
 
 - ログ照会ページの上段にある発行チケットボタンをクリックすると、発行チケットページに移動して発行されたチケットに関する情報を確認することができます。  
-  [![image](/docs/images/Manual/common/manage/peristalsis/ja/6.PNG){: width="800" }](/docs/images/Manual/common/manage/peristalsis/ja/6.PNG){: target="_blank"}
+  <!--[![image](/docs/images/Manual/common/manage/peristalsis/ja/6.PNG){: width="800" }](/docs/images/Manual/common/manage/peristalsis/ja/6.PNG){: target="_blank"}-->
 
 <br />
 
