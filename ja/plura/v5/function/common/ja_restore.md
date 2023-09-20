@@ -20,6 +20,7 @@ topnav: topnav_ja
 - メンバー > 権限変更により、「復元ユーザー」権限を管理者が変更できます。
 - オペレータ、監視権限の場合は、復元サービスを利用できません。
 - 管理者は権限変更なしに復元サービスを利用できます。
+
  [![image](/docs/images/Manual/common/manage/restore/ja/2.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/2.PNG){: target="_blank"} 
 
 <br />
@@ -35,7 +36,7 @@ topnav: topnav_ja
 <br />
 
 - 確認ボタンをクリックすると、承認待ちポップアップが表示されます。
- <!--[![image](/docs/images/Manual/common/manage/restore/ja/5.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/5.PNG){: target="_blank"} -->
+<!--[![image](/docs/images/Manual/common/manage/restore/ja/5.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/5.PNG){: target="_blank"}-->
 
 <br />
 
@@ -43,12 +44,12 @@ topnav: topnav_ja
 
 - 承認が完了したら、以下のように復元設定を要請することができます。
 ※ On-Premiseの場合、承認要請なしに復元サービスを利用することができます。
- <!--[![image](/docs/images/Manual/common/manage/restore/ja/007.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/007.PNG){: target="_blank"} -->
+ [![image](/docs/images/Manual/common/manage/restore/ja/6.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/6.PNG){: target="_blank"}
 
 <br />
 
 - 必須情報の入力後、復元開始ボタンをクリックすると復元が行われます。
- <!--[![image](/docs/images/Manual/common/manage/restore/ja/008.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/008.PNG){: target="_blank"} -->
+[![image](/docs/images/Manual/common/manage/restore/ja/7.PNG){: width="600" }](/docs/images/Manual/common/manage/restore/ja/7.PNG){: target="_blank"}
 
 <br />
 
