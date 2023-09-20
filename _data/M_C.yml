@@ -155,11 +155,21 @@ folders:
   - title: 그룹관리
     url: /ko_system_g_manage.html
 
-  - title: 리소스모니터링
-    url: /ko_system_resource_m.html
-
   - title: 웹로그 사용 설정 방법
     url: /ko_system_weblog.html
+
+  folders: 
+- title: 리소스모니터링
+  folderitems:
+
+  - title: 호스트
+    url: /ko_resource_m_host.html
+
+  - title: 호스트 전체
+    url: /ko_resource_m_host_all.html
+
+  - title: 알림필터
+    url: /ko_resource_m_alarm_filter.html
 
   folders:
 - title: 추출로그
