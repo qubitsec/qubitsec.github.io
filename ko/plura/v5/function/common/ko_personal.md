@@ -31,9 +31,9 @@ topnav: topnav
 
 - 탐지/방어 알림 : 웹방화벽, 호스트보안, 마이터어택, 상관분석, 데이터유출, 계정탈취, 호스트, 웹, 네트워크 로그의 실시간 탐지와 방어에 대한 알림을 받을 수 있습니다.
 
-- 리소스모니터링 : 리소스 항목에 대한 알림을 받을 수 있습니다.   
+- 기타 : 리소스 항목에 대한 알림을 받을 수 있습니다.   
 
-[![image](/docs/images/Manual/common/personal/07.png){: width="800" }](/docs/images/Manual/common/personal/07.png){: target="_blank"} 
+[![image](/docs/images/Manual/common/personal/10.png){: width="800" }](/docs/images/Manual/common/personal/10.png){: target="_blank"} 
 
 <br />
 
@@ -42,11 +42,11 @@ topnav: topnav
 
 <br />
 
-[![image](/docs/images/Manual/common/personal/08.png){: width="800" }](/docs/images/Manual/common/personal/08.png){: target="_blank"}
+[![image](/docs/images/Manual/common/personal/11.png){: width="800" }](/docs/images/Manual/common/personal/11.png){: target="_blank"}
 
 <br />
 
-[![image](/docs/images/Manual/common/personal/6.png){: width="800" }](/docs/images/Manual/common/personal/6.png){: target="_blank"}
+[![image](/docs/images/Manual/common/personal/12.png)](/docs/images/Manual/common/personal/12.png){: target="_blank"}
 
 
 

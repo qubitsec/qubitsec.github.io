@@ -11,6 +11,10 @@ topnav: topnav
 
 <br />
 
+[![image](/docs/images/Manual/common/resource/17.png){: width="800" }](/docs/images/Manual/common/resource/17.png){: target="_blank"}
+
+<br />
+
 ## 1. 화면설정 
 
 - 페이지 우측 톱니바퀴를 클릭하면 화면설정 페이지가 노출됩니다.

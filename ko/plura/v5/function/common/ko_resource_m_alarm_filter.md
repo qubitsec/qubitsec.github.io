@@ -11,6 +11,10 @@ topnav: topnav
 
 <br />
 
+[![image](/docs/images/Manual/common/resource/18.png){: width="800" }](/docs/images/Manual/common/resource/18.png){: target="_blank"}
+
+<br />
+
 ## 1. 검색 
 
 - 다양한 옵션을 통해 등록한 필터에 대한 검색을 할 수 있습니다.

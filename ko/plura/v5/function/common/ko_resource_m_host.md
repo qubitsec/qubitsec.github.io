@@ -12,6 +12,10 @@ topnav: topnav
 
 <br />
 
+[![image](/docs/images/Manual/common/resource/01.png){: width="800" }](/docs/images/Manual/common/resource/01.png){: target="_blank"}
+
+<br />
+
 ## 1. Summary 
 
 - Summary에서는 호스트 상태, 운영체제 카운트 수가 노출됩니다.
