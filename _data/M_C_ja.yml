@@ -162,6 +162,19 @@ folders:
     url: /ja_system_weblog.html
 
   folders:
+- title: リソースモニタリング
+  folderitems:
+
+  - title: ホスト
+    url: /ja_resource_m_host.html
+
+  - title: ホスト全体
+    url: /ja_resource_m_host_all.html
+
+  - title: 通知フィルタ
+    url: /ja_resource_m_alarm_filter.html
+
+  folders:
 - title: 抽出ログ
   folderitems:
 
