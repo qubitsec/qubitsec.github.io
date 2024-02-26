@@ -5,13 +5,7 @@ topnav: topnav
 ---
 
 
-<p style="margin-top:100px; color:#fff; font-size:40px; text-align:center">결점을 찾지 말고,<br>해결책을 찾으라</p>
-
-<p style="margin-top:100px; color:#fff; font-size:40px; text-align:center">ドントゥファインドゥフォルトゥ、<br>ファインドゥアレメディ。</p>
-
-<p style="margin-top:100px; color:#fff; font-size:40px; text-align:center">Don't find fault,<br>find a remedy.</p>
-
-<p style="margin-top:20px; color:#fff; font-size:22px; text-align:center">- Henry Ford -</p>
+<p style="margin-top:100px; color:#fff; font-size:40px; text-align:center">매뉴얼 이전 안내<br>https://docs.plura.io</p>
 
 <!-- <p style="margin-top:200px; color:#fff; font-size:60px; line-height:80px;">PLURA Manual</p> -->
 
